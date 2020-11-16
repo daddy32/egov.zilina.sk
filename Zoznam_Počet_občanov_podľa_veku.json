@@ -1,0 +1,15 @@
+--2020-11-16 12:44:16--  https://egov.zilina.sk/Default.aspx?NavigationState=920:0::plac1140:_144053_5_8
+Resolving egov.zilina.sk (egov.zilina.sk)... 145.255.154.42
+Connecting to egov.zilina.sk (egov.zilina.sk)|145.255.154.42|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /OutputStreamHttpHandler.ashx?cacheKey=4487b30311f245a28a4996ff1ef94634 [following]
+--2020-11-16 12:44:19--  https://egov.zilina.sk/OutputStreamHttpHandler.ashx?cacheKey=4487b30311f245a28a4996ff1ef94634
+Connecting to egov.zilina.sk (egov.zilina.sk)|145.255.154.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17508 (17K) [application/json]
+Saving to: ‘Default.aspx?NavigationState=920:0::plac1140:_144053_5_8.1’
+
+     0K .......... .......                                    100%  101K=0.2s
+
+2020-11-16 12:44:20 (101 KB/s) - ‘Default.aspx?NavigationState=920:0::plac1140:_144053_5_8.1’ saved [17508/17508]
+
