@@ -23,6 +23,13 @@ jobs:
         wget https://egov.zilina.sk/Default.aspx?NavigationState=560:0::plac1541:_144058_5_8 -O Zoznam_podnikateľských_subjektov_v_meste.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zmluvy.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=780:0::plac1930:_144103_5_8 -O Odberateľské_faktúry.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=610:0::plac2150:_144134_5_8 -O Úradná_tabuľa.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=806:0::plac2117:_272003_5_8 -O Zoznam_daňových_dlžníkov.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=441:0::plac801:_144045_5_8 -O Prehľad_príjmov_rozpočtu_(graf_-_Podiel_na_celkových_príjmoch).json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=442:0::plac820:_144046_5_8 -O Prehľad_výdavkov_rozpočtu_(graf_-_Podiel_na_celkových_výdavkoch).json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144156_5_8 -O Rozpočet_(pre_OPEN_DATA).json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=835:0::plac2176:_144155_5_8 -O Reklamné_zariadenia.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
