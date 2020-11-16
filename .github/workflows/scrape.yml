@@ -15,6 +15,14 @@ jobs:
     - name: Fetch latest data
       run: |-
         wget https://egov.zilina.sk/Default.aspx?NavigationState=920:0::plac1140:_144053_5_8 -O Zoznam_Počet_občanov_podľa_veku.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=840:0::plac2127:_144119_5_8 -O Zoznam_Zoznam_adries.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=900:0::plac520:_144017_5_8 -O Zoznam_Počet_občanov_podľa_ulíc.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=925:0::plac2171:_144151_5_8 -O Zoznam_Počet_občanov_podľa_krstných_mien.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=935:0::plac2172:_144152_5_8 -O Zoznam_Počet_občanov_podľa_priezvisk.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac580:_144026_5_8 -O Zoznam_Zoznam_prevádzok_v_meste.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=560:0::plac1541:_144058_5_8 -O Zoznam_Zoznam_podnikateľských_subjektov_v_meste.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zoznam_Zmluvy.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=780:0::plac1930:_144103_5_8 -O Zoznam_Odberateľské_faktúry.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
