@@ -1,0 +1,23 @@
+[
+  {
+    "Mena": "EUR",
+    "Druh_výdavkov": "Podiel bežných výdavkov na celkových výdavkoch",
+    "Výška_výdavkov": " 40 856 888,00",
+    "Celkové_výdavky": " 60 472 800,00",
+    "Podiel_na_celk._výdav._[%]": "67,56"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_výdavkov": "Podiel kapitálových výdavkov na celkových výdavkoch",
+    "Výška_výdavkov": " 15 824 356,00",
+    "Celkové_výdavky": " 60 472 800,00",
+    "Podiel_na_celk._výdav._[%]": "26,17"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_výdavkov": "Podiel výd. z transakcií s fin. aktívami a pasívami na celk. výdavkoch",
+    "Výška_výdavkov": " 3 791 556,00",
+    "Celkové_výdavky": " 60 472 800,00",
+    "Podiel_na_celk._výdav._[%]": "6,27"
+  }
+]
