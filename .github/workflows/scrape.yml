@@ -14,6 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
+        # 1-10
         wget https://egov.zilina.sk/Default.aspx?NavigationState=160:0::plac1280:_144055_5_8 -O Zoznam_ulíc.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=840:0::plac2127:_144119_5_8 -O Zoznam_adries.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=880:0::plac2009:_144107_5_8 -O Počty_občanov_v_jednotlivých_rokoch.json
@@ -24,9 +25,20 @@ jobs:
         wget https://egov.zilina.sk/Default.aspx?NavigationState=925:0::plac2171:_144151_5_8 -O Počet_občanov_podľa_krstných_mien.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=935:0::plac2172:_144152_5_8 -O Počet_občanov_podľa_priezvisk.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=945:0::plac2174:_144154_5_8 -O Počet_občanov_podľa_dňa_narodenia.json
+
+        # 11-20
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=162:0::plac2118:_144110_5_8 -O Orgány_samosprávy_mesta.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=802:0::plac2112:_266000_5_8 -O Oznámenie_o_čase_a_mieste_konania_volieb.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac580:_144026_5_8 -O Zoznam_prevádzok_v_meste.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac2113:_144109_5_8 -O Prevádzky_s_ukončenou_činnosťou.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=560:0::plac1541:_144058_5_8 -O Zoznam_podnikateľských_subjektov_v_meste.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=803:0::plac2114:_272000_5_8 -O Evidencia_psov_chovaných_v_meste.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=804:0::plac2115:_272001_5_8 -O Počet_prihlásených_psov_podľa_ulíc.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=805:0::plac2116:_272002_5_8 -O Počet_prihlásených_psov_podľa_adresy.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=812:0::plac2124:_272005_5_8 -O Počet_prihlásených_psov_podľa_plemena.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zmluvy.json
+
+        #wget -O .json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=780:0::plac1930:_144103_5_8 -O Odberateľské_faktúry.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=610:0::plac2150:_144134_5_8 -O Úradná_tabuľa.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=806:0::plac2117:_272003_5_8 -O Zoznam_daňových_dlžníkov.json
