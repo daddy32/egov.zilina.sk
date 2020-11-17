@@ -52,7 +52,7 @@ jobs:
 
         # 31-33
         wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
-        wget https://egov.zilina.sk/Default.aspx?NavigationState=940:0::plac2142:_144130_5_8 -O Hrobové miesta.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=940:0::plac2142:_144130_5_8 -O Hrobové_miesta.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=835:0::plac2176:_144155_5_8 -O Reklamné_zariadenia.json
     - name: Commit and push if it changed
       run: |-
