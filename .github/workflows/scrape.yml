@@ -14,11 +14,16 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        wget https://egov.zilina.sk/Default.aspx?NavigationState=920:0::plac1140:_144053_5_8 -O Počet_občanov_podľa_veku.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=160:0::plac1280:_144055_5_8 -O Zoznam_ulíc.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=840:0::plac2127:_144119_5_8 -O Zoznam_adries.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=880:0::plac2009:_144107_5_8 -O Počty_občanov_v_jednotlivých_rokoch.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=890:0::plac1400:_144057_5_8 -O Prírastky_a_úbytky_občanov_za_jednotlivé_roky.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=900:0::plac520:_144017_5_8 -O Počet_občanov_podľa_ulíc.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=910:0::plac2136:_144125_5_8 -O Počet_občanov_podľa_VMČ.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=920:0::plac1140:_144053_5_8 -O Počet_občanov_podľa_veku.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=925:0::plac2171:_144151_5_8 -O Počet_občanov_podľa_krstných_mien.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=935:0::plac2172:_144152_5_8 -O Počet_občanov_podľa_priezvisk.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=945:0::plac2174:_144154_5_8 -O Počet_občanov_podľa_dňa_narodenia.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac580:_144026_5_8 -O Zoznam_prevádzok_v_meste.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=560:0::plac1541:_144058_5_8 -O Zoznam_podnikateľských_subjektov_v_meste.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zmluvy.json
