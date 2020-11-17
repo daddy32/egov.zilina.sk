@@ -38,14 +38,21 @@ jobs:
         wget https://egov.zilina.sk/Default.aspx?NavigationState=812:0::plac2124:_272005_5_8 -O Počet_prihlásených_psov_podľa_plemena.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zmluvy.json
 
-        #wget -O .json
+        # 21-30
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=779:0::plac1929:_144102_5_8 -O Dodávateľské_faktúry.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=780:0::plac1930:_144103_5_8 -O Odberateľské_faktúry.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=781:0::plac1931:_144104_5_8 -O Objednávky.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=262:0::plac1180:_144054_5_8 -O Uznesenia.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=610:0::plac2150:_144134_5_8 -O Úradná_tabuľa.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=806:0::plac2117:_272003_5_8 -O Zoznam_daňových_dlžníkov.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=440:0::plac1989:_144106_5_8 -O Rozdiel_príjmov_a_výdavkov_rozpočtov_po_rokoch.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=441:0::plac801:_144045_5_8 -O Prehľad_príjmov_rozpočtu.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=442:0::plac820:_144046_5_8 -O Prehľad_výdavkov_rozpočtu.json
-        wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144156_5_8 -O Rozpočet.json
+
+        # 31-33
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
+        wget https://egov.zilina.sk/Default.aspx?NavigationState=940:0::plac2142:_144130_5_8 -O Hrobové miesta.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=835:0::plac2176:_144155_5_8 -O Reklamné_zariadenia.json
     - name: Commit and push if it changed
       run: |-
