@@ -1,0 +1,774 @@
+[
+  {
+    "Plemeno": "Kríženec",
+    "Počet": "1019"
+  },
+  {
+    "Plemeno": "Jorkšírsky teriér",
+    "Počet": "372"
+  },
+  {
+    "Plemeno": "Nemecký ovčiak",
+    "Počet": "266"
+  },
+  {
+    "Plemeno": "Labradorský retriever",
+    "Počet": "221"
+  },
+  {
+    "Plemeno": "Maltézsky psík",
+    "Počet": "213"
+  },
+  {
+    "Plemeno": "Čivava",
+    "Počet": "132"
+  },
+  {
+    "Plemeno": "Jazvečík",
+    "Počet": "114"
+  },
+  {
+    "Plemeno": "Jack russel teriér",
+    "Počet": "99"
+  },
+  {
+    "Plemeno": "Zlatý retriever",
+    "Počet": "92"
+  },
+  {
+    "Plemeno": "Shih - tzu",
+    "Počet": "65"
+  },
+  {
+    "Plemeno": "Cavalier King Charles španiel",
+    "Počet": "61"
+  },
+  {
+    "Plemeno": "Miešanec",
+    "Počet": "59"
+  },
+  {
+    "Plemeno": "Borderská kólia",
+    "Počet": "58"
+  },
+  {
+    "Plemeno": "Staffordshirský bulteriér",
+    "Počet": "58"
+  },
+  {
+    "Plemeno": "Trpasličí pinč",
+    "Počet": "56"
+  },
+  {
+    "Plemeno": "Bišónik",
+    "Počet": "51"
+  },
+  {
+    "Plemeno": "Anglický kokeršpaniel",
+    "Počet": "51"
+  },
+  {
+    "Plemeno": "Bígl",
+    "Počet": "50"
+  },
+  {
+    "Plemeno": "Nemecký špic",
+    "Počet": "45"
+  },
+  {
+    "Plemeno": "Francúzsky buldoček",
+    "Počet": "40"
+  },
+  {
+    "Plemeno": "Bradáč",
+    "Počet": "39"
+  },
+  {
+    "Plemeno": "Americký staffordshirský teriér",
+    "Počet": "38"
+  },
+  {
+    "Plemeno": "Pudel",
+    "Počet": "34"
+  },
+  {
+    "Plemeno": "Mops",
+    "Počet": "32"
+  },
+  {
+    "Plemeno": "Weimarský stavač",
+    "Počet": "28"
+  },
+  {
+    "Plemeno": "Stredoázijský ovčiak",
+    "Počet": "27"
+  },
+  {
+    "Plemeno": "Americký pitbulteriér",
+    "Počet": "27"
+  },
+  {
+    "Plemeno": "Malý bradáč",
+    "Počet": "26"
+  },
+  {
+    "Plemeno": "Bernský salašnícky pes",
+    "Počet": "25"
+  },
+  {
+    "Plemeno": "Rotvajler",
+    "Počet": "24"
+  },
+  {
+    "Plemeno": "Cane Corso",
+    "Počet": "24"
+  },
+  {
+    "Plemeno": "Hovawart",
+    "Počet": "23"
+  },
+  {
+    "Plemeno": "Rodézsky ridgeback",
+    "Počet": "23"
+  },
+  {
+    "Plemeno": "Westhighlandský biely teriér",
+    "Počet": "22"
+  },
+  {
+    "Plemeno": "Sibírsky husky",
+    "Počet": "20"
+  },
+  {
+    "Plemeno": "Boloňský psík",
+    "Počet": "18"
+  },
+  {
+    "Plemeno": "Slovenský čuvač",
+    "Počet": "17"
+  },
+  {
+    "Plemeno": "Pražský krysařík",
+    "Počet": "17"
+  },
+  {
+    "Plemeno": "Nemecký boxer",
+    "Počet": "16"
+  },
+  {
+    "Plemeno": "Teriér",
+    "Počet": "16"
+  },
+  {
+    "Plemeno": "Lhasa apso",
+    "Počet": "15"
+  },
+  {
+    "Plemeno": "Anglický buldog",
+    "Počet": "14"
+  },
+  {
+    "Plemeno": "Bulteriér",
+    "Počet": "14"
+  },
+  {
+    "Plemeno": "Nemecká doga",
+    "Počet": "14"
+  },
+  {
+    "Plemeno": "Škótsky ovčiak dlhosrstý",
+    "Počet": "14"
+  },
+  {
+    "Plemeno": "Doberman",
+    "Počet": "13"
+  },
+  {
+    "Plemeno": "Bavorský farbiar",
+    "Počet": "12"
+  },
+  {
+    "Plemeno": "Maďarská vyžla",
+    "Počet": "12"
+  },
+  {
+    "Plemeno": "Austrálsky ovčiak",
+    "Počet": "12"
+  },
+  {
+    "Plemeno": "Belgický ovčiak",
+    "Počet": "11"
+  },
+  {
+    "Plemeno": "Čínsky chocholatý pes",
+    "Počet": "11"
+  },
+  {
+    "Plemeno": "Shiba inu",
+    "Počet": "11"
+  },
+  {
+    "Plemeno": "Tibetský teriér",
+    "Počet": "11"
+  },
+  {
+    "Plemeno": "Akita inu",
+    "Počet": "10"
+  },
+  {
+    "Plemeno": "Maďarský krátkosrstý stavač",
+    "Počet": "10"
+  },
+  {
+    "Plemeno": "Šarpej",
+    "Počet": "10"
+  },
+  {
+    "Plemeno": "Kavkazský ovčiak",
+    "Počet": "9"
+  },
+  {
+    "Plemeno": "Švajčiarsky ovčiarsky pes",
+    "Počet": "9"
+  },
+  {
+    "Plemeno": "Americký kokeršpaniel",
+    "Počet": "8"
+  },
+  {
+    "Plemeno": "Argentínska doga",
+    "Počet": "8"
+  },
+  {
+    "Plemeno": "Foxteriér",
+    "Počet": "8"
+  },
+  {
+    "Plemeno": "Tibetská doga",
+    "Počet": "8"
+  },
+  {
+    "Plemeno": "Pomeranian",
+    "Počet": "8"
+  },
+  {
+    "Plemeno": "Bostonský teriér",
+    "Počet": "7"
+  },
+  {
+    "Plemeno": "Írsky červený seter",
+    "Počet": "7"
+  },
+  {
+    "Plemeno": "Samojed",
+    "Počet": "7"
+  },
+  {
+    "Plemeno": "Slovenský kopov",
+    "Počet": "7"
+  },
+  {
+    "Plemeno": "Boxer",
+    "Počet": "7"
+  },
+  {
+    "Plemeno": "Afgánsky chrt",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Aljašský malamut",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Appenzellský salašnícky pes",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Čau čau",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Bradáč malý",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Aziat",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Lakelandský teriér",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Moskovský strážny pes",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Biewer jorkšírsky teriér",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Anglický kokršpaniel",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Anglický bulteriér",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Austrálsky teriér",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Coton de Tuléar",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Československý vlčiak",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Dalmatínsky pes",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Entlebuchský salašnícky pes",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Írsky teriér",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Leonberger",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Malý kontinentálny španiel",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Novofundlandský pes",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Pekingský palácový psík",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Nemecký pinč",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Šetlandský ovčiak",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Nemecký vlčí špic",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Waleský špringeršpaniel",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Biely švajčiarsky ovčiak",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Bandog",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Parson Russel Teriér",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Naháč",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Flat Coated Retriever",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Papilon",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Retriever",
+    "Počet": "4"
+  },
+  {
+    "Plemeno": "Baset",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Bordeauxská doga",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Bullmastiff",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Fínsky špic",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Havanský psík",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Alpský jazvečíkovitý durič",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Landseer",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Nemecký drôtosrstý stavač",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Jagdteriér",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Nemecký prepeličiar",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Stavač",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Španielsky mastin",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Taliansky chrtík",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Whippet",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Westhighland white teriér",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Hladkosrstý retriever",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Silky teriér",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Anglický špringeršpaniel",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Staroanglický ovčiarsky pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Beauceron",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Bernardín",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Borderský teriér",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Brazílska fila",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Briard",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Cairn teriér",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Japonský špic",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Malý münsterländský stavač",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Kanárska doga",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Peruánsky naháč",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Puli",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Pyrenejský horský pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Barzoj",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Tibetský španiel",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Tosa",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Veľký švajčiarsky salašnícky pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Patterdale teriér",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Pointer",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Škótsky teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Anatolský pastiersky pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Anglický farbiar",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Arabský chrt",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Austrálsky dobytkársky pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Austrálsky hodvábny teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Austrálsky kelpie",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Belgický gfifón",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Blenheimský španiel Kráľ Karol",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Dánsky krátkosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Drentský jarabičiar",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Euraziér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Gordonov seter",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Hannoverský farbiar",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Pudel toy",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Írsky vlkodav",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Kerský modrý teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Japonský čin",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Kanaánsky pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Maďarský hrubosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Nemecký krátkosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Nemecký ostrosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Nova Scotia Duck Tolling Retriever",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Opičí pinč",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Poľský nížinný ovčiak",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Slovenský hrubosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Tervueren",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Trpaslíčí špic",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Veľký bradáč",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Waleský teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Malorská doga",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Európsky saňový pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Chodský pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Americký bezsrstý teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "český strakatý pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Americká Akita",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Belgický ovčiak - Malinois",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Western Hardrock Watershed Team",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Cross Breeding",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Springer",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Kríženec Sibírsky Husky",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Bloodhound",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Luisianský leopardí pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Lurcher",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Sivý vlk",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "írsky pšeničný teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Thajský ridgeback",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Pug Mops",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Ytong",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Fatranský sen",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Goldador",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Chodský pes",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Maďarský pulli",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Ruský čierny teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Person Russell teriér",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Presa Canario",
+    "Počet": "1"
+  }
+]
