@@ -48,7 +48,7 @@ jobs:
         wget https://egov.zilina.sk/Default.aspx?NavigationState=440:0::plac1989:_144106_5_8 -O Rozdiel_príjmov_a_výdavkov_rozpočtov_po_rokoch.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=441:0::plac801:_144045_5_8 -O Prehľad_príjmov_rozpočtu.json
         wget https://egov.zilina.sk/Default.aspx?NavigationState=442:0::plac820:_144046_5_8 -O Prehľad_výdavkov_rozpočtu.json
-        wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144156_5_8 -O Rozpočet.json
+        # wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144156_5_8 -O Rozpočet.json
 
         # 31-33
         wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
