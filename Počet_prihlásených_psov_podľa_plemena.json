@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1019"
+    "Počet": "1021"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "221"
+    "Počet": "222"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "132"
+    "Počet": "133"
   },
   {
     "Plemeno": "Jazvečík",
@@ -77,7 +77,7 @@
   },
   {
     "Plemeno": "Francúzsky buldoček",
-    "Počet": "40"
+    "Počet": "41"
   },
   {
     "Plemeno": "Bradáč",
@@ -188,16 +188,16 @@
     "Počet": "12"
   },
   {
+    "Plemeno": "Belgický ovčiak",
+    "Počet": "12"
+  },
+  {
     "Plemeno": "Maďarská vyžla",
     "Počet": "12"
   },
   {
     "Plemeno": "Austrálsky ovčiak",
     "Počet": "12"
-  },
-  {
-    "Plemeno": "Belgický ovčiak",
-    "Počet": "11"
   },
   {
     "Plemeno": "Čínsky chocholatý pes",
@@ -224,6 +224,10 @@
     "Počet": "10"
   },
   {
+    "Plemeno": "Pomeranian",
+    "Počet": "10"
+  },
+  {
     "Plemeno": "Kavkazský ovčiak",
     "Počet": "9"
   },
@@ -245,10 +249,6 @@
   },
   {
     "Plemeno": "Tibetská doga",
-    "Počet": "8"
-  },
-  {
-    "Plemeno": "Pomeranian",
     "Počet": "8"
   },
   {

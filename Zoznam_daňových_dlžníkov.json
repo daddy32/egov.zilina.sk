@@ -143,7 +143,7 @@
     "Dlžník": "BECO, spol. s r.o.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  27 136,98",
+    "Suma_daňových_nedoplatkov": "  26 935,58",
     "Mena": "EUR"
   },
   {
@@ -217,13 +217,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ekostav Slovakia, spol. s. r. o.",
-    "Adresa_dlžníka": "Litovelská súp. č. 871",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  14 541,18",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "BCI, a.s.",
     "Adresa_dlžníka": "Mydlárska 8718/7A",
     "Mesto": "Žilina",
@@ -263,6 +256,13 @@
     "Adresa_dlžníka": "Mikulášska 1",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  12 307,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ekostav Slovakia, spol. s. r. o.",
+    "Adresa_dlžníka": "Litovelská súp. č. 871",
+    "Mesto": "Kysucké Nové Mesto",
+    "Suma_daňových_nedoplatkov": "  11 795,58",
     "Mena": "EUR"
   },
   {
@@ -5119,13 +5119,6 @@
   {
     "Dlžník": "Miroslav Spišák",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   278,51",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Stojka",
-    "Adresa_dlžníka": "Bratislavská 510/40",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   278,51",
     "Mena": "EUR"
@@ -12432,13 +12425,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Berkyová",
-    "Adresa_dlžníka": "Daxnerova 2686/35",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   189,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Gabriela Michulková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13463,6 +13449,13 @@
   {
     "Dlžník": "Gabriel Tichý",
     "Adresa_dlžníka": "Gemerská 1623/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   175,39",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Berkyová",
+    "Adresa_dlžníka": "Daxnerova 2686/35",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   175,39",
     "Mena": "EUR"
