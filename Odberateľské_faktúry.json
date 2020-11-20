@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "20200214",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 51,62 EUR, spolu: 51,62 EUR",
+    "Celková_cena_(bez_DPH)": "   51,62",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.11.2020",
+    "Dátum_zverejnenia": "19.11.2020"
+  },
+  {
+    "Číslo_faktúry": "20200215",
+    "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 107,57 EUR, spolu: 107,57 EUR",
+    "Celková_cena_(bez_DPH)": "   107,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.11.2020",
+    "Dátum_zverejnenia": "19.11.2020"
+  },
+  {
+    "Číslo_faktúry": "20200216",
+    "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 533,11 EUR, spolu: 533,11 EUR",
+    "Celková_cena_(bez_DPH)": "   533,11",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.11.2020",
+    "Dátum_zverejnenia": "19.11.2020"
+  },
+  {
     "Číslo_faktúry": "2020030",
     "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
     "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 62 EUR, spolu: 62 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 168 EUR, spolu: 168 EUR",
