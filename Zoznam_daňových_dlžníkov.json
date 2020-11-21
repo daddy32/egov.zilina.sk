@@ -3,7 +3,7 @@
     "Dlžník": "MYMA Invest, s. r. o.",
     "Adresa_dlžníka": "M. R. Štefánika 3542a/73",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  440 480,35",
+    "Suma_daňových_nedoplatkov": "  340 480,35",
     "Mena": "EUR"
   },
   {
@@ -1064,13 +1064,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Džúdžiová",
-    "Adresa_dlžníka": "Bytčianska 107/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 115,54",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jaroslav Podmalík POMAK",
     "Adresa_dlžníka": "Závodská cesta 2959/8",
     "Mesto": "Žilina",
@@ -1120,13 +1113,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Dubec",
-    "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   941,66",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Branislav Škulec",
     "Adresa_dlžníka": "Na Rybník 644/6",
     "Mesto": "Teplička nad Váhom",
@@ -1152,6 +1138,20 @@
     "Adresa_dlžníka": "14",
     "Mesto": "Ďurčiná",
     "Suma_daňových_nedoplatkov": "   895,44",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Dubec",
+    "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   894,85",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Džúdžiová",
+    "Adresa_dlžníka": "Bytčianska 107/9",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   873,44",
     "Mena": "EUR"
   },
   {
@@ -1487,7 +1487,7 @@
     "Dlžník": "Zuzana Choleva",
     "Adresa_dlžníka": "Karola Kmeťku 3150/2",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   444,67",
+    "Suma_daňových_nedoplatkov": "   442,51",
     "Mena": "EUR"
   },
   {
@@ -1918,13 +1918,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Daniela Dušíková",
-    "Adresa_dlžníka": "Kysucká 570/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   293,07",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Janka Garelová",
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
@@ -1978,6 +1971,13 @@
     "Adresa_dlžníka": "Petzvalova 3374/41",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   286,05",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Daniela Dušíková",
+    "Adresa_dlžníka": "Kysucká 570/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   285,81",
     "Mena": "EUR"
   },
   {
@@ -9769,13 +9769,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   236,23",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubica Pažická",
-    "Adresa_dlžníka": "Platanová 3225/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   235,59",
     "Mena": "EUR"
   },
   {
