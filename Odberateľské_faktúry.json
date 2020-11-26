@@ -1,5 +1,59 @@
 [
   {
+    "Číslo_faktúry": "2020013",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "prevádzkové náklady k NZ 1/2020 podľa výkazu o prenájme, množ.: 1, jedn. cena: 703,46 EUR, spolu: 703,46 EUR",
+    "Celková_cena_(bez_DPH)": "   703,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
+    "Číslo_faktúry": "2020014",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "nájomné k NZ 1/2020 podľa výkazu prenájmu, množ.: 1, jedn. cena: 433,88 EUR, spolu: 433,88 EUR",
+    "Celková_cena_(bez_DPH)": "   433,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
+    "Číslo_faktúry": "2020015",
+    "Odberateľ": "PhDr. Natália Sucháňová - Speak Up",
+    "Text_odb._faktúry": "prevádzkové náklady k prenámu triedy k NZ 18/2020, množ.: 1, jedn. cena: 2,79 EUR, spolu: 2,79 EUR,\rprevádzkové náklady k prenámu triedy k NZ 21/2020, množ.: 1, jedn. cena: ,93 EUR, spolu: ,93 EUR",
+    "Celková_cena_(bez_DPH)": "   3,72",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
+    "Číslo_faktúry": "2020016",
+    "Odberateľ": "PhDr. Natália Sucháňová - Speak Up",
+    "Text_odb._faktúry": "nájomné k prenájmu triedy k NZ 18/2020, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR,\rnájomné k prenájmu triedy k NZ 18/2020, množ.: 1, jedn. cena: 8 EUR, spolu: 8 EUR",
+    "Celková_cena_(bez_DPH)": "   32,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
+    "Číslo_faktúry": "2020011",
+    "Odberateľ": "PBO, s.r.o.",
+    "Text_odb._faktúry": "prevádzkové náklady za prenájom telocvične podľa vykazu o prenájme k NZ 17/2020, množ.: 1, jedn. cena: 126,27 EUR, spolu: 126,27 EUR",
+    "Celková_cena_(bez_DPH)": "   126,27",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
+    "Číslo_faktúry": "2020012",
+    "Odberateľ": "PBO, s.r.o.",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične podľa výkazu o prenájme k NZ 17/2020, množ.: 1, jedn. cena: 77,88 EUR, spolu: 77,88 EUR",
+    "Celková_cena_(bez_DPH)": "   77,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.11.2020",
+    "Dátum_zverejnenia": "25.11.2020"
+  },
+  {
     "Číslo_faktúry": "20200217",
     "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 4370,18 EUR, spolu: 4370,18 EUR",
