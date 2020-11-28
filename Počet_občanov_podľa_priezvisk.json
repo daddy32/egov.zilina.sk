@@ -57,7 +57,7 @@
   {
     "Priezvisko": "Hrušková",
     "Pohlavie": "žena",
-    "Počet": "93"
+    "Počet": "92"
   },
   {
     "Priezvisko": "Štaffen",
@@ -260,11 +260,6 @@
     "Počet": "59"
   },
   {
-    "Priezvisko": "Líška",
-    "Pohlavie": "muž",
-    "Počet": "59"
-  },
-  {
     "Priezvisko": "Pecko",
     "Pohlavie": "muž",
     "Počet": "59"
@@ -273,6 +268,11 @@
     "Priezvisko": "Tichá",
     "Pohlavie": "žena",
     "Počet": "59"
+  },
+  {
+    "Priezvisko": "Líška",
+    "Pohlavie": "muž",
+    "Počet": "58"
   },
   {
     "Priezvisko": "Líšková",
@@ -765,6 +765,11 @@
     "Počet": "40"
   },
   {
+    "Priezvisko": "Panák",
+    "Pohlavie": "muž",
+    "Počet": "40"
+  },
+  {
     "Priezvisko": "Pekár",
     "Pohlavie": "muž",
     "Počet": "40"
@@ -836,11 +841,6 @@
   },
   {
     "Priezvisko": "Mihálik",
-    "Pohlavie": "muž",
-    "Počet": "39"
-  },
-  {
-    "Priezvisko": "Panák",
     "Pohlavie": "muž",
     "Počet": "39"
   },
@@ -9000,11 +9000,6 @@
     "Počet": "10"
   },
   {
-    "Priezvisko": "Slezáková",
-    "Pohlavie": "žena",
-    "Počet": "10"
-  },
-  {
     "Priezvisko": "Slovák",
     "Pohlavie": "muž",
     "Počet": "10"
@@ -12146,6 +12141,11 @@
   },
   {
     "Priezvisko": "Slaninková",
+    "Pohlavie": "žena",
+    "Počet": "8"
+  },
+  {
+    "Priezvisko": "Slezáková",
     "Pohlavie": "žena",
     "Počet": "8"
   },
@@ -24735,6 +24735,11 @@
     "Počet": "4"
   },
   {
+    "Priezvisko": "Janza",
+    "Pohlavie": "muž",
+    "Počet": "4"
+  },
+  {
     "Priezvisko": "Jarab",
     "Pohlavie": "muž",
     "Počet": "4"
@@ -33535,8 +33540,8 @@
     "Počet": "3"
   },
   {
-    "Priezvisko": "Janza",
-    "Pohlavie": "muž",
+    "Priezvisko": "Janzová",
+    "Pohlavie": "žena",
     "Počet": "3"
   },
   {
@@ -36207,11 +36212,6 @@
   {
     "Priezvisko": "Mazan",
     "Pohlavie": "muž",
-    "Počet": "3"
-  },
-  {
-    "Priezvisko": "Mazancová",
-    "Pohlavie": "žena",
     "Počet": "3"
   },
   {
@@ -48105,11 +48105,6 @@
     "Počet": "2"
   },
   {
-    "Priezvisko": "Janzová",
-    "Pohlavie": "žena",
-    "Počet": "2"
-  },
-  {
     "Priezvisko": "Janžová",
     "Pohlavie": "žena",
     "Počet": "2"
@@ -52206,6 +52201,11 @@
   },
   {
     "Priezvisko": "Maukšová",
+    "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
+    "Priezvisko": "Mazancová",
     "Pohlavie": "žena",
     "Počet": "2"
   },

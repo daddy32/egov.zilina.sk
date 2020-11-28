@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "20200218",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 38683,76 EUR, spolu: 38683,76 EUR",
+    "Celková_cena_(bez_DPH)": "  38 683,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.11.2020",
+    "Dátum_zverejnenia": "27.11.2020"
+  },
+  {
+    "Číslo_faktúry": "20200219",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.11.2020",
+    "Dátum_zverejnenia": "27.11.2020"
+  },
+  {
+    "Číslo_faktúry": "20200220",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.11.2020",
+    "Dátum_zverejnenia": "27.11.2020"
+  },
+  {
     "Číslo_faktúry": "2020013",
     "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
     "Text_odb._faktúry": "prevádzkové náklady k NZ 1/2020 podľa výkazu o prenájme, množ.: 1, jedn. cena: 703,46 EUR, spolu: 703,46 EUR",
