@@ -119,13 +119,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Energoteam s.r.o.",
-    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  29 000,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Eurotransfer, spol. s.r.o.",
     "Adresa_dlžníka": "Trenčianska 53",
     "Mesto": "Bratislava",
@@ -144,6 +137,13 @@
     "Adresa_dlžníka": "Kysucká 536/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  23 814,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Energoteam s.r.o.",
+    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  23 000,00",
     "Mena": "EUR"
   },
   {
@@ -15449,13 +15449,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubomír Backa - GEMI",
-    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   151,76",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Patrik Spišak",
     "Adresa_dlžníka": "Bratislavská 8535/36A",
     "Mesto": "Žilina",
@@ -15600,6 +15593,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   130,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomír Backa - GEMI",
+    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   128,96",
     "Mena": "EUR"
   },
   {
