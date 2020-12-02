@@ -17,7 +17,7 @@
   {
     "Krstné_meno": "Jozef",
     "Pohlavie": "muž",
-    "Počet": "1863"
+    "Počet": "1862"
   },
   {
     "Krstné_meno": "Ján",
@@ -32,12 +32,12 @@
   {
     "Krstné_meno": "Katarína",
     "Pohlavie": "žena",
-    "Počet": "1653"
+    "Počet": "1652"
   },
   {
     "Krstné_meno": "Zuzana",
     "Pohlavie": "žena",
-    "Počet": "1617"
+    "Počet": "1616"
   },
   {
     "Krstné_meno": "Martin",
@@ -62,7 +62,7 @@
   {
     "Krstné_meno": "Tomáš",
     "Pohlavie": "muž",
-    "Počet": "1221"
+    "Počet": "1220"
   },
   {
     "Krstné_meno": "Milan",
@@ -107,7 +107,7 @@
   {
     "Krstné_meno": "Jakub",
     "Pohlavie": "muž",
-    "Počet": "743"
+    "Počet": "744"
   },
   {
     "Krstné_meno": "Marián",
@@ -122,7 +122,7 @@
   {
     "Krstné_meno": "Lukáš",
     "Pohlavie": "muž",
-    "Počet": "686"
+    "Počet": "687"
   },
   {
     "Krstné_meno": "Ivan",
@@ -187,12 +187,12 @@
   {
     "Krstné_meno": "Emília",
     "Pohlavie": "žena",
-    "Počet": "555"
+    "Počet": "556"
   },
   {
     "Krstné_meno": "Lenka",
     "Pohlavie": "žena",
-    "Počet": "551"
+    "Počet": "550"
   },
   {
     "Krstné_meno": "Ivana",
@@ -217,7 +217,7 @@
   {
     "Krstné_meno": "Ladislav",
     "Pohlavie": "muž",
-    "Počet": "517"
+    "Počet": "516"
   },
   {
     "Krstné_meno": "Iveta",
@@ -267,7 +267,7 @@
   {
     "Krstné_meno": "Petra",
     "Pohlavie": "žena",
-    "Počet": "447"
+    "Počet": "448"
   },
   {
     "Krstné_meno": "Stanislav",
@@ -287,7 +287,7 @@
   {
     "Krstné_meno": "Matúš",
     "Pohlavie": "muž",
-    "Počet": "426"
+    "Počet": "425"
   },
   {
     "Krstné_meno": "Adam",
@@ -562,7 +562,7 @@
   {
     "Krstné_meno": "Sofia",
     "Pohlavie": "žena",
-    "Počet": "164"
+    "Počet": "165"
   },
   {
     "Krstné_meno": "Mário",
@@ -665,14 +665,14 @@
     "Počet": "122"
   },
   {
-    "Krstné_meno": "Maroš",
-    "Pohlavie": "muž",
+    "Krstné_meno": "Eliška",
+    "Pohlavie": "žena",
     "Počet": "122"
   },
   {
-    "Krstné_meno": "Eliška",
-    "Pohlavie": "žena",
-    "Počet": "121"
+    "Krstné_meno": "Maroš",
+    "Pohlavie": "muž",
+    "Počet": "122"
   },
   {
     "Krstné_meno": "Sebastián",
@@ -830,14 +830,14 @@
     "Počet": "87"
   },
   {
-    "Krstné_meno": "Kamila",
-    "Pohlavie": "žena",
+    "Krstné_meno": "Denis",
+    "Pohlavie": "muž",
     "Počet": "87"
   },
   {
-    "Krstné_meno": "Denis",
-    "Pohlavie": "muž",
-    "Počet": "86"
+    "Krstné_meno": "Kamila",
+    "Pohlavie": "žena",
+    "Počet": "87"
   },
   {
     "Krstné_meno": "Slavomír",
@@ -950,12 +950,12 @@
     "Počet": "60"
   },
   {
-    "Krstné_meno": "Danica",
+    "Krstné_meno": "Vilma",
     "Pohlavie": "žena",
-    "Počet": "58"
+    "Počet": "59"
   },
   {
-    "Krstné_meno": "Vilma",
+    "Krstné_meno": "Danica",
     "Pohlavie": "žena",
     "Počet": "58"
   },
@@ -970,6 +970,11 @@
     "Počet": "57"
   },
   {
+    "Krstné_meno": "Damián",
+    "Pohlavie": "muž",
+    "Počet": "56"
+  },
+  {
     "Krstné_meno": "Hana",
     "Pohlavie": "žena",
     "Počet": "56"
@@ -978,11 +983,6 @@
     "Krstné_meno": "Žofia",
     "Pohlavie": "žena",
     "Počet": "56"
-  },
-  {
-    "Krstné_meno": "Damián",
-    "Pohlavie": "muž",
-    "Počet": "55"
   },
   {
     "Krstné_meno": "Pavlína",
@@ -1435,6 +1435,11 @@
     "Počet": "25"
   },
   {
+    "Krstné_meno": "Leo",
+    "Pohlavie": "muž",
+    "Počet": "25"
+  },
+  {
     "Krstné_meno": "Ružena",
     "Pohlavie": "žena",
     "Počet": "25"
@@ -1457,11 +1462,6 @@
   {
     "Krstné_meno": "Ester",
     "Pohlavie": "žena",
-    "Počet": "24"
-  },
-  {
-    "Krstné_meno": "Leo",
-    "Pohlavie": "muž",
     "Počet": "24"
   },
   {
@@ -1600,6 +1600,11 @@
     "Počet": "19"
   },
   {
+    "Krstné_meno": "Alan",
+    "Pohlavie": "muž",
+    "Počet": "18"
+  },
+  {
     "Krstné_meno": "Alexej",
     "Pohlavie": "muž",
     "Počet": "18"
@@ -1668,11 +1673,6 @@
     "Krstné_meno": "Zlata",
     "Pohlavie": "žena",
     "Počet": "18"
-  },
-  {
-    "Krstné_meno": "Alan",
-    "Pohlavie": "muž",
-    "Počet": "17"
   },
   {
     "Krstné_meno": "Amélia",

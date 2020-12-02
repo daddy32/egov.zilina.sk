@@ -7883,7 +7883,7 @@
   },
   {
     "Dlžník": "Lenka Chovanová",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Bajzova 2415/22",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   256,61",
     "Mena": "EUR"
@@ -15204,13 +15204,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Boris Šolc",
-    "Adresa_dlžníka": "Prielohy 1013/8A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   164,03",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Linda Chripková",
     "Adresa_dlžníka": "Nanterská 1682/7",
     "Mesto": "Žilina",
@@ -15533,13 +15526,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Danka Zemánková",
-    "Adresa_dlžníka": "Horná Trnovská 418/77",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   142,50",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "MUDr. Eva Harmaniaková",
     "Adresa_dlžníka": "Mojmírova 1161/16",
     "Mesto": "Púchov",
@@ -15558,6 +15544,13 @@
     "Adresa_dlžníka": "Tajovského 8539/3A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   140,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Boris Šolc",
+    "Adresa_dlžníka": "Prielohy 1013/8A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   138,03",
     "Mena": "EUR"
   },
   {
@@ -15827,13 +15820,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Rudolf Zemánek",
-    "Adresa_dlžníka": "Horná Trnovská 418/77",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   34,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Daniela Petrů",
     "Adresa_dlžníka": "Nová 864/10",
     "Mesto": "Žilina",
@@ -15880,6 +15866,13 @@
     "Adresa_dlžníka": "Šoltésovej 405/19",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   9,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Danka Zemánková",
+    "Adresa_dlžníka": "Horná Trnovská 418/77",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   4,62",
     "Mena": "EUR"
   }
 ]
