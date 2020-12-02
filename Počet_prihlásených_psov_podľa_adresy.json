@@ -13100,6 +13100,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Bytčica",
     "Ulica": "Dlhá",
+    "Orient._č.": "  78A     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Dlhá",
     "Orient._č.": "  80      ",
     "Počet_psov": "0"
   },
@@ -50068,7 +50075,7 @@
     "Časť_obce": "Trnové",
     "Ulica": "Nový Domov",
     "Orient._č.": "  29      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -62571,6 +62578,13 @@
     "Ulica": "Richtárska",
     "Orient._č.": "   1      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Richtárska",
+    "Orient._č.": "   1A     ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",

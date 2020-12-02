@@ -1,5 +1,86 @@
 [
   {
+    "Číslo_faktúry": "2020091",
+    "Odberateľ": "TJ SOKOL Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 9,10/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 9,10/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020092",
+    "Odberateľ": "Peter Hnat",
+    "Text_odb._faktúry": "prenájom priestorov za 9,10/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 3, jedn. cena: 5 EUR, spolu: 15 EUR,\rprevádzkové náklady za 9,10/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 3, jedn. cena: 10 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020093",
+    "Odberateľ": "Ing. Juraj Hájovský",
+    "Text_odb._faktúry": "prenájom priestorov za 9,10/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 9,10/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020094",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 12/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 12/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020086",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 11/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020087",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 11/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020088",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 11/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020089",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 11/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020090",
+    "Odberateľ": "Ing. Ján Lodňan",
+    "Text_odb._faktúry": "prenájom priestorov za 9,10/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 3, jedn. cena: 5 EUR, spolu: 15 EUR,\rprevádzkové náklady za 9,10/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 3, jedn. cena: 10 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "01.12.2020"
+  },
+  {
     "Číslo_faktúry": "20200218",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 38683,76 EUR, spolu: 38683,76 EUR",
