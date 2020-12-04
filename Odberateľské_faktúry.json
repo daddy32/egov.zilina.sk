@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "20200221",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2020",
+    "Dátum_zverejnenia": "03.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200222",
+    "Odberateľ": "Severoslovenské vodárne a kanalizácie, a. s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 3 EUR, spolu: 3 EUR",
+    "Celková_cena_(bez_DPH)": "   3,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2020",
+    "Dátum_zverejnenia": "03.12.2020"
+  },
+  {
     "Číslo_faktúry": "2020091",
     "Odberateľ": "TJ SOKOL Žilina",
     "Text_odb._faktúry": "prenájom priestorov za 9,10/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 9,10/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
