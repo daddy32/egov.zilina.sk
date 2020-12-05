@@ -1,5 +1,122 @@
 [
   {
+    "Číslo_faktúry": "2020036",
+    "Odberateľ": "Občianske združenie SKIPY",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020037",
+    "Odberateľ": "Občianske združenie Zábavné aktivity",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 6 EUR, spolu: 6 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   30,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020038",
+    "Odberateľ": "Základná umelecká škola Ferka Špániho",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 151,5 EUR, spolu: 151,5 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 606 EUR, spolu: 606 EUR",
+    "Celková_cena_(bez_DPH)": "   757,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020039",
+    "Odberateľ": "Krajská knižnica v Žiline",
+    "Text_odb._faktúry": "Prenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 360 EUR, spolu: 360 EUR",
+    "Celková_cena_(bez_DPH)": "   360,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200223",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 354,24 EUR, spolu: 354,24 EUR",
+    "Celková_cena_(bez_DPH)": "   354,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20047",
+    "Odberateľ": "Ministerstvo vnútra Slovenskej republiky",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 261,51 EUR, spolu: 261,51 EUR",
+    "Celková_cena_(bez_DPH)": "   261,51",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200224",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 94,76 EUR, spolu: 94,76 EUR",
+    "Celková_cena_(bez_DPH)": "   94,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20048",
+    "Odberateľ": "Ministerstvo vnútra Slovenskej republiky",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 98,43 EUR, spolu: 98,43 EUR",
+    "Celková_cena_(bez_DPH)": "   98,43",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020031",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 144 EUR, spolu: 144 EUR",
+    "Celková_cena_(bez_DPH)": "   180,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020032",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 12 EUR, spolu: 12 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 48 EUR, spolu: 48 EUR",
+    "Celková_cena_(bez_DPH)": "   60,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020033",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020034",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 144 EUR, spolu: 144 EUR",
+    "Celková_cena_(bez_DPH)": "   180,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020035",
+    "Odberateľ": "Občianske združenie Náš kraj",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 18 EUR, spolu: 18 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 72 EUR, spolu: 72 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2020",
+    "Dátum_zverejnenia": "04.12.2020"
+  },
+  {
     "Číslo_faktúry": "20200221",
     "Odberateľ": "COMWOY REAL, s.r.o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
