@@ -6756,7 +6756,7 @@
   },
   {
     "Dlžník": "František Chrobák",
-    "Adresa_dlžníka": "Severná 2811/47",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   275,26",
     "Mena": "EUR"
@@ -10381,13 +10381,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Adriána Susz",
-    "Adresa_dlžníka": "Karpatská 8402/9A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   228,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jaroslav Flachs",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11732,13 +11725,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Valášková",
-    "Adresa_dlžníka": "Severná 2812/53",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,59",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Filip Smejkal",
     "Adresa_dlžníka": "Pod Hôrkou 1704/8",
     "Mesto": "Žilina",
@@ -12709,6 +12695,13 @@
     "Adresa_dlžníka": "Hôrecká cesta 526/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   188,34",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Valášková",
+    "Adresa_dlžníka": "Severná 2812/53",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   187,99",
     "Mena": "EUR"
   },
   {
