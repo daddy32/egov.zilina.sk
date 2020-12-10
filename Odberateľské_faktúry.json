@@ -1,5 +1,14 @@
 [
   {
+    "Číslo_faktúry": "2020004",
+    "Odberateľ": "Veronika Čech-Špirková",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 7,63 EUR, spolu: 7,63 EUR,\rStočné, množ.: 1, jedn. cena: 8,27 EUR, spolu: 8,27 EUR,\rTeplo, množ.: 1, jedn. cena: 26,6 EUR, spolu: 26,6 EUR",
+    "Celková_cena_(bez_DPH)": "   42,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2020",
+    "Dátum_zverejnenia": "09.12.2020"
+  },
+  {
     "Číslo_faktúry": "20200225",
     "Odberateľ": "Materská škola",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 336,03 EUR, spolu: 336,03 EUR",
