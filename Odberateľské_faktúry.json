@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "2020095",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 12/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.12.2020",
+    "Dátum_zverejnenia": "10.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020096",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 12/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.12.2020",
+    "Dátum_zverejnenia": "10.12.2020"
+  },
+  {
+    "Číslo_faktúry": "2020097",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 12/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 12/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.12.2020",
+    "Dátum_zverejnenia": "10.12.2020"
+  },
+  {
     "Číslo_faktúry": "2020004",
     "Odberateľ": "Veronika Čech-Špirková",
     "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 7,63 EUR, spolu: 7,63 EUR,\rStočné, množ.: 1, jedn. cena: 8,27 EUR, spolu: 8,27 EUR,\rTeplo, množ.: 1, jedn. cena: 26,6 EUR, spolu: 26,6 EUR",

@@ -1386,13 +1386,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Lišková",
-    "Adresa_dlžníka": "Ďatlia 56/32",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   571,48",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Vladimír Perko",
     "Adresa_dlžníka": "Železničná 98/54",
     "Mesto": "Žilina",
@@ -1411,6 +1404,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   516,81",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Lišková",
+    "Adresa_dlžníka": "Ďatlia 56/32",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   512,22",
     "Mena": "EUR"
   },
   {
