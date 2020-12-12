@@ -700,11 +700,6 @@
     "Počet": "42"
   },
   {
-    "Priezvisko": "Ďurica",
-    "Pohlavie": "muž",
-    "Počet": "41"
-  },
-  {
     "Priezvisko": "Káčerová",
     "Pohlavie": "žena",
     "Počet": "41"
@@ -741,6 +736,11 @@
   },
   {
     "Priezvisko": "Ďurajka",
+    "Pohlavie": "muž",
+    "Počet": "40"
+  },
+  {
+    "Priezvisko": "Ďurica",
     "Pohlavie": "muž",
     "Počet": "40"
   },
@@ -1420,6 +1420,11 @@
     "Počet": "31"
   },
   {
+    "Priezvisko": "Ponechalová",
+    "Pohlavie": "žena",
+    "Počet": "31"
+  },
+  {
     "Priezvisko": "Smolková",
     "Pohlavie": "žena",
     "Počet": "31"
@@ -1541,11 +1546,6 @@
   },
   {
     "Priezvisko": "Makuková",
-    "Pohlavie": "žena",
-    "Počet": "29"
-  },
-  {
-    "Priezvisko": "Ponechalová",
     "Pohlavie": "žena",
     "Počet": "29"
   },
@@ -5390,11 +5390,6 @@
     "Počet": "14"
   },
   {
-    "Priezvisko": "Remšíková",
-    "Pohlavie": "žena",
-    "Počet": "14"
-  },
-  {
     "Priezvisko": "Rosinec",
     "Pohlavie": "muž",
     "Počet": "14"
@@ -6087,6 +6082,11 @@
   {
     "Priezvisko": "Raždík",
     "Pohlavie": "muž",
+    "Počet": "13"
+  },
+  {
+    "Priezvisko": "Remšíková",
+    "Pohlavie": "žena",
     "Počet": "13"
   },
   {
@@ -26680,6 +26680,11 @@
     "Počet": "4"
   },
   {
+    "Priezvisko": "Motyková",
+    "Pohlavie": "žena",
+    "Počet": "4"
+  },
+  {
     "Priezvisko": "Možješová",
     "Pohlavie": "žena",
     "Počet": "4"
@@ -45702,6 +45707,11 @@
   {
     "Priezvisko": "Glazelová",
     "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
+    "Priezvisko": "Glett",
+    "Pohlavie": "muž",
     "Počet": "2"
   },
   {
@@ -68621,11 +68631,6 @@
   },
   {
     "Priezvisko": "Glett",
-    "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Glett",
     "Pohlavie": "žena",
     "Počet": "1"
   },
@@ -81301,6 +81306,11 @@
   },
   {
     "Priezvisko": "Moťovský",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
+    "Priezvisko": "Motyka",
     "Pohlavie": "muž",
     "Počet": "1"
   },
@@ -94101,6 +94111,11 @@
   },
   {
     "Priezvisko": "Yordanov",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
+    "Priezvisko": "Yordanova",
     "Pohlavie": "žena",
     "Počet": "1"
   },
