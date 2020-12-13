@@ -602,13 +602,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mária Rychnavská",
-    "Adresa_dlžníka": "Dubie 85",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  3 382,90",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "ASTORIA family, s.r.o.",
     "Adresa_dlžníka": "Národná 671/1",
     "Mesto": "Žilina",
@@ -1418,6 +1411,13 @@
     "Adresa_dlžníka": "súp. č. 508",
     "Mesto": "Horný Vadičov",
     "Suma_daňových_nedoplatkov": "   504,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Rychnavská",
+    "Adresa_dlžníka": "Dubie 85",
+    "Mesto": "Kysucké Nové Mesto",
+    "Suma_daňových_nedoplatkov": "   502,90",
     "Mena": "EUR"
   },
   {
@@ -3894,13 +3894,6 @@
   {
     "Dlžník": "Ladislav Mihálik",
     "Adresa_dlžníka": "Vojtecha Spanyola 2128/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   278,51",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ladislav Repkovský",
-    "Adresa_dlžníka": "Kubínska 1104/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   278,51",
     "Mena": "EUR"
@@ -6720,13 +6713,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "František Chrobák",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   275,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alexandra Rácová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -7123,6 +7109,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   263,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "František Chrobák",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   262,66",
     "Mena": "EUR"
   },
   {
@@ -12096,13 +12089,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. arch. Gabriela Dovalová",
-    "Adresa_dlžníka": "Gemerská 1775/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   190,52",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Kvaček",
     "Adresa_dlžníka": "Karpatské námestie 7770/10A",
     "Mesto": "Bratislava-Rača",
@@ -15509,6 +15495,13 @@
     "Adresa_dlžníka": "Mydlárska 197/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   125,27",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. arch. Gabriela Dovalová",
+    "Adresa_dlžníka": "Gemerská 1775/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   123,30",
     "Mena": "EUR"
   },
   {
