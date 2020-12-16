@@ -1379,6 +1379,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Tibor Lehocký",
+    "Adresa_dlžníka": "1. mája 834/22",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   570,24",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Vladimír Perko",
     "Adresa_dlžníka": "Železničná 98/54",
     "Mesto": "Žilina",
@@ -15022,13 +15029,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Tomáš Kramar",
-    "Adresa_dlžníka": "Sasinkova 418/43",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   164,15",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jaroslava Riedlová",
     "Adresa_dlžníka": "Čajakova 2176/15",
     "Mesto": "Žilina",
@@ -15236,6 +15236,13 @@
     "Adresa_dlžníka": "Konopná 3059/3",
     "Mesto": "Levice",
     "Suma_daňových_nedoplatkov": "   160,72",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Tomáš Kramar",
+    "Adresa_dlžníka": "Sasinkova 418/43",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   156,55",
     "Mena": "EUR"
   },
   {
@@ -15642,13 +15649,6 @@
     "Adresa_dlžníka": "Na Hôrke 71/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   75,58",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Majtán",
-    "Adresa_dlžníka": "Sad SNP 662/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   70,62",
     "Mena": "EUR"
   },
   {

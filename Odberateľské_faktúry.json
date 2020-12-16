@@ -1,5 +1,14 @@
 [
   {
+    "Číslo_faktúry": "20200227",
+    "Odberateľ": "Žilinské komunikácie, akciová spoločnosť",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -500 EUR, spolu: -500 EUR",
+    "Celková_cena_(bez_DPH)": "-   500,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.12.2020",
+    "Dátum_zverejnenia": "15.12.2020"
+  },
+  {
     "Číslo_faktúry": "2020004",
     "Odberateľ": "Cirkevný zbor Evanjelickej cirkvi a. v. na Slovensku Žilina",
     "Text_odb._faktúry": "Prevádzkové náklady 01.07.-30.11.2020, množ.: 1, jedn. cena: 1099,68 EUR, spolu: 1099,68 EUR",
