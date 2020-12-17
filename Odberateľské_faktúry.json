@@ -1,11 +1,20 @@
 [
   {
+    "Číslo_faktúry": "20200228",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 21975,64 EUR, spolu: 21975,64 EUR",
+    "Celková_cena_(bez_DPH)": "  21 975,64",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.12.2020",
+    "Dátum_zverejnenia": "16.12.2020"
+  },
+  {
     "Číslo_faktúry": "20200227",
     "Odberateľ": "Žilinské komunikácie, akciová spoločnosť",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: -500 EUR, spolu: -500 EUR",
     "Celková_cena_(bez_DPH)": "-   500,00",
     "Mena": "EUR",
-    "Dátum_vystavenia": "15.12.2020",
+    "Dátum_vystavenia": "16.12.2020",
     "Dátum_zverejnenia": "15.12.2020"
   },
   {
