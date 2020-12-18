@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "22020",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "vývoz odpadovej vody zo žumpy, množ.: 1, jedn. cena: 22,44 EUR, spolu: 22,44 EUR",
+    "Celková_cena_(bez_DPH)": "   22,44",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2020",
+    "Dátum_zverejnenia": "17.12.2020"
+  },
+  {
+    "Číslo_faktúry": "12020",
+    "Odberateľ": "A2B, s.r.o.",
+    "Text_odb._faktúry": "vývoz odpadovej vody zo žumpy, množ.: 1, jedn. cena: 157,08 EUR, spolu: 157,08 EUR",
+    "Celková_cena_(bez_DPH)": "   157,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2020",
+    "Dátum_zverejnenia": "17.12.2020"
+  },
+  {
     "Číslo_faktúry": "20200228",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 21975,64 EUR, spolu: 21975,64 EUR",
