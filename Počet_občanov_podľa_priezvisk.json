@@ -4030,11 +4030,6 @@
     "Počet": "17"
   },
   {
-    "Priezvisko": "Krajčík",
-    "Pohlavie": "muž",
-    "Počet": "17"
-  },
-  {
     "Priezvisko": "Krajčovičová",
     "Pohlavie": "žena",
     "Počet": "17"
@@ -4436,6 +4431,11 @@
   },
   {
     "Priezvisko": "Košťál",
+    "Pohlavie": "muž",
+    "Počet": "16"
+  },
+  {
+    "Priezvisko": "Krajčík",
     "Pohlavie": "muž",
     "Počet": "16"
   },
@@ -6170,11 +6170,6 @@
     "Počet": "13"
   },
   {
-    "Priezvisko": "Štefko",
-    "Pohlavie": "muž",
-    "Počet": "13"
-  },
-  {
     "Priezvisko": "Šubert",
     "Pohlavie": "muž",
     "Počet": "13"
@@ -6352,6 +6347,11 @@
   {
     "Priezvisko": "Bolibruchová",
     "Pohlavie": "žena",
+    "Počet": "12"
+  },
+  {
+    "Priezvisko": "Bollo",
+    "Pohlavie": "muž",
     "Počet": "12"
   },
   {
@@ -7045,11 +7045,6 @@
     "Počet": "12"
   },
   {
-    "Priezvisko": "Štefková",
-    "Pohlavie": "žena",
-    "Počet": "12"
-  },
-  {
     "Priezvisko": "Šubertová",
     "Pohlavie": "žena",
     "Počet": "12"
@@ -7157,11 +7152,6 @@
   {
     "Priezvisko": "Bobuľová",
     "Pohlavie": "žena",
-    "Počet": "11"
-  },
-  {
-    "Priezvisko": "Bollo",
-    "Pohlavie": "muž",
     "Počet": "11"
   },
   {
@@ -7886,6 +7876,11 @@
   },
   {
     "Priezvisko": "Štefanatná",
+    "Pohlavie": "žena",
+    "Počet": "11"
+  },
+  {
+    "Priezvisko": "Štefková",
     "Pohlavie": "žena",
     "Počet": "11"
   },
@@ -9092,6 +9087,11 @@
   {
     "Priezvisko": "Štefánková",
     "Pohlavie": "žena",
+    "Počet": "10"
+  },
+  {
+    "Priezvisko": "Štefko",
+    "Pohlavie": "muž",
     "Počet": "10"
   },
   {
@@ -10562,11 +10562,6 @@
   {
     "Priezvisko": "Zemančíková",
     "Pohlavie": "žena",
-    "Počet": "9"
-  },
-  {
-    "Priezvisko": "Zimen",
-    "Pohlavie": "muž",
     "Počet": "9"
   },
   {
@@ -12426,6 +12421,11 @@
   },
   {
     "Priezvisko": "Zigo",
+    "Pohlavie": "muž",
+    "Počet": "8"
+  },
+  {
+    "Priezvisko": "Zimen",
     "Pohlavie": "muž",
     "Počet": "8"
   },
@@ -16780,6 +16780,11 @@
     "Počet": "6"
   },
   {
+    "Priezvisko": "Miške",
+    "Pohlavie": "muž",
+    "Počet": "6"
+  },
+  {
     "Priezvisko": "Mizera",
     "Pohlavie": "muž",
     "Počet": "6"
@@ -20651,11 +20656,6 @@
   },
   {
     "Priezvisko": "Mintách",
-    "Pohlavie": "muž",
-    "Počet": "5"
-  },
-  {
-    "Priezvisko": "Miške",
     "Pohlavie": "muž",
     "Počet": "5"
   },

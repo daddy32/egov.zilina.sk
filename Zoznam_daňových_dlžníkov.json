@@ -1407,13 +1407,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Lišková",
-    "Adresa_dlžníka": "Ďatlia 56/32",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   512,22",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Radoslav Martinček",
     "Adresa_dlžníka": "súp. č. 508",
     "Mesto": "Horný Vadičov",
@@ -1439,6 +1432,13 @@
     "Adresa_dlžníka": "Fraňa Mráza 622/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   481,77",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Lišková",
+    "Adresa_dlžníka": "Ďatlia 56/32",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   474,22",
     "Mena": "EUR"
   },
   {
@@ -1495,13 +1495,6 @@
     "Adresa_dlžníka": "A Moyzesa 207/30",
     "Mesto": "Kláštor pod Znievom",
     "Suma_daňových_nedoplatkov": "   416,86",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubomír Backa",
-    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   414,05",
     "Mena": "EUR"
   },
   {
@@ -1572,6 +1565,13 @@
     "Adresa_dlžníka": "M. R. Štefánika 4407/15",
     "Mesto": "Vrútky",
     "Suma_daňových_nedoplatkov": "   380,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomír Backa",
+    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   376,05",
     "Mena": "EUR"
   },
   {
