@@ -1701,13 +1701,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Andrea Tumová",
-    "Adresa_dlžníka": "Daniela Dlabača 774/31",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   324,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Kocian",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15705,6 +15698,13 @@
     "Adresa_dlžníka": "Zvolenská 1778/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   42,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Andrea Tumová",
+    "Adresa_dlžníka": "Daniela Dlabača 774/31",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   39,82",
     "Mena": "EUR"
   },
   {
