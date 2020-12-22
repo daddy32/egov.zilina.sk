@@ -1,5 +1,68 @@
 [
   {
+    "Číslo_faktúry": "20200229",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200230",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200231",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 62,32 EUR, spolu: 62,32 EUR",
+    "Celková_cena_(bez_DPH)": "   62,32",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200232",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 469,94 EUR, spolu: 469,94 EUR",
+    "Celková_cena_(bez_DPH)": "   469,94",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200233",
+    "Odberateľ": "Materská škola Andreja Kmeťa Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 67,97 EUR, spolu: 67,97 EUR",
+    "Celková_cena_(bez_DPH)": "   67,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200234",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 67,53 EUR, spolu: 67,53 EUR",
+    "Celková_cena_(bez_DPH)": "   67,53",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
+    "Číslo_faktúry": "20200235",
+    "Odberateľ": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 75,83 EUR, spolu: 75,83 EUR",
+    "Celková_cena_(bez_DPH)": "   75,83",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.12.2020",
+    "Dátum_zverejnenia": "21.12.2020"
+  },
+  {
     "Číslo_faktúry": "2020017",
     "Odberateľ": "Stredoslovenská energetika, a.s.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: ,01 EUR, spolu: ,01 EUR",
