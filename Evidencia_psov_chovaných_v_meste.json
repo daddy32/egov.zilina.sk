@@ -533,6 +533,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Jabloňová",
+    "Orient._č.": "  50      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9258",
+    "Farba": "čierno-bielo-béžová"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Jabloňová",
     "Orient._č.": "  51      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -5908,9 +5917,9 @@
     "Ulica": "Zaroháčovská",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
-    "Plemeno": "Bígl",
-    "Č._známky": "6882",
-    "Farba": "tricolor"
+    "Plemeno": "Rotvajler",
+    "Č._známky": "9265",
+    "Farba": "hnedo-čierna"
   },
   {
     "Mesto": "Žilina",
@@ -6214,9 +6223,9 @@
     "Ulica": "Cesta k vodojemu",
     "Orient._č.": "   9      ",
     "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "236",
-    "Farba": "hnedo-sivo-čierna"
+    "Plemeno": "Československý vlčiak",
+    "Č._známky": "9267",
+    "Farba": "vlko-šedý"
   },
   {
     "Mesto": "Žilina",
@@ -19901,6 +19910,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Limbová",
+    "Orient._č.": "  10      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "9259",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Limbová",
     "Orient._č.": "  12      ",
     "Č._poschodia": "",
     "Plemeno": "Čínsky chocholatý pes",
@@ -20626,6 +20644,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "7077",
     "Farba": "bledo-hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Pod hliniskom",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Jorkšírsky teriér",
+    "Č._známky": "9266",
+    "Farba": "tricolor"
   },
   {
     "Mesto": "Žilina",
@@ -36817,15 +36844,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "680",
     "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Prúty",
-    "Orient._č.": "   8A     ",
-    "Č._poschodia": "",
-    "Plemeno": "Labradorský retriever",
-    "Č._známky": "688",
-    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",
