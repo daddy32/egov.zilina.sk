@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1026"
+    "Počet": "1027"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "371"
+    "Počet": "369"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -29,7 +29,7 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "99"
+    "Počet": "100"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -57,7 +57,7 @@
   },
   {
     "Plemeno": "Trpasličí pinč",
-    "Počet": "56"
+    "Počet": "55"
   },
   {
     "Plemeno": "Bišónik",
@@ -97,7 +97,7 @@
   },
   {
     "Plemeno": "Weimarský stavač",
-    "Počet": "28"
+    "Počet": "29"
   },
   {
     "Plemeno": "Malý bradáč",
@@ -137,7 +137,7 @@
   },
   {
     "Plemeno": "Sibírsky husky",
-    "Počet": "20"
+    "Počet": "21"
   },
   {
     "Plemeno": "Boloňský psík",
@@ -172,12 +172,12 @@
     "Počet": "14"
   },
   {
-    "Plemeno": "Bulteriér",
+    "Plemeno": "Nemecká doga",
     "Počet": "14"
   },
   {
-    "Plemeno": "Nemecká doga",
-    "Počet": "14"
+    "Plemeno": "Bulteriér",
+    "Počet": "13"
   },
   {
     "Plemeno": "Doberman",
@@ -252,6 +252,10 @@
     "Počet": "8"
   },
   {
+    "Plemeno": "Bostonský teriér",
+    "Počet": "7"
+  },
+  {
     "Plemeno": "Írsky červený seter",
     "Počet": "7"
   },
@@ -280,10 +284,6 @@
     "Počet": "6"
   },
   {
-    "Plemeno": "Bostonský teriér",
-    "Počet": "6"
-  },
-  {
     "Plemeno": "Čau čau",
     "Počet": "6"
   },
@@ -301,6 +301,10 @@
   },
   {
     "Plemeno": "Lakelandský teriér",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Leonberger",
     "Počet": "5"
   },
   {
@@ -337,10 +341,6 @@
   },
   {
     "Plemeno": "Írsky teriér",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Leonberger",
     "Počet": "4"
   },
   {

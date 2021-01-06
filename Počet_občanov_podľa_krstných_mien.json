@@ -32,7 +32,7 @@
   {
     "Krstné_meno": "Katarína",
     "Pohlavie": "žena",
-    "Počet": "1650"
+    "Počet": "1649"
   },
   {
     "Krstné_meno": "Zuzana",
@@ -72,7 +72,7 @@
   {
     "Krstné_meno": "Juraj",
     "Pohlavie": "muž",
-    "Počet": "1045"
+    "Počet": "1044"
   },
   {
     "Krstné_meno": "Pavol",
@@ -367,7 +367,7 @@
   {
     "Krstné_meno": "Tatiana",
     "Pohlavie": "žena",
-    "Počet": "312"
+    "Počet": "313"
   },
   {
     "Krstné_meno": "Rastislav",
@@ -460,12 +460,12 @@
     "Počet": "235"
   },
   {
-    "Krstné_meno": "Nikola",
+    "Krstné_meno": "Terézia",
     "Pohlavie": "žena",
-    "Počet": "232"
+    "Počet": "233"
   },
   {
-    "Krstné_meno": "Terézia",
+    "Krstné_meno": "Nikola",
     "Pohlavie": "žena",
     "Počet": "232"
   },
@@ -492,7 +492,7 @@
   {
     "Krstné_meno": "Viktória",
     "Pohlavie": "žena",
-    "Počet": "218"
+    "Počet": "217"
   },
   {
     "Krstné_meno": "Ľuboš",
@@ -677,7 +677,7 @@
   {
     "Krstné_meno": "Sebastián",
     "Pohlavie": "muž",
-    "Počet": "121"
+    "Počet": "122"
   },
   {
     "Krstné_meno": "Viktor",
@@ -837,7 +837,7 @@
   {
     "Krstné_meno": "Kamila",
     "Pohlavie": "žena",
-    "Počet": "86"
+    "Počet": "85"
   },
   {
     "Krstné_meno": "Slavomír",
@@ -1070,12 +1070,12 @@
     "Počet": "44"
   },
   {
-    "Krstné_meno": "Františka",
+    "Krstné_meno": "Stela",
     "Pohlavie": "žena",
-    "Počet": "42"
+    "Počet": "43"
   },
   {
-    "Krstné_meno": "Stela",
+    "Krstné_meno": "Františka",
     "Pohlavie": "žena",
     "Počet": "42"
   },
@@ -2250,6 +2250,11 @@
     "Počet": "8"
   },
   {
+    "Krstné_meno": "Sláva",
+    "Pohlavie": "žena",
+    "Počet": "8"
+  },
+  {
     "Krstné_meno": "Vasil",
     "Pohlavie": "muž",
     "Počet": "8"
@@ -2372,11 +2377,6 @@
   {
     "Krstné_meno": "Samo",
     "Pohlavie": "muž",
-    "Počet": "7"
-  },
-  {
-    "Krstné_meno": "Sláva",
-    "Pohlavie": "žena",
     "Počet": "7"
   },
   {
@@ -10411,6 +10411,11 @@
   },
   {
     "Krstné_meno": "Tilčo",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
+    "Krstné_meno": "Tim",
     "Pohlavie": "muž",
     "Počet": "1"
   },

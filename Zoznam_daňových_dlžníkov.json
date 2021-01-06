@@ -1162,13 +1162,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Daniel Dudáš",
-    "Adresa_dlžníka": "Hlinská 1636/37",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   360,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Kollár",
     "Adresa_dlžníka": "Clementisova 1023/26",
     "Mesto": "Kysucké Nové Mesto",
@@ -11564,13 +11557,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kristína Karafová",
-    "Adresa_dlžníka": "Lichardova 2802/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   220,12",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Pavol Ruček",
     "Adresa_dlžníka": "Jedlíkova 3423/5",
     "Mesto": "Žilina",
@@ -14217,6 +14203,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kristína Karafová",
+    "Adresa_dlžníka": "Lichardova 2802/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   192,12",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ema Pitlová",
     "Adresa_dlžníka": "Hradná 2/2",
     "Mesto": "Strečno",
@@ -15645,13 +15638,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Tvrdý",
-    "Adresa_dlžníka": "Matuškova 416/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   175,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Urban",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16460,13 +16446,6 @@
     "Dlžník": "Peter Dudík - TIME IN",
     "Adresa_dlžníka": "Mariánske námestie 1470/32",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   164,73",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Róbert Gabriš",
-    "Adresa_dlžníka": "61",
-    "Mesto": "Dlhé Pole",
     "Suma_daňových_nedoplatkov": "   164,73",
     "Mena": "EUR"
   },
