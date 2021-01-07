@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1027"
+    "Počet": "1026"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "221"
+    "Počet": "219"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -33,11 +33,11 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "93"
+    "Počet": "94"
   },
   {
     "Plemeno": "Shih - tzu",
-    "Počet": "65"
+    "Počet": "64"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -48,24 +48,24 @@
     "Počet": "60"
   },
   {
+    "Plemeno": "Miešanec",
+    "Počet": "60"
+  },
+  {
     "Plemeno": "Staffordshirský bulteriér",
     "Počet": "59"
   },
   {
-    "Plemeno": "Miešanec",
-    "Počet": "59"
-  },
-  {
     "Plemeno": "Trpasličí pinč",
-    "Počet": "55"
-  },
-  {
-    "Plemeno": "Bišónik",
-    "Počet": "51"
+    "Počet": "56"
   },
   {
     "Plemeno": "Anglický kokeršpaniel",
     "Počet": "51"
+  },
+  {
+    "Plemeno": "Bišónik",
+    "Počet": "50"
   },
   {
     "Plemeno": "Bígl",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "34"
+    "Počet": "33"
   },
   {
     "Plemeno": "Mops",
@@ -113,7 +113,7 @@
   },
   {
     "Plemeno": "Bernský salašnícky pes",
-    "Počet": "25"
+    "Počet": "26"
   },
   {
     "Plemeno": "Rotvajler",
@@ -129,7 +129,7 @@
   },
   {
     "Plemeno": "Rodézsky ridgeback",
-    "Počet": "23"
+    "Počet": "22"
   },
   {
     "Plemeno": "Westhighlandský biely teriér",
@@ -141,7 +141,7 @@
   },
   {
     "Plemeno": "Boloňský psík",
-    "Počet": "18"
+    "Počet": "17"
   },
   {
     "Plemeno": "Slovenský čuvač",
@@ -184,15 +184,15 @@
     "Počet": "13"
   },
   {
+    "Plemeno": "Maďarská vyžla",
+    "Počet": "13"
+  },
+  {
     "Plemeno": "Bavorský farbiar",
     "Počet": "12"
   },
   {
     "Plemeno": "Belgický ovčiak",
-    "Počet": "12"
-  },
-  {
-    "Plemeno": "Maďarská vyžla",
     "Počet": "12"
   },
   {
@@ -212,6 +212,10 @@
     "Počet": "11"
   },
   {
+    "Plemeno": "Pomeranian",
+    "Počet": "11"
+  },
+  {
     "Plemeno": "Akita inu",
     "Počet": "10"
   },
@@ -221,10 +225,6 @@
   },
   {
     "Plemeno": "Šarpej",
-    "Počet": "10"
-  },
-  {
-    "Plemeno": "Pomeranian",
     "Počet": "10"
   },
   {
@@ -625,6 +625,10 @@
   },
   {
     "Plemeno": "Maďarský hrubosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Neapolský mastin",
     "Počet": "1"
   },
   {
