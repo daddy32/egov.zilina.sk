@@ -72,15 +72,6 @@
     "Dátum_zverejnenia": "21.12.2020"
   },
   {
-    "Číslo_faktúry": "2020017",
-    "Odberateľ": "Stredoslovenská energetika, a.s.",
-    "Text_odb._faktúry": "množ.: 1, jedn. cena: ,01 EUR, spolu: ,01 EUR",
-    "Celková_cena_(bez_DPH)": "   0,01",
-    "Mena": "EUR",
-    "Dátum_vystavenia": "18.12.2020",
-    "Dátum_zverejnenia": "18.12.2020"
-  },
-  {
     "Číslo_faktúry": "22020",
     "Odberateľ": "BYTTERM, a.s.",
     "Text_odb._faktúry": "vývoz odpadovej vody zo žumpy, množ.: 1, jedn. cena: 22,44 EUR, spolu: 22,44 EUR",
@@ -443,8 +434,8 @@
   {
     "Číslo_faktúry": "2020015",
     "Odberateľ": "PhDr. Natália Sucháňová - Speak Up",
-    "Text_odb._faktúry": "prevádzkové náklady k prenámu triedy k NZ 18/2020, množ.: 1, jedn. cena: 2,79 EUR, spolu: 2,79 EUR,\rprevádzkové náklady k prenámu triedy k NZ 21/2020, množ.: 1, jedn. cena: ,93 EUR, spolu: ,93 EUR",
-    "Celková_cena_(bez_DPH)": "   3,72",
+    "Text_odb._faktúry": "prevádzkové náklady k prenámu triedy k NZ 18/2020, množ.: 1, jedn. cena: 2,97 EUR, spolu: 2,97 EUR,\rprevádzkové náklady k prenámu triedy k NZ 21/2020, množ.: 1, jedn. cena: ,93 EUR, spolu: ,93 EUR",
+    "Celková_cena_(bez_DPH)": "   3,90",
     "Mena": "EUR",
     "Dátum_vystavenia": "25.11.2020",
     "Dátum_zverejnenia": "25.11.2020"
