@@ -9107,13 +9107,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Závodský",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   265,84",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Júlia Garelová",
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
@@ -9132,6 +9125,13 @@
     "Adresa_dlžníka": "Ľubľanská 1678/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   264,51",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Róbert Závodský",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   264,44",
     "Mena": "EUR"
   },
   {
