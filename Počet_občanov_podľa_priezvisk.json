@@ -77,7 +77,7 @@
   {
     "Priezvisko": "Ševčíková",
     "Pohlavie": "žena",
-    "Počet": "86"
+    "Počet": "85"
   },
   {
     "Priezvisko": "Kuba",
@@ -250,11 +250,6 @@
     "Počet": "59"
   },
   {
-    "Priezvisko": "Jaššová",
-    "Pohlavie": "žena",
-    "Počet": "59"
-  },
-  {
     "Priezvisko": "Pažický",
     "Pohlavie": "muž",
     "Počet": "59"
@@ -268,6 +263,11 @@
     "Priezvisko": "Tichá",
     "Pohlavie": "žena",
     "Počet": "59"
+  },
+  {
+    "Priezvisko": "Jaššová",
+    "Pohlavie": "žena",
+    "Počet": "58"
   },
   {
     "Priezvisko": "Králiková",
@@ -540,11 +540,6 @@
     "Počet": "46"
   },
   {
-    "Priezvisko": "Kučerová",
-    "Pohlavie": "žena",
-    "Počet": "46"
-  },
-  {
     "Priezvisko": "Stojka",
     "Pohlavie": "muž",
     "Počet": "46"
@@ -562,6 +557,11 @@
   {
     "Priezvisko": "Hanuliak",
     "Pohlavie": "muž",
+    "Počet": "45"
+  },
+  {
+    "Priezvisko": "Kučerová",
+    "Pohlavie": "žena",
     "Počet": "45"
   },
   {
@@ -1120,11 +1120,6 @@
     "Počet": "34"
   },
   {
-    "Priezvisko": "Ponechal",
-    "Pohlavie": "muž",
-    "Počet": "34"
-  },
-  {
     "Priezvisko": "Randová",
     "Pohlavie": "žena",
     "Počet": "34"
@@ -1181,6 +1176,11 @@
   },
   {
     "Priezvisko": "Mucha",
+    "Pohlavie": "muž",
+    "Počet": "33"
+  },
+  {
+    "Priezvisko": "Ponechal",
     "Pohlavie": "muž",
     "Počet": "33"
   },
@@ -1835,11 +1835,6 @@
     "Počet": "27"
   },
   {
-    "Priezvisko": "Adamčík",
-    "Pohlavie": "muž",
-    "Počet": "26"
-  },
-  {
     "Priezvisko": "Cingelová",
     "Pohlavie": "žena",
     "Počet": "26"
@@ -1978,6 +1973,11 @@
     "Priezvisko": "Zaťková",
     "Pohlavie": "žena",
     "Počet": "26"
+  },
+  {
+    "Priezvisko": "Adamčík",
+    "Pohlavie": "muž",
+    "Počet": "25"
   },
   {
     "Priezvisko": "Cabadajová",
@@ -5880,6 +5880,11 @@
     "Počet": "13"
   },
   {
+    "Priezvisko": "Kremeňová",
+    "Pohlavie": "žena",
+    "Počet": "13"
+  },
+  {
     "Priezvisko": "Križan",
     "Pohlavie": "muž",
     "Počet": "13"
@@ -6672,11 +6677,6 @@
   {
     "Priezvisko": "Kraus",
     "Pohlavie": "muž",
-    "Počet": "12"
-  },
-  {
-    "Priezvisko": "Kremeňová",
-    "Pohlavie": "žena",
     "Počet": "12"
   },
   {
@@ -10750,11 +10750,6 @@
     "Počet": "8"
   },
   {
-    "Priezvisko": "Böhmová",
-    "Pohlavie": "žena",
-    "Počet": "8"
-  },
-  {
     "Priezvisko": "Bohuš",
     "Pohlavie": "muž",
     "Počet": "8"
@@ -11315,6 +11310,11 @@
     "Počet": "8"
   },
   {
+    "Priezvisko": "Jurčík",
+    "Pohlavie": "muž",
+    "Počet": "8"
+  },
+  {
     "Priezvisko": "Jurga",
     "Pohlavie": "muž",
     "Počet": "8"
@@ -11466,11 +11466,6 @@
   },
   {
     "Priezvisko": "Krajiček",
-    "Pohlavie": "muž",
-    "Počet": "8"
-  },
-  {
-    "Priezvisko": "Krajíček",
     "Pohlavie": "muž",
     "Počet": "8"
   },
@@ -12550,6 +12545,11 @@
     "Počet": "7"
   },
   {
+    "Priezvisko": "Böhmová",
+    "Pohlavie": "žena",
+    "Počet": "7"
+  },
+  {
     "Priezvisko": "Bohušová",
     "Pohlavie": "žena",
     "Počet": "7"
@@ -13205,11 +13205,6 @@
     "Počet": "7"
   },
   {
-    "Priezvisko": "Jurčík",
-    "Pohlavie": "muž",
-    "Počet": "7"
-  },
-  {
     "Priezvisko": "Jurša",
     "Pohlavie": "muž",
     "Počet": "7"
@@ -13402,6 +13397,11 @@
   {
     "Priezvisko": "Kovářová",
     "Pohlavie": "žena",
+    "Počet": "7"
+  },
+  {
+    "Priezvisko": "Krajíček",
+    "Pohlavie": "muž",
     "Počet": "7"
   },
   {
@@ -16567,11 +16567,6 @@
   {
     "Priezvisko": "Majtinek",
     "Pohlavie": "muž",
-    "Počet": "6"
-  },
-  {
-    "Priezvisko": "Majtinková",
-    "Pohlavie": "žena",
     "Počet": "6"
   },
   {
@@ -20440,6 +20435,11 @@
     "Počet": "5"
   },
   {
+    "Priezvisko": "Majtinková",
+    "Pohlavie": "žena",
+    "Počet": "5"
+  },
+  {
     "Priezvisko": "Mäkká",
     "Pohlavie": "žena",
     "Počet": "5"
@@ -20661,11 +20661,6 @@
   },
   {
     "Priezvisko": "Milata",
-    "Pohlavie": "muž",
-    "Počet": "5"
-  },
-  {
-    "Priezvisko": "Mintách",
     "Pohlavie": "muž",
     "Počet": "5"
   },
@@ -26566,6 +26561,11 @@
   },
   {
     "Priezvisko": "Ministr",
+    "Pohlavie": "muž",
+    "Počet": "4"
+  },
+  {
+    "Priezvisko": "Mintách",
     "Pohlavie": "muž",
     "Počet": "4"
   },

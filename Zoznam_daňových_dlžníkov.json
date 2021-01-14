@@ -13230,13 +13230,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mgr. Zuzana Browne",
-    "Adresa_dlžníka": "Kubínska 1103/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   203,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Klára Mráziková",
     "Adresa_dlžníka": "Severná 2811/47",
     "Mesto": "Žilina",
@@ -16153,6 +16146,13 @@
     "Adresa_dlžníka": "Dedinská 129/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   166,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Zuzana Browne",
+    "Adresa_dlžníka": "Kubínska 1103/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   166,03",
     "Mena": "EUR"
   },
   {
