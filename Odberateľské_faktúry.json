@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "20200236",
+    "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -4370,18 EUR, spolu: -4370,18 EUR",
+    "Celková_cena_(bez_DPH)": "-  4 370,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.12.2020",
+    "Dátum_zverejnenia": "14.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210001",
+    "Odberateľ": "Mestské divadlo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 155,25 EUR, spolu: 155,25 EUR",
+    "Celková_cena_(bez_DPH)": "   155,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.01.2021",
+    "Dátum_zverejnenia": "14.01.2021"
+  },
+  {
     "Číslo_faktúry": "52020",
     "Odberateľ": "Súkromná základná umelecká škola",
     "Text_odb._faktúry": "Prenájom, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
