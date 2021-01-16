@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "062020",
+    "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
+    "Text_odb._faktúry": "Refundácia vodného a stočného, množ.: 1, jedn. cena: 310,57 EUR, spolu: 310,57 EUR",
+    "Celková_cena_(bez_DPH)": "   310,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.12.2020",
+    "Dátum_zverejnenia": "15.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "na základe Dohody o fakturácií spotrebovanej el.energie ôzo dňa 29.12.2004 spotrebu elektrickej energie podľa odpočut stavu elektromera č. 4951425 za obdobie roku 2020.  PS 27 335 - KS 29 043, množ.: 1, jedn. cena: 461,16 EUR, spolu: 461,16 EUR",
+    "Celková_cena_(bez_DPH)": "   461,16",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.01.2021",
+    "Dátum_zverejnenia": "15.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210002",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 88 EUR, spolu: 88 EUR",
+    "Celková_cena_(bez_DPH)": "   88,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.01.2021",
+    "Dátum_zverejnenia": "15.01.2021"
+  },
+  {
     "Číslo_faktúry": "20200236",
     "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: -4370,18 EUR, spolu: -4370,18 EUR",
