@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "20210003",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.01.2021",
+    "Dátum_zverejnenia": "19.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200237",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 489,19 EUR, spolu: 489,19 EUR",
+    "Celková_cena_(bez_DPH)": "   489,19",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.01.2021",
+    "Dátum_zverejnenia": "19.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200238",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -401,8 EUR, spolu: -401,8 EUR",
+    "Celková_cena_(bez_DPH)": "-   401,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.01.2021",
+    "Dátum_zverejnenia": "19.01.2021"
+  },
+  {
     "Číslo_faktúry": "062020",
     "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
     "Text_odb._faktúry": "Refundácia vodného a stočného, množ.: 1, jedn. cena: 310,57 EUR, spolu: 310,57 EUR",
