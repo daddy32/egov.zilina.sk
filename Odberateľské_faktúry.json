@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "20200240",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2021",
+    "Dátum_zverejnenia": "21.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200241",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2021",
+    "Dátum_zverejnenia": "21.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200239",
+    "Odberateľ": "WHITE ONION s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 47,24 EUR, spolu: 47,24 EUR",
+    "Celková_cena_(bez_DPH)": "   47,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2021",
+    "Dátum_zverejnenia": "21.01.2021"
+  },
+  {
     "Číslo_faktúry": "20210003",
     "Odberateľ": "COMWOY REAL, s.r.o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
