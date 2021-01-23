@@ -1,5 +1,86 @@
 [
   {
+    "Číslo_faktúry": "20200246",
+    "Odberateľ": "Slovenská pošta, a.s.",
+    "Text_odb._faktúry": "Refakturácia - spotreba plynu od 1.1.2020 - 31.12.2020, množ.: 1, jedn. cena: -58,3 EUR, spolu: -58,3 EUR",
+    "Celková_cena_(bez_DPH)": "-   58,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200247",
+    "Odberateľ": "Rímskokatolícka cirkev Farnosť Stráňavy",
+    "Text_odb._faktúry": "Refakturujeme Vám podľa Zmluvy o nájme č. 153/2014 spotrebu elektrickej energie za obdobie od 1.1.2020 - 31.12.2020, množ.: 1, jedn. cena: 153,34 EUR, spolu: 153,34 EUR",
+    "Celková_cena_(bez_DPH)": "   153,34",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200248",
+    "Odberateľ": "Občianske združenie Kasava",
+    "Text_odb._faktúry": "Refakturujeme Vám podľa zmluvy o nájme nebytových priestorov č. 723/2014 čl.4 ods. 3 za spotrebu elektrickej energie za obdobie od 1.1.2020 - 31.12.2020, množ.: 1, jedn. cena: 2,27 EUR, spolu: 2,27 EUR",
+    "Celková_cena_(bez_DPH)": "   2,27",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200242",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 78,43 EUR, spolu: 78,43 EUR",
+    "Celková_cena_(bez_DPH)": "   78,43",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200243",
+    "Odberateľ": "Materská škola Andreja Kmeťa Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 12,2 EUR, spolu: 12,2 EUR",
+    "Celková_cena_(bez_DPH)": "   12,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200244",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 12,28 EUR, spolu: 12,28 EUR",
+    "Celková_cena_(bez_DPH)": "   12,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200245",
+    "Odberateľ": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 14,94 EUR, spolu: 14,94 EUR",
+    "Celková_cena_(bez_DPH)": "   14,94",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210004",
+    "Odberateľ": "Žilinská teplárenská, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: ,04 EUR, spolu: ,04 EUR",
+    "Celková_cena_(bez_DPH)": "   0,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210005",
+    "Odberateľ": "Rail Cargo Operator - CSKD s.r.o. organizačná zložka",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1575,88 EUR, spolu: 1575,88 EUR",
+    "Celková_cena_(bez_DPH)": "  1 575,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.01.2021",
+    "Dátum_zverejnenia": "22.01.2021"
+  },
+  {
     "Číslo_faktúry": "20200240",
     "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",

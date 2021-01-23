@@ -5250,13 +5250,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Pavol Mrázik",
-    "Adresa_dlžníka": "Pittsburgská 1673/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   307,68",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ján Slamka",
     "Adresa_dlžníka": "Jaseňová 3220/10",
     "Mesto": "Žilina",
@@ -6157,6 +6150,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   300,34",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Pavol Mrázik",
+    "Adresa_dlžníka": "Pittsburgská 1673/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   300,29",
     "Mena": "EUR"
   },
   {
@@ -16186,6 +16186,13 @@
   {
     "Dlžník": "Diana Blanka Bajgarová",
     "Adresa_dlžníka": "Bulharská 8527/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   165,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Erik Dubeň",
+    "Adresa_dlžníka": "Segnerova 3400/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,62",
     "Mena": "EUR"
