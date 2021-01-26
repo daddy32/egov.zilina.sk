@@ -1,5 +1,68 @@
 [
   {
+    "Číslo_faktúry": "20200251",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 110, jedn. cena: ,5 EUR, spolu: 55 EUR",
+    "Celková_cena_(bez_DPH)": "   55,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200252",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 131, jedn. cena: ,5 EUR, spolu: 65,5 EUR",
+    "Celková_cena_(bez_DPH)": "   65,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210006",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210007",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200249",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -497,32 EUR, spolu: -497,32 EUR",
+    "Celková_cena_(bez_DPH)": "-   497,32",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20200250",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -1664,94 EUR, spolu: -1664,94 EUR",
+    "Celková_cena_(bez_DPH)": "-  1 664,94",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "- vodné, množ.: 673, jedn. cena: ,96 EUR, spolu: 646,08 EUR,\r- stočné, množ.: 673, jedn. cena: 1,04 EUR, spolu: 699,92 EUR",
+    "Celková_cena_(bez_DPH)": "  1 346,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "25.01.2021"
+  },
+  {
     "Číslo_faktúry": "20200246",
     "Odberateľ": "Slovenská pošta, a.s.",
     "Text_odb._faktúry": "Refakturácia - spotreba plynu od 1.1.2020 - 31.12.2020, množ.: 1, jedn. cena: -58,3 EUR, spolu: -58,3 EUR",
