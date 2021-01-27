@@ -1,5 +1,59 @@
 [
   {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Fakturujeme Vám zabezpečenie stravy pre personál na testovacom  mieste podľa dohody v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupňa z dôvodu ochorenia COVID-19 spôs\", množ.: 38, jedn. cena: 2,83 EUR, spolu: 107,54 EUR",
+    "Celková_cena_(bez_DPH)": "   107,54",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Na základe objednávky č. 202100177 Vám faktúrujeme: obed + bagety, množ.: 46, jedn. cena: 2,83 EUR, spolu: 130,18 EUR",
+    "Celková_cena_(bez_DPH)": "   130,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210008",
+    "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 504,24 EUR, spolu: 504,24 EUR",
+    "Celková_cena_(bez_DPH)": "   504,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy pre personál na testovacích miestach v dňoch 23.-24.1.2021 v zmysle vyhlásenej Mimoriadnej situácie., množ.: 1, jedn. cena: 315,56 EUR, spolu: 315,56 EUR",
+    "Celková_cena_(bez_DPH)": "   315,56",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
+    "Číslo_faktúry": "20210009",
+    "Odberateľ": "Národná diaľničná spoločnosť, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 4370,18 EUR, spolu: 4370,18 EUR",
+    "Celková_cena_(bez_DPH)": "  4 370,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
+    "Číslo_faktúry": "21001",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupna z dôvodu ochorenia COVID-19 spôsobeným korona vírusom SARS-CoV., množ.: 30, jedn. cena: 2,83 EUR, spolu: 84,9 EUR",
+    "Celková_cena_(bez_DPH)": "   84,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_zverejnenia": "26.01.2021"
+  },
+  {
     "Číslo_faktúry": "20200251",
     "Odberateľ": "Elena Kurtulíková",
     "Text_odb._faktúry": "množ.: 110, jedn. cena: ,5 EUR, spolu: 55 EUR",
