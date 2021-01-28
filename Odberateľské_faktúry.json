@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "20200253",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 29400,42 EUR, spolu: 29400,42 EUR",
+    "Celková_cena_(bez_DPH)": "  29 400,42",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.01.2021",
+    "Dátum_zverejnenia": "27.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy pre personál testovacieho miesta 23-24.1.2021, množ.: 1, jedn. cena: 146,98 EUR, spolu: 146,98 EUR",
+    "Celková_cena_(bez_DPH)": "   146,98",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.01.2021",
+    "Dátum_zverejnenia": "27.01.2021"
+  },
+  {
     "Číslo_faktúry": "2021001",
     "Odberateľ": "Mesto Žilina",
     "Text_odb._faktúry": "Fakturujeme Vám zabezpečenie stravy pre personál na testovacom  mieste podľa dohody v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupňa z dôvodu ochorenia COVID-19 spôs\", množ.: 38, jedn. cena: 2,83 EUR, spolu: 107,54 EUR",
@@ -14,7 +32,7 @@
     "Text_odb._faktúry": "Na základe objednávky č. 202100177 Vám faktúrujeme: obed + bagety, množ.: 46, jedn. cena: 2,83 EUR, spolu: 130,18 EUR",
     "Celková_cena_(bez_DPH)": "   130,18",
     "Mena": "EUR",
-    "Dátum_vystavenia": "26.01.2021",
+    "Dátum_vystavenia": "27.01.2021",
     "Dátum_zverejnenia": "26.01.2021"
   },
   {
@@ -47,7 +65,7 @@
   {
     "Číslo_faktúry": "21001",
     "Odberateľ": "Mesto Žilina",
-    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupna z dôvodu ochorenia COVID-19 spôsobeným korona vírusom SARS-CoV., množ.: 30, jedn. cena: 2,83 EUR, spolu: 84,9 EUR",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupňa z dôvodu ochorenia COVID-19 spôsobeným korona vírusom SARS-CoV., množ.: 30, jedn. cena: 2,83 EUR, spolu: 84,9 EUR",
     "Celková_cena_(bez_DPH)": "   84,90",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.01.2021",
