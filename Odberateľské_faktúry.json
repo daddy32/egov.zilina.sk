@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Strava pre personál na testovanie, množ.: 1, jedn. cena: 99,59 EUR, spolu: 99,59 EUR",
+    "Celková_cena_(bez_DPH)": "   99,59",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.01.2021",
+    "Dátum_zverejnenia": "28.01.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie -\" Ohrozenie verejného zdravia II. stupňa z dôvodu ochorenia COVID-19 spôsobeným korona vírusom SARS-CoVy, množ.: 2,83, jedn. cena: 36 EUR, spolu: 101,88 EUR",
+    "Celková_cena_(bez_DPH)": "   101,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.01.2021",
+    "Dátum_zverejnenia": "28.01.2021"
+  },
+  {
     "Číslo_faktúry": "20200253",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 29400,42 EUR, spolu: 29400,42 EUR",
