@@ -85052,6 +85052,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Pod majerom",
+    "Orient._č.": "   8A     ",
+    "Číslo_okrsku": "75",
+    "Názov_okrsku": "Materská škola Ku škôlke (Zádubnie)",
+    "Volebná_miestnosť": "Materská škola",
+    "Adresa_volebnej_miestnosti": "Ku škôlke 196/11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Pod majerom",
     "Orient._č.": "   9      ",
     "Číslo_okrsku": "75",
     "Názov_okrsku": "Materská škola Ku škôlke (Zádubnie)",
@@ -86573,15 +86582,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Zádubnie",
-    "Orient._č.": " 133      ",
-    "Číslo_okrsku": "75",
-    "Názov_okrsku": "Materská škola Ku škôlke (Zádubnie)",
-    "Volebná_miestnosť": "Materská škola",
-    "Adresa_volebnej_miestnosti": "Ku škôlke 196/11"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Zádubnie",
     "Orient._č.": " 135      ",
     "Číslo_okrsku": "75",
     "Názov_okrsku": "Materská škola Ku škôlke (Zádubnie)",
@@ -87060,6 +87060,15 @@
     "Mesto": "Žilina",
     "Ulica": "Do toboliny",
     "Orient._č.": "   9      ",
+    "Číslo_okrsku": "76",
+    "Názov_okrsku": "Kultúrny dom Zástranie",
+    "Volebná_miestnosť": "Kultúrny dom",
+    "Adresa_volebnej_miestnosti": "Kultúrna 60/24"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Do toboliny",
+    "Orient._č.": "  10      ",
     "Číslo_okrsku": "76",
     "Názov_okrsku": "Kultúrny dom Zástranie",
     "Volebná_miestnosť": "Kultúrny dom",
@@ -89364,15 +89373,6 @@
     "Mesto": "Žilina",
     "Ulica": "Zástranie",
     "Orient._č.": " 226      ",
-    "Číslo_okrsku": "76",
-    "Názov_okrsku": "Kultúrny dom Zástranie",
-    "Volebná_miestnosť": "Kultúrny dom",
-    "Adresa_volebnej_miestnosti": "Kultúrna 60/24"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Zástranie",
-    "Orient._č.": " 227      ",
     "Číslo_okrsku": "76",
     "Názov_okrsku": "Kultúrny dom Zástranie",
     "Volebná_miestnosť": "Kultúrny dom",
