@@ -1547,13 +1547,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Kasanický",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3146/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   868,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Gabriela Milecová",
     "Adresa_dlžníka": "Pittsburgská 1673/14",
     "Mesto": "Žilina",
@@ -1614,6 +1607,13 @@
     "Adresa_dlžníka": "Jankolova 2",
     "Mesto": "Bratislava-Petržalka",
     "Suma_daňových_nedoplatkov": "   811,63",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Kasanický",
+    "Adresa_dlžníka": "Jána Vojtaššáka 3146/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   786,58",
     "Mena": "EUR"
   },
   {
