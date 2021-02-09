@@ -1,5 +1,50 @@
 [
   {
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy pre personál na testovacích miestach v dňoch 6. - 7.2.2021 v zmysle vyhlásenej Mimoriadnej stituácie, množ.: 1, jedn. cena: 288,07 EUR, spolu: 288,07 EUR",
+    "Celková_cena_(bez_DPH)": "   288,07",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.02.2021",
+    "Dátum_zverejnenia": "08.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "Organizačná a metodická podpora počas pedagogickej praxe študentov, množ.: 1, jedn. cena: 170,08 EUR, spolu: 170,08 EUR",
+    "Celková_cena_(bez_DPH)": "   170,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.01.2021",
+    "Dátum_zverejnenia": "08.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Orange Slovensko, a.s.",
+    "Text_odb._faktúry": "Prenájom -  (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 4900 EUR, spolu: 4900 EUR",
+    "Celková_cena_(bez_DPH)": "  4 900,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "08.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste, množ.: 1, jedn. cena: 373,56 EUR, spolu: 373,56 EUR",
+    "Celková_cena_(bez_DPH)": "   373,56",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.01.2021",
+    "Dátum_zverejnenia": "08.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy pre personál testovacieho miesta 6.-7.2.2021, množ.: 1, jedn. cena: 54,19 EUR, spolu: 54,19 EUR",
+    "Celková_cena_(bez_DPH)": "   54,19",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.02.2021",
+    "Dátum_zverejnenia": "08.02.2021"
+  },
+  {
     "Číslo_faktúry": "2021001",
     "Odberateľ": "Mestský úrad Žilina",
     "Text_odb._faktúry": "Strava pre personál na testovanie, množ.: 1, jedn. cena: 99,59 EUR, spolu: 99,59 EUR",
