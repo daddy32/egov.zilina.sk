@@ -5890,8 +5890,8 @@
     "Ulica": "Zaroháčovská",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
-    "Plemeno": "Rotvajler",
-    "Č._známky": "9265",
+    "Plemeno": "Bígl",
+    "Č._známky": "6882",
     "Farba": "hnedo-čierna"
   },
   {
@@ -11882,15 +11882,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Petzvalova",
-    "Orient._č.": "  53      ",
-    "Č._poschodia": "",
-    "Plemeno": "Bígl",
-    "Č._známky": "4165",
-    "Farba": "trikolóra"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Petzvalova",
     "Orient._č.": "  61      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -16715,15 +16706,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Pod Laščeky",
-    "Orient._č.": "  19      ",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "7161",
-    "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Pod Laščeky",
     "Orient._č.": "  23      ",
     "Č._poschodia": "",
     "Plemeno": "Teriér",
@@ -16855,6 +16837,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "5662",
     "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Požiarnická",
+    "Orient._č.": "   2      ",
+    "Č._poschodia": "",
+    "Plemeno": "Boloňský psík",
+    "Č._známky": "700",
+    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -29920,15 +29911,6 @@
     "Ulica": "Nanterská",
     "Orient._č.": "   7      ",
     "Č._poschodia": "",
-    "Plemeno": "Westhighlandský biely teriér",
-    "Č._známky": "4203",
-    "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Nanterská",
-    "Orient._č.": "   7      ",
-    "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "5059",
     "Farba": "čierno-hnedá"
@@ -35035,6 +35017,15 @@
     "Plemeno": "Miešanec",
     "Č._známky": "7924",
     "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Juraja Závodského",
+    "Orient._č.": "  61      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9207",
+    "Farba": "hnedo-biela"
   },
   {
     "Mesto": "Žilina",

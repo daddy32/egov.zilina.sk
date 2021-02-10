@@ -1,5 +1,77 @@
 [
   {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Na základe objednávky č. 202100325 Vám faktúrujeme: obed + bagety, množ.: 40, jedn. cena: 2,83 EUR, spolu: 113,2 EUR",
+    "Celková_cena_(bez_DPH)": "   113,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR,\rprevádzkové náklady za 1/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   351,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR,\rprevádzkové náklady za 12/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   351,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021005",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2020 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 1/2020 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210010",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210011",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210012",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste, množ.: 1, jedn. cena: 203,76 EUR, spolu: 203,76 EUR",
+    "Celková_cena_(bez_DPH)": "   203,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2021",
+    "Dátum_zverejnenia": "09.02.2021"
+  },
+  {
     "Číslo_faktúry": "2021004",
     "Odberateľ": "Mestský úrad Žilina",
     "Text_odb._faktúry": "zabezpečenie stravy pre personál na testovacích miestach v dňoch 6. - 7.2.2021 v zmysle vyhlásenej Mimoriadnej stituácie, množ.: 1, jedn. cena: 288,07 EUR, spolu: 288,07 EUR",

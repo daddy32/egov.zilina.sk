@@ -169,8 +169,8 @@
   },
   {
     "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
     "Suma_daňových_nedoplatkov": "  25 057,58",
     "Mena": "EUR"
   },
@@ -6706,20 +6706,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Rác",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jozefína Rácová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozefína Stojková",
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
@@ -9452,6 +9438,20 @@
   {
     "Dlžník": "Ján Dávidík",
     "Adresa_dlžníka": "Osiková 3210/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   278,51",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Rác",
+    "Adresa_dlžníka": "Bratislavská 516/48",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   278,51",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozefína Rácová",
+    "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   278,51",
     "Mena": "EUR"
@@ -15260,13 +15260,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Chobot",
-    "Adresa_dlžníka": "Na lány 114/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   198,81",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Baláž",
     "Adresa_dlžníka": "Dadanova 3386/9",
     "Mesto": "Žilina",
@@ -17259,6 +17252,13 @@
     "Adresa_dlžníka": "Na Záchrastí 383/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   171,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Chobot",
+    "Adresa_dlžníka": "Na lány 114/15",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   171,22",
     "Mena": "EUR"
   },
   {
