@@ -2,6 +2,42 @@
   {
     "Číslo_faktúry": "2021002",
     "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie na základe objednávky č.202100322, množ.: 20, jedn. cena: 2,83 EUR, spolu: 56,6 EUR",
+    "Celková_cena_(bez_DPH)": "   56,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.02.2021",
+    "Dátum_zverejnenia": "10.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210015",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 9129,03 EUR, spolu: 9129,03 EUR",
+    "Celková_cena_(bez_DPH)": "  9 129,03",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.02.2021",
+    "Dátum_zverejnenia": "10.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210013",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",
+    "Celková_cena_(bez_DPH)": "   89,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.02.2021",
+    "Dátum_zverejnenia": "10.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210014",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 382,76 EUR, spolu: 382,76 EUR",
+    "Celková_cena_(bez_DPH)": "   382,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.02.2021",
+    "Dátum_zverejnenia": "10.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mesto Žilina",
     "Text_odb._faktúry": "Na základe objednávky č. 202100325 Vám faktúrujeme: obed + bagety, množ.: 40, jedn. cena: 2,83 EUR, spolu: 113,2 EUR",
     "Celková_cena_(bez_DPH)": "   113,20",
     "Mena": "EUR",
