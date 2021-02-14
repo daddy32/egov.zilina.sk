@@ -11158,13 +11158,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marta Kasperská",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3148/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   253,64",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Brezničan",
     "Adresa_dlžníka": "Čajakova 2177/21",
     "Mesto": "Žilina",
@@ -14256,6 +14249,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   214,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Marta Kasperská",
+    "Adresa_dlžníka": "Jána Vojtaššáka 3148/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   213,64",
     "Mena": "EUR"
   },
   {
@@ -17761,13 +17761,6 @@
   {
     "Dlžník": "Marián Kurej - DOMINIKA",
     "Adresa_dlžníka": "Jura Hronca 3409/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   164,73",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Dudík - TIME IN",
-    "Adresa_dlžníka": "Mariánske námestie 1470/32",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,73",
     "Mena": "EUR"
