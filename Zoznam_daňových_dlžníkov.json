@@ -12782,13 +12782,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mgr. Janka Súkeníková",
-    "Adresa_dlžníka": "Brodňanská 111/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   222,06",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Viera Facunová",
     "Adresa_dlžníka": "Ľubľanská 2981/4",
     "Mesto": "Žilina",
@@ -15897,13 +15890,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivan Sudzina",
-    "Adresa_dlžníka": "Jaseňová 3221/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   183,82",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "František Šmehil",
     "Adresa_dlžníka": "Lichardova 2804/21",
     "Mesto": "Žilina",
@@ -17966,6 +17952,13 @@
     "Adresa_dlžníka": "Dedinská 129/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   59,32",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivan Sudzina",
+    "Adresa_dlžníka": "Jaseňová 3221/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   32,59",
     "Mena": "EUR"
   },
   {
