@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "20210016",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1509,09 EUR, spolu: 1509,09 EUR",
+    "Celková_cena_(bez_DPH)": "  1 509,09",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2021",
+    "Dátum_zverejnenia": "15.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021005",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy pre personál na testovacích miestach v dňoch 13.-14.2021v zmysle vyhlásenej Mimoriadnej situácie, množ.: 1, jedn. cena: 396,18 EUR, spolu: 396,18 EUR",
+    "Celková_cena_(bez_DPH)": "   396,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2021",
+    "Dátum_zverejnenia": "15.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 663,8 EUR, spolu: 663,8 EUR",
+    "Celková_cena_(bez_DPH)": "   663,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.01.2021",
+    "Dátum_zverejnenia": "15.02.2021"
+  },
+  {
     "Číslo_faktúry": "2021002",
     "Odberateľ": "Mesto Žilina",
     "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste v zmysle vyhlásenej Mimoriadnej situácie na základe objednávky č.202100322, množ.: 20, jedn. cena: 2,83 EUR, spolu: 56,6 EUR",
@@ -7003,7 +7030,7 @@
   },
   {
     "Číslo_faktúry": "20190219",
-    "Odberateľ": "Sunny House s.r.o.",
+    "Odberateľ": "Raed SK s.r.o.",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 230,35 EUR, spolu: 230,35 EUR",
     "Celková_cena_(bez_DPH)": "   230,35",
     "Mena": "EUR",
