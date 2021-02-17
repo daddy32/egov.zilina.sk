@@ -1331,7 +1331,7 @@
   },
   {
     "Dlžník": "Pavol Drdák",
-    "Adresa_dlžníka": "Na Píle 572/10",
+    "Adresa_dlžníka": "Na píle 572/10",
     "Mesto": "Konská",
     "Suma_daňových_nedoplatkov": "  1 214,40",
     "Mena": "EUR"
@@ -1887,13 +1887,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   454,31",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vladimír Židek",
-    "Adresa_dlžníka": "Hodžova 209/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   452,80",
     "Mena": "EUR"
   },
   {
@@ -7228,13 +7221,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   300,34",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Pavol Mrázik",
-    "Adresa_dlžníka": "Pittsburgská 1673/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   300,29",
     "Mena": "EUR"
   },
   {
@@ -15127,6 +15113,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Pavol Mrázik",
+    "Adresa_dlžníka": "Pittsburgská 1673/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   200,29",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Kobzák",
     "Adresa_dlžníka": "Malá Čierna súp. č. 105",
     "Mesto": "Rajec",
@@ -17788,7 +17781,7 @@
   },
   {
     "Dlžník": "Ján Kvaček",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Veľká okružná 1309/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,43",
     "Mena": "EUR"
@@ -17938,6 +17931,13 @@
     "Adresa_dlžníka": "Bratislavská 513/42",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   160,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Vladimír Židek",
+    "Adresa_dlžníka": "Hodžova 209/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   152,80",
     "Mena": "EUR"
   },
   {
