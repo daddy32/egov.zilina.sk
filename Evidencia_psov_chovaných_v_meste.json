@@ -770,8 +770,8 @@
     "Orient._č.": "  33      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
-    "Č._známky": "3262",
-    "Farba": "zlato-hnedá"
+    "Č._známky": "",
+    "Farba": ""
   },
   {
     "Mesto": "Žilina",
@@ -3052,15 +3052,6 @@
   },
   {
     "Mesto": "Žilina",
-    "Ulica": "Čulenova",
-    "Orient._č.": "  42      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jazvečík",
-    "Č._známky": "7250",
-    "Farba": "sivo-čierna"
-  },
-  {
-    "Mesto": "Žilina",
     "Ulica": "Festivalová",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
@@ -3787,15 +3778,6 @@
     "Plemeno": "Bradáč",
     "Č._známky": "5597",
     "Farba": "soľ-korenie"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Mila Urbana",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "8197",
-    "Farba": "sivo-čierna"
   },
   {
     "Mesto": "Žilina",
@@ -11864,6 +11846,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Petzvalova",
+    "Orient._č.": "  47      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "bielo-hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Petzvalova",
     "Orient._č.": "  51      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -12859,6 +12850,15 @@
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "8829",
     "Farba": "modrá-trieslová"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gabajova",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Nemecký špic",
+    "Č._známky": "",
+    "Farba": "oranžová"
   },
   {
     "Mesto": "Žilina",
@@ -14956,6 +14956,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "6435",
     "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Tomáša Ružičku",
+    "Orient._č.": "   5      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "čierno-hnedo-biela"
   },
   {
     "Mesto": "Žilina",
@@ -22511,6 +22520,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Martina Rázusa",
+    "Orient._č.": "  94      ",
+    "Č._poschodia": "",
+    "Plemeno": "Pudel",
+    "Č._známky": "",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Martina Rázusa",
     "Orient._č.": " 110      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -23056,6 +23074,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "6168",
     "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Predmestská",
+    "Orient._č.": "  30      ",
+    "Č._poschodia": "",
+    "Plemeno": "Jazvečík",
+    "Č._známky": "7250",
+    "Farba": "sivo-čierna"
   },
   {
     "Mesto": "Žilina",
@@ -29986,15 +30013,6 @@
     "Plemeno": "Mops",
     "Č._známky": "7203",
     "Farba": "sivá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Nanterská",
-    "Orient._č.": "  18      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "8122",
-    "Farba": "čierno-hnedá"
   },
   {
     "Mesto": "Žilina",
