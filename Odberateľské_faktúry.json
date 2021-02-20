@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Testovanie COVID - strava, množ.: 1, jedn. cena: 113,2 EUR, spolu: 113,2 EUR",
+    "Celková_cena_(bez_DPH)": "   113,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.01.2021",
+    "Dátum_zverejnenia": "19.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Testovanie COVID - strava, množ.: 1, jedn. cena: 56,6 EUR, spolu: 56,6 EUR",
+    "Celková_cena_(bez_DPH)": "   56,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.02.2021",
+    "Dátum_zverejnenia": "19.02.2021"
+  },
+  {
     "Číslo_faktúry": "20210018",
     "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",

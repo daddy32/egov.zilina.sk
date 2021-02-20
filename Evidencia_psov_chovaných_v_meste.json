@@ -2261,15 +2261,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Záhradnícka",
-    "Orient._č.": "  30      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "4953",
-    "Farba": "sivá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Záhradnícka",
     "Orient._č.": "  34      ",
     "Č._poschodia": "",
     "Plemeno": "Maltézsky psík",
@@ -7018,6 +7009,15 @@
     "Plemeno": "Pražský krysařík",
     "Č._známky": "308",
     "Farba": "pálená"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Letná",
+    "Orient._č.": "  16      ",
+    "Č._poschodia": "",
+    "Plemeno": "Trpasličí pinč",
+    "Č._známky": "9295",
+    "Farba": "čierna-pálená"
   },
   {
     "Mesto": "Žilina",
@@ -13547,15 +13547,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Juraja Fándlyho",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Trpasličí pinč",
-    "Č._známky": "9295",
-    "Farba": "čierna-pálená"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Juraja Fándlyho",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
     "Plemeno": "Maltézsky psík",
@@ -18484,15 +18475,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "3259",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Dubová",
-    "Orient._č.": "   4      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "6458",
-    "Farba": "pálená"
   },
   {
     "Mesto": "Žilina",
@@ -31561,15 +31543,6 @@
     "Plemeno": "Jack russel teriér",
     "Č._známky": "005",
     "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Tulská",
-    "Orient._č.": "  28      ",
-    "Č._poschodia": "",
-    "Plemeno": "Parson Russel Teriér",
-    "Č._známky": "6808",
-    "Farba": "tricolor"
   },
   {
     "Mesto": "Žilina",

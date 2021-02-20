@@ -1005,8 +1005,8 @@
     "Na_prechodnom_pobyte": "   3",
     "Ženy": "   77",
     "Muži": "   60",
-    "V_predproduktívnom_veku": "   32",
-    "V_produktívnom_veku": "   77",
+    "V_predproduktívnom_veku": "   31",
+    "V_produktívnom_veku": "   78",
     "V_poproduktívnom_veku": "   28"
   },
   {
@@ -1205,8 +1205,8 @@
     "Na_prechodnom_pobyte": "   39",
     "Ženy": "   536",
     "Muži": "   442",
-    "V_predproduktívnom_veku": "   103",
-    "V_produktívnom_veku": "   600",
+    "V_predproduktívnom_veku": "   102",
+    "V_produktívnom_veku": "   601",
     "V_poproduktívnom_veku": "   275"
   },
   {
@@ -1236,8 +1236,8 @@
     "Ženy": "   332",
     "Muži": "   270",
     "V_predproduktívnom_veku": "   79",
-    "V_produktívnom_veku": "   380",
-    "V_poproduktívnom_veku": "   143"
+    "V_produktívnom_veku": "   379",
+    "V_poproduktívnom_veku": "   144"
   },
   {
     "Ulica": "Holubia",
@@ -1811,13 +1811,13 @@
   },
   {
     "Ulica": "Karpatská",
-    "Na_trvalom_pobyte": "   594",
+    "Na_trvalom_pobyte": "   593",
     "Na_prechodnom_pobyte": "   92",
     "Ženy": "   399",
-    "Muži": "   286",
+    "Muži": "   285",
     "V_predproduktívnom_veku": "   102",
     "V_produktívnom_veku": "   333",
-    "V_poproduktívnom_veku": "   250"
+    "V_poproduktívnom_veku": "   249"
   },
   {
     "Ulica": "Kempelenova",
@@ -2271,12 +2271,12 @@
   },
   {
     "Ulica": "Ľubľanská",
-    "Na_trvalom_pobyte": "   609",
+    "Na_trvalom_pobyte": "   611",
     "Na_prechodnom_pobyte": "   8",
-    "Ženy": "   335",
-    "Muži": "   282",
-    "V_predproduktívnom_veku": "   90",
-    "V_produktívnom_veku": "   354",
+    "Ženy": "   336",
+    "Muži": "   283",
+    "V_predproduktívnom_veku": "   91",
+    "V_produktívnom_veku": "   355",
     "V_poproduktívnom_veku": "   173"
   },
   {
@@ -2951,12 +2951,12 @@
   },
   {
     "Ulica": "Námestie Ľudovíta Fullu",
-    "Na_trvalom_pobyte": "   715",
+    "Na_trvalom_pobyte": "   717",
     "Na_prechodnom_pobyte": "   6",
-    "Ženy": "   400",
-    "Muži": "   320",
+    "Ženy": "   401",
+    "Muži": "   321",
     "V_predproduktívnom_veku": "   94",
-    "V_produktívnom_veku": "   378",
+    "V_produktívnom_veku": "   380",
     "V_poproduktívnom_veku": "   248"
   },
   {
@@ -4701,12 +4701,12 @@
   },
   {
     "Ulica": "Veľká okružná",
-    "Na_trvalom_pobyte": "   603",
+    "Na_trvalom_pobyte": "   602",
     "Na_prechodnom_pobyte": "   9",
-    "Ženy": "   325",
+    "Ženy": "   324",
     "Muži": "   287",
     "V_predproduktívnom_veku": "   91",
-    "V_produktívnom_veku": "   376",
+    "V_produktívnom_veku": "   375",
     "V_poproduktívnom_veku": "   145"
   },
   {
