@@ -16828,13 +16828,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Juraj Horniak",
-    "Adresa_dlžníka": "Nová 443/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   175,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lukáš Žofčík",
     "Adresa_dlžníka": "súp. č. 16",
     "Mesto": "Rudina",
@@ -17903,6 +17896,13 @@
     "Adresa_dlžníka": "Labutia 202/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   142,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Juraj Horniak",
+    "Adresa_dlžníka": "Nová 443/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   60,72",
     "Mena": "EUR"
   },
   {

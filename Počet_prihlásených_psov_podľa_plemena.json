@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1021"
+    "Počet": "1022"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "112"
+    "Počet": "111"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -208,10 +208,6 @@
     "Počet": "11"
   },
   {
-    "Plemeno": "Tibetský teriér",
-    "Počet": "11"
-  },
-  {
     "Plemeno": "Pomeranian",
     "Počet": "11"
   },
@@ -225,6 +221,10 @@
   },
   {
     "Plemeno": "Šarpej",
+    "Počet": "10"
+  },
+  {
+    "Plemeno": "Tibetský teriér",
     "Počet": "10"
   },
   {
