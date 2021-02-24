@@ -1,15 +1,15 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1022"
+    "Počet": "1025"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "363"
+    "Počet": "364"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "263"
+    "Počet": "264"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -17,7 +17,7 @@
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "211"
+    "Počet": "212"
   },
   {
     "Plemeno": "Čivava",
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "111"
+    "Počet": "112"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "93"
+    "Počet": "92"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -77,7 +77,7 @@
   },
   {
     "Plemeno": "Francúzsky buldoček",
-    "Počet": "42"
+    "Počet": "43"
   },
   {
     "Plemeno": "Bradáč",
@@ -85,7 +85,7 @@
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
-    "Počet": "38"
+    "Počet": "37"
   },
   {
     "Plemeno": "Pudel",
@@ -777,6 +777,10 @@
   },
   {
     "Plemeno": "Presa Canario",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Central Asia Shepherd dog",
     "Počet": "1"
   }
 ]
