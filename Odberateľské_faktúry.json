@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "2021005",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste, množ.: 1, jedn. cena: 203,76 EUR, spolu: 203,76 EUR",
+    "Celková_cena_(bez_DPH)": "   203,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2021",
+    "Dátum_zverejnenia": "24.02.2021"
+  },
+  {
+    "Číslo_faktúry": "20210020",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 20462,43 EUR, spolu: 20462,43 EUR",
+    "Celková_cena_(bez_DPH)": "  20 462,43",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.02.2021",
+    "Dátum_zverejnenia": "24.02.2021"
+  },
+  {
     "Číslo_faktúry": "2021006",
     "Odberateľ": "Mesto Žilina",
     "Text_odb._faktúry": "Na základe objednávky č. 202100492 Vám faktúrujeme obedy - polievka + hl.jedlo, množ.: 140, jedn. cena: 2,83 EUR, spolu: 396,2 EUR",
