@@ -1771,13 +1771,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Lišková",
-    "Adresa_dlžníka": "Ďatlia 56/32",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   483,01",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zuzana Choleva",
     "Adresa_dlžníka": "Karola Kmeťku 3150/2",
     "Mesto": "Žilina",
@@ -1915,6 +1908,13 @@
     "Adresa_dlžníka": "Hlinská 2592/14",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   419,41",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Lišková",
+    "Adresa_dlžníka": "Ďatlia 56/32",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   419,14",
     "Mena": "EUR"
   },
   {
@@ -2251,13 +2251,6 @@
     "Adresa_dlžníka": "Strážovská 283/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   331,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Milan Lehocky",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/64",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   330,65",
     "Mena": "EUR"
   },
   {
