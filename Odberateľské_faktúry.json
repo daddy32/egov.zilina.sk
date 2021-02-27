@@ -1,5 +1,32 @@
 [
   {
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy testovanie COVID 23.1.-24.1.2021, množ.: 1, jedn. cena: 141,79 EUR, spolu: 141,79 EUR",
+    "Celková_cena_(bez_DPH)": "   141,79",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.01.2021",
+    "Dátum_zverejnenia": "26.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy testovanie COVID 6.2.-7.2.2021, množ.: 1, jedn. cena: 143,87 EUR, spolu: 143,87 EUR",
+    "Celková_cena_(bez_DPH)": "   143,87",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.02.2021",
+    "Dátum_zverejnenia": "26.02.2021"
+  },
+  {
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "zabezpečenie stravy testovanie COVID 13.2.-14.2.2021, množ.: 1, jedn. cena: 237,09 EUR, spolu: 237,09 EUR",
+    "Celková_cena_(bez_DPH)": "   237,09",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2021",
+    "Dátum_zverejnenia": "26.02.2021"
+  },
+  {
     "Číslo_faktúry": "2021005",
     "Odberateľ": "Mestský úrad Žilina",
     "Text_odb._faktúry": "Zabezpečenie stravy pre personál na testovacom mieste, množ.: 1, jedn. cena: 203,76 EUR, spolu: 203,76 EUR",

@@ -52,7 +52,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  57 473,93",
+    "Suma_daňových_nedoplatkov": "  56 473,93",
     "Mena": "EUR"
   },
   {
@@ -168,17 +168,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  25 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Biliardový klub Karambol Žilina",
     "Adresa_dlžníka": "Ružová 1637/34",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  23 762,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  23 057,58",
     "Mena": "EUR"
   },
   {
@@ -742,13 +742,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Pavlíková",
-    "Adresa_dlžníka": "Antona Bielka 697/40",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 227,05",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "AKIN, s.r.o., v likvidácii",
     "Adresa_dlžníka": "Stavbárska 5178/42",
     "Mesto": "Bratislava-Vrakuňa",
@@ -760,6 +753,13 @@
     "Adresa_dlžníka": "Stolečné súp. č. 900",
     "Mesto": "Dlhé Pole",
     "Suma_daňových_nedoplatkov": "  3 185,33",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Pavlíková",
+    "Adresa_dlžníka": "Antona Bielka 697/40",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 176,10",
     "Mena": "EUR"
   },
   {
@@ -2055,13 +2055,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   363,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Rastislav Bulej",
-    "Adresa_dlžníka": "súp. č. 215",
-    "Mesto": "Mojš",
-    "Suma_daňových_nedoplatkov": "   360,26",
     "Mena": "EUR"
   },
   {
@@ -17587,13 +17580,6 @@
     "Dlžník": "Dominika Novosadová - Kadernícky salón Dominika",
     "Adresa_dlžníka": "súp. č. 129",
     "Mesto": "Lalinok",
-    "Suma_daňových_nedoplatkov": "   164,73",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dušan Lapoš -DAM Autocolor",
-    "Adresa_dlžníka": "Pri Celulózke 1385/25",
-    "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,73",
     "Mena": "EUR"
   },
