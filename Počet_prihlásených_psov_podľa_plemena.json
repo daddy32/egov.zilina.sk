@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1025"
+    "Počet": "1022"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "219"
+    "Počet": "218"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "92"
+    "Počet": "91"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -244,16 +244,16 @@
     "Počet": "8"
   },
   {
+    "Plemeno": "Bostonský teriér",
+    "Počet": "8"
+  },
+  {
     "Plemeno": "Foxteriér",
     "Počet": "8"
   },
   {
     "Plemeno": "Tibetská doga",
     "Počet": "8"
-  },
-  {
-    "Plemeno": "Bostonský teriér",
-    "Počet": "7"
   },
   {
     "Plemeno": "Írsky červený seter",
@@ -325,10 +325,6 @@
   },
   {
     "Plemeno": "Austrálsky teriér",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Coton de Tuléar",
     "Počet": "4"
   },
   {
@@ -405,6 +401,10 @@
   },
   {
     "Plemeno": "Bullmastiff",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Coton de Tuléar",
     "Počet": "3"
   },
   {

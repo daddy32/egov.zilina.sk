@@ -1078,13 +1078,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MUDr. Igor Fulla, s.r.o.",
-    "Adresa_dlžníka": "Hurbanova súp. č. 2690",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  2 007,36",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Zajac",
     "Adresa_dlžníka": "Fatranská 3102/16",
     "Mesto": "Žilina",
@@ -1110,6 +1103,13 @@
     "Adresa_dlžníka": "Námestie slobody 1407/5",
     "Mesto": "Púchov",
     "Suma_daňových_nedoplatkov": "  1 949,29",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "MUDr. Igor Fulla, s.r.o.",
+    "Adresa_dlžníka": "Hurbanova súp. č. 2690",
+    "Mesto": "Kysucké Nové Mesto",
+    "Suma_daňových_nedoplatkov": "  1 925,00",
     "Mena": "EUR"
   },
   {
@@ -12023,13 +12023,6 @@
     "Adresa_dlžníka": "Tulská 2283/17",
     "Mesto": "Zvolen",
     "Suma_daňových_nedoplatkov": "   233,19",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Špenerová",
-    "Adresa_dlžníka": "Šoltésovej 405/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,10",
     "Mena": "EUR"
   },
   {
