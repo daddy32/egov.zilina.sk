@@ -1,33 +1,56 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Orgán_samosprávy": "Komisia dopravy a správy miestnych komunikácií"
+  },
+  {
+    "Orgán_samosprávy": "Komisia finančná"
+  },
+  {
+    "Orgán_samosprávy": "Komisia mládeže a športu"
+  },
+  {
+    "Orgán_samosprávy": "Komisia podnikateľská, obchodu a cestovného ruchu"
+  },
+  {
+    "Orgán_samosprávy": "Komisia sociálna, zdravotná a bytová"
+  },
+  {
+    "Orgán_samosprávy": "Komisia výstavby, územného plánovania a životného prostredia"
+  },
+  {
+    "Orgán_samosprávy": "Komisia vzdelávania, školstva a kultúry"
+  },
+  {
+    "Orgán_samosprávy": "Mesto"
+  },
+  {
+    "Orgán_samosprávy": "Mestská rada"
+  },
+  {
+    "Orgán_samosprávy": "Mestské zastupiteľstvo"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 1"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 2"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 3"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 4"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 5"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 6"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 7"
+  },
+  {
+    "Orgán_samosprávy": "Výbor mestskej časti č. 8"
+  }
+]
