@@ -49,13 +49,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  56 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "CERTIFIKOVANÁ  INVESTIČNÁ A STAVEBNÁ SPOLOČNOSŤ, s.r.o.",
     "Adresa_dlžníka": "Dlhá 589/90",
     "Mesto": "Žilina",
@@ -81,6 +74,13 @@
     "Adresa_dlžníka": "Nová 335/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  55 299,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  54 473,93",
     "Mena": "EUR"
   },
   {
@@ -1106,13 +1106,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MUDr. Igor Fulla, s.r.o.",
-    "Adresa_dlžníka": "Hurbanova súp. č. 2690",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  1 925,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Richter",
     "Adresa_dlžníka": "Mojšová Lúčka 113/113",
     "Mesto": "Žilina",
@@ -1130,13 +1123,6 @@
     "Dlžník": "No.95, s.r.o.",
     "Adresa_dlžníka": "Nádražná 2192/35",
     "Mesto": "Skalica",
-    "Suma_daňových_nedoplatkov": "  1 887,60",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "VAMO REAL, s.r.o.",
-    "Adresa_dlžníka": "Uhoľná 572/3",
-    "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  1 887,60",
     "Mena": "EUR"
   },
@@ -15022,13 +15008,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Pavol Mrázik",
-    "Adresa_dlžníka": "Pittsburgská 1673/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,29",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Róbert Potančok",
     "Adresa_dlžníka": "súp. č. 99",
     "Mesto": "Fiľakovské Kováče",
@@ -17801,13 +17780,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vladimír Židek",
-    "Adresa_dlžníka": "Hodžova 209/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   152,80",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mariana Husárová",
     "Adresa_dlžníka": "Brodno 167/167",
     "Mesto": "Žilina",
@@ -17822,6 +17794,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Pavol Mrázik",
+    "Adresa_dlžníka": "Pittsburgská 1673/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   100,29",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Šeli Devacová",
     "Adresa_dlžníka": "Bajzova 2417/15",
     "Mesto": "Žilina",
@@ -17833,6 +17812,13 @@
     "Adresa_dlžníka": "Dedinská 129/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   59,32",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Vladimír Židek",
+    "Adresa_dlžníka": "Hodžova 209/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   52,80",
     "Mena": "EUR"
   },
   {

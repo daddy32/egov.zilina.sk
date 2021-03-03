@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1022"
+    "Počet": "1024"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "364"
+    "Počet": "363"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "218"
+    "Počet": "217"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "112"
+    "Počet": "111"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "91"
+    "Počet": "90"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -81,7 +81,7 @@
   },
   {
     "Plemeno": "Bradáč",
-    "Počet": "39"
+    "Počet": "40"
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "32"
+    "Počet": "33"
   },
   {
     "Plemeno": "Mops",
@@ -145,7 +145,7 @@
   },
   {
     "Plemeno": "Slovenský čuvač",
-    "Počet": "17"
+    "Počet": "18"
   },
   {
     "Plemeno": "Pražský krysařík",
@@ -172,6 +172,10 @@
     "Počet": "14"
   },
   {
+    "Plemeno": "Bavorský farbiar",
+    "Počet": "13"
+  },
+  {
     "Plemeno": "Anglický buldog",
     "Počet": "13"
   },
@@ -188,11 +192,11 @@
     "Počet": "13"
   },
   {
-    "Plemeno": "Bavorský farbiar",
+    "Plemeno": "Belgický ovčiak",
     "Počet": "12"
   },
   {
-    "Plemeno": "Belgický ovčiak",
+    "Plemeno": "Shiba inu",
     "Počet": "12"
   },
   {
@@ -204,7 +208,7 @@
     "Počet": "11"
   },
   {
-    "Plemeno": "Shiba inu",
+    "Plemeno": "Šarpej",
     "Počet": "11"
   },
   {
@@ -217,10 +221,6 @@
   },
   {
     "Plemeno": "Maďarský krátkosrstý stavač",
-    "Počet": "10"
-  },
-  {
-    "Plemeno": "Šarpej",
     "Počet": "10"
   },
   {
@@ -305,6 +305,10 @@
   },
   {
     "Plemeno": "Leonberger",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Whippet",
     "Počet": "5"
   },
   {
@@ -448,10 +452,6 @@
     "Počet": "3"
   },
   {
-    "Plemeno": "Whippet",
-    "Počet": "3"
-  },
-  {
     "Plemeno": "Westhighland white teriér",
     "Počet": "3"
   },
@@ -545,6 +545,10 @@
   },
   {
     "Plemeno": "Pointer",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Luisianský leopardí pes",
     "Počet": "2"
   },
   {
@@ -721,10 +725,6 @@
   },
   {
     "Plemeno": "Bloodhound",
-    "Počet": "1"
-  },
-  {
-    "Plemeno": "Luisianský leopardí pes",
     "Počet": "1"
   },
   {
