@@ -1309,13 +1309,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vladimír Borko T 613",
-    "Adresa_dlžníka": "Veľkonecpalská 148",
-    "Mesto": "Prievidza",
-    "Suma_daňových_nedoplatkov": "  1 200,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Škatuláková",
     "Adresa_dlžníka": "5",
     "Mesto": "Konská",
@@ -1817,13 +1810,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   455,92",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vladimír Beszédes",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   454,31",
     "Mena": "EUR"
   },
   {
@@ -12558,13 +12544,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "František Horvát SMČ",
-    "Adresa_dlžníka": "Záhrbie 211/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   226,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Rudolf Zemčík",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -17791,6 +17770,13 @@
     "Adresa_dlžníka": "Labutia 202/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   142,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "František Horvát SMČ",
+    "Adresa_dlžníka": "Záhrbie 211/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   125,10",
     "Mena": "EUR"
   },
   {
