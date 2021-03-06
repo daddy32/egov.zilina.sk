@@ -1172,6 +1172,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Mesačná",
+    "Orient._č.": "  12      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "Čierno-bielo-hnedý"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Mesačná",
     "Orient._č.": "  15      ",
     "Č._poschodia": "",
     "Plemeno": "Miešanec",
@@ -6163,6 +6172,15 @@
     "Plemeno": "Československý vlčiak",
     "Č._známky": "9267",
     "Farba": "vlko-šedý"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Cesta k vodojemu",
+    "Orient._č.": "   9      ",
+    "Č._poschodia": "",
+    "Plemeno": "Rotvajler",
+    "Č._známky": "",
+    "Farba": "pálená čierna"
   },
   {
     "Mesto": "Žilina",
@@ -18623,6 +18641,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Dubová",
+    "Orient._č.": "  29      ",
+    "Č._poschodia": "",
+    "Plemeno": "Čivava",
+    "Č._známky": "",
+    "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Dubová",
     "Orient._č.": "  31      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -28910,6 +28937,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Gerlachovská",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gerlachovská",
     "Orient._č.": "   7      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -29563,15 +29599,6 @@
     "Plemeno": "Bradáč",
     "Č._známky": "9107",
     "Farba": "čierno-biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Martinská",
-    "Orient._č.": "   9      ",
-    "Č._poschodia": "",
-    "Plemeno": "Boloňský psík",
-    "Č._známky": "7160",
-    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -31741,6 +31768,15 @@
     "Plemeno": "Čivava",
     "Č._známky": "7248",
     "Farba": "Kapučino"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Zvolenská",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Francúzsky buldoček",
+    "Č._známky": "",
+    "Farba": "plavá"
   },
   {
     "Mesto": "Žilina",
