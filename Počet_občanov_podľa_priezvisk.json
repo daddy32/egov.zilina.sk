@@ -32,7 +32,7 @@
   {
     "Priezvisko": "Šoška",
     "Pohlavie": "muž",
-    "Počet": "109"
+    "Počet": "108"
   },
   {
     "Priezvisko": "Závodský",
@@ -850,6 +850,11 @@
     "Počet": "38"
   },
   {
+    "Priezvisko": "Matušík",
+    "Pohlavie": "muž",
+    "Počet": "38"
+  },
+  {
     "Priezvisko": "Matušíková",
     "Pohlavie": "žena",
     "Počet": "38"
@@ -917,11 +922,6 @@
   {
     "Priezvisko": "Majtánová",
     "Pohlavie": "žena",
-    "Počet": "37"
-  },
-  {
-    "Priezvisko": "Matušík",
-    "Pohlavie": "muž",
     "Počet": "37"
   },
   {
@@ -21630,11 +21630,6 @@
     "Počet": "5"
   },
   {
-    "Priezvisko": "Szatmárová",
-    "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
     "Priezvisko": "Šadláková",
     "Pohlavie": "žena",
     "Počet": "5"
@@ -41515,11 +41510,6 @@
     "Počet": "2"
   },
   {
-    "Priezvisko": "Bajanková",
-    "Pohlavie": "žena",
-    "Počet": "2"
-  },
-  {
     "Priezvisko": "Bajanová",
     "Pohlavie": "žena",
     "Počet": "2"
@@ -56875,6 +56865,11 @@
     "Počet": "2"
   },
   {
+    "Priezvisko": "Szatmárová",
+    "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
     "Priezvisko": "Szczypiński",
     "Pohlavie": "muž",
     "Počet": "2"
@@ -60875,6 +60870,11 @@
     "Počet": "1"
   },
   {
+    "Priezvisko": "Bajanková",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
     "Priezvisko": "Bajcarová",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -63980,7 +63980,7 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "cimbalová",
+    "Priezvisko": "Cimbalová",
     "Pohlavie": "žena",
     "Počet": "1"
   },
@@ -77085,6 +77085,11 @@
     "Počet": "1"
   },
   {
+    "Priezvisko": "Kurtulík",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
     "Priezvisko": "Kurunian",
     "Pohlavie": "muž",
     "Počet": "1"
@@ -87230,6 +87235,11 @@
     "Počet": "1"
   },
   {
+    "Priezvisko": "Siman",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
     "Priezvisko": "Simko",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -89361,11 +89371,6 @@
   },
   {
     "Priezvisko": "Šibíková Martincová",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Šidlová",
     "Pohlavie": "žena",
     "Počet": "1"
   },

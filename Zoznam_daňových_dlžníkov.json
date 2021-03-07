@@ -507,7 +507,7 @@
     "Dlžník": "PRESTAV ŽILINA s.r.o.",
     "Adresa_dlžníka": "Bánovská cesta 8024/10",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  6 455,06",
+    "Suma_daňových_nedoplatkov": "  6 397,16",
     "Mena": "EUR"
   },
   {
@@ -3586,13 +3586,6 @@
   {
     "Dlžník": "Jozef Stojka",
     "Adresa_dlžníka": "Kysucká 570/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jozef Šoška",
-    "Adresa_dlžníka": "Kubínska 1105/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -8470,13 +8463,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Rudolf Tupý",
-    "Adresa_dlžníka": "Gaštanová 3080/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   296,88",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucia Ballayová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -12506,13 +12492,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   228,84",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michaela Totáč",
-    "Adresa_dlžníka": "Lesná 60/11",
-    "Mesto": "Zbyňov",
-    "Suma_daňových_nedoplatkov": "   228,78",
     "Mena": "EUR"
   },
   {
@@ -17777,6 +17756,13 @@
     "Adresa_dlžníka": "Záhrbie 211/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   125,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michaela Totáč",
+    "Adresa_dlžníka": "Lesná 60/11",
+    "Mesto": "Zbyňov",
+    "Suma_daňových_nedoplatkov": "   99,45",
     "Mena": "EUR"
   },
   {
