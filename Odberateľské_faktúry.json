@@ -1,5 +1,14 @@
 [
   {
+    "Číslo_faktúry": "21001",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "El. energia, množ.: 1, jedn. cena: 294,14 EUR, spolu: 294,14 EUR",
+    "Celková_cena_(bez_DPH)": "   294,14",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.02.2021",
+    "Dátum_zverejnenia": "08.03.2021"
+  },
+  {
     "Číslo_faktúry": "20210022",
     "Odberateľ": "Materská škola",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",

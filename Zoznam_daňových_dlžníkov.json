@@ -238,13 +238,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "BCI, a.s.",
-    "Adresa_dlžníka": "Mydlárska 8718/7A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  14 258,77",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "REALITY-X22 CZ s.r.o.",
     "Adresa_dlžníka": "Nám. 1. máje súp. č. 1605",
     "Mesto": "Uherský Brod",
@@ -312,6 +305,13 @@
     "Adresa_dlžníka": "Predmestská 1608/90",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  11 677,01",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "BCI, a.s.",
+    "Adresa_dlžníka": "Mydlárska 8718/7A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  11 388,37",
     "Mena": "EUR"
   },
   {
@@ -1113,13 +1113,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "GIENGER spol. s r.o.",
-    "Adresa_dlžníka": "Rastislavova 4",
-    "Mesto": "Lužianky",
-    "Suma_daňových_nedoplatkov": "  1 887,60",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "No.95, s.r.o.",
     "Adresa_dlžníka": "Nádražná 2192/35",
     "Mesto": "Skalica",
@@ -1418,13 +1411,6 @@
     "Adresa_dlžníka": "Borová 3176/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   947,68",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Ľuboš Plešinger - TANEČNÁ ŠKOLA",
-    "Adresa_dlžníka": "Jedlíkova 3429/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   943,80",
     "Mena": "EUR"
   },
   {
@@ -2041,13 +2027,6 @@
     "Adresa_dlžníka": "Fraňa Mráza 627/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   357,48",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Ján Sládek VELOSPRINT",
-    "Adresa_dlžníka": "Damborského 7",
-    "Mesto": "Nitra",
-    "Suma_daňových_nedoplatkov": "   355,88",
     "Mena": "EUR"
   },
   {
@@ -17819,6 +17798,13 @@
     "Adresa_dlžníka": "Pod vinicou 247/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   19,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Ján Sládek VELOSPRINT",
+    "Adresa_dlžníka": "Damborského 7",
+    "Mesto": "Nitra",
+    "Suma_daňových_nedoplatkov": "   11,89",
     "Mena": "EUR"
   }
 ]
