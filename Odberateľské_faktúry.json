@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "202101",
+    "Odberateľ": "ŽILBYT, s.r.o.",
+    "Text_odb._faktúry": "Nájomné za rok 2021, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR",
+    "Celková_cena_(bez_DPH)": "   1,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "09.03.2021"
+  },
+  {
+    "Číslo_faktúry": "202102",
+    "Odberateľ": "ŽILBYT, s.r.o.",
+    "Text_odb._faktúry": "Dobropis - prev. náklady Žilbyt za rok 2020, množ.: 1, jedn. cena: 1231,33 EUR, spolu: 1231,33 EUR",
+    "Celková_cena_(bez_DPH)": "  1 231,33",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2021",
+    "Dátum_zverejnenia": "09.03.2021"
+  },
+  {
     "Číslo_faktúry": "21001",
     "Odberateľ": "BYTTERM, a.s.",
     "Text_odb._faktúry": "El. energia, množ.: 1, jedn. cena: 294,14 EUR, spolu: 294,14 EUR",
