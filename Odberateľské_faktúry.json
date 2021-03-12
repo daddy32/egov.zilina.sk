@@ -1,5 +1,23 @@
 [
   {
+    "Číslo_faktúry": "20210024",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.03.2021",
+    "Dátum_zverejnenia": "11.03.2021"
+  },
+  {
+    "Číslo_faktúry": "20210025",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.03.2021",
+    "Dátum_zverejnenia": "11.03.2021"
+  },
+  {
     "Číslo_faktúry": "202101",
     "Odberateľ": "ŽILBYT, s.r.o.",
     "Text_odb._faktúry": "Nájomné za rok 2021, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR",
