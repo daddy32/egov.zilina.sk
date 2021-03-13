@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1029"
+    "Počet": "1030"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -12,16 +12,16 @@
     "Počet": "263"
   },
   {
+    "Plemeno": "Labradorský retriever",
+    "Počet": "213"
+  },
+  {
     "Plemeno": "Maltézsky psík",
     "Počet": "213"
   },
   {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "212"
-  },
-  {
     "Plemeno": "Čivava",
-    "Počet": "135"
+    "Počet": "134"
   },
   {
     "Plemeno": "Jazvečík",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "89"
+    "Počet": "90"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -49,7 +49,7 @@
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
-    "Počet": "60"
+    "Počet": "59"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -121,7 +121,7 @@
   },
   {
     "Plemeno": "Cane Corso",
-    "Počet": "24"
+    "Počet": "25"
   },
   {
     "Plemeno": "Hovawart",
@@ -144,12 +144,12 @@
     "Počet": "18"
   },
   {
-    "Plemeno": "Boloňský psík",
+    "Plemeno": "Pražský krysařík",
     "Počet": "17"
   },
   {
-    "Plemeno": "Pražský krysařík",
-    "Počet": "17"
+    "Plemeno": "Boloňský psík",
+    "Počet": "16"
   },
   {
     "Plemeno": "Nemecký boxer",
@@ -621,6 +621,10 @@
   },
   {
     "Plemeno": "Japonský čin",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Jazvečík - štandartný hrubosrstý",
     "Počet": "1"
   },
   {
