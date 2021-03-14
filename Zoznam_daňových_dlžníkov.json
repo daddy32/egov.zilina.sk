@@ -623,13 +623,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TECHNOKON a.s.",
-    "Adresa_dlžníka": "Antická 9",
-    "Mesto": "Bratislava",
-    "Suma_daňových_nedoplatkov": "  4 412,47",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Karol Grúň - MAXX TUNING",
     "Adresa_dlžníka": "Tulská 2972/2",
     "Mesto": "Žilina",
@@ -1113,6 +1106,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "TECHNOKON a.s.",
+    "Adresa_dlžníka": "Antická 9",
+    "Mesto": "Bratislava",
+    "Suma_daňových_nedoplatkov": "  1 912,47",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "No.95, s.r.o.",
     "Adresa_dlžníka": "Nádražná 2192/35",
     "Mesto": "Skalica",
@@ -1400,13 +1400,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubomír Backa",
-    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   961,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivanka Vaupotičová",
     "Adresa_dlžníka": "Borová 3176/3",
     "Mesto": "Žilina",
@@ -1418,6 +1411,13 @@
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   928,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomír Backa",
+    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   923,24",
     "Mena": "EUR"
   },
   {
@@ -1579,13 +1579,6 @@
     "Adresa_dlžníka": "Ľubľanská 2981/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   684,42",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Stanislav Kupčák",
-    "Adresa_dlžníka": "Gaštanová 3080/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   684,41",
     "Mena": "EUR"
   },
   {
