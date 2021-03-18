@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1030"
+    "Počet": "1031"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -40,11 +40,11 @@
     "Počet": "64"
   },
   {
-    "Plemeno": "Borderská kólia",
-    "Počet": "63"
+    "Plemeno": "Miešanec",
+    "Počet": "64"
   },
   {
-    "Plemeno": "Miešanec",
+    "Plemeno": "Borderská kólia",
     "Počet": "63"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "45"
+    "Počet": "46"
   },
   {
     "Plemeno": "Francúzsky buldoček",
@@ -144,12 +144,12 @@
     "Počet": "18"
   },
   {
-    "Plemeno": "Pražský krysařík",
+    "Plemeno": "Boloňský psík",
     "Počet": "17"
   },
   {
-    "Plemeno": "Boloňský psík",
-    "Počet": "16"
+    "Plemeno": "Pražský krysařík",
+    "Počet": "17"
   },
   {
     "Plemeno": "Nemecký boxer",
@@ -348,10 +348,6 @@
     "Počet": "4"
   },
   {
-    "Plemeno": "Novofundlandský pes",
-    "Počet": "4"
-  },
-  {
     "Plemeno": "Pekingský palácový psík",
     "Počet": "4"
   },
@@ -433,6 +429,10 @@
   },
   {
     "Plemeno": "Nemecký prepeličiar",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Novofundlandský pes",
     "Počet": "3"
   },
   {
@@ -785,6 +785,10 @@
   },
   {
     "Plemeno": "Central Asia Shepherd dog",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Švajčiarsky ovčiak",
     "Počet": "1"
   }
 ]
