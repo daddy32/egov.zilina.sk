@@ -175,13 +175,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  22 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "DREVOINDUSTRIA  a.s. v konkurze",
     "Adresa_dlžníka": "Dolné Rudiny 2955/3",
     "Mesto": "Žilina",
@@ -193,6 +186,13 @@
     "Adresa_dlžníka": "Sasinkova 37",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  21 371,67",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  21 057,58",
     "Mena": "EUR"
   },
   {
@@ -1848,13 +1848,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Lišková",
-    "Adresa_dlžníka": "Ďatlia 56/32",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   419,14",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Baron",
     "Adresa_dlžníka": "Hrabové 41/41",
     "Mesto": "Bytča",
@@ -1992,6 +1985,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   363,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Lišková",
+    "Adresa_dlžníka": "Ďatlia 56/32",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   358,93",
     "Mena": "EUR"
   },
   {
