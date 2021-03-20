@@ -483,13 +483,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "DMS GROUP, a.s.",
-    "Adresa_dlžníka": "Bánovská cesta 8024/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  7 668,88",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Akusha s.r.o.",
     "Adresa_dlžníka": "Magurská súp. č. 37",
     "Mesto": "Banská Bystrica",
@@ -592,6 +585,13 @@
     "Adresa_dlžníka": "Sokolovská 474/39",
     "Mesto": "Modra",
     "Suma_daňových_nedoplatkov": "  5 136,51",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "DMS GROUP, a.s.",
+    "Adresa_dlžníka": "Bánovská cesta 8024/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  4 991,23",
     "Mena": "EUR"
   },
   {
@@ -1124,13 +1124,6 @@
     "Adresa_dlžníka": "Karpatské námestie 10A",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  1 852,60",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Róbert Hančin",
-    "Adresa_dlžníka": "Smaragdová 931/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 829,73",
     "Mena": "EUR"
   },
   {
@@ -5357,13 +5350,6 @@
   {
     "Dlžník": "Róbert Bičanovský",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Róbert Majtán",
-    "Adresa_dlžníka": "Jura Hronca 3365/21",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
