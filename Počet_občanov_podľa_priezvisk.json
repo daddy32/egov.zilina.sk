@@ -690,6 +690,11 @@
     "Počet": "41"
   },
   {
+    "Priezvisko": "Ďurica",
+    "Pohlavie": "muž",
+    "Počet": "41"
+  },
+  {
     "Priezvisko": "Káčerová",
     "Pohlavie": "žena",
     "Počet": "41"
@@ -736,11 +741,6 @@
   },
   {
     "Priezvisko": "Ďurajka",
-    "Pohlavie": "muž",
-    "Počet": "40"
-  },
-  {
-    "Priezvisko": "Ďurica",
     "Pohlavie": "muž",
     "Počet": "40"
   },
@@ -39715,6 +39715,11 @@
     "Počet": "3"
   },
   {
+    "Priezvisko": "Šuster",
+    "Pohlavie": "muž",
+    "Počet": "3"
+  },
+  {
     "Priezvisko": "Šutorková",
     "Pohlavie": "žena",
     "Počet": "3"
@@ -57811,11 +57816,6 @@
   },
   {
     "Priezvisko": "Šurman",
-    "Pohlavie": "muž",
-    "Počet": "2"
-  },
-  {
-    "Priezvisko": "Šuster",
     "Pohlavie": "muž",
     "Počet": "2"
   },

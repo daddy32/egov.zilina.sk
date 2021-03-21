@@ -805,13 +805,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Frank Svihalek",
-    "Adresa_dlžníka": "Kuzmányho 101/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 906,27",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "AMOLER TRADE SLOVAKIA s.r.o.",
     "Adresa_dlžníka": "M. R. Štefánika 819/5",
     "Mesto": "Žilina",
@@ -837,6 +830,13 @@
     "Adresa_dlžníka": "Tomášikova 19",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  2 821,25",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Frank Svihalek",
+    "Adresa_dlžníka": "Kuzmányho 101/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 806,27",
     "Mena": "EUR"
   },
   {
@@ -872,13 +872,6 @@
     "Adresa_dlžníka": "Svatopetrská 35/7",
     "Mesto": "Brno",
     "Suma_daňových_nedoplatkov": "  2 675,12",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Všeobecná úverová banka, a.s.",
-    "Adresa_dlžníka": "Mlynské nivy 1",
-    "Mesto": "Bratislava-Staré Mesto",
-    "Suma_daňových_nedoplatkov": "  2 652,80",
     "Mena": "EUR"
   },
   {
@@ -959,13 +952,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Tibor Boľo",
-    "Adresa_dlžníka": "Dolná Trnovská 550/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 334,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "PRODUKT SK, s.r.o.",
     "Adresa_dlžníka": "Streženická súp. č. 1023",
     "Mesto": "Púchov",
@@ -1008,13 +994,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Trade rental, s.r.o.",
-    "Adresa_dlžníka": "Štrková 510/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 245,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "MTK Slovakia, s.r.o.",
     "Adresa_dlžníka": "Legionárska 8203/2",
     "Mesto": "Žilina",
@@ -1047,6 +1026,13 @@
     "Adresa_dlžníka": "Predmestská 1608/90",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 107,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Trade rental, s.r.o.",
+    "Adresa_dlžníka": "Štrková 510/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 095,04",
     "Mena": "EUR"
   },
   {
@@ -1183,13 +1169,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Hemčíková",
-    "Adresa_dlžníka": "Antona Bielka 545/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 650,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Ondro",
     "Adresa_dlžníka": "Labutia 140/58",
     "Mesto": "Žilina",
@@ -1222,6 +1201,13 @@
     "Adresa_dlžníka": "súp. č. 773",
     "Mesto": "Višňové",
     "Suma_daňových_nedoplatkov": "  1 453,05",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Hemčíková",
+    "Adresa_dlžníka": "Antona Bielka 545/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 450,00",
     "Mena": "EUR"
   },
   {
