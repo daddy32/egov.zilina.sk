@@ -1645,13 +1645,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   532,21",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "František Vanoch",
     "Adresa_dlžníka": "Matuškova 430/43",
     "Mesto": "Žilina",
@@ -1838,6 +1831,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   413,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   411,87",
     "Mena": "EUR"
   },
   {
@@ -9975,13 +9975,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Stojka",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   270,61",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Petra Šebestová",
     "Adresa_dlžníka": "Veľká okružná 2134/78",
     "Mesto": "Žilina",
@@ -17433,13 +17426,6 @@
     "Dlžník": "Dominika Novosadová - Kadernícky salón Dominika",
     "Adresa_dlžníka": "súp. č. 129",
     "Mesto": "Lalinok",
-    "Suma_daňových_nedoplatkov": "   164,73",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Marián Kurej - DOMINIKA",
-    "Adresa_dlžníka": "Jura Hronca 3409/11",
-    "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,73",
     "Mena": "EUR"
   },

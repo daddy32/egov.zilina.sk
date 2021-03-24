@@ -1313,7 +1313,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Andreja Kmeťa",
     "Orient._č.": "  30      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -5751,7 +5751,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Bratislavská",
     "Orient._č.": "   3      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -11043,7 +11043,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Červená",
     "Orient._č.": "  24      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -11309,7 +11309,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Daniela Dlabača",
     "Orient._č.": "   5      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -17056,7 +17056,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Dubová",
     "Orient._č.": "  17      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -22131,7 +22131,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Hollého",
     "Orient._č.": "  12      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -22404,7 +22404,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Hollého",
     "Orient._č.": "  52      ",
-    "Počet_psov": "3"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -24538,13 +24538,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Strážov",
     "Ulica": "Hričovská",
-    "Orient._č.": "  11A     ",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Strážov",
-    "Ulica": "Hričovská",
     "Orient._č.": "  13      ",
     "Počet_psov": "0"
   },
@@ -26310,7 +26303,7 @@
     "Časť_obce": "Bôrik",
     "Ulica": "Jána Kovalíka",
     "Orient._č.": "   9      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -26345,7 +26338,7 @@
     "Časť_obce": "Bôrik",
     "Ulica": "Jána Kovalíka",
     "Orient._č.": "  18      ",
-    "Počet_psov": "3"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -27864,7 +27857,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Jaseňová",
     "Orient._č.": "  27      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -37076,7 +37069,7 @@
     "Časť_obce": "Hliny",
     "Ulica": "Lichardova",
     "Orient._č.": "   7      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -37293,7 +37286,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Limbová",
     "Orient._č.": "   4      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -40450,7 +40443,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Martinská",
     "Orient._č.": "   9      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -45637,14 +45630,14 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Na Slini",
     "Orient._č.": "   8      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Na Slini",
     "Orient._č.": "  10      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -45903,7 +45896,7 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Na stanicu",
     "Orient._č.": "  45      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -46799,7 +46792,7 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Na Záchrastí",
     "Orient._č.": "  20      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -55332,7 +55325,7 @@
     "Časť_obce": "Závodie",
     "Ulica": "Pod Hradiskom",
     "Orient._č.": "  51      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -55710,7 +55703,7 @@
     "Časť_obce": "Považský Chlmec",
     "Ulica": "Pod Laščeky",
     "Orient._č.": "  15      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -59091,7 +59084,7 @@
     "Časť_obce": "Považský Chlmec",
     "Ulica": "Pri Kysuci",
     "Orient._č.": "  21      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -60708,7 +60701,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Purpurová",
     "Orient._č.": "  14      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -62850,7 +62843,7 @@
     "Časť_obce": "Závodie",
     "Ulica": "Roľnícka",
     "Orient._č.": "   1      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -69203,13 +69196,6 @@
   },
   {
     "Mesto": "Žilina",
-    "Časť_obce": "Bôrik",
-    "Ulica": "Tajovského",
-    "Orient._č.": "",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
     "Časť_obce": "Vlčince",
     "Ulica": "Tatranská",
     "Orient._č.": "   1      ",
@@ -70137,7 +70123,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Tulská",
     "Orient._č.": "  16      ",
-    "Počet_psov": "3"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -70200,7 +70186,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Tulská",
     "Orient._č.": "  25      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -70242,7 +70228,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Tulská",
     "Orient._č.": "  31      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -71257,7 +71243,7 @@
     "Časť_obce": "Bôrik",
     "Ulica": "Veľkomoravská",
     "Orient._č.": "   1      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -73805,7 +73791,7 @@
     "Časť_obce": "Zádubnie",
     "Ulica": "Zádubanská",
     "Orient._č.": "  66      ",
-    "Počet_psov": "3"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -77179,7 +77165,7 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Žilinská Lehota",
     "Orient._č.": "  49      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -77830,7 +77816,7 @@
     "Časť_obce": "Brodno",
     "Ulica": "",
     "Orient._č.": "",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
