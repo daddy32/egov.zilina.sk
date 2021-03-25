@@ -45,7 +45,7 @@
   },
   {
     "Plemeno": "Borderská kólia",
-    "Počet": "63"
+    "Počet": "62"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -100,10 +100,6 @@
     "Počet": "30"
   },
   {
-    "Plemeno": "Malý bradáč",
-    "Počet": "27"
-  },
-  {
     "Plemeno": "Stredoázijský ovčiak",
     "Počet": "27"
   },
@@ -113,6 +109,10 @@
   },
   {
     "Plemeno": "Bernský salašnícky pes",
+    "Počet": "26"
+  },
+  {
+    "Plemeno": "Malý bradáč",
     "Počet": "26"
   },
   {
@@ -328,6 +328,10 @@
     "Počet": "5"
   },
   {
+    "Plemeno": "Papilon",
+    "Počet": "5"
+  },
+  {
     "Plemeno": "Austrálsky teriér",
     "Počet": "4"
   },
@@ -381,10 +385,6 @@
   },
   {
     "Plemeno": "Flat Coated Retriever",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Papilon",
     "Počet": "4"
   },
   {
