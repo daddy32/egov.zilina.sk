@@ -83,15 +83,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Bláhova",
-    "Orient._č.": "  35      ",
-    "Č._poschodia": "",
-    "Plemeno": "Čínsky chocholatý pes",
-    "Č._známky": "279",
-    "Farba": ""
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Bláhova",
     "Orient._č.": "  39      ",
     "Č._poschodia": "",
     "Plemeno": "Tervueren",
@@ -5326,6 +5317,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "3142",
     "Farba": "krémová"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Podskaličná",
+    "Orient._č.": "   2      ",
+    "Č._poschodia": "",
+    "Plemeno": "Labradorský retriever",
+    "Č._známky": "",
+    "Farba": "zlato-biela"
   },
   {
     "Mesto": "Žilina",
@@ -18848,6 +18848,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Gaštanová",
+    "Orient._č.": "  26      ",
+    "Č._poschodia": "",
+    "Plemeno": "Čínsky chocholatý pes",
+    "Č._známky": "",
+    "Farba": "bielo-čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gaštanová",
     "Orient._č.": "  28      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -29404,6 +29413,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Ľubľanská",
+    "Orient._č.": "   9      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Martinská",
     "Orient._č.": "   2      ",
     "Č._poschodia": "",
@@ -29742,15 +29760,6 @@
     "Č._poschodia": "",
     "Plemeno": "Zlatý retriever",
     "Č._známky": "7024",
-    "Farba": "zlatá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Námestie Ľudovíta Fullu",
-    "Orient._č.": "  20      ",
-    "Č._poschodia": "",
-    "Plemeno": "Škótsky ovčiak dlhosrstý",
-    "Č._známky": "6090",
     "Farba": "zlatá"
   },
   {

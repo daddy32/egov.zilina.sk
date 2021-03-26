@@ -4382,13 +4382,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Dálnoki",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Dolanský",
     "Adresa_dlžníka": "Jána Vojtaššáka 3147/1",
     "Mesto": "Žilina",
@@ -12188,6 +12181,13 @@
   },
   {
     "Dlžník": "Michal Baláž",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   230,98",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michal Dálnoki",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
