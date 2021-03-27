@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1025"
+    "Počet": "1026"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "356"
+    "Počet": "355"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -37,7 +37,7 @@
   },
   {
     "Plemeno": "Shih - tzu",
-    "Počet": "65"
+    "Počet": "64"
   },
   {
     "Plemeno": "Miešanec",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "33"
+    "Počet": "32"
   },
   {
     "Plemeno": "Mops",
@@ -352,6 +352,10 @@
     "Počet": "4"
   },
   {
+    "Plemeno": "Novofundlandský pes",
+    "Počet": "4"
+  },
+  {
     "Plemeno": "Pekingský palácový psík",
     "Počet": "4"
   },
@@ -429,10 +433,6 @@
   },
   {
     "Plemeno": "Nemecký prepeličiar",
-    "Počet": "3"
-  },
-  {
-    "Plemeno": "Novofundlandský pes",
     "Počet": "3"
   },
   {
