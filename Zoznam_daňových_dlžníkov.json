@@ -1568,13 +1568,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marta Šedivá - ŠEDO",
-    "Adresa_dlžníka": "Javorová 3070/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   658,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Vladimír Perko",
     "Adresa_dlžníka": "Železničná 98/54",
     "Mesto": "Žilina",
@@ -5950,13 +5943,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Rudolf Makuka",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   316,18",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubica Pešková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8834,7 +8820,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Petrová",
+    "Dlžník": "Jana Šmehylová",
     "Adresa_dlžníka": "Kultúrna 52/52",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   284,20",
@@ -9961,6 +9947,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Emil Gašperák",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   270,25",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Boris Zboran",
     "Adresa_dlžníka": "Matuškova 431/45",
     "Mesto": "Žilina",
@@ -10952,13 +10945,6 @@
     "Adresa_dlžníka": "Zemné súp. č. 750",
     "Mesto": "Zemné",
     "Suma_daňových_nedoplatkov": "   252,00",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Emil Gašperák",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   251,48",
     "Mena": "EUR"
   },
   {
@@ -12401,6 +12387,13 @@
     "Adresa_dlžníka": "Javorová 3073/15",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   227,53",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Rudolf Makuka",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   227,06",
     "Mena": "EUR"
   },
   {
