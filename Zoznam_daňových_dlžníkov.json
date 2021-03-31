@@ -84,17 +84,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  50 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "JKS PLUS, s.r.o.",
     "Adresa_dlžníka": "Bardejovská 38/A",
     "Mesto": "Prešov",
     "Suma_daňových_nedoplatkov": "  49 823,04",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  49 473,93",
     "Mena": "EUR"
   },
   {
@@ -8491,13 +8491,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martina Pecková",
-    "Adresa_dlžníka": "Gavlovičova 284/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   291,61",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Emil Smolka",
     "Adresa_dlžníka": "Osiková 3210/7",
     "Mesto": "Žilina",
@@ -11561,6 +11554,13 @@
     "Adresa_dlžníka": "M. R. Štefánika 829/29",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   235,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Pecková",
+    "Adresa_dlžníka": "Gavlovičova 284/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   235,48",
     "Mena": "EUR"
   },
   {
