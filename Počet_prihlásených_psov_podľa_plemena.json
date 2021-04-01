@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1027"
+    "Počet": "1029"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -132,11 +132,11 @@
     "Počet": "22"
   },
   {
-    "Plemeno": "Westhighlandský biely teriér",
-    "Počet": "21"
+    "Plemeno": "Sibírsky husky",
+    "Počet": "22"
   },
   {
-    "Plemeno": "Sibírsky husky",
+    "Plemeno": "Westhighlandský biely teriér",
     "Počet": "21"
   },
   {
@@ -300,6 +300,10 @@
     "Počet": "5"
   },
   {
+    "Plemeno": "Dalmatínsky pes",
+    "Počet": "5"
+  },
+  {
     "Plemeno": "Lakelandský teriér",
     "Počet": "5"
   },
@@ -333,10 +337,6 @@
   },
   {
     "Plemeno": "Austrálsky teriér",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Dalmatínsky pes",
     "Počet": "4"
   },
   {

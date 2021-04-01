@@ -117,7 +117,7 @@
   {
     "Krstné_meno": "Michaela",
     "Pohlavie": "žena",
-    "Počet": "705"
+    "Počet": "704"
   },
   {
     "Krstné_meno": "Lukáš",
@@ -197,7 +197,7 @@
   {
     "Krstné_meno": "Lenka",
     "Pohlavie": "žena",
-    "Počet": "543"
+    "Počet": "544"
   },
   {
     "Krstné_meno": "Gabriela",
@@ -207,7 +207,7 @@
   {
     "Krstné_meno": "Ľubomír",
     "Pohlavie": "muž",
-    "Počet": "539"
+    "Počet": "540"
   },
   {
     "Krstné_meno": "Helena",
@@ -222,7 +222,7 @@
   {
     "Krstné_meno": "Ladislav",
     "Pohlavie": "muž",
-    "Počet": "506"
+    "Počet": "505"
   },
   {
     "Krstné_meno": "František",
@@ -282,12 +282,12 @@
   {
     "Krstné_meno": "Adam",
     "Pohlavie": "muž",
-    "Počet": "428"
+    "Počet": "429"
   },
   {
     "Krstné_meno": "Daniel",
     "Pohlavie": "muž",
-    "Počet": "428"
+    "Počet": "429"
   },
   {
     "Krstné_meno": "Filip",
@@ -465,6 +465,11 @@
     "Počet": "234"
   },
   {
+    "Krstné_meno": "Dominik",
+    "Pohlavie": "muž",
+    "Počet": "232"
+  },
+  {
     "Krstné_meno": "Nikola",
     "Pohlavie": "žena",
     "Počet": "232"
@@ -473,11 +478,6 @@
     "Krstné_meno": "Nina",
     "Pohlavie": "žena",
     "Počet": "232"
-  },
-  {
-    "Krstné_meno": "Dominik",
-    "Pohlavie": "muž",
-    "Počet": "231"
   },
   {
     "Krstné_meno": "Ema",
@@ -1370,11 +1370,6 @@
     "Počet": "28"
   },
   {
-    "Krstné_meno": "Vincencia",
-    "Pohlavie": "žena",
-    "Počet": "28"
-  },
-  {
     "Krstné_meno": "Hugo",
     "Pohlavie": "muž",
     "Počet": "27"
@@ -1396,6 +1391,11 @@
   },
   {
     "Krstné_meno": "Nikoleta",
+    "Pohlavie": "žena",
+    "Počet": "27"
+  },
+  {
+    "Krstné_meno": "Vincencia",
     "Pohlavie": "žena",
     "Počet": "27"
   },
@@ -1730,6 +1730,11 @@
     "Počet": "16"
   },
   {
+    "Krstné_meno": "Sabina",
+    "Pohlavie": "žena",
+    "Počet": "16"
+  },
+  {
     "Krstné_meno": "Slavka",
     "Pohlavie": "žena",
     "Počet": "16"
@@ -1771,11 +1776,6 @@
   },
   {
     "Krstné_meno": "Nikol",
-    "Pohlavie": "žena",
-    "Počet": "15"
-  },
-  {
-    "Krstné_meno": "Sabina",
     "Pohlavie": "žena",
     "Počet": "15"
   },
