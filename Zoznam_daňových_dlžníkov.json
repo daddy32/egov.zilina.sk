@@ -1162,13 +1162,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "O.P.C.D., spol. s r.o.",
-    "Adresa_dlžníka": "Pod Kozínom 1030/14",
-    "Mesto": "Teplička nad Váhom",
-    "Suma_daňových_nedoplatkov": "  1 667,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Ondro",
     "Adresa_dlžníka": "Labutia 140/58",
     "Mesto": "Žilina",
@@ -1957,13 +1950,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   363,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Anna Lišková",
-    "Adresa_dlžníka": "Ďatlia 56/32",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   358,93",
     "Mena": "EUR"
   },
   {
@@ -6596,13 +6582,6 @@
   {
     "Dlžník": "Michal Spišak",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Zelenský",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -15239,6 +15218,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Anna Lišková",
+    "Adresa_dlžníka": "Ďatlia 56/32",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   190,55",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Martin Kvaček",
     "Adresa_dlžníka": "Karpatské námestie 7770/10A",
     "Mesto": "Bratislava-Rača",
@@ -17637,13 +17623,6 @@
     "Adresa_dlžníka": "Brodno 167/167",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   148,91",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Pavol Žák",
-    "Adresa_dlžníka": "Labutia 202/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   142,52",
     "Mena": "EUR"
   },
   {
