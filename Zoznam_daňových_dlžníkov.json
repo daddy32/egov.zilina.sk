@@ -112,17 +112,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Energoteam s.r.o.",
-    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  39 382,31",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Hastra s.r.o.",
     "Adresa_dlžníka": "Dolné Rudiny 3528/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  38 667,84",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Energoteam s.r.o.",
+    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  38 382,31",
     "Mena": "EUR"
   },
   {
@@ -7190,13 +7190,6 @@
   },
   {
     "Dlžník": "Dominik Hudček",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dušan Knotek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
