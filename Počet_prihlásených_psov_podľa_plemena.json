@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1029"
+    "Počet": "1030"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "355"
+    "Počet": "354"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -21,11 +21,11 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "133"
+    "Počet": "132"
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "112"
+    "Počet": "111"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -45,7 +45,7 @@
   },
   {
     "Plemeno": "Borderská kólia",
-    "Počet": "62"
+    "Počet": "63"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -73,7 +73,7 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "46"
+    "Počet": "45"
   },
   {
     "Plemeno": "Francúzsky buldoček",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "32"
+    "Počet": "33"
   },
   {
     "Plemeno": "Mops",
@@ -260,10 +260,6 @@
     "Počet": "7"
   },
   {
-    "Plemeno": "Slovenský kopov",
-    "Počet": "7"
-  },
-  {
     "Plemeno": "Boxer",
     "Počet": "7"
   },
@@ -289,6 +285,10 @@
   },
   {
     "Plemeno": "Československý vlčiak",
+    "Počet": "6"
+  },
+  {
+    "Plemeno": "Slovenský kopov",
     "Počet": "6"
   },
   {
@@ -504,6 +504,10 @@
     "Počet": "2"
   },
   {
+    "Plemeno": "Nemecký krátkosrstý stavač",
+    "Počet": "2"
+  },
+  {
     "Plemeno": "Kanárska doga",
     "Počet": "2"
   },
@@ -641,10 +645,6 @@
   },
   {
     "Plemeno": "Neapolský mastin",
-    "Počet": "1"
-  },
-  {
-    "Plemeno": "Nemecký krátkosrstý stavač",
     "Počet": "1"
   },
   {

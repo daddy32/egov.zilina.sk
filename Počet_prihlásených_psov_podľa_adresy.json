@@ -11484,7 +11484,7 @@
     "Časť_obce": "Vranie",
     "Ulica": "Ďatlia",
     "Orient._č.": "   1      ",
-    "Počet_psov": "2"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -13913,7 +13913,7 @@
     "Časť_obce": "Bánová",
     "Ulica": "Do Stošky",
     "Orient._č.": "  16      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -15397,7 +15397,7 @@
     "Časť_obce": "Trnové",
     "Ulica": "Dolná Trnovská",
     "Orient._č.": " 108      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -27045,7 +27045,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Jána Vojtaššáka",
     "Orient._č.": "   7      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -33205,7 +33205,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Kopanice",
     "Orient._č.": "   1      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -33478,6 +33478,13 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Kortinská",
     "Orient._č.": "  33      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Kortinská",
+    "Orient._č.": "  36      ",
     "Počet_psov": "0"
   },
   {
@@ -41213,7 +41220,7 @@
     "Časť_obce": "Zástranie",
     "Ulica": "Medzi plotmi",
     "Orient._č.": "   3      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -43201,7 +43208,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Moyzesova",
     "Orient._č.": "  31      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -72552,7 +72559,7 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Za kostolom",
     "Orient._č.": "  11      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -77299,13 +77306,6 @@
     "Ulica": "Žilinská Lehota",
     "Orient._č.": "  81      ",
     "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  82      ",
-    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
