@@ -8754,7 +8754,7 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Bystrická",
     "Orient._č.": "  18      ",
-    "Počet_psov": "3"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -35088,7 +35088,7 @@
     "Časť_obce": "Zástranie",
     "Ulica": "Kultúrna",
     "Orient._č.": "  25      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -50202,6 +50202,20 @@
     "Ulica": "Obchodná",
     "Orient._č.": "   3A     ",
     "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Obchodná",
+    "Orient._č.": "   3B     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Obchodná",
+    "Orient._č.": "   3C     ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",

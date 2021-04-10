@@ -1372,13 +1372,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubomír Backa",
-    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   923,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Dubec",
     "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
     "Mesto": "Žilina",
@@ -1390,6 +1383,13 @@
     "Adresa_dlžníka": "14",
     "Mesto": "Ďurčiná",
     "Suma_daňových_nedoplatkov": "   895,44",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomír Backa",
+    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   885,24",
     "Mena": "EUR"
   },
   {
