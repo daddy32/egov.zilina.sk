@@ -37486,6 +37486,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Pod Dúbravou",
+    "Orient._č.": "   8      ",
+    "Č._poschodia": "",
+    "Plemeno": "Papilon",
+    "Č._známky": "140",
+    "Farba": "bielo-hnedá"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Skotňová",
     "Orient._č.": "   3      ",
     "Č._poschodia": "",
@@ -37591,15 +37600,6 @@
     "Plemeno": "Čivava",
     "Č._známky": "9299",
     "Farba": "sivá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  77      ",
-    "Č._poschodia": "",
-    "Plemeno": "Papilon",
-    "Č._známky": "140",
-    "Farba": "bielo-hnedá"
   },
   {
     "Mesto": "Žilina",

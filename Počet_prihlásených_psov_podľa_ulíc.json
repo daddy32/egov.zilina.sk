@@ -2449,6 +2449,18 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Park Carla Gustava Swenssona",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Carla Gustava Swenssona",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Bôrik",
     "Ulica": "Park Ľudovíta Štúra",
     "Počet_psov": "0"
@@ -2583,7 +2595,7 @@
     "Mesto": "Žilina",
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Pod Dúbravou",
-    "Počet_psov": "3"
+    "Počet_psov": "4"
   },
   {
     "Mesto": "Žilina",
@@ -3493,6 +3505,12 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Univerzitné Námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Vlčince",
     "Ulica": "Ústecká",
     "Počet_psov": "6"
@@ -3777,7 +3795,7 @@
     "Mesto": "Žilina",
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Žilinská Lehota",
-    "Počet_psov": "12"
+    "Počet_psov": "11"
   },
   {
     "Mesto": "Žilina",
