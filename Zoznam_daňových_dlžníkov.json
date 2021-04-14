@@ -94,7 +94,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  48 473,93",
+    "Suma_daňových_nedoplatkov": "  47 473,93",
     "Mena": "EUR"
   },
   {
@@ -189,13 +189,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  20 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SPESIELL, s.r.o.",
     "Adresa_dlžníka": "Košická 52/A",
     "Mesto": "Bratislava-Ružinov",
@@ -228,6 +221,13 @@
     "Adresa_dlžníka": "Pekárska 11",
     "Mesto": "Trnava",
     "Suma_daňových_nedoplatkov": "  19 061,38",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  19 057,58",
     "Mena": "EUR"
   },
   {
@@ -5699,8 +5699,8 @@
   },
   {
     "Dlžník": "Viliam Vrba",
-    "Adresa_dlžníka": "Hlinská 2586/38",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 162",
+    "Mesto": "Nesluša",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
   },
