@@ -469,13 +469,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "PELLART, a.s.",
-    "Adresa_dlžníka": "Jána Milca 786/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  7 852,96",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "RENOX INVEST, spol. s r.o.",
     "Adresa_dlžníka": "Vysokoškolákov 8421/41",
     "Mesto": "Žilina",
@@ -487,6 +480,13 @@
     "Adresa_dlžníka": "Magurská súp. č. 37",
     "Mesto": "Banská Bystrica",
     "Suma_daňových_nedoplatkov": "  7 350,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "PELLART, a.s.",
+    "Adresa_dlžníka": "Jána Milca 786/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  6 909,16",
     "Mena": "EUR"
   },
   {
@@ -1032,7 +1032,7 @@
     "Dlžník": "Uppsala, s.r.o.",
     "Adresa_dlžníka": "Tamaškovičova 17",
     "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  2 060,40",
+    "Suma_daňových_nedoplatkov": "  2 047,59",
     "Mena": "EUR"
   },
   {
