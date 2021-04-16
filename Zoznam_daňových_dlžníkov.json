@@ -1813,13 +1813,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   411,87",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Monika Gregušová",
     "Adresa_dlžníka": "Severná 2810/33",
     "Mesto": "Žilina",
@@ -1859,6 +1852,13 @@
     "Adresa_dlžníka": "súp. č. 1",
     "Mesto": "Lipové",
     "Suma_daňových_nedoplatkov": "   402,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   393,60",
     "Mena": "EUR"
   },
   {
