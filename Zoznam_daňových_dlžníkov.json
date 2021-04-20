@@ -6287,8 +6287,8 @@
   },
   {
     "Dlžník": "Ing. Petr Macháček",
-    "Adresa_dlžníka": "Brodno 169/169",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Budapešťanská súp. č. 2124",
+    "Mesto": "Kladno",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
   },
@@ -9009,13 +9009,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Richard Masný",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   282,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jennifer Strkáčová",
     "Adresa_dlžníka": "Bratislavská 511/38",
     "Mesto": "Žilina",
@@ -11102,6 +11095,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Richard Masný",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   244,10",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marek Pekár",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -12506,13 +12506,6 @@
     "Adresa_dlžníka": "Dolná Trnovská 1394/135A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   220,57",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Pavol Kanis CLEAN SERVIS",
-    "Adresa_dlžníka": "Cesta k vodojemu 209/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   220,52",
     "Mena": "EUR"
   },
   {
@@ -17649,13 +17642,6 @@
   {
     "Dlžník": "Ing. Peter Kampa",
     "Adresa_dlžníka": "Moyzesova 931/66",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   27,59",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ingrida Scarlett Ďuranová",
-    "Adresa_dlžníka": "Daniela Dlabača 773/29",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   27,59",
     "Mena": "EUR"
