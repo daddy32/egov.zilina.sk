@@ -486,7 +486,7 @@
     "Dlžník": "PELLART, a.s.",
     "Adresa_dlžníka": "Jána Milca 786/6",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  6 909,16",
+    "Suma_daňových_nedoplatkov": "  6 831,26",
     "Mena": "EUR"
   },
   {
@@ -1582,13 +1582,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dušan Gálik - REGON PLUS",
-    "Adresa_dlžníka": "Jankolova 2",
-    "Mesto": "Bratislava-Petržalka",
-    "Suma_daňových_nedoplatkov": "   618,07",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Loi Tran",
     "Adresa_dlžníka": "S. H. Vajanského 476/73",
     "Mesto": "Nové Zámky",
@@ -1621,6 +1614,13 @@
     "Adresa_dlžníka": "Fraňa Mráza 622/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   563,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dušan Gálik - REGON PLUS",
+    "Adresa_dlžníka": "Jankolova 2",
+    "Mesto": "Bratislava-Petržalka",
+    "Suma_daňových_nedoplatkov": "   536,44",
     "Mena": "EUR"
   },
   {
@@ -11515,13 +11515,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martina Pecková",
-    "Adresa_dlžníka": "Gavlovičova 284/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   235,48",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dušan Greguš",
     "Adresa_dlžníka": "T. Vansovej 1600/3",
     "Mesto": "Žilina",
@@ -14777,6 +14770,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Martina Pecková",
+    "Adresa_dlžníka": "Gavlovičova 284/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   200,46",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Filip Smejkal",
     "Adresa_dlžníka": "Pod Hôrkou 1704/8",
     "Mesto": "Žilina",
@@ -15299,13 +15299,6 @@
     "Adresa_dlžníka": "Sasinkova 418/43",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   188,64",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Ján Hromada",
-    "Adresa_dlžníka": "Limbová 3058/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,42",
     "Mena": "EUR"
   },
   {
@@ -15850,6 +15843,13 @@
   {
     "Dlžník": "Igor Vanický",
     "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   179,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Ján Hromada",
+    "Adresa_dlžníka": "Limbová 3058/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -16622,13 +16622,6 @@
     "Adresa_dlžníka": "Emanuela Fila 1193/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   174,61",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "František Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   174,28",
     "Mena": "EUR"
   },
   {
