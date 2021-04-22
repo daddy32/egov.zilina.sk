@@ -8495,7 +8495,7 @@
     "Časť_obce": "Strážov",
     "Ulica": "Bukovinská",
     "Orient._č.": "  13      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -36817,7 +36817,7 @@
     "Časť_obce": "Mojšová Lúčka",
     "Ulica": "Lieňová",
     "Orient._č.": "   6      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -58342,6 +58342,13 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Predmestská",
     "Orient._č.": "  28      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Predmestská",
+    "Orient._č.": "  29      ",
     "Počet_psov": "0"
   },
   {
