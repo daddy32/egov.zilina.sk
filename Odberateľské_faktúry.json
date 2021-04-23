@@ -1,5 +1,15 @@
 [
   {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "202101",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "",
+    "Celková_cena_(bez_DPH)": "   61,29",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.04.2021",
+    "Dátum_zverejnenia": "22.04.2021"
+  },
+  {
     "IČO": "00163121   ",
     "Číslo_faktúry": "20210037",
     "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
@@ -1872,7 +1882,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20041",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 01.10.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 05.10.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 06.10.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 08.10.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR",
     "Celková_cena_(bez_DPH)": "   27,00",
     "Mena": "EUR",
@@ -1882,7 +1892,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20042",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 01.10.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 05.10.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 06.10.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 08.10.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
     "Celková_cena_(bez_DPH)": "   87,00",
     "Mena": "EUR",
@@ -1892,7 +1902,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20043",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 09.10.2020, množ.: 1,5, jedn. cena: 9,5 EUR, spolu: 14,25 EUR",
     "Celková_cena_(bez_DPH)": "   14,25",
     "Mena": "EUR",
@@ -1902,7 +1912,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20044",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 09.10.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
     "Celková_cena_(bez_DPH)": "   21,75",
     "Mena": "EUR",
@@ -2972,7 +2982,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20031",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 22.9.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 24.9.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 28.9.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 29.9.2020, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR",
     "Celková_cena_(bez_DPH)": "   27,00",
     "Mena": "EUR",
@@ -2982,7 +2992,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20032",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 22.9.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 24.9.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 28.9.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 29.9.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
     "Celková_cena_(bez_DPH)": "   87,00",
     "Mena": "EUR",
@@ -2992,7 +3002,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20033",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 25.9.2020, množ.: 1,5, jedn. cena: 9,5 EUR, spolu: 14,25 EUR",
     "Celková_cena_(bez_DPH)": "   14,25",
     "Mena": "EUR",
@@ -3002,7 +3012,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20034",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 25.9.2020, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
     "Celková_cena_(bez_DPH)": "   21,75",
     "Mena": "EUR",
@@ -3952,7 +3962,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20026",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 14.6.2020, množ.: 6, jedn. cena: 11,4 EUR, spolu: 68,4 EUR,\rPrenájom priestorov - športové využitie v termíne 21.6.2020, množ.: 6, jedn. cena: 11,4 EUR, spolu: 68,4 EUR,\rPrenájom priestorov - športové využitie v termíne 28.6.2020, množ.: 6, jedn. cena: 11,4 EUR, spolu: 68,4 EUR",
     "Celková_cena_(bez_DPH)": "   205,20",
     "Mena": "EUR",
@@ -3962,7 +3972,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "20027",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 14.6.2020, množ.: 6, jedn. cena: 15,6 EUR, spolu: 93,6 EUR,\rPrevádzkové náklady - športové využitie v termíne 21.6.2020, množ.: 6, jedn. cena: 15,6 EUR, spolu: 93,6 EUR,\rPrevádzkové náklady - športové využitie v termíne 28.6.2020, množ.: 6, jedn. cena: 15,6 EUR, spolu: 93,6 EUR",
     "Celková_cena_(bez_DPH)": "   280,80",
     "Mena": "EUR",
@@ -4072,7 +4082,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2020009",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné NZ 8/2020, telocvičňa 7,5h x 4h, šatňa 7,5h x 0,45, množ.: 1, jedn. cena: 33,38 EUR, spolu: 33,38 EUR",
     "Celková_cena_(bez_DPH)": "   33,38",
     "Mena": "EUR",
@@ -4082,7 +4092,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2020010",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady 555m2 x 0,013€/m2/hod x 7,5 h, množ.: 1, jedn. cena: 54,11 EUR, spolu: 54,11 EUR",
     "Celková_cena_(bez_DPH)": "   54,11",
     "Mena": "EUR",
@@ -4152,7 +4162,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2020007",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady k NZ 2/2020, 555m2 x 0,013€/m2/hod x 52 h, množ.: 1, jedn. cena: 375,18 EUR, spolu: 375,18 EUR",
     "Celková_cena_(bez_DPH)": "   375,18",
     "Mena": "EUR",
@@ -4162,7 +4172,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2020008",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné NZ 2/2020 telocvičňa 52 h x 4€/hod, šatňa 52 h x 0,45€/hod, množ.: 1, jedn. cena: 231,4 EUR, spolu: 231,4 EUR",
     "Celková_cena_(bez_DPH)": "   231,40",
     "Mena": "EUR",
@@ -7222,7 +7232,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019017",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady podľa NZ 2/2019, dodatok č. 2, množ.: 1, jedn. cena: 822,51 EUR, spolu: 822,51 EUR",
     "Celková_cena_(bez_DPH)": "   822,51",
     "Mena": "EUR",
@@ -7232,7 +7242,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019018",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné podľa NZ 2/2019, dodatok č. 2, množ.: 1, jedn. cena: 507,3 EUR, spolu: 507,3 EUR",
     "Celková_cena_(bez_DPH)": "   507,30",
     "Mena": "EUR",
@@ -10342,7 +10352,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019015",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady NZ 2/2019, obdobie 3.1-30.6.2019, 555m2x0,013€x101,50 hod, množ.: 1, jedn. cena: 732,32 EUR, spolu: 732,32 EUR",
     "Celková_cena_(bez_DPH)": "   732,32",
     "Mena": "EUR",
@@ -10352,7 +10362,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019016",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné NZ 2/2019, obdobie 3.1-30.6.2019, 101,5 hod x 4€/hod, 101,5 hod x 0,45€/hod., množ.: 1, jedn. cena: 451,67 EUR, spolu: 451,67 EUR",
     "Celková_cena_(bez_DPH)": "   451,67",
     "Mena": "EUR",
@@ -11212,7 +11222,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019009",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady za prenájom telocvične a šatne podľa výkazu o prenájme k NZ 4/2019, množ.: 1, jedn. cena: 97,4 EUR, spolu: 97,4 EUR",
     "Celková_cena_(bez_DPH)": "   97,40",
     "Mena": "EUR",
@@ -11222,7 +11232,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019010",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné za prenájom telocvične a šatne 13,5 h, podľa výkazu o prenájme k NZ 4/2019, množ.: 1, jedn. cena: 60,07 EUR, spolu: 60,07 EUR",
     "Celková_cena_(bez_DPH)": "   60,07",
     "Mena": "EUR",
@@ -11882,7 +11892,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2019009",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom -  (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 101 EUR, spolu: 101 EUR,\rPrenájom -  poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 224 EUR, spolu: 224 EUR",
     "Celková_cena_(bez_DPH)": "   325,00",
     "Mena": "EUR",
@@ -12752,7 +12762,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "19008",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 17.2.2019  a 24.2.2019., množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR",
     "Celková_cena_(bez_DPH)": "   100,00",
     "Mena": "EUR",
@@ -12762,7 +12772,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "19009",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 17.2.2019 a 24.2.2019., množ.: 12,45, jedn. cena: 35 EUR, spolu: 435,75 EUR",
     "Celková_cena_(bez_DPH)": "   435,75",
     "Mena": "EUR",
@@ -13772,7 +13782,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "19001",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 6.1.2019 a 13.1.2019., množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR",
     "Celková_cena_(bez_DPH)": "   100,00",
     "Mena": "EUR",
@@ -13782,7 +13792,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "19002",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prvádzkové náklady - športové využitie v termíne  6.1.2019 a 13.1.2019., množ.: 16,45, jedn. cena: 35 EUR, spolu: 575,75 EUR",
     "Celková_cena_(bez_DPH)": "   575,75",
     "Mena": "EUR",
@@ -13812,7 +13822,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "18013",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prenájom priestorov - športové využitie, množ.: 50, jedn. cena: 1 EUR, spolu: 50 EUR",
     "Celková_cena_(bez_DPH)": "   50,00",
     "Mena": "EUR",
@@ -14492,7 +14502,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2018002",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady NZ 19/2018, množ.: 1, jedn. cena: 97,13 EUR, spolu: 97,13 EUR",
     "Celková_cena_(bez_DPH)": "   97,13",
     "Mena": "EUR",
@@ -14632,7 +14642,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2018005",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné k nájomnej zmluve č. 19/2018, množ.: 1, jedn. cena: 77,87 EUR, spolu: 77,87 EUR",
     "Celková_cena_(bez_DPH)": "   77,87",
     "Mena": "EUR",
@@ -14852,7 +14862,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "18014",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady - športové využitie, množ.: 8, jedn. cena: 35 EUR, spolu: 280 EUR",
     "Celková_cena_(bez_DPH)": "   280,00",
     "Mena": "EUR",
@@ -16562,7 +16572,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2018001",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prev. náklady za prenájom telocvične a šatne podľa NZ 9/2018 555 m2 x 0,01€/m2/hod x 26h, množ.: 1, jedn. cena: 144,3 EUR, spolu: 144,3 EUR,\rnájomné  za prenájom telocvične a šatne NZ 9/2018, 26h x 4€/hod, 26hx0,45€/h, množ.: 1, jedn. cena: 115,7 EUR, spolu: 115,7 EUR",
     "Celková_cena_(bez_DPH)": "   260,00",
     "Mena": "EUR",
@@ -20102,7 +20112,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2017003",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prevádzkové náklady  nájomnej zmluvy č. 15/2017, množ.: 1, jedn. cena: 88,8 EUR, spolu: 88,8 EUR,\rnájomné z   nájomnej zmluvy č. 15/2017, množ.: 1, jedn. cena: 71,2 EUR, spolu: 71,2 EUR",
     "Celková_cena_(bez_DPH)": "   160,00",
     "Mena": "EUR",
@@ -22502,7 +22512,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2017002",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné telocvičňa NZ 6/2017, množ.: 50, jedn. cena: 4 EUR, spolu: 200 EUR,\rnájomné šatňa NZ 6/2017, množ.: 50, jedn. cena: ,45 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za telocvičňu o výmere 555 m2 cena 0,01 €/m2    NZ6/2017, množ.: 50, jedn. cena: 5,55 EUR, spolu: 277,5 EUR",
     "Celková_cena_(bez_DPH)": "   500,00",
     "Mena": "EUR",
@@ -25612,7 +25622,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2016004",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prenájom na základe nájomnej zmluvy č. 16/2016 a výkazu o prenájme, množ.: 24, jedn. cena: 10 EUR, spolu: 240 EUR",
     "Celková_cena_(bez_DPH)": "   240,00",
     "Mena": "EUR",
@@ -28872,7 +28882,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2016002",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady za telocvičňu, množ.: 1, jedn. cena: 149,7 EUR, spolu: 149,7 EUR",
     "Celková_cena_(bez_DPH)": "   149,70",
     "Mena": "EUR",
@@ -28882,7 +28892,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2016003",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prenájom - veľká telocvičňa ZŠ Slov. dobrovoľníkov 122/7, Žilina 01.01.2016-30.04.2016, piatok 18,30-20,15, množ.: 29,75, jedn. cena: 10 EUR, spolu: 297,5 EUR",
     "Celková_cena_(bez_DPH)": "   297,50",
     "Mena": "EUR",
@@ -29312,7 +29322,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2016002",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "nájomné telocvičňa 20.2.2016 8,00-11,00, množ.: 3, jedn. cena: 10 EUR, spolu: 30 EUR,\rnájomné telocvičňa 19.03.2016 9,00-13,00, množ.: 4, jedn. cena: 10 EUR, spolu: 40 EUR",
     "Celková_cena_(bez_DPH)": "   70,00",
     "Mena": "EUR",
@@ -30822,7 +30832,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2015015",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "Prevádzkové náklady za telocvicnu, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
     "Celková_cena_(bez_DPH)": "   120,00",
     "Mena": "EUR",
@@ -31092,7 +31102,7 @@
   {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2015003",
-    "Odberateľ": "Súkromné centrum voľného času",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
     "Text_odb._faktúry": "prenájom telocvične 1.10-18.12.2015, množ.: 19,25, jedn. cena: 10 EUR, spolu: 192,5 EUR",
     "Celková_cena_(bez_DPH)": "   192,50",
     "Mena": "EUR",
