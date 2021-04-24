@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  142 450,71",
+    "Suma_daňových_nedoplatkov": "  142 204,11",
     "Mena": "EUR"
   },
   {
@@ -101,7 +101,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  46 473,93",
+    "Suma_daňových_nedoplatkov": "  45 473,93",
     "Mena": "EUR"
   },
   {
@@ -14099,7 +14099,7 @@
   },
   {
     "Dlžník": "Silvia Matulová",
-    "Adresa_dlžníka": "Školská 233/6",
+    "Adresa_dlžníka": "",
     "Mesto": "Považská Bystrica",
     "Suma_daňových_nedoplatkov": "   203,42",
     "Mena": "EUR"
@@ -14669,13 +14669,6 @@
     "Adresa_dlžníka": "Juraja Sklenára 2070/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   200,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Pecková",
-    "Adresa_dlžníka": "Gavlovičova 284/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,46",
     "Mena": "EUR"
   },
   {
@@ -17441,6 +17434,13 @@
     "Adresa_dlžníka": "Oslobodenia 200/75",
     "Mesto": "Belá",
     "Suma_daňových_nedoplatkov": "   149,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Pecková",
+    "Adresa_dlžníka": "Gavlovičova 284/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   144,33",
     "Mena": "EUR"
   },
   {
