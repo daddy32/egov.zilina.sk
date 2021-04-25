@@ -1029,13 +1029,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Košecký",
-    "Adresa_dlžníka": "M. R. Štefánika 901/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 033,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Dušan Bíro",
     "Adresa_dlžníka": "Gabajova 2593/20",
     "Mesto": "Žilina",
@@ -1537,6 +1530,13 @@
     "Adresa_dlžníka": "Oravská 2351/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   673,91",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michal Košecký",
+    "Adresa_dlžníka": "M. R. Štefánika 901/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   673,07",
     "Mena": "EUR"
   },
   {
