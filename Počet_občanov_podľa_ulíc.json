@@ -1052,12 +1052,12 @@
   {
     "Ulica": "Gavlovičova",
     "Na_trvalom_pobyte": "   39",
-    "Na_prechodnom_pobyte": "   1",
-    "Ženy": "   22",
+    "Na_prechodnom_pobyte": "   0",
+    "Ženy": "   21",
     "Muži": "   18",
     "V_predproduktívnom_veku": "   6",
     "V_produktívnom_veku": "   24",
-    "V_poproduktívnom_veku": "   10"
+    "V_poproduktívnom_veku": "   9"
   },
   {
     "Ulica": "Gazdova",
@@ -1556,8 +1556,8 @@
     "Ženy": "   832",
     "Muži": "   798",
     "V_predproduktívnom_veku": "   250",
-    "V_produktívnom_veku": "  1 120",
-    "V_poproduktívnom_veku": "   260"
+    "V_produktívnom_veku": "  1 119",
+    "V_poproduktívnom_veku": "   261"
   },
   {
     "Ulica": "Jastrabia",
@@ -1716,8 +1716,8 @@
     "Ženy": "   136",
     "Muži": "   131",
     "V_predproduktívnom_veku": "   34",
-    "V_produktívnom_veku": "   164",
-    "V_poproduktívnom_veku": "   69"
+    "V_produktívnom_veku": "   163",
+    "V_poproduktívnom_veku": "   70"
   },
   {
     "Ulica": "K cintorínu",
@@ -1886,8 +1886,8 @@
     "Ženy": "   228",
     "Muži": "   226",
     "V_predproduktívnom_veku": "   67",
-    "V_produktívnom_veku": "   281",
-    "V_poproduktívnom_veku": "   106"
+    "V_produktívnom_veku": "   280",
+    "V_poproduktívnom_veku": "   107"
   },
   {
     "Ulica": "Kopanice",
@@ -3286,8 +3286,8 @@
     "Ženy": "   127",
     "Muži": "   128",
     "V_predproduktívnom_veku": "   30",
-    "V_produktívnom_veku": "   158",
-    "V_poproduktívnom_veku": "   67"
+    "V_produktívnom_veku": "   157",
+    "V_poproduktívnom_veku": "   68"
   },
   {
     "Ulica": "Pekná",
@@ -3475,8 +3475,8 @@
     "Na_prechodnom_pobyte": "   1",
     "Ženy": "   44",
     "Muži": "   29",
-    "V_predproduktívnom_veku": "   18",
-    "V_produktívnom_veku": "   41",
+    "V_predproduktívnom_veku": "   17",
+    "V_produktívnom_veku": "   42",
     "V_poproduktívnom_veku": "   14"
   },
   {

@@ -1,9 +1,19 @@
 [
   {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210040",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 25484,97 EUR, spolu: 25484,97 EUR",
+    "Celková_cena_(bez_DPH)": "  25 484,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.04.2021",
+    "Dátum_zverejnenia": "26.04.2021"
+  },
+  {
     "IČO": "00321796   ",
     "Číslo_faktúry": "202101",
     "Odberateľ": "Mestský úrad Žilina",
-    "Text_odb._faktúry": "",
+    "Text_odb._faktúry": "Obedy pre kllientov Denného stacionára, množ.: 27, jedn. cena: 2,27 EUR, spolu: 61,29 EUR",
     "Celková_cena_(bez_DPH)": "   61,29",
     "Mena": "EUR",
     "Dátum_vystavenia": "22.04.2021",
