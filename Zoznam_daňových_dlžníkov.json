@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  142 204,11",
+    "Suma_daňových_nedoplatkov": "  140 962,62",
     "Mena": "EUR"
   },
   {
@@ -819,13 +819,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Frank Svihalek",
-    "Adresa_dlžníka": "Kuzmányho 101/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 806,27",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "t-computers.sk, s.r.o.",
     "Adresa_dlžníka": "Mojš súp. č. 170",
     "Mesto": "Mojš",
@@ -858,6 +851,13 @@
     "Adresa_dlžníka": "Svatopetrská 35/7",
     "Mesto": "Brno",
     "Suma_daňových_nedoplatkov": "  2 675,12",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Frank Svihalek",
+    "Adresa_dlžníka": "Kuzmányho 101/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 656,27",
     "Mena": "EUR"
   },
   {
@@ -1152,13 +1152,6 @@
     "Adresa_dlžníka": "Rosina súp. č. 829",
     "Mesto": "Rosina",
     "Suma_daňových_nedoplatkov": "  1 544,77",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "František Horvát",
-    "Adresa_dlžníka": "Záhrbie 211/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 466,36",
     "Mena": "EUR"
   },
   {
