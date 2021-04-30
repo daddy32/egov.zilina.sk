@@ -301,13 +301,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "LUZA, spol. s.r.o.",
-    "Adresa_dlžníka": "Predmestská 1608/90",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  11 677,01",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "BCI, a.s.",
     "Adresa_dlžníka": "Mydlárska 8718/7A",
     "Mesto": "Žilina",
@@ -319,6 +312,13 @@
     "Adresa_dlžníka": "Kuzmányho 24",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  11 378,47",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "LUZA, spol. s.r.o.",
+    "Adresa_dlžníka": "Predmestská 1608/90",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  11 295,69",
     "Mena": "EUR"
   },
   {
@@ -854,13 +854,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Frank Svihalek",
-    "Adresa_dlžníka": "Kuzmányho 101/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 656,27",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Retail Value Stores, a.s.",
     "Adresa_dlžníka": "Panónska cesta 16",
     "Mesto": "Bratislava",
@@ -1054,6 +1047,13 @@
     "Adresa_dlžníka": "Horný val 8/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  1 999,64",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Frank Svihalek",
+    "Adresa_dlžníka": "Kuzmányho 101/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 954,05",
     "Mena": "EUR"
   },
   {
@@ -16669,13 +16669,6 @@
   {
     "Dlžník": "Dušan Brisuda",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   170,08",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ivan Kykloš",
-    "Adresa_dlžníka": "Pittsburgská 1673/21",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   170,08",
     "Mena": "EUR"
