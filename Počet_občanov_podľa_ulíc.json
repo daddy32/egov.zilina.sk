@@ -1232,12 +1232,12 @@
   {
     "Ulica": "Hollého",
     "Na_trvalom_pobyte": "   595",
-    "Na_prechodnom_pobyte": "   15",
-    "Ženy": "   334",
-    "Muži": "   276",
+    "Na_prechodnom_pobyte": "   13",
+    "Ženy": "   333",
+    "Muži": "   275",
     "V_predproduktívnom_veku": "   84",
     "V_produktívnom_veku": "   383",
-    "V_poproduktívnom_veku": "   143"
+    "V_poproduktívnom_veku": "   141"
   },
   {
     "Ulica": "Holubia",
@@ -1886,8 +1886,8 @@
     "Ženy": "   229",
     "Muži": "   226",
     "V_predproduktívnom_veku": "   68",
-    "V_produktívnom_veku": "   280",
-    "V_poproduktívnom_veku": "   107"
+    "V_produktívnom_veku": "   279",
+    "V_poproduktívnom_veku": "   108"
   },
   {
     "Ulica": "Kopanice",
@@ -3526,8 +3526,8 @@
     "Ženy": "   196",
     "Muži": "   181",
     "V_predproduktívnom_veku": "   48",
-    "V_produktívnom_veku": "   234",
-    "V_poproduktívnom_veku": "   95"
+    "V_produktívnom_veku": "   233",
+    "V_poproduktívnom_veku": "   96"
   },
   {
     "Ulica": "Pod Skalkou",
@@ -3612,10 +3612,10 @@
   {
     "Ulica": "Popradská",
     "Na_trvalom_pobyte": "   187",
-    "Na_prechodnom_pobyte": "   5",
+    "Na_prechodnom_pobyte": "   4",
     "Ženy": "   101",
-    "Muži": "   91",
-    "V_predproduktívnom_veku": "   32",
+    "Muži": "   90",
+    "V_predproduktívnom_veku": "   31",
     "V_produktívnom_veku": "   110",
     "V_poproduktívnom_veku": "   50"
   },
