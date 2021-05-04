@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  140 962,62",
+    "Suma_daňových_nedoplatkov": "  140 861,94",
     "Mena": "EUR"
   },
   {
@@ -574,13 +574,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "HI Kongres Hotel Žilina, s.r.o.",
-    "Adresa_dlžníka": "Športová 568/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  4 946,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Aldabra s.r.o. v likvidácii",
     "Adresa_dlžníka": "Stavbárska 5178/42",
     "Mesto": "Bratislava-Vrakuňa",
@@ -732,6 +725,13 @@
     "Adresa_dlžníka": "Stolečné súp. č. 900",
     "Mesto": "Dlhé Pole",
     "Suma_daňových_nedoplatkov": "  3 185,33",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "HI Kongres Hotel Žilina, s.r.o.",
+    "Adresa_dlžníka": "Športová 568/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 178,00",
     "Mena": "EUR"
   },
   {

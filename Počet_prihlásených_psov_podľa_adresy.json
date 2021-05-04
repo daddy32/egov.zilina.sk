@@ -4665,6 +4665,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Budatín",
     "Ulica": "Bordová",
+    "Orient._č.": "   1      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Bordová",
     "Orient._č.": "   2      ",
     "Počet_psov": "1"
   },
@@ -7984,13 +7991,6 @@
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
     "Orient._č.": " 164      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
-    "Orient._č.": " 166      ",
     "Počet_psov": "0"
   },
   {
@@ -26303,7 +26303,7 @@
     "Časť_obce": "Bôrik",
     "Ulica": "Jána Kovalíka",
     "Orient._č.": "   9      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -34465,6 +34465,13 @@
     "Časť_obce": "Brodno",
     "Ulica": "Ku krížu",
     "Orient._č.": "  10A     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Ku krížu",
+    "Orient._č.": "  12      ",
     "Počet_psov": "0"
   },
   {
@@ -64061,7 +64068,7 @@
     "Časť_obce": "Hliny",
     "Ulica": "Severná",
     "Orient._č.": "  59      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
