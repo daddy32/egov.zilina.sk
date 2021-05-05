@@ -7395,6 +7395,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Brodňanská",
+    "Orient._č.": "  48B     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Brodňanská",
     "Orient._č.": "  49      ",
     "Počet_psov": "0"
   },
@@ -8061,13 +8068,6 @@
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
     "Orient._č.": " 192      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
-    "Orient._č.": " 194      ",
     "Počet_psov": "0"
   },
   {
@@ -19100,7 +19100,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Gaštanová",
     "Orient._č.": "  31      ",
-    "Počet_psov": "3"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
