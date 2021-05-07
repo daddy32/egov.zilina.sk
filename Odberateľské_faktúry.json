@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "37740881   ",
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Veronika Čech-Špirková",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 14,54 EUR, spolu: 14,54 EUR,\rStočné, množ.: 1, jedn. cena: 15,76 EUR, spolu: 15,76 EUR,\rTeplo, množ.: 1, jedn. cena: 31,67 EUR, spolu: 31,67 EUR",
+    "Celková_cena_(bez_DPH)": "   61,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.04.2021",
+    "Dátum_zverejnenia": "06.05.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "202101",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 248,09 EUR, spolu: 248,09 EUR,\rStočné, množ.: 1, jedn. cena: 269,06 EUR, spolu: 269,06 EUR",
+    "Celková_cena_(bez_DPH)": "   517,15",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.04.2021",
+    "Dátum_zverejnenia": "06.05.2021"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210041",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.05.2021",
+    "Dátum_zverejnenia": "06.05.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210042",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",
+    "Celková_cena_(bez_DPH)": "   89,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.05.2021",
+    "Dátum_zverejnenia": "06.05.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210043",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 315,76 EUR, spolu: 315,76 EUR",
+    "Celková_cena_(bez_DPH)": "   315,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.05.2021",
+    "Dátum_zverejnenia": "06.05.2021"
+  },
+  {
     "IČO": "37905384   ",
     "Číslo_faktúry": "2021016",
     "Odberateľ": "Materská škola",
