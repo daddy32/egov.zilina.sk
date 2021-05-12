@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "202102",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "2x raňajky pre ľudí bez domova s ochorením COVID-19 v dňoch 24.04.-25.04.2021, množ.: 2, jedn. cena: ,68 EUR, spolu: 1,36 EUR,\r2x obed pre ľudí bez domova s ochorením COVID-19 v dňoch 24.04.-25.04.2021, množ.: 2, jedn. cena: 2,27 EUR, spolu: 4,54 EUR,\r2x večera pre ľudí bez domova s ochorením COVID-19 v dňoch 24.04.-25.04.2021, množ.: 2, jedn. cena: 1,7 EUR, spolu: 3,4 EUR",
+    "Celková_cena_(bez_DPH)": "   9,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.05.2021",
+    "Dátum_zverejnenia": "11.05.2021"
+  },
+  {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "202103",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "2x raňajky pre ľudí bez domova s ochorením COVID -19 v dňoch 01.5.2021 a 02.05.2021, množ.: 2, jedn. cena: ,68 EUR, spolu: 1,36 EUR,\r2x obed pre ľudí bez domova s ochorením COVID -19 v dňoch 01.5.2021 a 02.05.2021, množ.: 2, jedn. cena: 2,27 EUR, spolu: 4,54 EUR,\r2x večera pre ľudí bez domova s ochorením COVID -19 v dňoch 01.5.2021 a 02.05.2021, množ.: 2, jedn. cena: 1,7 EUR, spolu: 3,4 EUR",
+    "Celková_cena_(bez_DPH)": "   9,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.05.2021",
+    "Dátum_zverejnenia": "11.05.2021"
+  },
+  {
     "IČO": "37740881   ",
     "Číslo_faktúry": "2021001",
     "Odberateľ": "Veronika Čech-Špirková",

@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  140 748,28",
+    "Suma_daňových_nedoplatkov": "  139 031,47",
     "Mena": "EUR"
   },
   {
@@ -1810,13 +1810,6 @@
     "Adresa_dlžníka": "T.kľačany 283/283",
     "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "   391,50",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Kubala",
-    "Adresa_dlžníka": "Dadanova 3387/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   389,33",
     "Mena": "EUR"
   },
   {
@@ -8890,13 +8883,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miroslav Kramár",
-    "Adresa_dlžníka": "1. mája 1014/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   282,68",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Zemánek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11666,6 +11652,13 @@
     "Adresa_dlžníka": "súp. č. 769",
     "Mesto": "Nesluša",
     "Suma_daňových_nedoplatkov": "   232,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslav Kramár",
+    "Adresa_dlžníka": "1. mája 1014/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   232,68",
     "Mena": "EUR"
   },
   {
@@ -17427,6 +17420,13 @@
     "Adresa_dlžníka": "Hodžova 209/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   52,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Kubala",
+    "Adresa_dlžníka": "Dadanova 3387/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   48,76",
     "Mena": "EUR"
   },
   {
