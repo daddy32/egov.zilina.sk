@@ -11917,6 +11917,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Petzvalova",
+    "Orient._č.": "  75      ",
+    "Č._poschodia": "",
+    "Plemeno": "Čivava",
+    "Č._známky": "9078",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Segnerova",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
@@ -29095,15 +29104,6 @@
     "Plemeno": "Rodézsky ridgeback",
     "Č._známky": "8319",
     "Farba": "hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Kubínska",
-    "Orient._č.": "   1      ",
-    "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "6764",
-    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",

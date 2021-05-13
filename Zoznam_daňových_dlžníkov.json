@@ -9695,13 +9695,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Žofčíková",
-    "Adresa_dlžníka": "súp. č. 16",
-    "Mesto": "Rudina",
-    "Suma_daňových_nedoplatkov": "   272,71",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dominika Balcerová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16254,6 +16247,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Eva Žofčíková",
+    "Adresa_dlžníka": "súp. č. 16",
+    "Mesto": "Rudina",
+    "Suma_daňových_nedoplatkov": "   175,39",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jozef Urban",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16349,13 +16349,6 @@
     "Adresa_dlžníka": "Hollého 648/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   174,28",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tomáš Kramar",
-    "Adresa_dlžníka": "Sasinkova 418/43",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   173,44",
     "Mena": "EUR"
   },
   {
@@ -16846,6 +16839,13 @@
     "Adresa_dlžníka": "Petzvalova 3384/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   166,03",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Tomáš Kramar",
+    "Adresa_dlžníka": "Sasinkova 418/43",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   165,84",
     "Mena": "EUR"
   },
   {
