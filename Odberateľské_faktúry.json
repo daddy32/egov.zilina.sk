@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210045",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2021",
+    "Dátum_zverejnenia": "13.05.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210046",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2021",
+    "Dátum_zverejnenia": "13.05.2021"
+  },
+  {
     "IČO": "36672297   ",
     "Číslo_faktúry": "20210044",
     "Odberateľ": "Severoslovenské vodárne a kanalizácie, a. s.",

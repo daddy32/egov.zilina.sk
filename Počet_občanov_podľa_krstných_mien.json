@@ -7,7 +7,7 @@
   {
     "Krstné_meno": "Mária",
     "Pohlavie": "žena",
-    "Počet": "2306"
+    "Počet": "2304"
   },
   {
     "Krstné_meno": "Anna",
@@ -17,7 +17,7 @@
   {
     "Krstné_meno": "Jozef",
     "Pohlavie": "muž",
-    "Počet": "1830"
+    "Počet": "1831"
   },
   {
     "Krstné_meno": "Ján",
@@ -72,7 +72,7 @@
   {
     "Krstné_meno": "Juraj",
     "Pohlavie": "muž",
-    "Počet": "1040"
+    "Počet": "1038"
   },
   {
     "Krstné_meno": "Pavol",
@@ -112,12 +112,12 @@
   {
     "Krstné_meno": "Marián",
     "Pohlavie": "muž",
-    "Počet": "705"
+    "Počet": "706"
   },
   {
     "Krstné_meno": "Michaela",
     "Pohlavie": "žena",
-    "Počet": "704"
+    "Počet": "705"
   },
   {
     "Krstné_meno": "Lukáš",
@@ -127,7 +127,7 @@
   {
     "Krstné_meno": "Matej",
     "Pohlavie": "muž",
-    "Počet": "680"
+    "Počet": "682"
   },
   {
     "Krstné_meno": "Veronika",
@@ -137,7 +137,7 @@
   {
     "Krstné_meno": "Ivan",
     "Pohlavie": "muž",
-    "Počet": "672"
+    "Počet": "673"
   },
   {
     "Krstné_meno": "Alena",
@@ -157,7 +157,7 @@
   {
     "Krstné_meno": "Jaroslav",
     "Pohlavie": "muž",
-    "Počet": "629"
+    "Počet": "628"
   },
   {
     "Krstné_meno": "Dušan",
@@ -212,7 +212,7 @@
   {
     "Krstné_meno": "Helena",
     "Pohlavie": "žena",
-    "Počet": "535"
+    "Počet": "536"
   },
   {
     "Krstné_meno": "Iveta",
@@ -262,7 +262,7 @@
   {
     "Krstné_meno": "Samuel",
     "Pohlavie": "muž",
-    "Počet": "451"
+    "Počet": "452"
   },
   {
     "Krstné_meno": "Petra",
@@ -292,12 +292,12 @@
   {
     "Krstné_meno": "Filip",
     "Pohlavie": "muž",
-    "Počet": "425"
+    "Počet": "426"
   },
   {
     "Krstné_meno": "Matúš",
     "Pohlavie": "muž",
-    "Počet": "425"
+    "Počet": "426"
   },
   {
     "Krstné_meno": "Patrik",
@@ -307,7 +307,7 @@
   {
     "Krstné_meno": "Richard",
     "Pohlavie": "muž",
-    "Počet": "402"
+    "Počet": "403"
   },
   {
     "Krstné_meno": "Barbora",
@@ -377,7 +377,7 @@
   {
     "Krstné_meno": "Margita",
     "Pohlavie": "žena",
-    "Počet": "298"
+    "Počet": "297"
   },
   {
     "Krstné_meno": "Dávid",
@@ -385,12 +385,12 @@
     "Počet": "295"
   },
   {
-    "Krstné_meno": "Dominika",
+    "Krstné_meno": "Renáta",
     "Pohlavie": "žena",
-    "Počet": "288"
+    "Počet": "289"
   },
   {
-    "Krstné_meno": "Renáta",
+    "Krstné_meno": "Dominika",
     "Pohlavie": "žena",
     "Počet": "288"
   },
@@ -487,7 +487,7 @@
   {
     "Krstné_meno": "Ondrej",
     "Pohlavie": "muž",
-    "Počet": "215"
+    "Počet": "214"
   },
   {
     "Krstné_meno": "Viktória",
@@ -645,19 +645,19 @@
     "Počet": "130"
   },
   {
+    "Krstné_meno": "Eliška",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
     "Krstné_meno": "Nela",
     "Pohlavie": "žena",
     "Počet": "128"
   },
   {
-    "Krstné_meno": "Eliška",
-    "Pohlavie": "žena",
-    "Počet": "127"
-  },
-  {
     "Krstné_meno": "Július",
     "Pohlavie": "muž",
-    "Počet": "125"
+    "Počet": "124"
   },
   {
     "Krstné_meno": "Stanislava",
@@ -840,13 +840,13 @@
     "Počet": "83"
   },
   {
-    "Krstné_meno": "Timea",
-    "Pohlavie": "žena",
-    "Počet": "83"
-  },
-  {
     "Krstné_meno": "Radovan",
     "Pohlavie": "muž",
+    "Počet": "82"
+  },
+  {
+    "Krstné_meno": "Timea",
+    "Pohlavie": "žena",
     "Počet": "82"
   },
   {
@@ -917,7 +917,7 @@
   {
     "Krstné_meno": "Vladimíra",
     "Pohlavie": "žena",
-    "Počet": "67"
+    "Počet": "66"
   },
   {
     "Krstné_meno": "Daša",
@@ -1155,6 +1155,11 @@
     "Počet": "38"
   },
   {
+    "Krstné_meno": "Zoja",
+    "Pohlavie": "žena",
+    "Počet": "38"
+  },
+  {
     "Krstné_meno": "Dáša",
     "Pohlavie": "žena",
     "Počet": "37"
@@ -1167,11 +1172,6 @@
   {
     "Krstné_meno": "Josef",
     "Pohlavie": "muž",
-    "Počet": "37"
-  },
-  {
-    "Krstné_meno": "Zoja",
-    "Pohlavie": "žena",
     "Počet": "37"
   },
   {
@@ -4616,6 +4616,11 @@
   },
   {
     "Krstné_meno": "Amia",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
+    "Krstné_meno": "Amina",
     "Pohlavie": "žena",
     "Počet": "1"
   },
