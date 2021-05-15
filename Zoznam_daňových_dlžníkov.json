@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  139 031,47",
+    "Suma_daňových_nedoplatkov": "  137 895,96",
     "Mena": "EUR"
   },
   {
@@ -101,7 +101,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  44 473,93",
+    "Suma_daňových_nedoplatkov": "  43 473,93",
     "Mena": "EUR"
   },
   {
@@ -1988,13 +1988,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Roman Abrahamovič",
-    "Adresa_dlžníka": "Námestie Ľudovíta Fullu 1666/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   333,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Oliver Žeriava",
     "Adresa_dlžníka": "Holubia 37/5",
     "Mesto": "Žilina",
@@ -2118,6 +2111,13 @@
     "Adresa_dlžníka": "Antona Bielka 480/30",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   326,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Roman Abrahamovič",
+    "Adresa_dlžníka": "Námestie Ľudovíta Fullu 1666/21",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   324,72",
     "Mena": "EUR"
   },
   {
@@ -10997,13 +10997,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Janka Blahušiaková",
-    "Adresa_dlžníka": "Jarná 2596/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   241,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Milan Helecz",
     "Adresa_dlžníka": "Nanterská 1681/10",
     "Mesto": "Žilina",
@@ -12226,6 +12219,13 @@
     "Adresa_dlžníka": "B. S. Timravy 950/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   225,98",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Janka Blahušiaková",
+    "Adresa_dlžníka": "Jarná 2596/38",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   225,62",
     "Mena": "EUR"
   },
   {
