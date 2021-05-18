@@ -490,13 +490,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "PELLART, a.s.",
-    "Adresa_dlžníka": "Jána Milca 786/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  6 521,06",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "PRESTAV ŽILINA s.r.o.",
     "Adresa_dlžníka": "Bánovská cesta 8024/10",
     "Mesto": "Žilina",
@@ -627,6 +620,13 @@
     "Adresa_dlžníka": "P. O. Hviezdoslava 726/42",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 968,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "PELLART, a.s.",
+    "Adresa_dlžníka": "Jána Milca 786/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 903,57",
     "Mena": "EUR"
   },
   {
@@ -1799,13 +1799,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   393,60",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Elena Penteková",
     "Adresa_dlžníka": "T.kľačany 283/283",
     "Mesto": "Martin",
@@ -1838,6 +1831,13 @@
     "Adresa_dlžníka": "Trnavská 1357/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   376,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   375,33",
     "Mena": "EUR"
   },
   {
@@ -5167,8 +5167,8 @@
   },
   {
     "Dlžník": "Richard Závodský",
-    "Adresa_dlžníka": "Trenčianska 1589/1",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 46",
+    "Mesto": "Ovčiarsko",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
   },
@@ -7666,8 +7666,8 @@
   },
   {
     "Dlžník": "Nikolas Baláž",
-    "Adresa_dlžníka": "Bajzova 2417/13",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Vrchlického 1193/2",
+    "Mesto": "Cheb",
     "Suma_daňových_nedoplatkov": "   298,20",
     "Mena": "EUR"
   },
@@ -10207,8 +10207,8 @@
   },
   {
     "Dlžník": "Michaela Závodská",
-    "Adresa_dlžníka": "Trenčianska 1589/1",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Ovčiarsko 67 46/46",
+    "Mesto": "Ovčiarsko",
     "Suma_daňových_nedoplatkov": "   257,34",
     "Mena": "EUR"
   },
@@ -16562,13 +16562,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dušan Brisuda",
-    "Adresa_dlžníka": "Veľká okružná 1304/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   170,08",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ján Flachs",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16613,13 +16606,6 @@
   {
     "Dlžník": "Pavel Schütz",
     "Adresa_dlžníka": "Berlínska 1679/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   170,08",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Renata Balošáková",
-    "Adresa_dlžníka": "Levočská 2957/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   170,08",
     "Mena": "EUR"

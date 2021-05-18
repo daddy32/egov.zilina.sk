@@ -48,6 +48,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": " B-Motion",
+    "Činnosť": "masérske služby",
+    "Ulica": "Daxnerova",
+    "Súp._č.": " 3487 ",
+    "Or._č.": "  43      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": " Bubliboom",
     "Činnosť": "predaj hračiek",
     "Ulica": "Antona Bernoláka",
@@ -5477,14 +5485,6 @@
     "Ulica": "Námestie Andreja Hlinku",
     "Súp._č.": " 8610 ",
     "Or._č.": "   7B     ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Detský kútik HRAJKO",
-    "Činnosť": "starostlivosť o deti",
-    "Ulica": "Slnečné námestie",
-    "Súp._č.": " 8899 ",
-    "Or._č.": "   1      ",
     "Obec": "Žilina"
   },
   {
@@ -13112,14 +13112,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Kozmetický salón LADY´S",
-    "Činnosť": "kozmetické služby",
-    "Ulica": "Jozefa Vuruma",
-    "Súp._č.": "  116 ",
-    "Or._č.": "   8      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "KOZMETICKÝ SALÓN LADY´S",
     "Činnosť": "kozmetické služby",
     "Ulica": "Jozefa Vuruma",
@@ -15392,6 +15384,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Marek Lacúch",
+    "Činnosť": "predaj textilu",
+    "Ulica": "Daniela Dlabača",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
     "Prevádzka": "Margita Nová - O P T I K A \"NOVÁ\"",
     "Činnosť": "očná optika",
     "Ulica": "Bratislavská",
@@ -15781,14 +15781,6 @@
     "Ulica": "Lichardova",
     "Súp._č.": "   44 ",
     "Or._č.": "  19      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Masážny saló LUCIA",
-    "Činnosť": "masážne služby",
-    "Ulica": "Národná",
-    "Súp._č.": "  804 ",
-    "Or._č.": "  20      ",
     "Obec": "Žilina"
   },
   {
@@ -22197,6 +22189,14 @@
     "Ulica": "Farská ulička",
     "Súp._č.": " 8149 ",
     "Or._č.": "   6      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "PREVEZMI - POŠLI",
+    "Činnosť": "skladovanie a pomocné činnosti v doprave",
+    "Ulica": "Národná",
+    "Súp._č.": "  673 ",
+    "Or._č.": "   5      ",
     "Obec": "Žilina"
   },
   {
@@ -30202,9 +30202,9 @@
   {
     "Prevádzka": "Viera Krupová",
     "Činnosť": "kadernícke služby",
-    "Ulica": "Daniela Dlabača",
-    "Súp._č.": " 2745 ",
-    "Or._č.": "  22      ",
+    "Ulica": "Nitrianska",
+    "Súp._č.": " 3625 ",
+    "Or._č.": "",
     "Obec": "Žilina"
   },
   {
@@ -31965,22 +31965,6 @@
     "Ulica": "Mariánske námestie",
     "Súp._č.": "  191 ",
     "Or._č.": "  14      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Žilinská Meštianska Piváreň",
-    "Činnosť": "pohostinská činnosť",
-    "Ulica": "Mariánske námestie",
-    "Súp._č.": "  195 ",
-    "Or._č.": "  10      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Žilinská Meštianska Piváreň",
-    "Činnosť": "pohostinská činnosť",
-    "Ulica": "Jozefa Vuruma",
-    "Súp._č.": "  115 ",
-    "Or._č.": "  10      ",
     "Obec": "Žilina"
   },
   {
