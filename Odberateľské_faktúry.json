@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "17863368   ",
+    "Číslo_faktúry": "20210047",
+    "Odberateľ": "Marta Tichá - MÓDALUX",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 776,66 EUR, spolu: 776,66 EUR",
+    "Celková_cena_(bez_DPH)": "   776,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.05.2021",
+    "Dátum_zverejnenia": "19.05.2021"
+  },
+  {
+    "IČO": "41411919   ",
+    "Číslo_faktúry": "20210048",
+    "Odberateľ": "Dáša Repkovská - VITALIS",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 276,18 EUR, spolu: 276,18 EUR",
+    "Celková_cena_(bez_DPH)": "   276,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.05.2021",
+    "Dátum_zverejnenia": "19.05.2021"
+  },
+  {
     "IČO": "00397563   ",
     "Číslo_faktúry": "2021008",
     "Odberateľ": "Žilinská univerzita v Žiline",

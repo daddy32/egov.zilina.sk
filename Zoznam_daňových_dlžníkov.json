@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  137 895,96",
+    "Suma_daňových_nedoplatkov": "  137 310,30",
     "Mena": "EUR"
   },
   {
@@ -227,7 +227,7 @@
     "Dlžník": "TWR Business s.r.o.",
     "Adresa_dlžníka": "Štefániková 11",
     "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  17 057,58",
+    "Suma_daňových_nedoplatkov": "  16 057,58",
     "Mena": "EUR"
   },
   {
@@ -1492,8 +1492,8 @@
   },
   {
     "Dlžník": "Michal Košecký",
-    "Adresa_dlžníka": "M. R. Štefánika 901/18",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "U Kapslovné 2770/1",
+    "Mesto": "Praha I.",
     "Suma_daňových_nedoplatkov": "   673,07",
     "Mena": "EUR"
   },
@@ -8659,13 +8659,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Juraj Chovanec",
-    "Adresa_dlžníka": "Spojná 91/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   284,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Karol Franek",
     "Adresa_dlžníka": "Rajecká 2799/7",
     "Mesto": "Žilina",
@@ -9291,13 +9284,6 @@
   {
     "Dlžník": "Róbert Dolník",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Roman Chovanec",
-    "Adresa_dlžníka": "Spojná 91/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   276,30",
     "Mena": "EUR"
@@ -11335,6 +11321,13 @@
   {
     "Dlžník": "Jozef Puček",
     "Adresa_dlžníka": "Ľubľanská 1678/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   235,44",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Juraj Chovanec",
+    "Adresa_dlžníka": "Spojná 91/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   235,44",
     "Mena": "EUR"
