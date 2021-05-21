@@ -9488,6 +9488,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Považský Chlmec",
     "Ulica": "Bytčianska",
+    "Orient._č.": " 113B     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Bytčianska",
     "Orient._č.": " 114      ",
     "Počet_psov": "1"
   },
@@ -16262,6 +16269,13 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Dolová",
+    "Orient._č.": "   3      ",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Závodie",
     "Ulica": "Drieňová",
     "Orient._č.": "   1      ",
@@ -19002,7 +19016,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Gaštanová",
     "Orient._č.": "  17      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -33491,6 +33505,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Kortinská",
+    "Orient._č.": "  35      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Kortinská",
     "Orient._č.": "  36      ",
     "Počet_psov": "0"
   },
@@ -42375,7 +42396,7 @@
     "Časť_obce": "Bôrik",
     "Ulica": "Mojmírova",
     "Orient._č.": "  24      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -43937,6 +43958,13 @@
     "Ulica": "Na cintorín",
     "Orient._č.": "   6      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Na cintorín",
+    "Orient._č.": "  10      ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -77129,13 +77157,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  15      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "Žilinská Lehota",
     "Orient._č.": "  17      ",
     "Počet_psov": "0"
   },
@@ -77270,13 +77291,6 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Žilinská Lehota",
     "Orient._č.": "  49      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  50      ",
     "Počet_psov": "0"
   },
   {
@@ -77970,13 +77984,6 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "",
     "Orient._č.": " 551      ",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "",
-    "Orient._č.": "",
     "Počet_psov": "1"
   },
   {

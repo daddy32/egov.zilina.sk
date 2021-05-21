@@ -3772,6 +3772,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Mojmírova",
+    "Orient._č.": "  24      ",
+    "Č._poschodia": "",
+    "Plemeno": "Bradáč malý",
+    "Č._známky": "9407",
+    "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Na Malý Diel",
     "Orient._č.": "   5A     ",
     "Č._poschodia": "",
@@ -18731,6 +18740,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Gaštanová",
+    "Orient._č.": "  17      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "čierno-biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gaštanová",
     "Orient._č.": "  19      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -29480,7 +29498,7 @@
     "Orient._č.": "   1      ",
     "Č._poschodia": "",
     "Plemeno": "Bulteriér",
-    "Č._známky": "6449",
+    "Č._známky": "9406",
     "Farba": "žihaná"
   },
   {
@@ -37153,6 +37171,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Dolová",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Nemecký ovčiak",
+    "Č._známky": "8785",
+    "Farba": "vlko-šedý"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Kortinská",
     "Orient._č.": "   5      ",
     "Č._poschodia": "",
@@ -37519,15 +37546,6 @@
     "Plemeno": "Stredoázijský ovčiak",
     "Č._známky": "103",
     "Farba": "plavá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "",
-    "Orient._č.": "",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "8785",
-    "Farba": "vlko-šedý"
   },
   {
     "Mesto": "Žilina",
