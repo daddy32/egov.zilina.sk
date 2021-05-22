@@ -770,13 +770,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "REALITY LAURIN, a.s.",
-    "Adresa_dlžníka": "Belanského súp. č. 2725",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  2 922,34",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "AMOLER TRADE SLOVAKIA s.r.o.",
     "Adresa_dlžníka": "M. R. Štefánika 819/5",
     "Mesto": "Žilina",
@@ -1001,17 +994,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Uppsala, s.r.o.",
-    "Adresa_dlžníka": "Tamaškovičova 17",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  2 034,78",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Dušan Bíro",
     "Adresa_dlžníka": "Gabajova 2593/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 022,88",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Uppsala, s.r.o.",
+    "Adresa_dlžníka": "Tamaškovičova 17",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  2 021,97",
     "Mena": "EUR"
   },
   {
@@ -8281,13 +8274,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mário Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   293,22",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Veronika Ďuronková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8810,6 +8796,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   283,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mário Baláž",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   283,17",
     "Mena": "EUR"
   },
   {
@@ -17161,13 +17154,6 @@
     "Adresa_dlžníka": "súp. č. 501",
     "Mesto": "Vlčany",
     "Suma_daňových_nedoplatkov": "   162,18",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Závodský",
-    "Adresa_dlžníka": "Kempelenova 3414/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   161,56",
     "Mena": "EUR"
   },
   {
