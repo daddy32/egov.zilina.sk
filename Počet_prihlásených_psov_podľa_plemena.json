@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1029"
+    "Počet": "1026"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "211"
+    "Počet": "212"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -21,11 +21,11 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "133"
+    "Počet": "134"
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "111"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -72,16 +72,16 @@
     "Počet": "47"
   },
   {
+    "Plemeno": "Francúzsky buldoček",
+    "Počet": "44"
+  },
+  {
     "Plemeno": "Nemecký špic",
     "Počet": "44"
   },
   {
-    "Plemeno": "Francúzsky buldoček",
-    "Počet": "43"
-  },
-  {
     "Plemeno": "Bradáč",
-    "Počet": "39"
+    "Počet": "40"
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
@@ -97,14 +97,10 @@
   },
   {
     "Plemeno": "Weimarský stavač",
-    "Počet": "30"
+    "Počet": "31"
   },
   {
     "Plemeno": "Stredoázijský ovčiak",
-    "Počet": "27"
-  },
-  {
-    "Plemeno": "Americký pitbulteriér",
     "Počet": "27"
   },
   {
@@ -112,16 +108,20 @@
     "Počet": "26"
   },
   {
-    "Plemeno": "Malý bradáč",
+    "Plemeno": "Rotvajler",
     "Počet": "25"
   },
   {
-    "Plemeno": "Rotvajler",
+    "Plemeno": "Americký pitbulteriér",
     "Počet": "25"
   },
   {
     "Plemeno": "Cane Corso",
     "Počet": "25"
+  },
+  {
+    "Plemeno": "Malý bradáč",
+    "Počet": "24"
   },
   {
     "Plemeno": "Hovawart",
@@ -412,10 +412,6 @@
     "Počet": "3"
   },
   {
-    "Plemeno": "Fínsky špic",
-    "Počet": "3"
-  },
-  {
     "Plemeno": "Havanský psík",
     "Počet": "3"
   },
@@ -489,6 +485,10 @@
   },
   {
     "Plemeno": "Cairn teriér",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Fínsky špic",
     "Počet": "2"
   },
   {
