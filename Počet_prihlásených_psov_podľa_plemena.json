@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1026"
+    "Počet": "1024"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -12,12 +12,12 @@
     "Počet": "263"
   },
   {
-    "Plemeno": "Maltézsky psík",
+    "Plemeno": "Labradorský retriever",
     "Počet": "212"
   },
   {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "210"
+    "Plemeno": "Maltézsky psík",
+    "Počet": "212"
   },
   {
     "Plemeno": "Čivava",
@@ -29,7 +29,7 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "96"
+    "Počet": "97"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -40,12 +40,12 @@
     "Počet": "64"
   },
   {
-    "Plemeno": "Borderská kólia",
+    "Plemeno": "Shih - tzu",
     "Počet": "63"
   },
   {
-    "Plemeno": "Shih - tzu",
-    "Počet": "63"
+    "Plemeno": "Borderská kólia",
+    "Počet": "62"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -109,7 +109,7 @@
   },
   {
     "Plemeno": "Rotvajler",
-    "Počet": "25"
+    "Počet": "26"
   },
   {
     "Plemeno": "Americký pitbulteriér",
@@ -436,6 +436,10 @@
     "Počet": "3"
   },
   {
+    "Plemeno": "Trpaslíčí špic",
+    "Počet": "3"
+  },
+  {
     "Plemeno": "Westhighland white teriér",
     "Počet": "3"
   },
@@ -537,10 +541,6 @@
   },
   {
     "Plemeno": "Tosa",
-    "Počet": "2"
-  },
-  {
-    "Plemeno": "Trpaslíčí špic",
     "Počet": "2"
   },
   {

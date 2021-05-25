@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  137 310,30",
+    "Suma_daňových_nedoplatkov": "  136 002,54",
     "Mena": "EUR"
   },
   {
@@ -735,13 +735,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Olbena s.r.o.",
-    "Adresa_dlžníka": "L.Svobodu 2689/80",
-    "Mesto": "Poprad",
-    "Suma_daňových_nedoplatkov": "  3 108,76",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "POKROK, výrobné družstvo, Žilina",
     "Adresa_dlžníka": "M. R. Štefánika 3559/107",
     "Mesto": "Žilina",
@@ -1347,7 +1340,7 @@
     "Dlžník": "Božena Danielová",
     "Adresa_dlžníka": "Dadanova 3385/3",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   829,52",
+    "Suma_daňových_nedoplatkov": "   829,35",
     "Mena": "EUR"
   },
   {
@@ -1554,13 +1547,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dušan Gálik - REGON PLUS",
-    "Adresa_dlžníka": "Jankolova 2",
-    "Mesto": "Bratislava-Petržalka",
-    "Suma_daňových_nedoplatkov": "   536,44",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "František Vanoch",
     "Adresa_dlžníka": "Matuškova 430/43",
     "Mesto": "Žilina",
@@ -1656,6 +1642,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   455,92",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dušan Gálik - REGON PLUS",
+    "Adresa_dlžníka": "Jankolova 2",
+    "Mesto": "Bratislava-Petržalka",
+    "Suma_daňových_nedoplatkov": "   453,93",
     "Mena": "EUR"
   },
   {
@@ -4328,13 +4321,6 @@
   {
     "Dlžník": "Milan Kubík",
     "Adresa_dlžníka": "Zvolenská 1777/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Milan Stojka",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
