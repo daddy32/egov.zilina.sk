@@ -6153,13 +6153,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Petr Macháček",
-    "Adresa_dlžníka": "Budapešťanská súp. č. 2124",
-    "Mesto": "Kladno",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivan Baláž",
     "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
@@ -9457,13 +9450,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Pavol Stojka",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   273,38",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Rastislav Turza",
     "Adresa_dlžníka": "Hečkova 2534/18",
     "Mesto": "Žilina",
@@ -10665,6 +10651,13 @@
     "Adresa_dlžníka": "B. S. Timravy 949/9",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   253,89",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Pavol Stojka",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   253,62",
     "Mena": "EUR"
   },
   {
@@ -14637,13 +14630,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Olejár",
-    "Adresa_dlžníka": "Moyzesova 963/28",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   196,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Patrik Baláž",
     "Adresa_dlžníka": "Juraja Sklenára 2103/12",
     "Mesto": "Žilina",
@@ -14991,13 +14977,6 @@
     "Adresa_dlžníka": "Trnavská 1356/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   188,32",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Monika Balážová",
-    "Adresa_dlžníka": "Borová 3295/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   187,59",
     "Mena": "EUR"
   },
   {
@@ -17192,6 +17171,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Monika Balážová",
+    "Adresa_dlžníka": "Borová 3295/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   160,00",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Lukáš Hrtánek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -17252,6 +17238,13 @@
     "Adresa_dlžníka": "Oslobodenia 200/75",
     "Mesto": "Belá",
     "Suma_daňových_nedoplatkov": "   149,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martin Olejár",
+    "Adresa_dlžníka": "Moyzesova 963/28",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   149,46",
     "Mena": "EUR"
   },
   {
@@ -17325,13 +17318,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Samuel Holeša",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   72,12",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Pelikán",
     "Adresa_dlžníka": "Tatranská 3111/7",
     "Mesto": "Žilina",
@@ -17364,6 +17350,20 @@
     "Adresa_dlžníka": "Dadanova 3387/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   48,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Samuel Holeša",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   48,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Petr Macháček",
+    "Adresa_dlžníka": "Budapešťanská súp. č. 2124",
+    "Mesto": "Kladno",
+    "Suma_daňových_nedoplatkov": "   43,80",
     "Mena": "EUR"
   },
   {
