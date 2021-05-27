@@ -952,6 +952,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "ANJA",
+    "Činnosť": "predaj nalievaného vína a darčekových predmetov",
+    "Ulica": "Baničova",
+    "Súp._č.": " 3392 ",
+    "Or._č.": "",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "ANJEL",
     "Činnosť": "predaj umeleckých výrobkov",
     "Ulica": "Národná",
@@ -1992,6 +2000,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "A1music  s. r. o.",
+    "Činnosť": "predaj zvukovo obrazových nosičov",
+    "Ulica": "Bottova",
+    "Súp._č.": "   42 ",
+    "Or._č.": "  12      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "B E L A TEXIL",
     "Činnosť": "predaj bielizne, obrusov a vankusov",
     "Ulica": "Štúrova",
@@ -3016,6 +3032,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "BODY&SOUL s .r. o.",
+    "Činnosť": "nákup a predaj tovaru",
+    "Ulica": "J. M. Geromettu",
+    "Súp._č.": "  146 ",
+    "Or._č.": "   1      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Bon Bon čokoládovňa",
     "Činnosť": "čokoládovňa",
     "Ulica": "Mariánske námestie",
@@ -3205,6 +3229,14 @@
     "Ulica": "Námestie Andreja Hlinku",
     "Súp._č.": " 8610 ",
     "Or._č.": "   7B     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "BUBABIKES s. r. o.",
+    "Činnosť": "oprava osobných potrieb a potrieb pre domácnosť",
+    "Ulica": "P. O. Hviezdoslava",
+    "Súp._č.": "  720 ",
+    "Or._č.": "  56      ",
     "Obec": "Žilina"
   },
   {
@@ -6856,6 +6888,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "EURO NAILS",
+    "Činnosť": "nechtové štúdio",
+    "Ulica": "Horný val",
+    "Súp._č.": "   70 ",
+    "Or._č.": "  31      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "EURO PARKET, s.r.o.",
     "Činnosť": "predaj tapiet , fólii",
     "Ulica": "Kamenná",
@@ -7621,6 +7661,22 @@
     "Ulica": "1. mája",
     "Súp._č.": " 1016 ",
     "Or._č.": "   4      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Flamengo kvety ( Aupark)",
+    "Činnosť": "kvety a doplnky",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 8618 ",
+    "Or._č.": "  59A     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Flamengo kvety ( Kaufland)",
+    "Činnosť": "kvety a doplnky",
+    "Ulica": "Vysokoškolákov",
+    "Súp._č.": " 8083 ",
+    "Or._č.": "  37      ",
     "Obec": "Žilina"
   },
   {
@@ -9312,14 +9368,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Hostinec pod Brezou",
-    "Činnosť": "pohostinská činnosť",
-    "Ulica": "Hálkova",
-    "Súp._č.": " 2965 ",
-    "Or._č.": "  28      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "Hostinec \"SÝPKA\"",
     "Činnosť": "pohostinská činnosť, stravovacie služby, predaj alko a nealko",
     "Ulica": "Makovického",
@@ -10113,10 +10161,10 @@
   },
   {
     "Prevádzka": "Ing. Alena Lovásová - ML servis",
-    "Činnosť": "elektrické náradie",
-    "Ulica": "Kragujevská",
-    "Súp._č.": "  389 ",
-    "Or._č.": "   9      ",
+    "Činnosť": "servis a predaj elektrického ručného náradia",
+    "Ulica": "P. O. Hviezdoslava",
+    "Súp._č.": "  723 ",
+    "Or._č.": "  50      ",
     "Obec": "Žilina"
   },
   {
@@ -15360,6 +15408,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Marek",
+    "Činnosť": "mäsiarstvo, výroba a predaj mäsových výrobkov",
+    "Ulica": "M. R. Štefánika",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
     "Prevádzka": "Marek Koženný - FORNETY HM TESCO",
     "Činnosť": "výroba a predaj fornetti",
     "Ulica": "Košická",
@@ -16382,14 +16438,6 @@
     "Súp._č.": " 3151 ",
     "Or._č.": "   4      ",
     "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Miestna výkupňa Žilina - Solinky",
-    "Činnosť": "zberné suroviny",
-    "Ulica": "Obvodová",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
   },
   {
     "Prevádzka": "Miestna výkupňa Žilina - Vlčince",
@@ -19760,14 +19808,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "PDM Autosúčiastky s.r.o.",
-    "Činnosť": "predaj autodoplnkov",
-    "Ulica": "Veľká okružná",
-    "Súp._č.": " 1062 ",
-    "Or._č.": "   1      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "PEDICENTRUM",
     "Činnosť": "predaj ortopedických vložiek a masáže",
     "Ulica": "Republiky",
@@ -21526,14 +21566,6 @@
     "Súp._č.": "",
     "Or._č.": "",
     "Obec": ""
-  },
-  {
-    "Prevádzka": "Predaajňa FIGO",
-    "Činnosť": "farby,laky a rozličný tovar pre stavbu a domácnosť",
-    "Ulica": "Kamenná",
-    "Súp._č.": " 8330 ",
-    "Or._č.": "  16B     ",
-    "Obec": "Žilina"
   },
   {
     "Prevádzka": "Predaj Cukroviniek",
@@ -23512,6 +23544,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Rondel Car",
+    "Činnosť": "Autoumyváreň, predaj autokozmetiky",
+    "Ulica": "Závodská cesta",
+    "Súp._č.": " 8166 ",
+    "Or._č.": "  26A     ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Rondel Cars, s.r.o.",
     "Činnosť": "umývanie motorových vozidiel",
     "Ulica": "Závodská cesta",
@@ -24349,14 +24389,6 @@
     "Ulica": "Antona Bernoláka",
     "Súp._č.": " 8316 ",
     "Or._č.": "  48A     ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Salón Šmidová",
-    "Činnosť": "kaderníctvo",
-    "Ulica": "Dolný val",
-    "Súp._č.": " 1523 ",
-    "Or._č.": "   5      ",
     "Obec": "Žilina"
   },
   {

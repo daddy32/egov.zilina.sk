@@ -6608,6 +6608,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Fialová",
+    "Orient._č.": "   2      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "zlatá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Fialová",
     "Orient._č.": "   6      ",
     "Č._poschodia": "",
     "Plemeno": "Samojed",
@@ -18068,7 +18077,7 @@
     "Orient._č.": "   5      ",
     "Č._poschodia": "",
     "Plemeno": "Staffordshirský bulteriér",
-    "Č._známky": "",
+    "Č._známky": "9424",
     "Farba": "čierno-biela"
   },
   {
@@ -20615,8 +20624,8 @@
     "Orient._č.": "  16      ",
     "Č._poschodia": "",
     "Plemeno": "Francúzsky buldoček",
-    "Č._známky": "",
-    "Farba": ""
+    "Č._známky": "9426",
+    "Farba": "žihaná"
   },
   {
     "Mesto": "Žilina",
@@ -28159,6 +28168,15 @@
     "Plemeno": "Bernský salašnícky pes",
     "Č._známky": "9344",
     "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Dobšinského",
+    "Orient._č.": "   4      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "ryšavo-hnedá"
   },
   {
     "Mesto": "Žilina",

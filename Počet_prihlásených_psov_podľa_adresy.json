@@ -8410,13 +8410,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
-    "Orient._č.": " 476      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
     "Orient._č.": " 485      ",
     "Počet_psov": "0"
   },
@@ -14144,7 +14137,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Dobšinského",
     "Orient._č.": "   4      ",
-    "Počet_psov": "2"
+    "Počet_psov": "3"
   },
   {
     "Mesto": "Žilina",
@@ -18169,7 +18162,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Fialová",
     "Orient._č.": "   2      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -36782,6 +36775,13 @@
     "Časť_obce": "Budatín",
     "Ulica": "Letná",
     "Orient._č.": "  22      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Levanduľová",
+    "Orient._č.": "   1      ",
     "Počet_psov": "0"
   },
   {

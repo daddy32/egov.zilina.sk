@@ -190,6 +190,11 @@
     "Počet": "61"
   },
   {
+    "Priezvisko": "Milová",
+    "Pohlavie": "žena",
+    "Počet": "61"
+  },
+  {
     "Priezvisko": "Oravec",
     "Pohlavie": "muž",
     "Počet": "61"
@@ -231,11 +236,6 @@
   },
   {
     "Priezvisko": "Líšková",
-    "Pohlavie": "žena",
-    "Počet": "60"
-  },
-  {
-    "Priezvisko": "Milová",
     "Pohlavie": "žena",
     "Počet": "60"
   },
@@ -1270,6 +1270,11 @@
     "Počet": "32"
   },
   {
+    "Priezvisko": "Zacharová",
+    "Pohlavie": "žena",
+    "Počet": "32"
+  },
+  {
     "Priezvisko": "Benková",
     "Pohlavie": "žena",
     "Počet": "31"
@@ -1381,11 +1386,6 @@
   },
   {
     "Priezvisko": "Virdzeková",
-    "Pohlavie": "žena",
-    "Počet": "31"
-  },
-  {
-    "Priezvisko": "Zacharová",
     "Pohlavie": "žena",
     "Počet": "31"
   },
@@ -2300,11 +2300,6 @@
     "Počet": "23"
   },
   {
-    "Priezvisko": "Babišová",
-    "Pohlavie": "žena",
-    "Počet": "23"
-  },
-  {
     "Priezvisko": "Bača",
     "Pohlavie": "muž",
     "Počet": "23"
@@ -2533,6 +2528,11 @@
     "Priezvisko": "Žák",
     "Pohlavie": "muž",
     "Počet": "23"
+  },
+  {
+    "Priezvisko": "Babišová",
+    "Pohlavie": "žena",
+    "Počet": "22"
   },
   {
     "Priezvisko": "Beňadik",
@@ -2900,11 +2900,6 @@
     "Počet": "21"
   },
   {
-    "Priezvisko": "Kosa",
-    "Pohlavie": "muž",
-    "Počet": "21"
-  },
-  {
     "Priezvisko": "Košťálová",
     "Pohlavie": "žena",
     "Počet": "21"
@@ -3101,6 +3096,11 @@
   },
   {
     "Priezvisko": "Konečný",
+    "Pohlavie": "muž",
+    "Počet": "20"
+  },
+  {
+    "Priezvisko": "Kosa",
     "Pohlavie": "muž",
     "Počet": "20"
   },
@@ -11645,6 +11645,11 @@
     "Počet": "8"
   },
   {
+    "Priezvisko": "Marták",
+    "Pohlavie": "muž",
+    "Počet": "8"
+  },
+  {
     "Priezvisko": "Mäsiarová",
     "Pohlavie": "žena",
     "Počet": "8"
@@ -13630,11 +13635,6 @@
     "Počet": "7"
   },
   {
-    "Priezvisko": "Marták",
-    "Pohlavie": "muž",
-    "Počet": "7"
-  },
-  {
     "Priezvisko": "Martáková",
     "Pohlavie": "žena",
     "Počet": "7"
@@ -14211,6 +14211,11 @@
   },
   {
     "Priezvisko": "Slavíková",
+    "Pohlavie": "žena",
+    "Počet": "7"
+  },
+  {
+    "Priezvisko": "Smidová",
     "Pohlavie": "žena",
     "Počet": "7"
   },
@@ -17275,11 +17280,6 @@
     "Počet": "6"
   },
   {
-    "Priezvisko": "Smidová",
-    "Pohlavie": "žena",
-    "Počet": "6"
-  },
-  {
     "Priezvisko": "Smutná",
     "Pohlavie": "žena",
     "Počet": "6"
@@ -17382,6 +17382,11 @@
   {
     "Priezvisko": "Synák",
     "Pohlavie": "muž",
+    "Počet": "6"
+  },
+  {
+    "Priezvisko": "Šadláková",
+    "Pohlavie": "žena",
     "Počet": "6"
   },
   {
@@ -20930,11 +20935,6 @@
     "Počet": "5"
   },
   {
-    "Priezvisko": "Plačková",
-    "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
     "Priezvisko": "Plánka",
     "Pohlavie": "muž",
     "Počet": "5"
@@ -21556,11 +21556,6 @@
   },
   {
     "Priezvisko": "Szabóová",
-    "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
-    "Priezvisko": "Šadláková",
     "Pohlavie": "žena",
     "Počet": "5"
   },
@@ -27247,6 +27242,11 @@
   {
     "Priezvisko": "Pittner",
     "Pohlavie": "muž",
+    "Počet": "4"
+  },
+  {
+    "Priezvisko": "Plačková",
+    "Pohlavie": "žena",
     "Počet": "4"
   },
   {
@@ -45335,6 +45335,11 @@
     "Počet": "2"
   },
   {
+    "Priezvisko": "Gavrilov",
+    "Pohlavie": "muž",
+    "Počet": "2"
+  },
+  {
     "Priezvisko": "Gavurová",
     "Pohlavie": "žena",
     "Počet": "2"
@@ -61615,11 +61620,6 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "Bendíková",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
     "Priezvisko": "Benedek",
     "Pohlavie": "muž",
     "Počet": "1"
@@ -68010,11 +68010,6 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "Gavrilov",
-    "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
     "Priezvisko": "Gavula",
     "Pohlavie": "muž",
     "Počet": "1"
@@ -69297,6 +69292,11 @@
   {
     "Priezvisko": "Haneli",
     "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
+    "Priezvisko": "Hanes",
+    "Pohlavie": "žena",
     "Počet": "1"
   },
   {
