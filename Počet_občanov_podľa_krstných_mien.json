@@ -42,7 +42,7 @@
   {
     "Krstné_meno": "Martin",
     "Pohlavie": "muž",
-    "Počet": "1577"
+    "Počet": "1576"
   },
   {
     "Krstné_meno": "Jana",
@@ -77,7 +77,7 @@
   {
     "Krstné_meno": "Pavol",
     "Pohlavie": "muž",
-    "Počet": "1029"
+    "Počet": "1028"
   },
   {
     "Krstné_meno": "Vladimír",
@@ -182,7 +182,7 @@
   {
     "Krstné_meno": "Roman",
     "Pohlavie": "muž",
-    "Počet": "559"
+    "Počet": "558"
   },
   {
     "Krstné_meno": "Ivana",
@@ -192,7 +192,7 @@
   {
     "Krstné_meno": "Emília",
     "Pohlavie": "žena",
-    "Počet": "543"
+    "Počet": "542"
   },
   {
     "Krstné_meno": "Lenka",
@@ -200,13 +200,13 @@
     "Počet": "541"
   },
   {
-    "Krstné_meno": "Ľubomír",
-    "Pohlavie": "muž",
-    "Počet": "540"
-  },
-  {
     "Krstné_meno": "Gabriela",
     "Pohlavie": "žena",
+    "Počet": "539"
+  },
+  {
+    "Krstné_meno": "Ľubomír",
+    "Pohlavie": "muž",
     "Počet": "539"
   },
   {
@@ -307,7 +307,7 @@
   {
     "Krstné_meno": "Richard",
     "Pohlavie": "muž",
-    "Počet": "406"
+    "Počet": "407"
   },
   {
     "Krstné_meno": "Barbora",
@@ -372,7 +372,7 @@
   {
     "Krstné_meno": "Rastislav",
     "Pohlavie": "muž",
-    "Počet": "303"
+    "Počet": "304"
   },
   {
     "Krstné_meno": "Margita",
@@ -402,7 +402,7 @@
   {
     "Krstné_meno": "Soňa",
     "Pohlavie": "žena",
-    "Počet": "280"
+    "Počet": "281"
   },
   {
     "Krstné_meno": "Ľudmila",
@@ -550,14 +550,14 @@
     "Počet": "174"
   },
   {
-    "Krstné_meno": "Laura",
+    "Krstné_meno": "Zdenka",
     "Pohlavie": "žena",
     "Počet": "173"
   },
   {
-    "Krstné_meno": "Zdenka",
+    "Krstné_meno": "Laura",
     "Pohlavie": "žena",
-    "Počet": "173"
+    "Počet": "172"
   },
   {
     "Krstné_meno": "Sofia",
@@ -587,7 +587,7 @@
   {
     "Krstné_meno": "Boris",
     "Pohlavie": "muž",
-    "Počet": "152"
+    "Počet": "151"
   },
   {
     "Krstné_meno": "Ľubomíra",
@@ -597,7 +597,7 @@
   {
     "Krstné_meno": "Alexander",
     "Pohlavie": "muž",
-    "Počet": "144"
+    "Počet": "145"
   },
   {
     "Krstné_meno": "Alica",
@@ -800,14 +800,14 @@
     "Počet": "94"
   },
   {
-    "Krstné_meno": "Edita",
+    "Krstné_meno": "Valéria",
     "Pohlavie": "žena",
     "Počet": "93"
   },
   {
-    "Krstné_meno": "Valéria",
+    "Krstné_meno": "Edita",
     "Pohlavie": "žena",
-    "Počet": "93"
+    "Počet": "92"
   },
   {
     "Krstné_meno": "Klára",
@@ -845,6 +845,11 @@
     "Počet": "82"
   },
   {
+    "Krstné_meno": "Rebeka",
+    "Pohlavie": "žena",
+    "Počet": "82"
+  },
+  {
     "Krstné_meno": "Timea",
     "Pohlavie": "žena",
     "Počet": "82"
@@ -853,11 +858,6 @@
     "Krstné_meno": "Timotej",
     "Pohlavie": "muž",
     "Počet": "82"
-  },
-  {
-    "Krstné_meno": "Rebeka",
-    "Pohlavie": "žena",
-    "Počet": "81"
   },
   {
     "Krstné_meno": "Slavomír",
@@ -1975,11 +1975,6 @@
     "Počet": "11"
   },
   {
-    "Krstné_meno": "Ignác",
-    "Pohlavie": "muž",
-    "Počet": "11"
-  },
-  {
     "Krstné_meno": "Ivica",
     "Pohlavie": "žena",
     "Počet": "11"
@@ -2032,6 +2027,11 @@
   {
     "Krstné_meno": "Charlotte",
     "Pohlavie": "žena",
+    "Počet": "10"
+  },
+  {
+    "Krstné_meno": "Ignác",
+    "Pohlavie": "muž",
     "Počet": "10"
   },
   {
@@ -7456,6 +7456,11 @@
   },
   {
     "Krstné_meno": "Laura Eva",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
+    "Krstné_meno": "Laura Helena",
     "Pohlavie": "žena",
     "Počet": "1"
   },

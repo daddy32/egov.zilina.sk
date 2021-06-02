@@ -938,13 +938,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "J.T.M. Trans, s.r.o.",
-    "Adresa_dlžníka": "Bytčická 89",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 267,43",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "MTK Slovakia, s.r.o.",
     "Adresa_dlžníka": "Legionárska 8203/2",
     "Mesto": "Žilina",
@@ -970,6 +963,13 @@
     "Adresa_dlžníka": "2",
     "Mesto": "Sedliacka Dubová",
     "Suma_daňových_nedoplatkov": "  2 178,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "J.T.M. Trans, s.r.o.",
+    "Adresa_dlžníka": "Bytčická 89",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 128,06",
     "Mena": "EUR"
   },
   {
@@ -12180,13 +12180,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Janka Blahušiaková",
-    "Adresa_dlžníka": "Jarná 2596/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   225,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Juraj Námor",
     "Adresa_dlžníka": "Agátová 184/16",
     "Mesto": "Žilina",
@@ -16858,6 +16851,13 @@
   {
     "Dlžník": "Jana Mináriková",
     "Adresa_dlžníka": "Gabajova 2590/15",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   165,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Janka Blahušiaková",
+    "Adresa_dlžníka": "Jarná 2596/38",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,62",
     "Mena": "EUR"
