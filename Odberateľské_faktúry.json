@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021009",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné za mesiac máj 2021 v zmysle Nájomnej zluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2021",
+    "Dátum_zverejnenia": "02.06.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021010",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady za mesiac máj 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2021",
+    "Dátum_zverejnenia": "02.06.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021011",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "nájomné za mesiac máj 2021 v zmysle Nájomnej zmluvy č. 5/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 46 EUR, spolu: 46 EUR",
+    "Celková_cena_(bez_DPH)": "   46,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2021",
+    "Dátum_zverejnenia": "02.06.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021012",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "prevádzkové náklady za mesiac máj 2021 v zmysle Nájomnej zmluvy č. 5/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 86,25 EUR, spolu: 86,25 EUR",
+    "Celková_cena_(bez_DPH)": "   86,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2021",
+    "Dátum_zverejnenia": "02.06.2021"
+  },
+  {
     "IČO": "37812050   ",
     "Číslo_faktúry": "21002",
     "Odberateľ": "Športový klub MAKROTEAM",
