@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  134 105,75",
+    "Suma_daňových_nedoplatkov": "  133 327,96",
     "Mena": "EUR"
   },
   {
@@ -651,13 +651,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "AUTO ART, spol. s r.o.",
-    "Adresa_dlžníka": "Hollého 642/24",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 673,33",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Adriána Botošová",
     "Adresa_dlžníka": "Gándího 5089/1",
     "Mesto": "Martin",
@@ -1127,13 +1120,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Hemčíková",
-    "Adresa_dlžníka": "Antona Bielka 545/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 450,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Pavol Dzureň",
     "Adresa_dlžníka": "Jegorovo nám. 882/1",
     "Mesto": "Košice-Dargovských hrdinov",
@@ -1166,6 +1152,13 @@
     "Adresa_dlžníka": "Kubínska 1104/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  1 300,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Hemčíková",
+    "Adresa_dlžníka": "Antona Bielka 545/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 300,00",
     "Mena": "EUR"
   },
   {
