@@ -1,5 +1,95 @@
 [
   {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210053",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021020",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 5/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021021",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 71, jedn. cena: 4,5 EUR, spolu: 319,5 EUR,\rprenájom kabinetu za 5/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 5/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 71, jedn. cena: 7,5 EUR, spolu: 532,5 EUR",
+    "Celková_cena_(bez_DPH)": "   892,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021022",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 5/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2021023",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 5/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "37905112   ",
+    "Číslo_faktúry": "2021024",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 5/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21004",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 06.06.2021, množ.: 8, jedn. cena: 3,4 EUR, spolu: 27,2 EUR",
+    "Celková_cena_(bez_DPH)": "   27,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21005",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 06.06.2021, množ.: 8, jedn. cena: 15,6 EUR, spolu: 124,8 EUR",
+    "Celková_cena_(bez_DPH)": "   124,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2021007",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 224 EUR, spolu: 224 EUR",
+    "Celková_cena_(bez_DPH)": "   320,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.05.2021",
+    "Dátum_zverejnenia": "07.06.2021"
+  },
+  {
     "IČO": "50372700   ",
     "Číslo_faktúry": "2021009",
     "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",

@@ -2093,13 +2093,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Stražovec",
-    "Adresa_dlžníka": "súp. č. 1024",
-    "Mesto": "Rosina",
-    "Suma_daňových_nedoplatkov": "   320,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubica Trnková",
     "Adresa_dlžníka": "Bláhova 462/14",
     "Mesto": "Žilina",
@@ -10052,13 +10045,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Staňo",
-    "Adresa_dlžníka": "K cintorínu 833/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   260,11",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Katrenec",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -17385,6 +17371,13 @@
     "Adresa_dlžníka": "Šenkárovská 230/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   25,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Staňo",
+    "Adresa_dlžníka": "K cintorínu 833/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   20,00",
     "Mena": "EUR"
   },
   {
