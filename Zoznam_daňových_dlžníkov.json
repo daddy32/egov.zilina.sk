@@ -4613,13 +4613,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nicolas Šnajder",
-    "Adresa_dlžníka": "Dadanova 3387/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Nikola Mišíková",
     "Adresa_dlžníka": "Zábrežná 72/43",
     "Mesto": "Žilina",
@@ -6834,6 +6827,13 @@
   {
     "Dlžník": "Mário Mayerčak",
     "Adresa_dlžníka": "Makovického 8567/3A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   298,93",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nicolas Šnajder",
+    "Adresa_dlžníka": "Dadanova 3387/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,93",
     "Mena": "EUR"
@@ -14868,6 +14868,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kristína Kollárová",
+    "Adresa_dlžníka": "Rastislavova 1201/7",
+    "Mesto": "Slovenský Grob",
+    "Suma_daňových_nedoplatkov": "   189,39",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Matej Pekár",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16607,13 +16614,6 @@
     "Dlžník": "Iveta Zichová",
     "Adresa_dlžníka": "súp. č. 71",
     "Mesto": "Dolná Tižina",
-    "Suma_daňových_nedoplatkov": "   168,22",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kristína Kollárová",
-    "Adresa_dlžníka": "Rastislavova 1201/7",
-    "Mesto": "Slovenský Grob",
     "Suma_daňových_nedoplatkov": "   168,22",
     "Mena": "EUR"
   },
