@@ -31,7 +31,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  133 327,96",
+    "Suma_daňových_nedoplatkov": "  132 761,10",
     "Mena": "EUR"
   },
   {
@@ -151,13 +151,6 @@
     "Adresa_dlžníka": "Trenčianska 53",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  28 124,85",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Walker, s.r.o.",
-    "Adresa_dlžníka": "Kysucká 536/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  27 556,91",
     "Mena": "EUR"
   },
   {
@@ -301,6 +294,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Walker, s.r.o.",
+    "Adresa_dlžníka": "Kysucká 536/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  11 405,54",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "BCI, a.s.",
     "Adresa_dlžníka": "Mydlárska 8718/7A",
     "Mesto": "Žilina",
@@ -336,13 +336,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "SIRS - Development, a.s.",
-    "Adresa_dlžníka": "Framborská 291/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  11 058,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SMARAGD, v.o.d., družstvo \"v likvidácii\"",
     "Adresa_dlžníka": "Žilinská 8",
     "Mesto": "Bratislava",
@@ -368,6 +361,13 @@
     "Adresa_dlžníka": "Železničná 9",
     "Mesto": "Veľký Šariš",
     "Suma_daňových_nedoplatkov": "  10 700,39",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "SIRS - Development, a.s.",
+    "Adresa_dlžníka": "Framborská 291/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  10 405,00",
     "Mena": "EUR"
   },
   {
@@ -833,13 +833,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "ATO SK, s.r.o.",
-    "Adresa_dlžníka": "Štrková 1001/42",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 535,29",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "EMP, s. r. o.",
     "Adresa_dlžníka": "M. R. Štefánika 3560/109",
     "Mesto": "Žilina",
@@ -980,6 +973,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Andrea Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 039,96",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Dušan Bíro",
     "Adresa_dlžníka": "Gabajova 2593/20",
     "Mesto": "Žilina",
@@ -1036,13 +1036,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "No.95, s.r.o.",
-    "Adresa_dlžníka": "Nádražná 2192/35",
-    "Mesto": "Skalica",
-    "Suma_daňových_nedoplatkov": "  1 887,60",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SOLVING 18 s.r.o.",
     "Adresa_dlžníka": "Karpatské námestie 10A",
     "Mesto": "Bratislava",
@@ -1092,6 +1085,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jarmila Fujaková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 704,08",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ľubomír Ondro",
     "Adresa_dlžníka": "Labutia 140/58",
     "Mesto": "Žilina",
@@ -1110,6 +1110,13 @@
     "Adresa_dlžníka": "Rosina súp. č. 829",
     "Mesto": "Rosina",
     "Suma_daňových_nedoplatkov": "  1 544,77",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Forster",
+    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 497,38",
     "Mena": "EUR"
   },
   {
@@ -1162,6 +1169,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jana Poliaková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 291,26",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Silvia Šišáková",
     "Adresa_dlžníka": "Trnavská 2997/1",
     "Mesto": "Žilina",
@@ -1176,6 +1190,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Romana Lacková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 251,94",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Pavol Drdák",
     "Adresa_dlžníka": "Na píle 572/10",
     "Mesto": "Konská",
@@ -1183,10 +1204,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ivana Schipalová",
+    "Adresa_dlžníka": "Fraňa Mráza 627/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 206,72",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Martin Grindler",
     "Adresa_dlžníka": "P. O. Hviezdoslava 280/8",
     "Mesto": "Beluša",
     "Suma_daňových_nedoplatkov": "  1 205,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Kapituliková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 202,78",
     "Mena": "EUR"
   },
   {
@@ -1204,10 +1239,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kristína Kollárová",
+    "Adresa_dlžníka": "Rastislavova 1201/7",
+    "Mesto": "Slovenský Grob",
+    "Suma_daňových_nedoplatkov": "  1 167,26",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Zimen",
     "Adresa_dlžníka": "Železničná 811/16",
     "Mesto": "Varín",
     "Suma_daňových_nedoplatkov": "  1 145,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Angelika Pakancová",
+    "Adresa_dlžníka": "Bratislavská 511/38",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 136,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Alena Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 131,68",
     "Mena": "EUR"
   },
   {
@@ -1225,10 +1281,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Andrea Semerádová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 072,76",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Martin Jurovatý",
     "Adresa_dlžníka": "súp. č. 30",
     "Mesto": "Rosina",
     "Suma_daňových_nedoplatkov": "  1 070,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Simona Balogová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 063,34",
     "Mena": "EUR"
   },
   {
@@ -1260,6 +1330,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Iveta Dávidová",
+    "Adresa_dlžníka": "Rajecká 2798/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 003,88",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Pavol Šimčisko",
     "Adresa_dlžníka": "Čadečka súp. č. 705",
     "Mesto": "Čadca",
@@ -1267,10 +1344,45 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Mária Kostolná",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   988,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Gabriela Berkyová",
+    "Adresa_dlžníka": "Ulica Ondreja Štefanka 3987/3",
+    "Mesto": "Bratislava-Petržalka",
+    "Suma_daňových_nedoplatkov": "   987,23",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Bc. Gabriela Cagáňová",
     "Adresa_dlžníka": "Lichardova 2801/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   963,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Balážová",
+    "Adresa_dlžníka": "Tichá 1189/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   961,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Javorská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   960,30",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Petronela Kvašňovská",
+    "Adresa_dlžníka": "Fatranská 3101/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   948,30",
     "Mena": "EUR"
   },
   {
@@ -1295,10 +1407,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Dominika Rácová",
+    "Adresa_dlžníka": "Bratislavská 514/44",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   894,61",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lenka Závodská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   894,60",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ľubomír Backa",
     "Adresa_dlžníka": "Andreja Kmeťa 307/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   885,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Balážová",
+    "Adresa_dlžníka": "Bratislavská 516/48",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   874,50",
     "Mena": "EUR"
   },
   {
@@ -1309,10 +1442,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zuzana Puškárová",
+    "Adresa_dlžníka": "Pri Kysuci 100/79",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   854,28",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Ondríšek",
     "Adresa_dlžníka": "Dubová 3273/27",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   853,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lenka Ďurošková",
+    "Adresa_dlžníka": "Gaštanová 3077/19",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   852,60",
     "Mena": "EUR"
   },
   {
@@ -1323,6 +1470,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Terézia Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   838,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Dávidíková",
+    "Adresa_dlžníka": "Trnavská 2997/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   834,12",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Bohumil Flachs",
     "Adresa_dlžníka": "Požiarnická 41/10",
     "Mesto": "Žilina",
@@ -1330,10 +1491,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ivana Fulierová",
+    "Adresa_dlžníka": "Mydlárska 197/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   830,22",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Božena Danielová",
     "Adresa_dlžníka": "Dadanova 3385/3",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   829,35",
+    "Suma_daňových_nedoplatkov": "   828,85",
     "Mena": "EUR"
   },
   {
@@ -1341,6 +1509,13 @@
     "Adresa_dlžníka": "súp. č. 187",
     "Mesto": "Zástranie",
     "Suma_daňových_nedoplatkov": "   827,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslava Schipalová",
+    "Adresa_dlžníka": "Fraňa Mráza 627/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   821,75",
     "Mena": "EUR"
   },
   {
@@ -1372,6 +1547,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Alena Kubíková",
+    "Adresa_dlžníka": "Zvolenská 1777/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   783,58",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Róbert Lenko",
     "Adresa_dlžníka": "Zvolenská 3989/17",
     "Mesto": "Martin",
@@ -1386,10 +1568,38 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Lucia Štrkáčová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   778,93",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Janešíková",
+    "Adresa_dlžníka": "súp. č. 769",
+    "Mesto": "Nesluša",
+    "Suma_daňových_nedoplatkov": "   773,92",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Radovan Falašta",
     "Adresa_dlžníka": "súp. č. 110",
     "Mesto": "Dolná Tižina",
     "Suma_daňových_nedoplatkov": "   771,16",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Stelinová",
+    "Adresa_dlžníka": "Petzvalova 8501/43B",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   763,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Angelika Štrkáčová",
+    "Adresa_dlžníka": "Športová 563/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   757,35",
     "Mena": "EUR"
   },
   {
@@ -1414,6 +1624,48 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Silvia Pelikánová",
+    "Adresa_dlžníka": "Tatranská 3111/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   740,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Linda Valenská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   725,78",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Michulková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   724,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Klacková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   719,02",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Alexandra Rácová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   709,22",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Kulichová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   708,80",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Petra Kočutová",
     "Adresa_dlžníka": "Bôrická cesta 1818/13",
     "Mesto": "Žilina",
@@ -1428,10 +1680,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Gabriela Zboranová",
+    "Adresa_dlžníka": "Matuškova 431/45",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   690,48",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Dana Kováčová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   689,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Dolníková",
+    "Adresa_dlžníka": "Antona Bernoláka 2137/21",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   687,20",
     "Mena": "EUR"
   },
   {
@@ -1477,10 +1743,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Anna Krištofová",
+    "Adresa_dlžníka": "Obchodná 8555/3A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   665,45",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "František Ďuratný",
     "Adresa_dlžníka": "Juraja Závodského 467/73",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   663,47",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dana Valcharová",
+    "Adresa_dlžníka": "Platanová 3227/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   659,10",
     "Mena": "EUR"
   },
   {
@@ -1491,10 +1771,80 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Slávka Schipalová",
+    "Adresa_dlžníka": "súp. č. 443",
+    "Mesto": "Častkovce",
+    "Suma_daňových_nedoplatkov": "   651,75",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Hrnková",
+    "Adresa_dlžníka": "Zádubanská 185/33",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   650,94",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mariana Voľanská",
+    "Adresa_dlžníka": "Fatranská 3100/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   650,94",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Pekárová",
+    "Adresa_dlžníka": "Bystrická 260/22",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   649,51",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Renáta Havettová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   649,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Madejová",
+    "Adresa_dlžníka": "Juraja Závodského 138/46",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   643,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Škulcová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   640,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Čermáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   640,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nikola Stojková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   640,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Bolibruchová",
+    "Adresa_dlžníka": "Fraňa Mráza 622/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   639,71",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Ballayová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   638,62",
     "Mena": "EUR"
   },
   {
@@ -1505,10 +1855,66 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Nemcová",
+    "Adresa_dlžníka": "Limbová 3057/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   624,64",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Silvia Hofericová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   618,22",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miriam Frátriková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   617,11",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Alena Balážová",
+    "Adresa_dlžníka": "Bratislavská 513/42",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   612,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Žideková",
+    "Adresa_dlžníka": "Borová 3179/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   612,14",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miriama Plichtíková",
+    "Adresa_dlžníka": "Antona Bernoláka 2200/34",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   608,94",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Dušan Krajčí",
     "Adresa_dlžníka": "Antona Bernoláka 2168/33",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   605,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Renáta Balážová",
+    "Adresa_dlžníka": "Bratislavská 513/42",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   604,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Reptová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Brezová pod Bradlom",
+    "Suma_daňových_nedoplatkov": "   600,98",
     "Mena": "EUR"
   },
   {
@@ -1519,10 +1925,73 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Terézia Balážová",
+    "Dlžník": "Monika Jankovská",
+    "Adresa_dlžníka": "Jura Hronca 3407/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   598,42",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Beáta Danišová",
+    "Adresa_dlžníka": "Bratislavská 417/19",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   598,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Vaupotičová",
+    "Adresa_dlžníka": "Borová 3176/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   597,66",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Adriana Pitoráková",
+    "Adresa_dlžníka": "Kostolná 111/40",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   596,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Jana Čeredějevová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   584,40",
+    "Suma_daňových_nedoplatkov": "   596,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nadežda Chabadová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   596,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Xianghong Zheng",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   596,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Izabela Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   587,46",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miriam Červeňáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   581,79",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Hundáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   577,86",
     "Mena": "EUR"
   },
   {
@@ -1533,10 +2002,143 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martina Bolibruchová",
-    "Adresa_dlžníka": "Fraňa Mráza 622/26",
+    "Dlžník": "Mária Bartošová",
+    "Adresa_dlžníka": "Sasinkova 605/29",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   563,36",
+    "Suma_daňových_nedoplatkov": "   571,44",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Šmehylová",
+    "Adresa_dlžníka": "Kultúrna 52/52",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   568,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Váradyová",
+    "Adresa_dlžníka": "Vojtecha Spanyola 2125/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   566,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Erika Mušuková",
+    "Adresa_dlžníka": "Strážovská 283/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   562,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Žaneta Abkarovičová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   557,03",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Urbaníková",
+    "Adresa_dlžníka": "Antona Bernoláka 2199/40",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   556,90",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zdenka Zemánková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   553,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Janka Garelová",
+    "Adresa_dlžníka": "Petzvalova 3384/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   551,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Piovarčiová",
+    "Adresa_dlžníka": "Jána Vojtaššáka 3148/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   549,71",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Čavajdová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   548,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Jana Gavláková",
+    "Adresa_dlžníka": "Lichardova 8507/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   538,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Renáta Imrišová",
+    "Adresa_dlžníka": "Černovská 1670/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   538,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Loriána Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   537,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nikola Mišíková",
+    "Adresa_dlžníka": "Zábrežná 72/43",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   537,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Sandra Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   537,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Stojková",
+    "Adresa_dlžníka": "Bratislavská 514/44",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   529,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Niník",
+    "Adresa_dlžníka": "Sadová 304/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   527,18",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Jamborová",
+    "Adresa_dlžníka": "Požiarnická 42/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   523,61",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomíra Urbancová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   518,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Naďa Šolcová",
+    "Adresa_dlžníka": "Prielohy 1013/8A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   517,24",
     "Mena": "EUR"
   },
   {
@@ -1547,6 +2149,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Veronika Petrušková",
+    "Adresa_dlžníka": "Platanová 3227/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   515,70",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Mária Rychnavská",
     "Adresa_dlžníka": "Dubie 85",
     "Mesto": "Kysucké Nové Mesto",
@@ -1554,10 +2163,73 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Katarína Úkropová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   508,80",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ľubica Jancová",
     "Adresa_dlžníka": "Šenkárovská 230/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   508,53",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Zemánková",
+    "Adresa_dlžníka": "Nanterská 1680/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   505,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Veronika Katrencová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   504,04",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Michulková",
+    "Adresa_dlžníka": "Hollého 645/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   502,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Krigovská",
+    "Adresa_dlžníka": "Bytčianska 107/9",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   502,22",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Alžbeta Michaláková",
+    "Adresa_dlžníka": "B. Němcovej 532/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   499,72",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozefína Rácová",
+    "Adresa_dlžníka": "Bratislavská 516/48",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   497,91",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Elena Kožíková",
+    "Adresa_dlžníka": "Jaseňová 3220/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   492,14",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Hrušková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   490,44",
     "Mena": "EUR"
   },
   {
@@ -1575,10 +2247,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Lucia Tvrdá",
+    "Adresa_dlžníka": "Ku zvonici 287/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   482,70",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Zuzana Choleva",
     "Adresa_dlžníka": "Karola Kmeťku 3150/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   482,51",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Cicková",
+    "Adresa_dlžníka": "Bratislavská 515/50",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   481,34",
     "Mena": "EUR"
   },
   {
@@ -1589,10 +2275,52 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zuzana Puškárová",
-    "Adresa_dlžníka": "Pri Kysuci 100/79",
+    "Dlžník": "Katarína Trpišová",
+    "Adresa_dlžníka": "Konopná 3059/3",
+    "Mesto": "Levice",
+    "Suma_daňových_nedoplatkov": "   480,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Alena Žúborová",
+    "Adresa_dlžníka": "Mateja Bela 3448/79",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   472,02",
+    "Suma_daňových_nedoplatkov": "   480,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michaela Chrobáková",
+    "Adresa_dlžníka": "Severná 2811/47",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   478,03",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jarmila Matysová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   476,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Perla Kaper",
+    "Adresa_dlžníka": "Borová 3179/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   473,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dagmar Balážová",
+    "Adresa_dlžníka": "Bratislavská 8593/50A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   465,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Snežana Podhorský",
+    "Adresa_dlžníka": "Nanterská 1682/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   465,28",
     "Mena": "EUR"
   },
   {
@@ -1603,10 +2331,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Beáta Stojková",
+    "Adresa_dlžníka": "Bratislavská 512/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   464,34",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Majtán",
     "Adresa_dlžníka": "Sad SNP 662/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   462,84",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Smejkalová",
+    "Adresa_dlžníka": "Pod Hôrkou 1704/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   462,46",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nikola Kostolná",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   461,84",
     "Mena": "EUR"
   },
   {
@@ -1617,17 +2366,24 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivana Fulierová",
-    "Adresa_dlžníka": "Mydlárska 197/2",
+    "Dlžník": "Veronika Ďuronková",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   456,98",
+    "Suma_daňových_nedoplatkov": "   458,55",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Jankovská",
-    "Adresa_dlžníka": "Jura Hronca 3407/1",
+    "Dlžník": "Petra Klementová",
+    "Adresa_dlžníka": "súp. č. 428",
+    "Mesto": "Lietava",
+    "Suma_daňových_nedoplatkov": "   457,54",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Škubáková",
+    "Adresa_dlžníka": "Limbová 3057/15",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   456,16",
+    "Suma_daňových_nedoplatkov": "   457,38",
     "Mena": "EUR"
   },
   {
@@ -1638,13 +2394,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dušan Gálik - REGON PLUS",
-    "Adresa_dlžníka": "Jankolova 2",
-    "Mesto": "Bratislava-Petržalka",
-    "Suma_daňových_nedoplatkov": "   453,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Miroslav Krasňan",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1652,10 +2401,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Dušan Gálik - REGON PLUS",
+    "Adresa_dlžníka": "Jankolova 2",
+    "Mesto": "Bratislava-Petržalka",
+    "Suma_daňových_nedoplatkov": "   448,07",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Anna Samcová",
     "Adresa_dlžníka": "Dubová 3275/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   443,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Young hwa Choi",
+    "Adresa_dlžníka": "",
+    "Mesto": "Zahraničie",
+    "Suma_daňových_nedoplatkov": "   440,78",
     "Mena": "EUR"
   },
   {
@@ -1680,10 +2443,59 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Denisa Hričovská",
+    "Adresa_dlžníka": "Gerlachovská 3105/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   433,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Gabrišová",
+    "Adresa_dlžníka": "Jedľová 295/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   433,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Patakyová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   433,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Stanislava Bartošová",
+    "Adresa_dlžníka": "Bratislavská 516/48",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   433,55",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Žaneta Balážová",
+    "Adresa_dlžníka": "Pivovarská 1066/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   432,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Adriána Trnková",
+    "Adresa_dlžníka": "Petzvalova 3379/71",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   431,58",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Vladimír Kováč",
     "Adresa_dlžníka": "Platanová 3227/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   430,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Kalafútová",
+    "Adresa_dlžníka": "Trnavská 1356/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   429,79",
     "Mena": "EUR"
   },
   {
@@ -1694,10 +2506,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Martina Balážová",
+    "Adresa_dlžníka": "Tulská 2979/24",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   426,78",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marta Mikytová",
     "Adresa_dlžníka": "súp. č. 88",
     "Mesto": "Krušetnica",
     "Suma_daňových_nedoplatkov": "   423,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Beáta Demčáková",
+    "Adresa_dlžníka": "Bratislavská 517/46",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   423,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Adriána Matušíková",
+    "Adresa_dlžníka": "Jána Vojtaššáka 3147/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   421,48",
     "Mena": "EUR"
   },
   {
@@ -1722,6 +2555,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kristína Eliašková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   414,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Bc. Ľudmila Výrostková",
+    "Adresa_dlžníka": "Korzo 3399/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   413,98",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Emil Štrba",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1743,6 +2590,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Barbora Žillová",
+    "Adresa_dlžníka": "Pod Dúbravou 56/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   410,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Horvátová",
+    "Adresa_dlžníka": "Soľná súp. č. 923",
+    "Mesto": "Veľké Rovné",
+    "Suma_daňových_nedoplatkov": "   409,22",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "MVDr. Daniel Cigánik",
     "Adresa_dlžníka": "Vajanského 2767/5",
     "Mesto": "Žilina",
@@ -1750,10 +2611,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Janka Martinková",
+    "Adresa_dlžníka": "Tulská 2980/27",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   408,41",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "JETOIL, SE",
     "Adresa_dlžníka": "Zámocká 30",
     "Mesto": "Bratislava-Podunajské Biskupice",
     "Suma_daňových_nedoplatkov": "   408,32",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Džesika Rácová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   406,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Janka Škorvanková",
+    "Adresa_dlžníka": "Andreja Kmeťa 659/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   405,96",
     "Mena": "EUR"
   },
   {
@@ -1771,10 +2653,80 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jana Štrkáčová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   398,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Majáková",
+    "Adresa_dlžníka": "Bratislavská 279/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   396,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Magdaléna Kollerová",
+    "Adresa_dlžníka": "Na dolinu 81/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   396,19",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Romana Balážová",
+    "Adresa_dlžníka": "Tulská 2979/24",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   394,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Hlaváčová",
+    "Adresa_dlžníka": "Zádubanská 92/83",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   394,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Tatiana Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   393,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Rácová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   392,89",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michaela Drličková",
+    "Adresa_dlžníka": "Hore vŕškom 300/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   392,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Vladimíra Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   392,22",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Elena Penteková",
     "Adresa_dlžníka": "T.kľačany 283/283",
     "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "   391,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Konáriková",
+    "Adresa_dlžníka": "Dlhá 183/60",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   388,85",
     "Mena": "EUR"
   },
   {
@@ -1785,10 +2737,66 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Miroslava Bartošová",
+    "Adresa_dlžníka": "Bratislavská 514/44",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   385,66",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katrin Niníková",
+    "Adresa_dlžníka": "Sadová 304/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   384,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Natália Danišová",
+    "Adresa_dlžníka": "Bratislavská 417/19",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   383,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Demčáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   382,75",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Stanislava Nakatová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   382,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Súkeníková",
+    "Adresa_dlžníka": "Murgašova 1299/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   380,92",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Najšlová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   380,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Markéta Cicková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   378,22",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Štrkáčová",
+    "Adresa_dlžníka": "Poštárka 1474/57",
+    "Mesto": "Bardejov",
+    "Suma_daňových_nedoplatkov": "   378,22",
     "Mena": "EUR"
   },
   {
@@ -1813,6 +2821,34 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jaroslav Flachs",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   375,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Štaffenová",
+    "Adresa_dlžníka": "Minčolská 1782/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   374,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Klaudia Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   374,05",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Janka Martinická",
+    "Adresa_dlžníka": "Jánošíkova 8494/15D",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   373,12",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Alexandra Stanková",
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
@@ -1834,6 +2870,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ľubica Minichová",
+    "Adresa_dlžníka": "Hollého 8211/24A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   368,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Baranovičová",
+    "Adresa_dlžníka": "Dadanova 3387/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   368,33",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ľuboslav Fuják",
     "Adresa_dlžníka": "Jaseňová 3223/32",
     "Mesto": "Žilina",
@@ -1848,10 +2898,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Pavlína Senková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   363,88",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Ingrid Bútorová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   363,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nina Kurnocíková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   359,24",
     "Mena": "EUR"
   },
   {
@@ -1862,10 +2926,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Veronika Hlušková",
+    "Adresa_dlžníka": "Jaseňová 3218/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   358,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radka Radolcová",
+    "Adresa_dlžníka": "Petzvalova 3374/41",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   358,49",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Stopka",
     "Adresa_dlžníka": "Fraňa Mráza 627/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   357,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Borovičková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   356,70",
     "Mena": "EUR"
   },
   {
@@ -1876,10 +2961,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Lucia Majerová",
+    "Adresa_dlžníka": "Bajzova 2420/39",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   354,43",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Štefan Skukálek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   353,85",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Káčerová",
+    "Adresa_dlžníka": "Jedlíkova 3428/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   352,86",
     "Mena": "EUR"
   },
   {
@@ -1897,10 +2996,24 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Pekárová",
-    "Adresa_dlžníka": "Bystrická 260/22",
+    "Dlžník": "Zuzana Dudíková",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   349,37",
+    "Suma_daňových_nedoplatkov": "   347,89",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Fišerová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   347,69",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Pitlová",
+    "Adresa_dlžníka": "Hradná 2/2",
+    "Mesto": "Strečno",
+    "Suma_daňových_nedoplatkov": "   345,86",
     "Mena": "EUR"
   },
   {
@@ -1918,6 +3031,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Petra Vavriková",
+    "Adresa_dlžníka": "Veľká okružná 1304/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   339,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Zavartkayová",
+    "Adresa_dlžníka": "Mikovíniho 1158/31",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   338,16",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jozef Hulín",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1932,10 +3059,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Petronela Kvašňovská",
-    "Adresa_dlžníka": "Fatranská 3101/11",
+    "Dlžník": "Daša Vavríková",
+    "Adresa_dlžníka": "Jarná 2604/8",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   336,10",
+    "Suma_daňových_nedoplatkov": "   336,56",
     "Mena": "EUR"
   },
   {
@@ -1946,17 +3073,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Vidrová",
+    "Adresa_dlžníka": "Sasinkova 418/43",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   335,88",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Daniela Dušíková",
     "Adresa_dlžníka": "Kysucká 570/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   334,66",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Janka Garelová",
-    "Adresa_dlžníka": "Petzvalova 3384/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   334,10",
     "Mena": "EUR"
   },
   {
@@ -1971,13 +3098,6 @@
     "Adresa_dlžníka": "Kultúrna 47/19",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   332,04",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Erika Mušuková",
-    "Adresa_dlžníka": "Strážovská 283/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   331,30",
     "Mena": "EUR"
   },
   {
@@ -2002,6 +3122,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Andrea Bajgarová",
+    "Adresa_dlžníka": "Bulharská 8527/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   331,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Mináriková",
+    "Adresa_dlžníka": "Gabajova 2590/15",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   331,24",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marián Jankovský",
     "Adresa_dlžníka": "Gerlachovská 3104/1",
     "Mesto": "Žilina",
@@ -2013,6 +3147,13 @@
     "Adresa_dlžníka": "Pod Grendel 1359/6A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   330,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Kollárovitš",
+    "Adresa_dlžníka": "Levočská 2957/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   330,06",
     "Mena": "EUR"
   },
   {
@@ -2044,13 +3185,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Krigovská",
-    "Adresa_dlžníka": "Bytčianska 107/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   328,59",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Sedliak",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2072,10 +3206,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Martina Bačová",
+    "Adresa_dlžníka": "Saleziánska 2608/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   326,46",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Dušan Šoltés",
     "Adresa_dlžníka": "Antona Bielka 480/30",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   326,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Hladová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   325,92",
     "Mena": "EUR"
   },
   {
@@ -2093,17 +3241,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ai Tran Viet",
+    "Adresa_dlžníka": "Námestie sv. Jána Bosca 65/74",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   321,88",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lenka Zboroňová",
+    "Adresa_dlžníka": "Veľká okružná 1075/28",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   321,88",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Boháčiková",
+    "Adresa_dlžníka": "Záborského 1686/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   320,48",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ľubica Trnková",
     "Adresa_dlžníka": "Bláhova 462/14",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,24",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ačim Lukič",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
   },
   {
@@ -2123,20 +3285,6 @@
   {
     "Dlžník": "Adriana Lengyelová",
     "Adresa_dlžníka": "Ľubľanská 1678/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Adriana Pitoráková",
-    "Adresa_dlžníka": "Kostolná 111/40",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Alena Balážová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2212,20 +3360,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alžbeta Michaláková",
-    "Adresa_dlžníka": "B. Němcovej 532/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrea Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Andrea Jarošová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2242,20 +3376,6 @@
   {
     "Dlžník": "Andrea Kaniaková",
     "Adresa_dlžníka": "Smreková 3090/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrea Semerádová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrea Semerádová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2303,13 +3423,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Klacková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Barbora Jelínková",
     "Adresa_dlžníka": "Jaseňová 3221/24",
     "Mesto": "Žilina",
@@ -2333,13 +3446,6 @@
   {
     "Dlžník": "Beáta Pušková",
     "Adresa_dlžníka": "Framborská 253/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Beáta Stojková",
-    "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2388,13 +3494,6 @@
   },
   {
     "Dlžník": "Dana Rybárová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Daniel Javorský",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
@@ -2480,13 +3579,6 @@
   {
     "Dlžník": "Dávide Lardaloro",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denisa Forster",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2578,13 +3670,6 @@
   {
     "Dlžník": "Emil Meisel",
     "Adresa_dlžníka": "Rajecká 2788/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Erik Forster",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2884,29 +3969,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivana Dolníková",
-    "Adresa_dlžníka": "Antona Bernoláka 2137/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivana Fričová",
     "Adresa_dlžníka": "Limbová 3058/23",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ivana Schipalová",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Iveta Dávidová",
-    "Adresa_dlžníka": "Rajecká 2798/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -2928,13 +3992,6 @@
   {
     "Dlžník": "Iveta Štaffenová",
     "Adresa_dlžníka": "Tulská 1683/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Izabela Balážová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -3031,29 +4088,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Hundáková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Nejedlá",
     "Adresa_dlžníka": "Bratislavská 417/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jana Piovarčiová",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3148/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jana Poliaková",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -3096,13 +4132,6 @@
   {
     "Dlžník": "Janka Zvaríková",
     "Adresa_dlžníka": "Dubová 3276/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jarmila Fujaková",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -3409,13 +4438,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Karin Cicková",
-    "Adresa_dlžníka": "Tichá 1189/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Karin Frývaldová",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -3528,13 +4550,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Laura Holá",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Laura Zachar",
     "Adresa_dlžníka": "Jána Kalinčiaka 98/6",
     "Mesto": "Žilina",
@@ -3550,13 +4565,6 @@
   },
   {
     "Dlžník": "Lina Balogová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Loriána Balážová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
@@ -3647,13 +4655,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucia Fišerová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucia Kováčová",
     "Adresa_dlžníka": "Antona Bernoláka 2137/21",
     "Mesto": "Žilina",
@@ -3682,29 +4683,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucia Škulcová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Štrkáčová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľudovít Gáspár",
     "Adresa_dlžníka": "Závodská cesta 2964/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lukas Daniš",
-    "Adresa_dlžníka": "Bratislavská 417/19",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -3745,13 +4725,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Magdaléna Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Malvína Balážová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -3767,13 +4740,6 @@
   },
   {
     "Dlžník": "Marcel Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Marcel Javorský",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
@@ -3829,13 +4795,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mária Balážová",
-    "Adresa_dlžníka": "Tichá 1189/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Frátriková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -3845,13 +4804,6 @@
   {
     "Dlžník": "Mária Charamzová",
     "Adresa_dlžníka": "Veľká okružná 2134/78",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mária Najšlová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -4004,13 +4956,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Abkarovič",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -4074,13 +5019,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Trpiš",
-    "Adresa_dlžníka": "Fatranská 3101/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Zavadzan",
     "Adresa_dlžníka": "Borová 3178/14",
     "Mesto": "Žilina",
@@ -4088,29 +5026,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martina Demčáková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Forster",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martina Chládeková",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Javorská",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -4522,13 +5439,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Čermáková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Monika Frývaldová",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -4564,27 +5474,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Natália Čermáková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Natália Danišová",
-    "Adresa_dlžníka": "Bratislavská 417/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nátalia Lacková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Natália Meiselová",
     "Adresa_dlžníka": "Rajecká 2788/1",
     "Mesto": "Žilina",
@@ -4606,28 +5495,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nela Matysová",
-    "Adresa_dlžníka": "Mateja Bela 3448/83",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Mišíková",
-    "Adresa_dlžníka": "Zábrežná 72/43",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Nikola Ružičková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Stojková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
@@ -4851,13 +5719,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Kollárovitš",
-    "Adresa_dlžníka": "Levočská 2957/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Králik",
     "Adresa_dlžníka": "Zámocká 65/1",
     "Mesto": "Žilina",
@@ -5054,20 +5915,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Rebeka Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Renáta Balážová",
-    "Adresa_dlžníka": "Bratislavská 513/42",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "René Lacko",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -5131,13 +5978,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Stojka",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Róbert Závodský",
     "Adresa_dlžníka": "Závodská cesta 3740/60",
     "Mesto": "Žilina",
@@ -5194,13 +6034,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Romana Lacková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Rudolf Baláž",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -5231,27 +6064,6 @@
   {
     "Dlžník": "Sabel Lakatošová",
     "Adresa_dlžníka": "M. R. Štefánika 823/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Samuel Ševčík",
-    "Adresa_dlžníka": "Energetikov 439/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sandra Balogová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sára Forster",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -5586,13 +6398,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vladimíra Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Vladimíra Krimská",
     "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 834/9",
     "Mesto": "Žilina",
@@ -5628,13 +6433,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zdenka Zemánková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zinedine Bellari",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -5663,13 +6461,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Žaneta Balážová",
-    "Adresa_dlžníka": "Pivovarská 1066/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Žaneta Veselá",
     "Adresa_dlžníka": "Borová 3295/36",
     "Mesto": "Žilina",
@@ -5691,10 +6482,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Diego Rác",
+    "Dlžník": "Radoslava Filinová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   318,58",
+    "Suma_daňových_nedoplatkov": "   318,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zdenka Chládeková",
+    "Adresa_dlžníka": "Zádubanská 204/77",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   318,68",
     "Mena": "EUR"
   },
   {
@@ -5726,13 +6524,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alexandra Rácová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   316,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -5754,10 +6545,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Totáč",
+    "Adresa_dlžníka": "Lesná 60/11",
+    "Mesto": "Zbyňov",
+    "Suma_daňových_nedoplatkov": "   315,61",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Petra Vršanská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   314,98",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jaroslav Bolgáč",
     "Adresa_dlžníka": "M. R. Štefánika 847/67",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   314,90",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Marta Škorová",
+    "Adresa_dlžníka": "Veľká okružná 1304/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   314,88",
     "Mena": "EUR"
   },
   {
@@ -5793,6 +6605,20 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   313,16",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Godavcová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   312,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslava Hollá",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   312,52",
     "Mena": "EUR"
   },
   {
@@ -5887,6 +6713,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Katarína Piteková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   309,52",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Pačaj - MIRZA",
     "Adresa_dlžníka": "Paseka 626/3",
     "Mesto": "Závadka nad Hronom",
@@ -5898,13 +6731,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   309,15",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jozef Niník",
-    "Adresa_dlžníka": "Sadová 304/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   308,96",
     "Mena": "EUR"
   },
   {
@@ -5971,6 +6797,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ivana Spišaková",
+    "Adresa_dlžníka": "Bratislavská 8535/36A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   306,76",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ján Cicko",
     "Adresa_dlžníka": "Borová 3295/36",
     "Mesto": "Žilina",
@@ -5980,20 +6813,6 @@
   {
     "Dlžník": "Adriana Blahová",
     "Adresa_dlžníka": "Borová 3178/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Adriána Trnková",
-    "Adresa_dlžníka": "Petzvalova 3379/71",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Alena Balážová",
-    "Adresa_dlžníka": "Bratislavská 513/42",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -6022,13 +6841,6 @@
   {
     "Dlžník": "Barbora Baliarová",
     "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Beáta Demčáková",
-    "Adresa_dlžníka": "Bratislavská 517/46",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -6134,13 +6946,6 @@
   {
     "Dlžník": "Iveta Balážová",
     "Adresa_dlžníka": "Bratislavská 512/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jakub Gráč",
-    "Adresa_dlžníka": "Tatranská 3111/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -6265,34 +7070,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kevin Ďuroška",
-    "Adresa_dlžníka": "Gaštanová 3077/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kiara Balážová",
-    "Adresa_dlžníka": "Bratislavská 514/44",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Laura Balážová",
-    "Adresa_dlžníka": "Bratislavská 513/42",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lenka Ďurošková",
-    "Adresa_dlžníka": "Gaštanová 3077/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Kaniak",
     "Adresa_dlžníka": "Tulská 2980/30",
     "Mesto": "Žilina",
@@ -6349,13 +7126,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Markéta Cicková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Faták",
     "Adresa_dlžníka": "Zvolenská 1778/11",
     "Mesto": "Žilina",
@@ -6366,13 +7136,6 @@
     "Dlžník": "Martin Stojka",
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Štrkáčová",
-    "Adresa_dlžníka": "Poštárka 1474/57",
-    "Mesto": "Bardejov",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
   },
@@ -6510,13 +7273,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Petronela Kvašňovská",
-    "Adresa_dlžníka": "Smreková 3094/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Radoslav Baláž",
     "Adresa_dlžníka": "Bratislavská 513/42",
     "Mesto": "Žilina",
@@ -6573,13 +7329,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Simona Balogová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Rabovec",
     "Adresa_dlžníka": "Borová 3205/31",
     "Mesto": "Žilina",
@@ -6587,29 +7336,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Stanislav Strkáč",
-    "Adresa_dlžníka": "Bratislavská 511/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Šarlota Baliarová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Tibor Blšťák",
     "Adresa_dlžníka": "Bratislavská 517/46",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tímea Kvašňovská",
-    "Adresa_dlžníka": "Smreková 3094/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -6636,13 +7364,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Viktória Balážová",
-    "Adresa_dlžníka": "Bratislavská 514/44",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Viliam Gaži",
     "Adresa_dlžníka": "Bratislavská 515/50",
     "Mesto": "Žilina",
@@ -6659,13 +7380,6 @@
   {
     "Dlžník": "Zdenko Baláž",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   306,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zdenko Baliar",
-    "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
     "Mena": "EUR"
@@ -6762,13 +7476,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mária Kostolná",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   304,90",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mário Gallia",
     "Adresa_dlžníka": "Kempelenova 3402/31",
     "Mesto": "Žilina",
@@ -6776,17 +7483,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Lenka Dupkalová",
+    "Adresa_dlžníka": "1. mája 1014/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   303,48",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Tomek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   302,72",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mária Štaffenová",
-    "Adresa_dlžníka": "Minčolská 1782/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   302,48",
     "Mena": "EUR"
   },
   {
@@ -6832,17 +7539,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nicolas Šnajder",
-    "Adresa_dlžníka": "Dadanova 3387/17",
+    "Dlžník": "Peter Stojka",
+    "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,93",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Stojka",
-    "Adresa_dlžníka": "Bratislavská 512/36",
+    "Dlžník": "Jana Kováčiková",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,93",
+    "Suma_daňových_nedoplatkov": "   298,52",
     "Mena": "EUR"
   },
   {
@@ -6918,13 +7625,6 @@
   {
     "Dlžník": "Afrim Pizúr",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Angelika Pakancová",
-    "Adresa_dlžníka": "Bratislavská 511/38",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
     "Mena": "EUR"
@@ -7035,20 +7735,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Emma  Barbora Hraško",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Emma Chabadová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Erika Poništová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -7098,13 +7784,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Kulichová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Helena Žureková",
     "Adresa_dlžníka": "Antona Bernoláka 2137/17",
     "Mesto": "Žilina",
@@ -7113,13 +7792,6 @@
   },
   {
     "Dlžník": "Igor Tribulík",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Jana Čeredějevová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -7350,20 +8022,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lenka Závodská",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lenka Závodská",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -7518,13 +8176,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michaela Nemcová",
-    "Adresa_dlžníka": "Limbová 3057/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Michulek",
     "Adresa_dlžníka": "Gaštanová 3083/44",
     "Mesto": "Žilina",
@@ -7547,13 +8198,6 @@
   },
   {
     "Dlžník": "Milan Mlynár",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miriam Červeňáková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -7589,13 +8233,6 @@
   },
   {
     "Dlžník": "Monika Hornáčková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nadežda Chabadová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -7638,13 +8275,6 @@
   },
   {
     "Dlžník": "Patrik Brand",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Patrik Maslonka",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -7716,13 +8346,6 @@
   {
     "Dlžník": "Peter Štefančík",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Petra Vavriková",
-    "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
     "Mena": "EUR"
@@ -7868,28 +8491,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Simona Poláčková",
-    "Adresa_dlžníka": "Zvolenská 1777/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Simona Schipalová",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Simona Stojková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Simona Zhou",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -7946,13 +8548,6 @@
   },
   {
     "Dlžník": "Štefan Šemrák",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tatiana Balážová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   298,20",
@@ -8050,13 +8645,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Xianghong Zheng",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zdenko Belák",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8106,17 +8694,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Roman Dvoran",
-    "Adresa_dlžníka": "Moyzesova 972/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   297,10",
+    "Dlžník": "Eva Holešová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Námestovo",
+    "Suma_daňových_nedoplatkov": "   297,00",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Leo Holý",
-    "Adresa_dlžníka": "",
+    "Dlžník": "Ing. Marianna Palme",
+    "Adresa_dlžníka": "Tulská 2972/2",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   296,94",
+    "Suma_daňových_nedoplatkov": "   296,92",
     "Mena": "EUR"
   },
   {
@@ -8127,22 +8715,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucia Ballayová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   296,74",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marián Šoška",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   296,74",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nicola Baláž",
-    "Adresa_dlžníka": "Pivovarská 1066/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   296,74",
     "Mena": "EUR"
@@ -8197,24 +8771,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lea Kapituliková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   295,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Natália Kapituliková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   295,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marek Solár",
     "Adresa_dlžníka": "Petzvalova 3378/65",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   295,15",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   293,66",
     "Mena": "EUR"
   },
   {
@@ -8229,13 +8796,6 @@
     "Adresa_dlžníka": "Kultúrna 52/52",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   293,31",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Veronika Ďuronková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   292,51",
     "Mena": "EUR"
   },
   {
@@ -8351,6 +8911,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Šárka Straková",
+    "Adresa_dlžníka": "súp. č. 282",
+    "Mesto": "Kolárovice",
+    "Suma_daňových_nedoplatkov": "   290,42",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Roman Králech",
     "Adresa_dlžníka": "Bratislavská 497/74",
     "Mesto": "Žilina",
@@ -8407,6 +8974,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Andrea Martincová",
+    "Adresa_dlžníka": "Zakamenica 151/4",
+    "Mesto": "Rajec",
+    "Suma_daňových_nedoplatkov": "   289,36",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Karol Valica",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8421,10 +8995,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Džesika Rácová",
+    "Dlžník": "Elena Brezániová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   288,16",
+    "Suma_daňových_nedoplatkov": "   288,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Sandra Stojková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   288,48",
     "Mena": "EUR"
   },
   {
@@ -8470,6 +9051,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Marta Hucková",
+    "Adresa_dlžníka": "Borová 3204/30",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   286,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Milová",
+    "Adresa_dlžníka": "Fatranská 3100/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   286,44",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Rišo",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8498,17 +9093,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Cuong Vo Viet",
+    "Adresa_dlžníka": "Lúčna 1009/25",
+    "Mesto": "Bytča",
+    "Suma_daňových_nedoplatkov": "   284,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dagmar Kanderková",
+    "Adresa_dlžníka": "Borová 3176/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   284,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Žaneta Voštenáková",
+    "Adresa_dlžníka": "Predmestská 1709/54",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   284,52",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Juraj Závodský",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   284,45",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Eva Madejová",
-    "Adresa_dlžníka": "Juraja Závodského 138/46",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   284,44",
     "Mena": "EUR"
   },
   {
@@ -8561,6 +9170,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Renáta Ildenizová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   284,38",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Beáta Krajčíová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8589,13 +9205,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Šmehylová",
-    "Adresa_dlžníka": "Kultúrna 52/52",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   284,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Stacho",
     "Adresa_dlžníka": "Pod sadom 568/4",
     "Mesto": "Žilina",
@@ -8612,13 +9221,6 @@
   {
     "Dlžník": "Lukáš Pekár",
     "Adresa_dlžníka": "Dubová 3271/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   284,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lukáš Petro",
-    "Adresa_dlžníka": "Kultúrna 52/52",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   284,20",
     "Mena": "EUR"
@@ -8701,24 +9303,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zuzana Hrušková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   284,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Božena Valášková",
     "Adresa_dlžníka": "Polomská 1781/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   283,76",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lorenzo Červeňák",
-    "Adresa_dlžníka": "Trnavská 1356/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   283,59",
     "Mena": "EUR"
   },
   {
@@ -8799,13 +9387,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Simona Balogová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   282,74",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Tomáš Ondro",
     "Adresa_dlžníka": "Dubová 3273/27",
     "Mesto": "Žilina",
@@ -8824,13 +9405,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   282,68",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jennifer Strkáčová",
-    "Adresa_dlžníka": "Bratislavská 511/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   281,20",
     "Mena": "EUR"
   },
   {
@@ -8911,13 +9485,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozefína Rácová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   278,51",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Hudcovský",
     "Adresa_dlžníka": "Suvorovova 2677/17",
     "Mesto": "Žilina",
@@ -8935,13 +9502,6 @@
     "Dlžník": "Róbert Šnajder",
     "Adresa_dlžníka": "Na Majer 40/4",
     "Mesto": "Teplička nad Váhom",
-    "Suma_daňových_nedoplatkov": "   278,51",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Slávka Schipalová",
-    "Adresa_dlžníka": "súp. č. 443",
-    "Mesto": "Častkovce",
     "Suma_daňových_nedoplatkov": "   278,51",
     "Mena": "EUR"
   },
@@ -9009,6 +9569,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Simona Košútová",
+    "Adresa_dlžníka": "Baničova 3389/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   277,88",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Ďurišová",
+    "Adresa_dlžníka": "Drozdia 235/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   277,84",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Paulína Bartošová",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -9072,13 +9646,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alexandra Semerádová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alojz Stelina",
     "Adresa_dlžníka": "Pri Celulózke 1587/36",
     "Mesto": "Žilina",
@@ -9107,29 +9674,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Diana Kapituliková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dominik Michulek",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dušan Habrun",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Eliška Bednárová",
-    "Adresa_dlžníka": "Antona Bernoláka 2137/21",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   276,30",
     "Mena": "EUR"
@@ -9268,20 +9814,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Viktória Peterková",
-    "Adresa_dlžníka": "Kostolná 111/40",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zdenka Chládeková",
-    "Adresa_dlžníka": "Zádubanská 204/77",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   276,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zoltán Kovács",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -9310,13 +9842,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivana Čavajdová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   275,70",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Patrik Zemánek",
     "Adresa_dlžníka": "Horná Trnovská 418/77",
     "Mesto": "Žilina",
@@ -9324,24 +9849,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jana Hryzáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   275,16",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Vladimír Hubočan",
     "Adresa_dlžníka": "Brezová 8602/45B",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   275,06",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michaela Chrobáková",
-    "Adresa_dlžníka": "Severná 2811/47",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   274,99",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "René Štrkáč",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   274,98",
     "Mena": "EUR"
   },
   {
@@ -9366,10 +9884,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Juraj Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   274,50",
+    "Dlžník": "Andrea Kučeríková",
+    "Adresa_dlžníka": "súp. č. 470",
+    "Mesto": "Stráňavy",
+    "Suma_daňových_nedoplatkov": "   274,60",
     "Mena": "EUR"
   },
   {
@@ -9391,13 +9909,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   274,16",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Margita Rácová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   274,02",
     "Mena": "EUR"
   },
   {
@@ -9646,14 +10157,14 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mário Kostolný",
-    "Adresa_dlžníka": "",
+    "Dlžník": "Eva Sagálová",
+    "Adresa_dlžníka": "Fraňa Mráza 619/13",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   270,82",
+    "Suma_daňových_nedoplatkov": "   270,85",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nikola Kostolná",
+    "Dlžník": "Mário Kostolný",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   270,82",
@@ -9664,6 +10175,13 @@
     "Adresa_dlžníka": "Tulská 1676/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   270,41",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Drahomíra Balážová",
+    "Adresa_dlžníka": "Bratislavská 8535/36A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   270,36",
     "Mena": "EUR"
   },
   {
@@ -9688,13 +10206,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Konáriková",
-    "Adresa_dlžníka": "Dlhá 183/60",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   269,95",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Šplha",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -9716,6 +10227,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Oľga Balážová",
+    "Adresa_dlžníka": "Bratislavská 8593/50A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   267,99",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marek Vlk",
     "Adresa_dlžníka": "Severná 2810/37",
     "Mesto": "Žilina",
@@ -9723,17 +10241,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Mariana Majerská",
+    "Adresa_dlžníka": "St.Valerie Road súp. č. 4",
+    "Mesto": "Bournehouth",
+    "Suma_daňových_nedoplatkov": "   267,36",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Hammerle",
     "Adresa_dlžníka": "Bajzova 2420/35",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   266,84",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Janka Martinková",
-    "Adresa_dlžníka": "Tulská 2980/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   266,15",
     "Mena": "EUR"
   },
   {
@@ -9814,22 +10332,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Andrea Jamborová",
-    "Adresa_dlžníka": "Požiarnická 42/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   263,89",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anton Kováčik",
     "Adresa_dlžníka": "Pod Skalkou 401/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   263,89",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dominik Hronský",
-    "Adresa_dlžníka": "Bytčianska 107/9",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   263,89",
     "Mena": "EUR"
@@ -9870,6 +10374,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jana Beňová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   263,08",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Mgr. Eva Jankovičová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -9891,29 +10402,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Francesca Farkašová",
-    "Adresa_dlžníka": "Bratislavská 8593/50A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   262,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Štefan Čičkanik",
     "Adresa_dlžníka": "Hálkova 1316/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   262,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubomír Bačo",
-    "Adresa_dlžníka": "Nanterská 1682/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   262,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Balážová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   262,30",
     "Mena": "EUR"
@@ -9954,13 +10444,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Vaupotičová",
-    "Adresa_dlžníka": "Borová 3176/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   261,78",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Erik Stojka",
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
@@ -9972,20 +10455,6 @@
     "Adresa_dlžníka": "Jána Mičicu 105/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   261,57",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sára Mária Žilčáková",
-    "Adresa_dlžníka": "Limbová 3057/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   261,12",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zoja Žilčáková",
-    "Adresa_dlžníka": "Limbová 3057/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   261,12",
     "Mena": "EUR"
   },
   {
@@ -10005,13 +10474,6 @@
   {
     "Dlžník": "Mário Chaban",
     "Adresa_dlžníka": "Zádubnie 16/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   260,84",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Natália Káčerová",
-    "Adresa_dlžníka": "Jedlíkova 3428/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   260,84",
     "Mena": "EUR"
@@ -10059,13 +10521,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Jamborová",
-    "Adresa_dlžníka": "Požiarnická 42/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   259,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Zuzana Andrášeková Mazúrová",
     "Adresa_dlžníka": "Pod vinicou 262/5",
     "Mesto": "Žilina",
@@ -10101,10 +10556,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Hundáková",
-    "Adresa_dlžníka": "",
+    "Dlžník": "Monika Baloghová",
+    "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   257,76",
+    "Suma_daňových_nedoplatkov": "   258,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivana Zvarová",
+    "Adresa_dlžníka": "Jarná 2596/38",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   258,24",
     "Mena": "EUR"
   },
   {
@@ -10164,17 +10626,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Monika Paurová",
+    "Adresa_dlžníka": "Limbová 3057/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   257,22",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Mikunda",
     "Adresa_dlžníka": "Antona Bernoláka 2202/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   257,00",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Perla Kaper",
-    "Adresa_dlžníka": "Borová 3179/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   256,98",
     "Mena": "EUR"
   },
   {
@@ -10185,10 +10647,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jaroslav Flachs",
+    "Dlžník": "Jana Rácová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   256,20",
+    "Suma_daňových_nedoplatkov": "   256,43",
     "Mena": "EUR"
   },
   {
@@ -10234,10 +10696,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alexandra Berkyová",
-    "Adresa_dlžníka": "Daxnerova 2686/35",
+    "Dlžník": "Lucia Širancová",
+    "Adresa_dlžníka": "Osiková 3210/3",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
+    "Suma_daňových_nedoplatkov": "   254,68",
     "Mena": "EUR"
   },
   {
@@ -10367,29 +10829,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Úkropová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Keira Trnavská",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Kyu-ho Kyeong",
     "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Linda Valenská",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,40",
     "Mena": "EUR"
@@ -10402,29 +10843,15 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marcela Poláčková",
-    "Adresa_dlžníka": "Zvolenská 1777/10",
-    "Mesto": "Žilina",
+    "Dlžník": "Lucia Trnavská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "   254,40",
     "Mena": "EUR"
   },
   {
     "Dlžník": "Marián Remenec",
     "Adresa_dlžníka": "Severná 2811/47",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Stelinová",
-    "Adresa_dlžníka": "Petzvalova 8501/43B",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Matúš Stelina",
-    "Adresa_dlžníka": "Petzvalova 8501/43B",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,40",
     "Mena": "EUR"
@@ -10458,22 +10885,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nikolas Valenský",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Patrik Mažgút",
     "Adresa_dlžníka": "Gaštanová 3079/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Paulína Stelinová",
-    "Adresa_dlžníka": "Petzvalova 8501/43B",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,40",
     "Mena": "EUR"
@@ -10493,21 +10906,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Schipala",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Šupola",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Úkrop",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,40",
@@ -10529,13 +10928,6 @@
   },
   {
     "Dlžník": "Richard Kubáč",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   254,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Stanislav Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,40",
@@ -10602,6 +10994,13 @@
     "Adresa_dlžníka": "Do Brezičia 356/12",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   254,37",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Balážová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   254,06",
     "Mena": "EUR"
   },
   {
@@ -10780,6 +11179,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Monika Mešterová",
+    "Adresa_dlžníka": "Na Záchrastí 383/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   249,78",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michaela Šurabová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Zákopčie",
+    "Suma_daňových_nedoplatkov": "   249,54",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Valéria Rácová",
     "Adresa_dlžníka": "Bratislavská 8367/42A",
     "Mesto": "Žilina",
@@ -10794,17 +11207,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Holešová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Námestovo",
-    "Suma_daňových_nedoplatkov": "   248,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Vojvodová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   247,16",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Kotvasová",
+    "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 894/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   247,14",
     "Mena": "EUR"
   },
   {
@@ -10843,10 +11256,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Gabriela Hrabčáková",
+    "Adresa_dlžníka": "Pittsburgská 2970/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   245,21",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Pavol Trizuliak",
     "Adresa_dlžníka": "Priedovsie 120/22",
     "Mesto": "Gbeľany",
     "Suma_daňových_nedoplatkov": "   244,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Simona Štefundová",
+    "Adresa_dlžníka": "Borová 3295/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   244,63",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Denisa Hričovská",
+    "Adresa_dlžníka": "Gerlachovská 3105/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   244,57",
     "Mena": "EUR"
   },
   {
@@ -10906,10 +11340,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zuzana Puškárová",
-    "Adresa_dlžníka": "Pri Kysuci 100/79",
+    "Dlžník": "Mária Školek",
+    "Adresa_dlžníka": "Borová 3203/29",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   241,99",
+    "Suma_daňových_nedoplatkov": "   241,97",
     "Mena": "EUR"
   },
   {
@@ -10983,13 +11417,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alena Žúborová",
-    "Adresa_dlžníka": "Mateja Bela 3448/79",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anna Púčeková",
     "Adresa_dlžníka": "K Rochovici 163/5",
     "Mesto": "Žilina",
@@ -11006,13 +11433,6 @@
   {
     "Dlžník": "Dasha Emily Gažo",
     "Adresa_dlžníka": "Republiky 1000/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denis Ďuroška",
-    "Adresa_dlžníka": "Gaštanová 3077/19",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   240,40",
     "Mena": "EUR"
@@ -11039,13 +11459,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ján Žúbor",
-    "Adresa_dlžníka": "Mateja Bela 3448/79",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Kristián Cicko",
     "Adresa_dlžníka": "Bratislavská 8593/50A",
     "Mesto": "Žilina",
@@ -11060,27 +11473,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Luis Tkáčik",
-    "Adresa_dlžníka": "Bratislavská 514/44",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mário Tkáčik",
-    "Adresa_dlžníka": "Bratislavská 514/44",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Škubáková",
-    "Adresa_dlžníka": "Limbová 3057/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martina Žuborová",
     "Adresa_dlžníka": "Mateja Bela 3448/79",
     "Mesto": "Žilina",
@@ -11090,13 +11482,6 @@
   {
     "Dlžník": "Milan Forbak",
     "Adresa_dlžníka": "Platanová 3286/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   240,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Natália Cicková",
-    "Adresa_dlžníka": "Bratislavská 8593/50A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   240,40",
     "Mena": "EUR"
@@ -11120,6 +11505,13 @@
     "Adresa_dlžníka": "Pažite 169/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   240,37",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Andrea Danišová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   240,28",
     "Mena": "EUR"
   },
   {
@@ -11151,6 +11543,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "MUDr. Martina Hanzelová",
+    "Adresa_dlžníka": "22/22",
+    "Mesto": "Rudinka",
+    "Suma_daňových_nedoplatkov": "   238,98",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jaroslav Šaling",
     "Adresa_dlžníka": "Pod sadom 773/43",
     "Mesto": "Žilina",
@@ -11179,10 +11578,66 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Anna Tonková",
+    "Adresa_dlžníka": "Bratislavská 8367/42A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   238,36",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Rossák",
     "Adresa_dlžníka": "Komenského 2219/21",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   238,21",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Vrabcová",
+    "Adresa_dlžníka": "Klemensova 3291/31",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   238,15",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Mešková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Zacharová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Tencerová",
+    "Adresa_dlžníka": "Jaseňová 3224/44",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslav Kapitulčin",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Vladimíra Potočanová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Hai Nguyen Tien",
+    "Adresa_dlžníka": "Štúrova 152/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   237,68",
     "Mena": "EUR"
   },
   {
@@ -11207,31 +11662,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslava Filinová",
-    "Adresa_dlžníka": "",
+    "Dlžník": "Gabriela Brozová",
+    "Adresa_dlžníka": "Horná Trnovská 450/66",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   237,48",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kiara Bartošová",
-    "Adresa_dlžníka": "Sasinkova 605/29",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   237,42",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vanesa Bartošová",
-    "Adresa_dlžníka": "Sasinkova 605/29",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   237,42",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Žaneta Abkarovičová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   236,93",
+    "Suma_daňových_nedoplatkov": "   236,63",
     "Mena": "EUR"
   },
   {
@@ -11333,13 +11767,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vanesa Valcharová",
-    "Adresa_dlžníka": "Platanová 3227/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   234,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Gustáv Chládek",
     "Adresa_dlžníka": "Gaštanová 3083/44",
     "Mesto": "Žilina",
@@ -11356,13 +11783,6 @@
   {
     "Dlžník": "Eva Rudincová",
     "Adresa_dlžníka": "Andreja Kmeťa 326/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Klaudia Kalafútová",
-    "Adresa_dlžníka": "Trnavská 1356/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   233,98",
     "Mena": "EUR"
@@ -11396,49 +11816,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Alena Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alžbeta Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Amália Dávidová",
-    "Adresa_dlžníka": "Rajecká 2798/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Angelika Frátriková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Diego Fujak",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Filip Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Frank Frátrik",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   233,40",
@@ -11452,56 +11830,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Kostolný",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Karolína Janigová",
-    "Adresa_dlžníka": "Nanterská 1680/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Koloman Frátrik",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kristián Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marko Frátrik",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Dávidová",
-    "Adresa_dlžníka": "Rajecká 2798/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Balážová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   233,40",
@@ -11515,21 +11844,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Frátrik",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Sabina Kostolná",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   233,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vanesa Kostolná",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   233,40",
@@ -11557,20 +11872,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Emma Janešíková",
-    "Adresa_dlžníka": "súp. č. 769",
-    "Mesto": "Nesluša",
-    "Suma_daňových_nedoplatkov": "   232,74",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Janešík",
-    "Adresa_dlžníka": "súp. č. 769",
-    "Mesto": "Nesluša",
-    "Suma_daňových_nedoplatkov": "   232,74",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Kramár",
     "Adresa_dlžníka": "1. mája 1014/10",
     "Mesto": "Žilina",
@@ -11585,10 +11886,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Sabina Matušíková",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3147/3",
+    "Dlžník": "Soňa Krištofová",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   232,50",
+    "Suma_daňových_nedoplatkov": "   232,65",
     "Mena": "EUR"
   },
   {
@@ -11620,6 +11921,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zlatica Fikejzová",
+    "Adresa_dlžníka": "Segnerova 3397/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   231,85",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ján Raček",
     "Adresa_dlžníka": "Antona Bernoláka 2178/70",
     "Mesto": "Žilina",
@@ -11641,13 +11949,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Krištofová",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   231,49",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Branislav Kvašňovský",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11662,13 +11963,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michaela Hričovcová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   231,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Monika Novosadová",
     "Adresa_dlžníka": "Rajecká 2789/3",
     "Mesto": "Žilina",
@@ -11678,20 +11972,6 @@
   {
     "Dlžník": "Aladár Baláž",
     "Adresa_dlžníka": "Borová 3295/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Alena Kubíková",
-    "Adresa_dlžníka": "Zvolenská 1777/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrea Danišová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
     "Mena": "EUR"
@@ -11718,21 +11998,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Erik Klacko",
-    "Adresa_dlžníka": "súp. č. 338",
-    "Mesto": "Veľké Rovné",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Erik Kostolný",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Gabriela Michulková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
@@ -11748,13 +12014,6 @@
   {
     "Dlžník": "Jaroslav Nehaj",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jessica Michaela Žilčáková",
-    "Adresa_dlžníka": "Limbová 3057/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
     "Mena": "EUR"
@@ -11781,36 +12040,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kristián Šnajder",
-    "Adresa_dlžníka": "Dadanova 3387/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kristína Eliašková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ladislav Bárdy",
     "Adresa_dlžníka": "Baničova 3389/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Laura Dálnokiová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubomír Berky",
-    "Adresa_dlžníka": "Daxnerova 2686/35",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
     "Mena": "EUR"
@@ -11851,20 +12082,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martina Bačová",
-    "Adresa_dlžníka": "Saleziánska 2608/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Váradyová",
-    "Adresa_dlžníka": "Vojtecha Spanyola 2125/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Matej Čimbora",
     "Adresa_dlžníka": "Kubínska 1103/2",
     "Mesto": "Žilina",
@@ -11880,13 +12097,6 @@
   },
   {
     "Dlžník": "Michal Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Dálnoki",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
@@ -11921,13 +12131,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Patrik Gráč",
-    "Adresa_dlžníka": "Tatranská 3111/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Pavol Rác",
     "Adresa_dlžníka": "Bratislavská 8367/42A",
     "Mesto": "Žilina",
@@ -11944,13 +12147,6 @@
   {
     "Dlžník": "Peter Hajduk",
     "Adresa_dlžníka": "Petzvalova 3378/59",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Petra Vršanská",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
     "Mena": "EUR"
@@ -11984,13 +12180,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Šnajder",
-    "Adresa_dlžníka": "Dadanova 3387/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Roman Brezovský",
     "Adresa_dlžníka": "Na stanicu 524/25",
     "Mesto": "Žilina",
@@ -12007,20 +12196,6 @@
   {
     "Dlžník": "Roman Martinka",
     "Adresa_dlžníka": "Tulská 2980/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Simon Mušuka",
-    "Adresa_dlžníka": "Strážovská 283/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Simona Košútová",
-    "Adresa_dlžníka": "Baničova 3389/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
     "Mena": "EUR"
@@ -12061,31 +12236,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michaela Dávidíková",
-    "Adresa_dlžníka": "Trnavská 2997/1",
+    "Dlžník": "Monika Töröková",
+    "Adresa_dlžníka": "Osiková 3210/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,44",
+    "Suma_daňových_nedoplatkov": "   229,86",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Romana Dávidíková",
-    "Adresa_dlžníka": "Trnavská 2997/1",
+    "Dlžník": "Ján Tepličanec",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   230,44",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zdeno Piovarči",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3148/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   229,61",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Daša Vavríková",
-    "Adresa_dlžníka": "Jarná 2604/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   229,02",
+    "Suma_daňových_nedoplatkov": "   229,13",
     "Mena": "EUR"
   },
   {
@@ -12096,17 +12257,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kevin Rác",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   228,84",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mário Demčák",
     "Adresa_dlžníka": "Bratislavská 517/46",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   228,69",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Oľga Králiková",
+    "Adresa_dlžníka": "Jura Hronca 3409/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   228,38",
     "Mena": "EUR"
   },
   {
@@ -12135,6 +12296,13 @@
     "Adresa_dlžníka": "Prešovská 2947/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   226,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Božena Duchoňová",
+    "Adresa_dlžníka": "Komenského 2187/63",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   226,06",
     "Mena": "EUR"
   },
   {
@@ -12201,6 +12369,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Dominika Rácová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   223,22",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Petra Klimaszevská",
+    "Adresa_dlžníka": "Moyzesova 925/53",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   222,93",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Chovanec",
     "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
@@ -12212,13 +12394,6 @@
     "Adresa_dlžníka": "Jána Milca 737/23",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   222,70",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Eva Sagálová",
-    "Adresa_dlžníka": "Fraňa Mráza 619/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   222,09",
     "Mena": "EUR"
   },
   {
@@ -12236,6 +12411,20 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Filip Chovanec",
+    "Adresa_dlžníka": "Andreja Kmeťa 326/21",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   221,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomíra Šprochová",
+    "Adresa_dlžníka": "Mikovíniho 1187/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   221,90",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Michal Židek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -12247,6 +12436,13 @@
     "Adresa_dlžníka": "Ružová 1638/40",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   221,21",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Bongilajová",
+    "Adresa_dlžníka": "Bratislavská 512/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   221,12",
     "Mena": "EUR"
   },
   {
@@ -12292,24 +12488,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominika Rácová",
-    "Adresa_dlžníka": "Bratislavská 514/44",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   219,64",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Michalák",
     "Adresa_dlžníka": "B. Němcovej 532/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   219,45",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tamara Rácová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   219,40",
     "Mena": "EUR"
   },
   {
@@ -12369,20 +12551,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Simona Štefundová",
-    "Adresa_dlžníka": "Borová 3295/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   217,04",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ada Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Adriána Zajacová",
     "Adresa_dlžníka": "Borová 3178/15",
     "Mesto": "Žilina",
@@ -12412,13 +12580,6 @@
   },
   {
     "Dlžník": "Anna Malíčková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Anna Valenská",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
@@ -12460,43 +12621,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Daniel Štrkáč",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Daniela Zavadzanová",
     "Adresa_dlžníka": "Borová 3178/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denis Šnajder",
-    "Adresa_dlžníka": "Dadanova 3387/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denisa Hričovská",
-    "Adresa_dlžníka": "Gerlachovská 3105/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denisa Hričovská",
-    "Adresa_dlžníka": "Gerlachovská 3105/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dominik Janík",
-    "Adresa_dlžníka": "Mydlárska 197/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -12544,13 +12670,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eliška Žideková",
-    "Adresa_dlžníka": "Borová 3179/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Emília Benčíková",
     "Adresa_dlžníka": "Majerská 1492/5",
     "Mesto": "Žilina",
@@ -12558,29 +12677,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Emma Hrnková",
-    "Adresa_dlžníka": "Zádubanská 185/33",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Eva Neumannová",
     "Adresa_dlžníka": "Suvorovova 2790/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Filip Krištof",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Gabriel Kulich",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -12642,27 +12740,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivana Hlaváčová",
-    "Adresa_dlžníka": "Zádubanská 92/83",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Izabela Dávidová",
-    "Adresa_dlžníka": "Rajecká 2798/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jakub Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jakub Ivanicz",
     "Adresa_dlžníka": "Javorová 3073/15",
     "Mesto": "Žilina",
@@ -12719,13 +12796,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Gabrišová",
-    "Adresa_dlžníka": "Jedľová 295/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Janková",
     "Adresa_dlžníka": "Dlhá 82/67",
     "Mesto": "Žilina",
@@ -12742,20 +12812,6 @@
   {
     "Dlžník": "Jana Milecová",
     "Adresa_dlžníka": "Zvolenská 1779/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jana Vrabcová",
-    "Adresa_dlžníka": "Klemensova 3291/31",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Janka Hrnková",
-    "Adresa_dlžníka": "Zádubanská 185/33",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -12845,13 +12901,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Voľanská",
-    "Adresa_dlžníka": "Fatranská 3100/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Kevin Erik Weiss",
     "Adresa_dlžníka": "Petzvalova 3376/51",
     "Mesto": "Žilina",
@@ -12936,27 +12985,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucas Chen Babík",
-    "Adresa_dlžníka": "Karpatská 8402/9A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Balážová",
-    "Adresa_dlžníka": "Tichá 1189/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Hrnková",
-    "Adresa_dlžníka": "Zádubanská 185/33",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lukáš Búchal",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -12985,27 +13013,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marek Hričovský",
-    "Adresa_dlžníka": "Gerlachovská 3105/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mária Majáková",
-    "Adresa_dlžníka": "Bratislavská 279/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mária Patakyová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marián Kolenčík",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13013,29 +13020,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mariana Voľanská",
-    "Adresa_dlžníka": "Fatranská 3100/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marianna Podhorský",
     "Adresa_dlžníka": "Nanterská 1682/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Marko Kaper",
-    "Adresa_dlžníka": "Borová 3179/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Markus Frátrik",
-    "Adresa_dlžníka": "Bratislavská 417/19",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13062,27 +13048,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Michulek",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martin Pataky",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Martina Ivana Vaupotičová",
-    "Adresa_dlžníka": "Borová 3176/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Matej Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13099,13 +13064,6 @@
   {
     "Dlžník": "Matej Voľanský",
     "Adresa_dlžníka": "Fatranská 3100/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Matúš Dupkala",
-    "Adresa_dlžníka": "Pod Dúbravou 56/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13141,13 +13099,6 @@
   {
     "Dlžník": "Michal Uradnik",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Voľanský",
-    "Adresa_dlžníka": "Fatranská 3100/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13251,34 +13202,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nela Schipalová",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Fujaková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikolas Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nina Gabrišová",
-    "Adresa_dlžníka": "Jedľová 295/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Nino Faták",
     "Adresa_dlžníka": "Bratislavská 514/44",
     "Mesto": "Žilina",
@@ -13288,13 +13211,6 @@
   {
     "Dlžník": "Ondrej Dolinajec",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Patrik Bališ",
-    "Adresa_dlžníka": "Zábrežná 72/43",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13412,36 +13328,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Sabína Šimčeková",
-    "Adresa_dlžníka": "Vojtecha Spanyola 2125/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sandra Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Sandra Frátriková",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sebastián Kulich",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sebastián Parák",
-    "Adresa_dlžníka": "Antona Bernoláka 2179/62",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13454,36 +13342,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Šarlota Balážová",
-    "Adresa_dlžníka": "Tichá 1189/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Szabo",
     "Adresa_dlžníka": "Trnavská 1355/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tatiana Krištofová",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Terézia Garelová",
-    "Adresa_dlžníka": "Petzvalova 3384/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Terézia Juríková",
-    "Adresa_dlžníka": "Limbová 3057/15",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13531,20 +13391,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Veronika Kostolná",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Viktória Gažiová",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Vladimír Stračiak",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13554,13 +13400,6 @@
   {
     "Dlžník": "Zdenka Zemánková",
     "Adresa_dlžníka": "Nanterská 1680/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zuzana Dudíková",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
@@ -13594,17 +13433,31 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Eliška Krauzová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   216,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Haceková",
+    "Adresa_dlžníka": "Platanová 3229/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   216,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martina Hrošová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   216,36",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Viliam Chovančík",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,34",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Žideková",
-    "Adresa_dlžníka": "Borová 3179/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,26",
     "Mena": "EUR"
   },
   {
@@ -13640,6 +13493,13 @@
     "Adresa_dlžníka": "Obchodná 8555/3A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   214,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Beáta Týlešová",
+    "Adresa_dlžníka": "Puškinova 2182/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   214,38",
     "Mena": "EUR"
   },
   {
@@ -13699,17 +13559,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dana Valcharová",
-    "Adresa_dlžníka": "Platanová 3227/10",
+    "Dlžník": "Dominika Franclová",
+    "Adresa_dlžníka": "Na Hôrke 71/10",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   212,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Natália Valcharová",
-    "Adresa_dlžníka": "Platanová 3227/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   212,40",
+    "Suma_daňových_nedoplatkov": "   212,19",
     "Mena": "EUR"
   },
   {
@@ -13755,6 +13608,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Helena Štecová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   209,46",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marián Fatura",
     "Adresa_dlžníka": "Mateja Bela 3447/73",
     "Mesto": "Žilina",
@@ -13766,6 +13626,20 @@
     "Adresa_dlžníka": "Dolinky 45/45",
     "Mesto": "Švošov",
     "Suma_daňových_nedoplatkov": "   209,05",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Veronika Nikoleta Mihoková",
+    "Adresa_dlžníka": "Vojtecha Spanyola 2126/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   208,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Sliviaková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   208,72",
     "Mena": "EUR"
   },
   {
@@ -13783,17 +13657,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Viktória Potočová",
-    "Adresa_dlžníka": "Gaštanová 3080/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   208,30",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Milan Šmehyl",
     "Adresa_dlžníka": "Jozefa Vuruma 116/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   208,21",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Balážová",
+    "Adresa_dlžníka": "Tichá 1189/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   207,96",
     "Mena": "EUR"
   },
   {
@@ -13860,6 +13734,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Gabriela Oderijová",
+    "Adresa_dlžníka": "Platanová 3225/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   206,24",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Martin Bálik",
     "Adresa_dlžníka": "Crosd´entassi súp. č. 45",
     "Mesto": "Grimaud",
@@ -13888,17 +13769,24 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominik Baláž",
+    "Dlžník": "Vladimír Ballay",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   205,30",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vladimír Ballay",
+    "Dlžník": "Jana Martinická",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   205,30",
+    "Suma_daňových_nedoplatkov": "   205,02",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Lucia Danišová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   205,02",
     "Mena": "EUR"
   },
   {
@@ -13920,20 +13808,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Považská Bystrica",
     "Suma_daňových_nedoplatkov": "   203,42",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Klára Mráziková",
-    "Adresa_dlžníka": "Severná 2811/47",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   203,04",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ai Tran Viet",
-    "Adresa_dlžníka": "Námestie sv. Jána Bosca 65/74",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
     "Mena": "EUR"
   },
   {
@@ -14049,13 +13923,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Janka Škorvanková",
-    "Adresa_dlžníka": "Andreja Kmeťa 659/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Pakanec",
     "Adresa_dlžníka": "Bratislavská 511/38",
     "Mesto": "Žilina",
@@ -14072,13 +13939,6 @@
   {
     "Dlžník": "Lenka Barčíková",
     "Adresa_dlžníka": "Bulharská 8527/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Loran Roderik Plichtík",
-    "Adresa_dlžníka": "Antona Bernoláka 2200/34",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   202,98",
     "Mena": "EUR"
@@ -14119,13 +13979,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Markus Farkaš",
-    "Adresa_dlžníka": "Bratislavská 8593/50A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Maroš Michulek",
     "Adresa_dlžníka": "Hollého 645/18",
     "Mesto": "Žilina",
@@ -14161,13 +14014,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miriama Plichtíková",
-    "Adresa_dlžníka": "Antona Bernoláka 2200/34",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14191,20 +14037,6 @@
   {
     "Dlžník": "Natália Balážová",
     "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Bongilajová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Noemi Plichtíková",
-    "Adresa_dlžníka": "Antona Bernoláka 2200/34",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   202,98",
     "Mena": "EUR"
@@ -14280,27 +14112,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Silvia Pelikánová",
-    "Adresa_dlžníka": "Tatranská 3111/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Snežana Podhorský",
-    "Adresa_dlžníka": "Nanterská 1682/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Stanislava Bartošová",
-    "Adresa_dlžníka": "Bratislavská 516/48",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Konš",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14345,13 +14156,6 @@
   {
     "Dlžník": "Veronika Zemánková",
     "Adresa_dlžníka": "Horná Trnovská 418/77",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zuzana Škorvanková",
-    "Adresa_dlžníka": "Andreja Kmeťa 659/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   202,98",
     "Mena": "EUR"
@@ -14427,17 +14231,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ľubica Kramarová",
+    "Adresa_dlžníka": "Mojšová Lúčka 72/72",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   202,04",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Kasanická",
+    "Adresa_dlžníka": "Jána Vojtaššáka 3146/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   201,76",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marcel Valiček",
     "Adresa_dlžníka": "Do Brezičia 352/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   201,69",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Boháčiková",
-    "Adresa_dlžníka": "Záborského 1686/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   201,58",
     "Mena": "EUR"
   },
   {
@@ -14469,24 +14280,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zuzana Bizíková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   200,79",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Adriana Kašubová",
     "Adresa_dlžníka": "Juraja Sklenára 2070/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   200,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Filip Smejkal",
-    "Adresa_dlžníka": "Pod Hôrkou 1704/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Monika Smejkalová",
-    "Adresa_dlžníka": "Pod Hôrkou 1704/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,40",
     "Mena": "EUR"
   },
   {
@@ -14588,6 +14392,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Oľga Fišerová",
+    "Adresa_dlžníka": "Legionárska 222/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   196,64",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Tomáš Bednár",
     "Adresa_dlžníka": "Tajovského 8539/3D",
     "Mesto": "Žilina",
@@ -14595,22 +14406,36 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Patrik Baláž",
-    "Adresa_dlžníka": "Juraja Sklenára 2103/12",
+    "Dlžník": "Lucia Potočová",
+    "Adresa_dlžníka": "Gaštanová 3080/14",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   196,19",
+    "Suma_daňových_nedoplatkov": "   196,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Kvetoslava Drážovská",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   196,41",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Lenka Matúsová",
+    "Adresa_dlžníka": "Čulenova 2051/28",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   196,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Petra Mikolajová",
+    "Adresa_dlžníka": "Schiffelova 1409/14",
+    "Mesto": "Holíč",
+    "Suma_daňových_nedoplatkov": "   195,98",
     "Mena": "EUR"
   },
   {
     "Dlžník": "Patricia Nedelková",
     "Adresa_dlžníka": "Javorová 3073/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   195,81",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Timotej Kalafút",
-    "Adresa_dlžníka": "M. R. Štefánika 847/67",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   195,81",
     "Mena": "EUR"
@@ -14648,6 +14473,20 @@
     "Adresa_dlžníka": "Zvolenská 1778/15",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   195,29",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Helena Hrušková",
+    "Adresa_dlžníka": "Košická 8392/2A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   195,04",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Silvia Gerliciová",
+    "Adresa_dlžníka": "Petzvalova 3369/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   195,04",
     "Mena": "EUR"
   },
   {
@@ -14700,13 +14539,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominik Dávidík",
-    "Adresa_dlžníka": "Trnavská 2997/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivan Kminiak",
     "Adresa_dlžníka": "Ľubľanská 1678/3",
     "Mesto": "Žilina",
@@ -14735,13 +14567,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katrin Niníková",
-    "Adresa_dlžníka": "Sadová 304/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Nino Ružička",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14756,13 +14581,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Janka Martinická",
-    "Adresa_dlžníka": "Jánošíkova 8494/15D",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,56",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Šurab",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14774,6 +14592,13 @@
     "Adresa_dlžníka": "Nešporova 2235/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   193,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Jana Koleňáková",
+    "Adresa_dlžníka": "Alexandra Rudnaya 2340/61",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   193,13",
     "Mena": "EUR"
   },
   {
@@ -14812,17 +14637,31 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ema Pitlová",
-    "Adresa_dlžníka": "Hradná 2/2",
-    "Mesto": "Strečno",
-    "Suma_daňových_nedoplatkov": "   191,64",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lukáš Holienka",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   191,43",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Šusteková",
+    "Adresa_dlžníka": "Karola Kmeťku 3150/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   190,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michaela Kianičková",
+    "Adresa_dlžníka": "Limbová 3054/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   190,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Veronika Svrčková",
+    "Adresa_dlžníka": "Antona Bernoláka 2181/52",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   190,96",
     "Mena": "EUR"
   },
   {
@@ -14868,23 +14707,9 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kristína Kollárová",
-    "Adresa_dlžníka": "Rastislavova 1201/7",
-    "Mesto": "Slovenský Grob",
-    "Suma_daňových_nedoplatkov": "   189,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Matej Pekár",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   189,39",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mgr. Gabriela Berkyová",
-    "Adresa_dlžníka": "Ulica Ondreja Štefanka 3987/3",
-    "Mesto": "Bratislava-Petržalka",
     "Suma_daňových_nedoplatkov": "   189,39",
     "Mena": "EUR"
   },
@@ -14910,38 +14735,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Adriána Matušíková",
-    "Adresa_dlžníka": "Jána Vojtaššáka 3147/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Milo",
-    "Adresa_dlžníka": "Matuškova 431/45",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Veronika Katrencová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Gír",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   188,80",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Ďurišová",
-    "Adresa_dlžníka": "Drozdia 235/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,72",
     "Mena": "EUR"
   },
   {
@@ -14966,6 +14763,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Eva Pecková",
+    "Adresa_dlžníka": "Jarná 2604/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   187,01",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Miroslav Golka",
     "Adresa_dlžníka": "Oravská 2352/3",
     "Mesto": "Žilina",
@@ -14987,6 +14791,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Andrea Hvizdáková",
+    "Adresa_dlžníka": "Puškinova 2182/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   185,46",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Božena Kováčiková",
     "Adresa_dlžníka": "Pod Skalkou 401/11",
     "Mesto": "Žilina",
@@ -15001,17 +14812,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Erik Hanuliak",
-    "Adresa_dlžníka": "Ku zvonici 287/16",
+    "Dlžník": "Nicola Baláž",
+    "Adresa_dlžníka": "Pivovarská 1066/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   184,30",
+    "Suma_daňových_nedoplatkov": "   184,60",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucia Tvrdá",
-    "Adresa_dlžníka": "Ku zvonici 287/16",
+    "Dlžník": "Dagmar Maceková",
+    "Adresa_dlžníka": "Stará dedina 18/16",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   184,30",
+    "Suma_daňových_nedoplatkov": "   184,54",
     "Mena": "EUR"
   },
   {
@@ -15019,13 +14830,6 @@
     "Adresa_dlžníka": "Korzo 8435/33",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   184,30",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Barbora Žillová",
-    "Adresa_dlžníka": "Pod Dúbravou 56/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   184,26",
     "Mena": "EUR"
   },
   {
@@ -15093,13 +14897,6 @@
   },
   {
     "Dlžník": "Patrik Majerčík",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   184,26",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Pavlína Senková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   184,26",
@@ -15183,6 +14980,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Peter Byčan",
+    "Adresa_dlžníka": "Karvaša a Blahovca súp. č. 1213",
+    "Mesto": "Vrútky",
+    "Suma_daňových_nedoplatkov": "   184,08",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Zora Šušolíková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15239,6 +15043,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Katarína Kapusniaková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   181,65",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Pavol Stojka",
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
@@ -15267,17 +15078,17 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Tatarková Uličná",
+    "Adresa_dlžníka": "súp. č. 585",
+    "Mesto": "Višňové",
+    "Suma_daňových_nedoplatkov": "   180,31",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ivana Remencová",
     "Adresa_dlžníka": "Námestie sv. Jána Bosca 422/44",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   180,26",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Alexandra Schipalová",
-    "Adresa_dlžníka": "Fraňa Mráza 627/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,94",
     "Mena": "EUR"
   },
   {
@@ -15288,21 +15099,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Petruška",
-    "Adresa_dlžníka": "Platanová 3227/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Rastislav Petruška",
-    "Adresa_dlžníka": "Platanová 3227/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,72",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Veronika Petrušková",
     "Adresa_dlžníka": "Platanová 3227/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,72",
@@ -15372,13 +15169,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Damián Pakanec",
-    "Adresa_dlžníka": "Bratislavská 511/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Daniel Kúdelka",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15393,22 +15183,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Denis Štrkáč",
-    "Adresa_dlžníka": "Športová 563/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dušan Jurák",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Elena Kožíková",
-    "Adresa_dlžníka": "Jaseňová 3220/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15442,36 +15218,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Filip Sobola",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Gabriela Zboranová",
-    "Adresa_dlžníka": "Matuškova 431/45",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Helena Goroľová",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Chiara Gavláková",
-    "Adresa_dlžníka": "Lichardova 8507/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Christian Gavlák",
-    "Adresa_dlžníka": "Lichardova 8507/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15491,13 +15239,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Jana Gavláková",
-    "Adresa_dlžníka": "Lichardova 8507/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Jozef Horniš",
     "Adresa_dlžníka": "Závodská cesta 2964/2",
     "Mesto": "Žilina",
@@ -15512,22 +15253,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivana Zemánková",
-    "Adresa_dlžníka": "Nanterská 1680/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ján Chovanec",
     "Adresa_dlžníka": "B. S. Timravy 949/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jana Michulková",
-    "Adresa_dlžníka": "Hollého 645/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15582,50 +15309,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Karin Machová",
-    "Adresa_dlžníka": "Juraja Závodského 138/46",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Dávidíková",
-    "Adresa_dlžníka": "Trnavská 2997/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Piteková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Kristián Kapitulik",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ladislav Hlucháň",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lea Zemánková",
-    "Adresa_dlžníka": "Nanterská 1680/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lenka Zboroňová",
-    "Adresa_dlžníka": "Veľká okružná 1075/28",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15708,36 +15393,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Maják",
-    "Adresa_dlžníka": "Bratislavská 279/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Trávnik",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Matej Imriš",
-    "Adresa_dlžníka": "Černovská 1670/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Matúš Michalák",
-    "Adresa_dlžníka": "B. Němcovej 532/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michaela Vidrová",
-    "Adresa_dlžníka": "Sasinkova 418/43",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15778,13 +15435,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miroslava Balážová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Monika Fatáková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15801,20 +15451,6 @@
   {
     "Dlžník": "Natália Vanická",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nina Kurnocíková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nina Zboranová",
-    "Adresa_dlžníka": "Matuškova 431/45",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15862,13 +15498,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Renáta Imrišová",
-    "Adresa_dlžníka": "Černovská 1670/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Richard Hollý",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15878,13 +15507,6 @@
   {
     "Dlžník": "Róbert Svitek",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Roman Imriš",
-    "Adresa_dlžníka": "Černovská 1670/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15904,22 +15526,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Sára Štrkáčová",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Slavomír Brokuta",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sofia Králiková",
-    "Adresa_dlžníka": "Jura Hronca 3409/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,62",
     "Mena": "EUR"
@@ -15953,13 +15561,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vanesa Kurnocíková",
-    "Adresa_dlžníka": "Borová 8110/45",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Viera Špičáková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15981,13 +15582,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Matej Martinický",
-    "Adresa_dlžníka": "Jánošíkova 8494/15D",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,56",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Milan Sága",
     "Adresa_dlžníka": "Gazdova 469/9",
     "Mesto": "Žilina",
@@ -15997,13 +15591,6 @@
   {
     "Dlžník": "Anton Brezovian",
     "Adresa_dlžníka": "Ohradská 474/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,52",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Nikola Madejová",
-    "Adresa_dlžníka": "Juraja Závodského 138/46",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   179,52",
     "Mena": "EUR"
@@ -16027,13 +15614,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   178,93",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Filip Židek",
-    "Adresa_dlžníka": "Borová 3179/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   178,90",
     "Mena": "EUR"
   },
   {
@@ -16069,6 +15649,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   178,34",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Leroy",
+    "Adresa_dlžníka": "Stred súp. č. 291",
+    "Mesto": "Zázrivá",
+    "Suma_daňových_nedoplatkov": "   178,24",
     "Mena": "EUR"
   },
   {
@@ -16114,6 +15701,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Soňa Baránková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Weilheim",
+    "Suma_daňových_nedoplatkov": "   176,70",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jozef Bakoš",
     "Adresa_dlžníka": "Smreková 3096/26",
     "Mesto": "Žilina",
@@ -16139,6 +15733,13 @@
     "Adresa_dlžníka": "Nám.Hraničiarov 2581/4",
     "Mesto": "Bratislava-Petržalka",
     "Suma_daňových_nedoplatkov": "   176,14",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Emília Kostolná",
+    "Adresa_dlžníka": "Pod Laščíkom 1191/18",
+    "Mesto": "Stropkov",
+    "Suma_daňových_nedoplatkov": "   176,04",
     "Mena": "EUR"
   },
   {
@@ -16198,20 +15799,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Filip Chovanec",
-    "Adresa_dlžníka": "Andreja Kmeťa 326/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   175,24",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lea Sophia Hajašová",
-    "Adresa_dlžníka": "Nešporova 2236/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   175,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Ragula",
     "Adresa_dlžníka": "Borová 3177/9",
     "Mesto": "Žilina",
@@ -16230,6 +15817,13 @@
     "Adresa_dlžníka": "Hlinská 2616/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   175,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dominik Hronský",
+    "Adresa_dlžníka": "Bytčianska 107/9",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   175,11",
     "Mena": "EUR"
   },
   {
@@ -16261,20 +15855,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Petra Klementová",
-    "Adresa_dlžníka": "súp. č. 428",
-    "Mesto": "Lietava",
-    "Suma_daňových_nedoplatkov": "   173,31",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrea Hvizdáková",
-    "Adresa_dlžníka": "Puškinova 2182/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   173,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Vladimír Novák",
     "Adresa_dlžníka": "Vojtecha Tvrdého 776/14",
     "Mesto": "Žilina",
@@ -16282,45 +15862,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubomíra Urbancová",
+    "Dlžník": "Lucia Červeňáková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,77",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucas Tobias Urbanec",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,77",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Mário Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,77",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucia Majerová",
-    "Adresa_dlžníka": "Bajzova 2420/39",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,51",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Denis Radolec",
-    "Adresa_dlžníka": "Petzvalova 3374/41",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,45",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Kňazúr",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   172,45",
+    "Suma_daňových_nedoplatkov": "   172,40",
     "Mena": "EUR"
   },
   {
@@ -16328,6 +15873,20 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   172,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Juričková",
+    "Adresa_dlžníka": "Hollého 376/45",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   171,93",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Findríková",
+    "Adresa_dlžníka": "Za kostolom 953/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   171,56",
     "Mena": "EUR"
   },
   {
@@ -16366,13 +15925,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Mešterová",
-    "Adresa_dlžníka": "Na Záchrastí 383/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   171,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Chobot",
     "Adresa_dlžníka": "Na lány 114/15",
     "Mesto": "Žilina",
@@ -16391,13 +15943,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   170,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubomíra Šprochová",
-    "Adresa_dlžníka": "Mikovíniho 1187/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   170,95",
     "Mena": "EUR"
   },
   {
@@ -16534,10 +16079,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zuzana Štubňová",
+    "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 894/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   169,85",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jozef Maček",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   169,84",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Patajová",
+    "Adresa_dlžníka": "Hore humnami 68/12A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   169,64",
     "Mena": "EUR"
   },
   {
@@ -16569,10 +16128,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Martina Valášková",
+    "Adresa_dlžníka": "Limbová 3058/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   169,44",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ján Podolinštiak",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   169,09",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Monika Drončovská",
+    "Adresa_dlžníka": "Dedinská 31/89",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   168,85",
     "Mena": "EUR"
   },
   {
@@ -16632,13 +16205,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominik Klacko",
-    "Adresa_dlžníka": "súp. č. 338",
-    "Mesto": "Veľké Rovné",
-    "Suma_daňových_nedoplatkov": "   167,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Svoboda",
     "Adresa_dlžníka": "Borová 3204/30",
     "Mesto": "Žilina",
@@ -16647,20 +16213,6 @@
   },
   {
     "Dlžník": "Roman Fris",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   167,94",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Samuel Baláž",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   167,94",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sebastián Baláž",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   167,94",
@@ -16678,6 +16230,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   167,65",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Sandra Kákoniová",
+    "Adresa_dlžníka": "Dedinská 31/89",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   167,60",
     "Mena": "EUR"
   },
   {
@@ -16723,6 +16282,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Katarína Kupšová",
+    "Adresa_dlžníka": "Brodňanská 102/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   166,48",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ivana Kotrbancová",
     "Adresa_dlžníka": "Petzvalova 3384/16",
     "Mesto": "Žilina",
@@ -16751,20 +16317,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Andrea Bajgarová",
-    "Adresa_dlžníka": "Bulharská 8527/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Andrej Michulek",
-    "Adresa_dlžníka": "Hollého 645/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anton Králik",
     "Adresa_dlžníka": "ČSA 1306/13",
     "Mesto": "Kysucké Nové Mesto",
@@ -16774,13 +16326,6 @@
   {
     "Dlžník": "Boris Šolc",
     "Adresa_dlžníka": "Prielohy 1013/8A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Diana Blanka Bajgarová",
-    "Adresa_dlžníka": "Bulharská 8527/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,62",
     "Mena": "EUR"
@@ -16821,22 +16366,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Mináriková",
-    "Adresa_dlžníka": "Gabajova 2590/15",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Janka Blahušiaková",
     "Adresa_dlžníka": "Jarná 2596/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Janka Mináriková",
-    "Adresa_dlžníka": "Gabajova 2590/15",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,62",
     "Mena": "EUR"
@@ -16954,6 +16485,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Nikola Demčáková",
+    "Adresa_dlžníka": "Bratislavská 517/46",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   165,47",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Katarína Lehotská",
     "Adresa_dlžníka": "Platanová 3228/18",
     "Mesto": "Žilina",
@@ -17017,6 +16555,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zdenka Abíková",
+    "Adresa_dlžníka": "Dubová 3273/31",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   164,08",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Alexandra Zburová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -17045,20 +16590,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Berkyová",
-    "Adresa_dlžníka": "Daxnerova 2686/35",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   163,76",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Bílik",
-    "Adresa_dlžníka": "Horný rad 534/5",
-    "Mesto": "Brezová pod Bradlom",
-    "Suma_daňových_nedoplatkov": "   163,64",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "René Matyas",
     "Adresa_dlžníka": "Obchodná 8555/3A",
     "Mesto": "Žilina",
@@ -17073,10 +16604,24 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Klaudia Fatáková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   162,96",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Michal Paulík",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   162,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Majdanová",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   162,20",
     "Mena": "EUR"
   },
   {
@@ -17101,22 +16646,8 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Trpišová",
-    "Adresa_dlžníka": "Konopná 3059/3",
-    "Mesto": "Levice",
-    "Suma_daňových_nedoplatkov": "   160,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alena Tvrdá",
     "Adresa_dlžníka": "Bratislavská 510/40",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   160,28",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Gabriela Brozová",
-    "Adresa_dlžníka": "Horná Trnovská 450/66",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   160,28",
     "Mena": "EUR"
@@ -17185,20 +16716,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Spišak",
-    "Adresa_dlžníka": "Bratislavská 8535/36A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   155,22",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Sofia Lea Výrostková",
-    "Adresa_dlžníka": "Korzo 3399/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   154,22",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefánia Jaššová",
     "Adresa_dlžníka": "Antona Bernoláka 2180/56",
     "Mesto": "Žilina",
@@ -17234,6 +16751,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zuzana Námorová",
+    "Adresa_dlžníka": "Bláhova 459/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   140,24",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Mariana Husárová",
     "Adresa_dlžníka": "Brodno 167/167",
     "Mesto": "Žilina",
@@ -17241,24 +16765,24 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michaela Totáč",
-    "Adresa_dlžníka": "Lesná 60/11",
-    "Mesto": "Zbyňov",
-    "Suma_daňových_nedoplatkov": "   99,45",
+    "Dlžník": "Nora Bartová",
+    "Adresa_dlžníka": "1. mája 1011/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   127,14",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominika Balážová",
-    "Adresa_dlžníka": "Bratislavská 8535/36A",
+    "Dlžník": "Bc. Miroslava Džerengová",
+    "Adresa_dlžníka": "Borová 3176/4",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   98,48",
+    "Suma_daňových_nedoplatkov": "   120,88",
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Tibor Baláž",
-    "Adresa_dlžníka": "Bratislavská 8535/36A",
+    "Dlžník": "Radovan Žiak",
+    "Adresa_dlžníka": "Borová 3295/36",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   98,48",
+    "Suma_daňových_nedoplatkov": "   118,84",
     "Mena": "EUR"
   },
   {
@@ -17280,13 +16804,6 @@
     "Adresa_dlžníka": "Legionárska 222/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   89,12",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Bc. Miroslava Džerengová",
-    "Adresa_dlžníka": "Borová 3176/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   72,12",
     "Mena": "EUR"
   },
   {
@@ -17325,10 +16842,10 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Samuel Holeša",
-    "Adresa_dlžníka": "",
+    "Dlžník": "Ingrida Scarlett Ďuranová",
+    "Adresa_dlžníka": "Daniela Dlabača 773/29",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   48,76",
+    "Suma_daňových_nedoplatkov": "   46,23",
     "Mena": "EUR"
   },
   {
@@ -17350,13 +16867,6 @@
     "Adresa_dlžníka": "Osiková 3213/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   37,36",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vanesa Balážová",
-    "Adresa_dlžníka": "Bratislavská 8535/36A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   31,26",
     "Mena": "EUR"
   },
   {

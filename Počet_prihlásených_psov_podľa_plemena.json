@@ -1,15 +1,15 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1026"
+    "Počet": "1027"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "349"
+    "Počet": "350"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "263"
+    "Počet": "262"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -49,7 +49,7 @@
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
-    "Počet": "60"
+    "Počet": "59"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -85,7 +85,7 @@
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
-    "Počet": "37"
+    "Počet": "38"
   },
   {
     "Plemeno": "Pudel",
@@ -216,19 +216,19 @@
     "Počet": "11"
   },
   {
-    "Plemeno": "Akita inu",
-    "Počet": "10"
-  },
-  {
     "Plemeno": "Maďarský krátkosrstý stavač",
     "Počet": "10"
   },
   {
-    "Plemeno": "Tibetský teriér",
-    "Počet": "10"
+    "Plemeno": "Akita inu",
+    "Počet": "9"
   },
   {
     "Plemeno": "Kavkazský ovčiak",
+    "Počet": "9"
+  },
+  {
+    "Plemeno": "Tibetský teriér",
     "Počet": "9"
   },
   {
@@ -252,6 +252,10 @@
     "Počet": "8"
   },
   {
+    "Plemeno": "Boxer",
+    "Počet": "8"
+  },
+  {
     "Plemeno": "Írsky červený seter",
     "Počet": "7"
   },
@@ -264,7 +268,7 @@
     "Počet": "7"
   },
   {
-    "Plemeno": "Boxer",
+    "Plemeno": "Biely švajčiarsky ovčiak",
     "Počet": "7"
   },
   {
@@ -373,10 +377,6 @@
   },
   {
     "Plemeno": "Waleský špringeršpaniel",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Biely švajčiarsky ovčiak",
     "Počet": "4"
   },
   {
