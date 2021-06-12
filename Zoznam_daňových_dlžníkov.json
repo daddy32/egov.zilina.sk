@@ -7,13 +7,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Talise, a.s.",
-    "Adresa_dlžníka": "Okružná súp. č. 3239",
-    "Mesto": "Modra",
-    "Suma_daňových_nedoplatkov": "  183 806,08",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SSIM - OC, a.s.",
     "Adresa_dlžníka": "Vysokoškolákov 8556/33B",
     "Mesto": "Žilina",
@@ -31,7 +24,7 @@
     "Dlžník": "SIRS - Project, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  132 761,10",
+    "Suma_daňových_nedoplatkov": "  129 567,03",
     "Mena": "EUR"
   },
   {
@@ -98,17 +91,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  40 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "PROVAN, s.r.o.",
     "Adresa_dlžníka": "Kollárova 73",
     "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "  40 454,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  39 473,93",
     "Mena": "EUR"
   },
   {
@@ -151,6 +144,13 @@
     "Adresa_dlžníka": "Trenčianska 53",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  28 124,85",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Talise, a.s.",
+    "Adresa_dlžníka": "Okružná súp. č. 3239",
+    "Mesto": "Modra",
+    "Suma_daňových_nedoplatkov": "  27 456,00",
     "Mena": "EUR"
   },
   {
@@ -358,8 +358,8 @@
   },
   {
     "Dlžník": "VUMAT SK s.r.o.",
-    "Adresa_dlžníka": "Železničná 9",
-    "Mesto": "Veľký Šariš",
+    "Adresa_dlžníka": "Peterská 15199/20",
+    "Mesto": "Bratislava-Ružinov",
     "Suma_daňových_nedoplatkov": "  10 700,39",
     "Mena": "EUR"
   },
@@ -4405,13 +4405,6 @@
   {
     "Dlžník": "Juraj Fujak",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Juraj Hatiar",
-    "Adresa_dlžníka": "Piešťanská 2991/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
@@ -9461,13 +9454,6 @@
     "Adresa_dlžníka": "Tomáša Ružičku 2184/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   279,04",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ján Dávidík",
-    "Adresa_dlžníka": "Osiková 3210/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   278,51",
     "Mena": "EUR"
   },
   {
@@ -14700,6 +14686,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ján Dávidík",
+    "Adresa_dlžníka": "Osiková 3210/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   189,39",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Júlia Farkašová",
     "Adresa_dlžníka": "súp. č. 89",
     "Mesto": "Pavlova Ves",
@@ -14767,13 +14760,6 @@
     "Adresa_dlžníka": "Jarná 2604/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   187,01",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Golka",
-    "Adresa_dlžníka": "Oravská 2352/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   186,84",
     "Mena": "EUR"
   },
   {
@@ -15645,6 +15631,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Miroslav Golka",
+    "Adresa_dlžníka": "Oravská 2352/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   178,44",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ján Caňo",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15894,13 +15887,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Stránske",
     "Suma_daňových_nedoplatkov": "   171,54",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Pavol Hrehuš",
-    "Adresa_dlžníka": "Borová 3203/29",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   171,49",
     "Mena": "EUR"
   },
   {
@@ -16769,6 +16755,13 @@
     "Adresa_dlžníka": "1. mája 1011/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   127,14",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Pavol Hrehuš",
+    "Adresa_dlžníka": "Borová 3203/29",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   121,09",
     "Mena": "EUR"
   },
   {
