@@ -217,13 +217,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  15 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "GLOBE s.r.o.",
     "Adresa_dlžníka": "Mikulášska 1",
     "Mesto": "Bratislava",
@@ -235,6 +228,13 @@
     "Adresa_dlžníka": "Nám. 1. máje súp. č. 1605",
     "Mesto": "Uherský Brod",
     "Suma_daňových_nedoplatkov": "  14 124,55",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  14 057,58",
     "Mena": "EUR"
   },
   {
@@ -1019,13 +1019,6 @@
     "Adresa_dlžníka": "Kuzmányho 101/14",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  1 954,05",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "ZNAK,  spol. s r.o.",
-    "Adresa_dlžníka": "Námestie slobody 1407/5",
-    "Mesto": "Púchov",
-    "Suma_daňových_nedoplatkov": "  1 949,29",
     "Mena": "EUR"
   },
   {
@@ -6316,13 +6309,6 @@
   {
     "Dlžník": "Vladimír Baláž",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   320,10",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Vladimír Balta",
-    "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
