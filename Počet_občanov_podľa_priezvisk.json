@@ -4285,6 +4285,11 @@
     "Počet": "16"
   },
   {
+    "Priezvisko": "Chochulová",
+    "Pohlavie": "žena",
+    "Počet": "16"
+  },
+  {
     "Priezvisko": "Ilovská",
     "Pohlavie": "žena",
     "Počet": "16"
@@ -4707,11 +4712,6 @@
   {
     "Priezvisko": "Hroš",
     "Pohlavie": "muž",
-    "Počet": "15"
-  },
-  {
-    "Priezvisko": "Chochulová",
-    "Pohlavie": "žena",
     "Počet": "15"
   },
   {
@@ -18775,11 +18775,6 @@
     "Počet": "5"
   },
   {
-    "Priezvisko": "Fujdiaková",
-    "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
     "Priezvisko": "Fulka",
     "Pohlavie": "muž",
     "Počet": "5"
@@ -23576,6 +23571,11 @@
   },
   {
     "Priezvisko": "Fűhrichová",
+    "Pohlavie": "žena",
+    "Počet": "4"
+  },
+  {
+    "Priezvisko": "Fujdiaková",
     "Pohlavie": "žena",
     "Počet": "4"
   },
@@ -40175,6 +40175,11 @@
     "Počet": "3"
   },
   {
+    "Priezvisko": "Vacho",
+    "Pohlavie": "žena",
+    "Počet": "3"
+  },
+  {
     "Priezvisko": "Vakula",
     "Pohlavie": "muž",
     "Počet": "3"
@@ -40252,6 +40257,11 @@
   {
     "Priezvisko": "Vanochová",
     "Pohlavie": "žena",
+    "Počet": "3"
+  },
+  {
+    "Priezvisko": "Vaňouček",
+    "Pohlavie": "muž",
     "Počet": "3"
   },
   {
@@ -43381,6 +43391,11 @@
   },
   {
     "Priezvisko": "Čabáková",
+    "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
+    "Priezvisko": "Čabová",
     "Pohlavie": "žena",
     "Počet": "2"
   },
@@ -58896,11 +58911,6 @@
   },
   {
     "Priezvisko": "Vaňouček",
-    "Pohlavie": "muž",
-    "Počet": "2"
-  },
-  {
-    "Priezvisko": "Vaňouček",
     "Pohlavie": "žena",
     "Počet": "2"
   },
@@ -64227,11 +64237,6 @@
   {
     "Priezvisko": "Čabák",
     "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Čabová",
-    "Pohlavie": "žena",
     "Počet": "1"
   },
   {
@@ -80605,11 +80610,6 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "Minarská",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
     "Priezvisko": "Minárska",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -92481,11 +92481,6 @@
   },
   {
     "Priezvisko": "Vámosová",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Vámošiová",
     "Pohlavie": "žena",
     "Počet": "1"
   },

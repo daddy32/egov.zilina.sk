@@ -9422,13 +9422,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mária Fujdiaková",
-    "Adresa_dlžníka": "Bajzova 2420/37",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   279,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľudovít Kuric",
     "Adresa_dlžníka": "Tomáša Ružičku 2184/11",
     "Mesto": "Žilina",
@@ -12216,7 +12209,7 @@
   },
   {
     "Dlžník": "Oľga Králiková",
-    "Adresa_dlžníka": "Jura Hronca 3409/11",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   228,38",
     "Mena": "EUR"
