@@ -63542,15 +63542,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Brodno",
-    "Orient._č.": " 152      ",
-    "Číslo_okrsku": "68",
-    "Názov_okrsku": "Základná škola s materskou školou Brodňanská (Brodno)",
-    "Volebná_miestnosť": "Základná škola s materskou školou",
-    "Adresa_volebnej_miestnosti": "Brodňanská 110/17"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Brodno",
     "Orient._č.": " 154      ",
     "Číslo_okrsku": "68",
     "Názov_okrsku": "Základná škola s materskou školou Brodňanská (Brodno)",
@@ -64281,6 +64272,15 @@
     "Mesto": "Žilina",
     "Ulica": "Kapustná",
     "Orient._č.": "  13      ",
+    "Číslo_okrsku": "68",
+    "Názov_okrsku": "Základná škola s materskou školou Brodňanská (Brodno)",
+    "Volebná_miestnosť": "Základná škola s materskou školou",
+    "Adresa_volebnej_miestnosti": "Brodňanská 110/17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Kapustná",
+    "Orient._č.": "  13A     ",
     "Číslo_okrsku": "68",
     "Názov_okrsku": "Základná škola s materskou školou Brodňanská (Brodno)",
     "Volebná_miestnosť": "Základná škola s materskou školou",
@@ -97372,6 +97372,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Dolová",
+    "Orient._č.": "   1      ",
+    "Číslo_okrsku": "79",
+    "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
+    "Volebná_miestnosť": "Kultúrny dom",
+    "Adresa_volebnej_miestnosti": "Žilinská Lehota 76/76"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Kortinská",
     "Orient._č.": "   1      ",
     "Číslo_okrsku": "79",
@@ -98481,15 +98490,6 @@
     "Mesto": "Žilina",
     "Ulica": "Žilinská Lehota",
     "Orient._č.": " 121      ",
-    "Číslo_okrsku": "79",
-    "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
-    "Volebná_miestnosť": "Kultúrny dom",
-    "Adresa_volebnej_miestnosti": "Žilinská Lehota 76/76"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "",
     "Číslo_okrsku": "79",
     "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
     "Volebná_miestnosť": "Kultúrny dom",

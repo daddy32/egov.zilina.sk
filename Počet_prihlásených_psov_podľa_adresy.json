@@ -7969,13 +7969,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
-    "Orient._č.": " 152      ",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
     "Orient._č.": " 154      ",
     "Počet_psov": "0"
   },
@@ -16266,6 +16259,13 @@
     "Ulica": "Dolný val",
     "Orient._č.": "  70      ",
     "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Dolová",
+    "Orient._č.": "   1      ",
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -31540,6 +31540,13 @@
     "Ulica": "Kapustná",
     "Orient._č.": "  13      ",
     "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Kapustná",
+    "Orient._č.": "  13A     ",
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -77558,13 +77565,6 @@
     "Ulica": "Žilinská Lehota",
     "Orient._č.": " 121      ",
     "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "",
-    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",

@@ -330,11 +330,6 @@
     "Počet": "56"
   },
   {
-    "Priezvisko": "Beňová",
-    "Pohlavie": "žena",
-    "Počet": "55"
-  },
-  {
     "Priezvisko": "Dupkalová",
     "Pohlavie": "žena",
     "Počet": "55"
@@ -348,6 +343,11 @@
     "Priezvisko": "Zajacová",
     "Pohlavie": "žena",
     "Počet": "55"
+  },
+  {
+    "Priezvisko": "Beňová",
+    "Pohlavie": "žena",
+    "Počet": "54"
   },
   {
     "Priezvisko": "Janík",
@@ -11670,6 +11670,11 @@
     "Počet": "8"
   },
   {
+    "Priezvisko": "Mészáros",
+    "Pohlavie": "muž",
+    "Počet": "8"
+  },
+  {
     "Priezvisko": "Mičeková",
     "Pohlavie": "žena",
     "Počet": "8"
@@ -12306,11 +12311,6 @@
   },
   {
     "Priezvisko": "Vašek",
-    "Pohlavie": "muž",
-    "Počet": "8"
-  },
-  {
-    "Priezvisko": "Vavrica",
     "Pohlavie": "muž",
     "Počet": "8"
   },
@@ -13715,11 +13715,6 @@
     "Počet": "7"
   },
   {
-    "Priezvisko": "Mészáros",
-    "Pohlavie": "muž",
-    "Počet": "7"
-  },
-  {
     "Priezvisko": "Mihalčin",
     "Pohlavie": "muž",
     "Počet": "7"
@@ -14061,6 +14056,11 @@
   },
   {
     "Priezvisko": "Raab",
+    "Pohlavie": "muž",
+    "Počet": "7"
+  },
+  {
+    "Priezvisko": "Rábik",
     "Pohlavie": "muž",
     "Počet": "7"
   },
@@ -17075,11 +17075,6 @@
     "Počet": "6"
   },
   {
-    "Priezvisko": "Rábik",
-    "Pohlavie": "muž",
-    "Počet": "6"
-  },
-  {
     "Priezvisko": "Rafaj",
     "Pohlavie": "muž",
     "Počet": "6"
@@ -17822,6 +17817,11 @@
   {
     "Priezvisko": "Vašaničová",
     "Pohlavie": "žena",
+    "Počet": "6"
+  },
+  {
+    "Priezvisko": "Vavrica",
+    "Pohlavie": "muž",
     "Počet": "6"
   },
   {
@@ -20880,6 +20880,11 @@
     "Počet": "5"
   },
   {
+    "Priezvisko": "Person",
+    "Pohlavie": "muž",
+    "Počet": "5"
+  },
+  {
     "Priezvisko": "Petríčková",
     "Pohlavie": "žena",
     "Počet": "5"
@@ -22016,11 +22021,6 @@
   },
   {
     "Priezvisko": "Varkolyová",
-    "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
-    "Priezvisko": "Vavricová",
     "Pohlavie": "žena",
     "Počet": "5"
   },
@@ -27137,11 +27137,6 @@
   {
     "Priezvisko": "Pechotová",
     "Pohlavie": "žena",
-    "Počet": "4"
-  },
-  {
-    "Priezvisko": "Person",
-    "Pohlavie": "muž",
     "Počet": "4"
   },
   {
@@ -38845,6 +38840,11 @@
     "Počet": "3"
   },
   {
+    "Priezvisko": "Streďanský",
+    "Pohlavie": "muž",
+    "Počet": "3"
+  },
+  {
     "Priezvisko": "Strelčíková",
     "Pohlavie": "žena",
     "Počet": "3"
@@ -40371,6 +40371,11 @@
   },
   {
     "Priezvisko": "Vatrtová",
+    "Pohlavie": "žena",
+    "Počet": "3"
+  },
+  {
+    "Priezvisko": "Vavricová",
     "Pohlavie": "žena",
     "Počet": "3"
   },
@@ -44055,6 +44060,11 @@
     "Počet": "2"
   },
   {
+    "Priezvisko": "Dobšovičová",
+    "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
     "Priezvisko": "Dodecký",
     "Pohlavie": "muž",
     "Počet": "2"
@@ -45051,6 +45061,11 @@
   },
   {
     "Priezvisko": "Frolka",
+    "Pohlavie": "muž",
+    "Počet": "2"
+  },
+  {
+    "Priezvisko": "Fronk",
     "Pohlavie": "muž",
     "Počet": "2"
   },
@@ -56545,11 +56560,6 @@
     "Počet": "2"
   },
   {
-    "Priezvisko": "Streďanský",
-    "Pohlavie": "muž",
-    "Počet": "2"
-  },
-  {
     "Priezvisko": "Strempek",
     "Pohlavie": "muž",
     "Počet": "2"
@@ -65390,11 +65400,6 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "Dobšovičová",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
     "Priezvisko": "Dočár",
     "Pohlavie": "muž",
     "Počet": "1"
@@ -67417,11 +67422,6 @@
   {
     "Priezvisko": "Froľová",
     "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Fronk",
-    "Pohlavie": "muž",
     "Počet": "1"
   },
   {
@@ -80135,6 +80135,11 @@
     "Počet": "1"
   },
   {
+    "Priezvisko": "Mezei",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
     "Priezvisko": "Mezey",
     "Pohlavie": "muž",
     "Počet": "1"
@@ -87297,6 +87302,11 @@
   {
     "Priezvisko": "Sklenářová",
     "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
+    "Priezvisko": "Skok",
+    "Pohlavie": "muž",
     "Počet": "1"
   },
   {

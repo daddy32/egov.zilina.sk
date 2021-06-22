@@ -4943,15 +4943,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Brodno",
-    "Orient._č.": " 152      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "7063",
-    "Farba": "ryšavá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Brodno",
     "Orient._č.": " 167      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -5065,6 +5056,15 @@
     "Plemeno": "Labradorský retriever",
     "Č._známky": "6771",
     "Farba": "biela káva"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Kapustná",
+    "Orient._č.": "  13A     ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "7063",
+    "Farba": "ryšavá"
   },
   {
     "Mesto": "Žilina",
@@ -10247,7 +10247,7 @@
     "Orient._č.": "   5      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
-    "Č._známky": "9272",
+    "Č._známky": "9451",
     "Farba": "svetlo hnedá"
   },
   {
@@ -37199,6 +37199,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Dolová",
+    "Orient._č.": "   1      ",
+    "Č._poschodia": "",
+    "Plemeno": "Nemecký ovčiak",
+    "Č._známky": "127",
+    "Farba": "vlko-šedý"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Dolová",
     "Orient._č.": "   3      ",
     "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
@@ -37546,15 +37555,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "173",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "127",
-    "Farba": "vlko-šedý"
   },
   {
     "Mesto": "Žilina",

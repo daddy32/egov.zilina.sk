@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21011",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 12.06.2021, množ.: 7,5, jedn. cena: 15,6 EUR, spolu: 117 EUR",
+    "Celková_cena_(bez_DPH)": "   117,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.06.2021",
+    "Dátum_zverejnenia": "21.06.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21012",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 19.06.2021, množ.: 3,5, jedn. cena: 6,4 EUR, spolu: 22,4 EUR,\rPrenájom priestorov - športové využitie v termíne 20.06.2021, množ.: 3,5, jedn. cena: 6,4 EUR, spolu: 22,4 EUR",
+    "Celková_cena_(bez_DPH)": "   44,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.06.2021",
+    "Dátum_zverejnenia": "21.06.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21013",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 19.06.2021, množ.: 3,5, jedn. cena: 15,6 EUR, spolu: 54,6 EUR,\rPrevádzkové náklady - športové využitie v termíne 20.06.2021, množ.: 3,5, jedn. cena: 15,6 EUR, spolu: 54,6 EUR",
+    "Celková_cena_(bez_DPH)": "   109,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.06.2021",
+    "Dátum_zverejnenia": "21.06.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21010",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 12.06.2021, množ.: 7,5, jedn. cena: 6,4 EUR, spolu: 48 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.06.2021",
+    "Dátum_zverejnenia": "21.06.2021"
+  },
+  {
     "IČO": "42220971   ",
     "Číslo_faktúry": "2021008",
     "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
