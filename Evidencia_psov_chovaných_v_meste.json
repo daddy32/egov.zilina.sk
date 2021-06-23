@@ -409,15 +409,6 @@
     "Ulica": "Jabloňová",
     "Orient._č.": "  19      ",
     "Č._poschodia": "",
-    "Plemeno": "Jazvečík",
-    "Č._známky": "498",
-    "Farba": "hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Jabloňová",
-    "Orient._č.": "  19      ",
-    "Č._poschodia": "",
     "Plemeno": "Anglický kokeršpaniel",
     "Č._známky": "5225",
     "Farba": "čierna"
@@ -754,6 +745,15 @@
     "Plemeno": "Labradorský retriever",
     "Č._známky": "6937",
     "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Jedľová",
+    "Orient._č.": "  35      ",
+    "Č._poschodia": "",
+    "Plemeno": "Jack russel teriér",
+    "Č._známky": "249",
+    "Farba": "bielo-hnedá"
   },
   {
     "Mesto": "Žilina",
@@ -11675,6 +11675,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Petzvalova",
+    "Orient._č.": "  41      ",
+    "Č._poschodia": "",
+    "Plemeno": "Retriever",
+    "Č._známky": "9392",
+    "Farba": "zlatá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Petzvalova",
     "Orient._č.": "  43A     ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -13894,6 +13903,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "5631",
     "Farba": "čierno-biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Lenčova",
+    "Orient._č.": "   1      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "9389",
+    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -27037,6 +27055,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Ovocinárska",
+    "Orient._č.": "  37      ",
+    "Č._poschodia": "",
+    "Plemeno": "Retriever",
+    "Č._známky": "9391",
+    "Farba": "zlatožltý"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Pod Grendel",
     "Orient._č.": "   1      ",
     "Č._poschodia": "",
@@ -30598,15 +30625,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "7411",
     "Farba": "bielo-zlatá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "T. Vansovej",
-    "Orient._č.": "   2      ",
-    "Č._poschodia": "",
-    "Plemeno": "Shih - tzu",
-    "Č._známky": "8711",
-    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",

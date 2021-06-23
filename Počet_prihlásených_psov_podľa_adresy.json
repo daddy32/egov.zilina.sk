@@ -25799,7 +25799,7 @@
     "Časť_obce": "Bánová",
     "Ulica": "Jabloňová",
     "Orient._č.": "  19      ",
-    "Počet_psov": "3"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -28676,7 +28676,7 @@
     "Časť_obce": "Bánová",
     "Ulica": "Jedľová",
     "Orient._č.": "  35      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -36439,7 +36439,7 @@
     "Časť_obce": "Hliny",
     "Ulica": "Lenčova",
     "Orient._č.": "   1      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -50422,6 +50422,13 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Oblúková",
+    "Orient._č.": "  26      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Staré mesto",
     "Ulica": "Oceliarska",
     "Orient._č.": "   2      ",
@@ -52609,7 +52616,7 @@
     "Časť_obce": "Trnové",
     "Ulica": "Ovocinárska",
     "Orient._č.": "  37      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -53757,7 +53764,7 @@
     "Časť_obce": "Hájik",
     "Ulica": "Petzvalova",
     "Orient._č.": "  41      ",
-    "Počet_psov": "4"
+    "Počet_psov": "5"
   },
   {
     "Mesto": "Žilina",
@@ -68919,7 +68926,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "T. Vansovej",
     "Orient._č.": "   2      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -74183,13 +74190,6 @@
     "Časť_obce": "Zádubnie",
     "Ulica": "Zádubnie",
     "Orient._č.": "  15      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Zádubnie",
-    "Ulica": "Zádubnie",
-    "Orient._č.": "  16      ",
     "Počet_psov": "0"
   },
   {

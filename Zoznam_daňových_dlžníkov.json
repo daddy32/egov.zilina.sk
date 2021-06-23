@@ -105,17 +105,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  38 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Energoteam s.r.o.",
     "Adresa_dlžníka": "M. R. Štefánika 3560/109",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  38 382,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  37 473,93",
     "Mena": "EUR"
   },
   {
@@ -189,13 +189,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "SIRS-Akvizície, a.s.",
-    "Adresa_dlžníka": "Framborská 291/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  19 630,45",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lady ASTORIA, s.r.o.",
     "Adresa_dlžníka": "Národná 671/1",
     "Mesto": "Žilina",
@@ -231,13 +224,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  14 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "MEDIKA, štátny podnik v likvidácii",
     "Adresa_dlžníka": "Bojnická 10",
     "Mesto": "Bratislava",
@@ -263,6 +249,13 @@
     "Adresa_dlžníka": "Bajkalská 19/A",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  13 167,29",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  13 057,58",
     "Mena": "EUR"
   },
   {
@@ -333,6 +326,13 @@
     "Adresa_dlžníka": "Republiky 999/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  11 195,41",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "SIRS-Akvizície, a.s.",
+    "Adresa_dlžníka": "Framborská 291/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  11 106,00",
     "Mena": "EUR"
   },
   {
@@ -9310,13 +9310,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Slavomír Brudňák",
-    "Adresa_dlžníka": "Šibeničná 143/25",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   283,12",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Barbora Chupaňová",
     "Adresa_dlžníka": "Hollého 616/52",
     "Mesto": "Žilina",
@@ -10410,7 +10403,7 @@
   },
   {
     "Dlžník": "Mário Chaban",
-    "Adresa_dlžníka": "Zádubnie 16/16",
+    "Adresa_dlžníka": "Oblúková 16/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   260,84",
     "Mena": "EUR"
@@ -12471,13 +12464,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   217,42",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Katarína Korenčíková",
-    "Adresa_dlžníka": "Antona Bernoláka 2178/68",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   217,38",
     "Mena": "EUR"
   },
   {
@@ -14550,6 +14536,13 @@
     "Adresa_dlžníka": "Spojná 91/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   192,19",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Katarína Korenčíková",
+    "Adresa_dlžníka": "Antona Bernoláka 2178/68",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   192,18",
     "Mena": "EUR"
   },
   {
@@ -16816,6 +16809,13 @@
   {
     "Dlžník": "Ing. Peter Kampa",
     "Adresa_dlžníka": "Moyzesova 931/66",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   27,59",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Slavomír Brudňák",
+    "Adresa_dlžníka": "Šibeničná 143/25",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   27,59",
     "Mena": "EUR"
