@@ -938,13 +938,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Avaro, s.r.o.",
-    "Adresa_dlžníka": "2",
-    "Mesto": "Sedliacka Dubová",
-    "Suma_daňových_nedoplatkov": "  2 178,82",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "J.T.M. Trans, s.r.o.",
     "Adresa_dlžníka": "Bytčická 89",
     "Mesto": "Žilina",
@@ -1785,13 +1778,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Madejová",
-    "Adresa_dlžníka": "Juraja Závodského 138/46",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   643,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anna Džúdžiová",
     "Adresa_dlžníka": "Bytčianska 107/9",
     "Mesto": "Žilina",
@@ -1985,6 +1971,13 @@
     "Adresa_dlžníka": "Gavlovičova 284/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   576,15",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Madejová",
+    "Adresa_dlžníka": "Juraja Závodského 138/46",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   575,59",
     "Mena": "EUR"
   },
   {

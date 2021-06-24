@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210058",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 52,59 EUR, spolu: 52,59 EUR",
+    "Celková_cena_(bez_DPH)": "   52,59",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.06.2021",
+    "Dátum_zverejnenia": "23.06.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021015",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 15/2021 zo dňa 11.6.2021 za obdobie jún 2021, množ.: 1, jedn. cena: 16 EUR, spolu: 16 EUR",
+    "Celková_cena_(bez_DPH)": "   16,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.06.2021",
+    "Dátum_zverejnenia": "23.06.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021016",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 15/2021 zo dňa 11.6.2021, množ.: 1, jedn. cena: 30 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   30,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.06.2021",
+    "Dátum_zverejnenia": "23.06.2021"
+  },
+  {
     "IČO": "42060036   ",
     "Číslo_faktúry": "21011",
     "Odberateľ": "AC UNIZA Žilina",
