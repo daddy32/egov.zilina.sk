@@ -1720,6 +1720,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "AUTOSERVIS CITY ŽILINA s. r. o.",
+    "Činnosť": "autoservis",
+    "Ulica": "Predmestská",
+    "Súp._č.": " 1608 ",
+    "Or._č.": "  90      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Autoservis Danišek, s. r. o.",
     "Činnosť": "autoservis",
     "Ulica": "Rosinská",
@@ -1781,14 +1789,6 @@
     "Ulica": "Dlhá",
     "Súp._č.": "   74 ",
     "Or._č.": "  85      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "AUTOSERVIS REEM",
-    "Činnosť": "autoservis",
-    "Ulica": "Dlhá",
-    "Súp._č.": "",
-    "Or._č.": "",
     "Obec": "Žilina"
   },
   {
@@ -2832,7 +2832,7 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "BISTRO U KODYHO",
+    "Prevádzka": "Bistro u Kodyho",
     "Činnosť": "bistro",
     "Ulica": "Pod Laščeky",
     "Súp._č.": "",
@@ -2853,14 +2853,6 @@
     "Ulica": "Na stanicu",
     "Súp._č.": "  639 ",
     "Or._č.": "  22      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Bistro ŽUDITKY",
-    "Činnosť": "nápoje, jedlo",
-    "Ulica": "Dolný val",
-    "Súp._č.": "  213 ",
-    "Or._č.": "  11      ",
     "Obec": "Žilina"
   },
   {
@@ -9936,14 +9928,6 @@
     "Obec": ""
   },
   {
-    "Prevádzka": "il doppio",
-    "Činnosť": "rýchle občerstvenie",
-    "Ulica": "P. O. Hviezdoslava",
-    "Súp._č.": "  695 ",
-    "Or._č.": "   1      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "IL Padrino Ristorante",
     "Činnosť": "restauračné služby",
     "Ulica": "Jánošíkova",
@@ -14048,6 +14032,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "LA RESTIKA",
+    "Činnosť": "reštaurácia",
+    "Ulica": "Juraja Závodského",
+    "Súp._č.": "  431 ",
+    "Or._č.": "  15      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "La Skala",
     "Činnosť": "bižutéria",
     "Ulica": "Prielohy",
@@ -16350,6 +16342,14 @@
     "Súp._č.": "  552 ",
     "Or._č.": "  44      ",
     "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Mgr. Monika Kosturíková - pirôžky",
+    "Činnosť": "výroba a predaj pirôžkov, predaj kávy a točenej zmrzliny",
+    "Ulica": "P. O. Hviezdoslava",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
   },
   {
     "Prevádzka": "Mgr. Peter Vnuk - NORPAL - PRINT",

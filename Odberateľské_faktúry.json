@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210059",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.06.2021",
+    "Dátum_zverejnenia": "24.06.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210060",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.06.2021",
+    "Dátum_zverejnenia": "24.06.2021"
+  },
+  {
     "IČO": "00163121   ",
     "Číslo_faktúry": "20210058",
     "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
