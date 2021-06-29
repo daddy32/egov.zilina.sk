@@ -21,13 +21,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "SIRS - Project, a.s.",
-    "Adresa_dlžníka": "Framborská 291/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  128 641,15",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "CISS - Cibulka Construction Company, s.r.o. \"v likvidácii\"",
     "Adresa_dlžníka": "Dlhá 927/95A",
     "Mesto": "Žilina",
@@ -39,6 +32,13 @@
     "Adresa_dlžníka": "Zelená 2C/X3",
     "Mesto": "Banská Bystrica",
     "Suma_daňových_nedoplatkov": "  97 744,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "SIRS - Project, a.s.",
+    "Adresa_dlžníka": "Framborská 291/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  79 632,00",
     "Mena": "EUR"
   },
   {
@@ -115,7 +115,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  37 473,93",
+    "Suma_daňových_nedoplatkov": "  36 473,93",
     "Mena": "EUR"
   },
   {
@@ -276,7 +276,7 @@
     "Dlžník": "Stanislav Franek",
     "Adresa_dlžníka": "Cintorínska 12/10",
     "Mesto": "Gbeľany",
-    "Suma_daňových_nedoplatkov": "  12 031,48",
+    "Suma_daňových_nedoplatkov": "  12 040,31",
     "Mena": "EUR"
   },
   {
@@ -4726,8 +4726,8 @@
   },
   {
     "Dlžník": "Mária Balážová",
-    "Adresa_dlžníka": "Gaštanová 3087/39",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Gen.Sochora 1276/51",
+    "Mesto": "Ostrava",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
   },

@@ -1,15 +1,15 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1027"
+    "Počet": "1024"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "350"
+    "Počet": "349"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "262"
+    "Počet": "260"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -17,11 +17,11 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "212"
+    "Počet": "210"
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "133"
+    "Počet": "134"
   },
   {
     "Plemeno": "Jazvečík",
@@ -33,15 +33,15 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "87"
-  },
-  {
-    "Plemeno": "Miešanec",
-    "Počet": "64"
+    "Počet": "85"
   },
   {
     "Plemeno": "Borderská kólia",
-    "Počet": "62"
+    "Počet": "63"
+  },
+  {
+    "Plemeno": "Miešanec",
+    "Počet": "63"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -49,7 +49,7 @@
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
-    "Počet": "59"
+    "Počet": "61"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -72,11 +72,11 @@
     "Počet": "47"
   },
   {
-    "Plemeno": "Francúzsky buldoček",
-    "Počet": "44"
+    "Plemeno": "Nemecký špic",
+    "Počet": "45"
   },
   {
-    "Plemeno": "Nemecký špic",
+    "Plemeno": "Francúzsky buldoček",
     "Počet": "44"
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "Plemeno": "Weimarský stavač",
-    "Počet": "31"
+    "Počet": "30"
   },
   {
     "Plemeno": "Stredoázijský ovčiak",
@@ -108,11 +108,11 @@
     "Počet": "26"
   },
   {
-    "Plemeno": "Rotvajler",
+    "Plemeno": "Americký pitbulteriér",
     "Počet": "26"
   },
   {
-    "Plemeno": "Americký pitbulteriér",
+    "Plemeno": "Rotvajler",
     "Počet": "25"
   },
   {
@@ -152,20 +152,20 @@
     "Počet": "17"
   },
   {
+    "Plemeno": "Teriér",
+    "Počet": "17"
+  },
+  {
     "Plemeno": "Nemecký boxer",
     "Počet": "16"
   },
   {
-    "Plemeno": "Teriér",
-    "Počet": "16"
+    "Plemeno": "Bavorský farbiar",
+    "Počet": "15"
   },
   {
     "Plemeno": "Lhasa apso",
     "Počet": "15"
-  },
-  {
-    "Plemeno": "Bavorský farbiar",
-    "Počet": "14"
   },
   {
     "Plemeno": "Doberman",
@@ -480,10 +480,6 @@
     "Počet": "2"
   },
   {
-    "Plemeno": "Brazílska fila",
-    "Počet": "2"
-  },
-  {
     "Plemeno": "Briard",
     "Počet": "2"
   },
@@ -593,6 +589,10 @@
   },
   {
     "Plemeno": "Blenheimský španiel Kráľ Karol",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Brazílska fila",
     "Počet": "1"
   },
   {
