@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210061",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 27687,36 EUR, spolu: 27687,36 EUR",
+    "Celková_cena_(bez_DPH)": "  27 687,36",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2021",
+    "Dátum_zverejnenia": "29.06.2021"
+  },
+  {
+    "IČO": "36677761   ",
+    "Číslo_faktúry": "20210062",
+    "Odberateľ": "Tennis Point, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 16,9 EUR, spolu: 16,9 EUR",
+    "Celková_cena_(bez_DPH)": "   16,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2021",
+    "Dátum_zverejnenia": "29.06.2021"
+  },
+  {
+    "IČO": "00151866   ",
+    "Číslo_faktúry": "21014",
+    "Odberateľ": "Ministerstvo vnútra Slovenskej republiky",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 911,75 EUR, spolu: 911,75 EUR",
+    "Celková_cena_(bez_DPH)": "   911,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2021",
+    "Dátum_zverejnenia": "29.06.2021"
+  },
+  {
     "IČO": "50431277   ",
     "Číslo_faktúry": "2021001",
     "Odberateľ": "AKAZA o.z.",

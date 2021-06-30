@@ -13307,13 +13307,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Isteníková",
-    "Adresa_dlžníka": "Jedlíkova 3428/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,67",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Richter",
     "Adresa_dlžníka": "Mojšová Lúčka 113/113",
     "Mesto": "Žilina",
@@ -14263,6 +14256,13 @@
     "Adresa_dlžníka": "Na Záchrastí 358/74",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   197,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Isteníková",
+    "Adresa_dlžníka": "Jedlíkova 3428/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   197,33",
     "Mena": "EUR"
   },
   {

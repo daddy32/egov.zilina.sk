@@ -12144,14 +12144,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "KASIJO STYLE",
-    "Činnosť": "textil, dekorácie",
-    "Ulica": "Makovického",
-    "Súp._č.": " 8567 ",
-    "Or._č.": "   3A     ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "KASO TECHNOLOGIES, s.r.o., pobočka Žilina",
     "Činnosť": "vývoj a predaj software",
     "Ulica": "P. O. Hviezdoslava",
@@ -12632,8 +12624,8 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Klinika tradičnej Čínskej medicíny",
-    "Činnosť": "masérske služby",
+    "Prevádzka": "Klinika čínskej medicíny",
+    "Činnosť": "služby súvisiace so skrášľovaním tela",
     "Ulica": "Hálkova",
     "Súp._č.": " 3297 ",
     "Or._č.": "   3      ",
@@ -13397,6 +13389,14 @@
     "Ulica": "Antona Bernoláka",
     "Súp._č.": " 2129 ",
     "Or._č.": "  51      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "KRAJ",
+    "Činnosť": "potraviny, drogistický tovar, nepotravinový tovar",
+    "Ulica": "Alexandra Rudnaya",
+    "Súp._č.": " 9015 ",
+    "Or._č.": " 104      ",
     "Obec": "Žilina"
   },
   {
@@ -27808,14 +27808,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "TOPAS, spol. s r.o. (Nešporova)",
-    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
-    "Ulica": "Nešporova",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
-  },
-  {
     "Prevádzka": "TOPAS, spol. s r.o. (Obvodová)",
     "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
     "Ulica": "Obvodová",
@@ -31677,6 +31669,14 @@
     "Ulica": "Oslobodenia",
     "Súp._č.": "   10 ",
     "Or._č.": "  21      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "ZMRZLINA AGA GELATO",
+    "Činnosť": "predaj zmrzlina a nealkoholických nápojov",
+    "Ulica": "Hlinská",
+    "Súp._č.": " 2592 ",
+    "Or._č.": "  14      ",
     "Obec": "Žilina"
   },
   {

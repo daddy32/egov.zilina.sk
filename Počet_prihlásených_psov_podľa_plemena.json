@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1024"
+    "Počet": "1023"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "349"
+    "Počet": "348"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "213"
+    "Počet": "212"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "134"
+    "Počet": "130"
   },
   {
     "Plemeno": "Jazvečík",
@@ -44,12 +44,12 @@
     "Počet": "63"
   },
   {
-    "Plemeno": "Shih - tzu",
+    "Plemeno": "Staffordshirský bulteriér",
     "Počet": "62"
   },
   {
-    "Plemeno": "Staffordshirský bulteriér",
-    "Počet": "61"
+    "Plemeno": "Shih - tzu",
+    "Počet": "62"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -176,10 +176,6 @@
     "Počet": "14"
   },
   {
-    "Plemeno": "Belgický ovčiak",
-    "Počet": "13"
-  },
-  {
     "Plemeno": "Bulteriér",
     "Počet": "13"
   },
@@ -190,6 +186,10 @@
   {
     "Plemeno": "Maďarská vyžla",
     "Počet": "13"
+  },
+  {
+    "Plemeno": "Belgický ovčiak",
+    "Počet": "12"
   },
   {
     "Plemeno": "Anglický buldog",
