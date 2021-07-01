@@ -252,13 +252,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  13 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Servisné Haly Žilina s.r.o.",
     "Adresa_dlžníka": "Šancová 48",
     "Mesto": "Bratislava-Staré Mesto",
@@ -270,6 +263,13 @@
     "Adresa_dlžníka": "Bytčianska 804/132",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  12 625,41",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  12 057,58",
     "Mena": "EUR"
   },
   {

@@ -1,15 +1,15 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1023"
+    "Počet": "1025"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "348"
+    "Počet": "349"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "260"
+    "Počet": "259"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "130"
+    "Počet": "131"
   },
   {
     "Plemeno": "Jazvečík",
@@ -29,7 +29,7 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "97"
+    "Počet": "98"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -37,7 +37,7 @@
   },
   {
     "Plemeno": "Borderská kólia",
-    "Počet": "63"
+    "Počet": "64"
   },
   {
     "Plemeno": "Miešanec",
@@ -73,7 +73,7 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "45"
+    "Počet": "46"
   },
   {
     "Plemeno": "Francúzsky buldoček",
@@ -124,15 +124,15 @@
     "Počet": "24"
   },
   {
+    "Plemeno": "Sibírsky husky",
+    "Počet": "23"
+  },
+  {
     "Plemeno": "Hovawart",
     "Počet": "22"
   },
   {
     "Plemeno": "Rodézsky ridgeback",
-    "Počet": "22"
-  },
-  {
-    "Plemeno": "Sibírsky husky",
     "Počet": "22"
   },
   {
@@ -164,20 +164,16 @@
     "Počet": "15"
   },
   {
-    "Plemeno": "Lhasa apso",
-    "Počet": "15"
+    "Plemeno": "Doberman",
+    "Počet": "14"
   },
   {
-    "Plemeno": "Doberman",
+    "Plemeno": "Lhasa apso",
     "Počet": "14"
   },
   {
     "Plemeno": "Nemecká doga",
     "Počet": "14"
-  },
-  {
-    "Plemeno": "Bulteriér",
-    "Počet": "13"
   },
   {
     "Plemeno": "Škótsky ovčiak dlhosrstý",
@@ -193,6 +189,10 @@
   },
   {
     "Plemeno": "Anglický buldog",
+    "Počet": "12"
+  },
+  {
+    "Plemeno": "Bulteriér",
     "Počet": "12"
   },
   {
@@ -356,10 +356,6 @@
     "Počet": "4"
   },
   {
-    "Plemeno": "Novofundlandský pes",
-    "Počet": "4"
-  },
-  {
     "Plemeno": "Pekingský palácový psík",
     "Počet": "4"
   },
@@ -429,6 +425,10 @@
   },
   {
     "Plemeno": "Nemecký prepeličiar",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Novofundlandský pes",
     "Počet": "3"
   },
   {

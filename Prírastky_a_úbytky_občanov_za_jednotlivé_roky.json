@@ -1,200 +1,33 @@
-[
-  {
-    "Rok": "2021",
-    "Prírastok": "   752",
-    "Prírastok_muži": "   378",
-    "Prírastok_ženy": "   374",
-    "Úbytok": "  1 203",
-    "Úbytok_muži": "   596",
-    "Úbytok_ženy": "   607"
-  },
-  {
-    "Rok": "2020",
-    "Prírastok": "  1 653",
-    "Prírastok_muži": "   840",
-    "Prírastok_ženy": "   813",
-    "Úbytok": "  2 022",
-    "Úbytok_muži": "  1 015",
-    "Úbytok_ženy": "  1 007"
-  },
-  {
-    "Rok": "2019",
-    "Prírastok": "  1 903",
-    "Prírastok_muži": "   922",
-    "Prírastok_ženy": "   981",
-    "Úbytok": "  2 034",
-    "Úbytok_muži": "   977",
-    "Úbytok_ženy": "  1 057"
-  },
-  {
-    "Rok": "2018",
-    "Prírastok": "  1 880",
-    "Prírastok_muži": "   907",
-    "Prírastok_ženy": "   973",
-    "Úbytok": "  2 174",
-    "Úbytok_muži": "  1 070",
-    "Úbytok_ženy": "  1 104"
-  },
-  {
-    "Rok": "2017",
-    "Prírastok": "  1 922",
-    "Prírastok_muži": "   925",
-    "Prírastok_ženy": "   997",
-    "Úbytok": "  2 085",
-    "Úbytok_muži": "  1 019",
-    "Úbytok_ženy": "  1 066"
-  },
-  {
-    "Rok": "2016",
-    "Prírastok": "  2 034",
-    "Prírastok_muži": "  1 045",
-    "Prírastok_ženy": "   989",
-    "Úbytok": "  2 167",
-    "Úbytok_muži": "  1 018",
-    "Úbytok_ženy": "  1 149"
-  },
-  {
-    "Rok": "2015",
-    "Prírastok": "  1 944",
-    "Prírastok_muži": "   981",
-    "Prírastok_ženy": "   963",
-    "Úbytok": "  2 107",
-    "Úbytok_muži": "  1 074",
-    "Úbytok_ženy": "  1 033"
-  },
-  {
-    "Rok": "2014",
-    "Prírastok": "  1 820",
-    "Prírastok_muži": "   890",
-    "Prírastok_ženy": "   930",
-    "Úbytok": "  2 072",
-    "Úbytok_muži": "  1 014",
-    "Úbytok_ženy": "  1 058"
-  },
-  {
-    "Rok": "2013",
-    "Prírastok": "  1 714",
-    "Prírastok_muži": "   827",
-    "Prírastok_ženy": "   887",
-    "Úbytok": "  1 947",
-    "Úbytok_muži": "   936",
-    "Úbytok_ženy": "  1 011"
-  },
-  {
-    "Rok": "2012",
-    "Prírastok": "  1 754",
-    "Prírastok_muži": "   884",
-    "Prírastok_ženy": "   870",
-    "Úbytok": "  2 026",
-    "Úbytok_muži": "   969",
-    "Úbytok_ženy": "  1 057"
-  },
-  {
-    "Rok": "2011",
-    "Prírastok": "  1 797",
-    "Prírastok_muži": "   867",
-    "Prírastok_ženy": "   930",
-    "Úbytok": "  1 944",
-    "Úbytok_muži": "   958",
-    "Úbytok_ženy": "   986"
-  },
-  {
-    "Rok": "2010",
-    "Prírastok": "  1 773",
-    "Prírastok_muži": "   868",
-    "Prírastok_ženy": "   905",
-    "Úbytok": "  2 018",
-    "Úbytok_muži": "   988",
-    "Úbytok_ženy": "  1 030"
-  },
-  {
-    "Rok": "2009",
-    "Prírastok": "  1 753",
-    "Prírastok_muži": "   856",
-    "Prírastok_ženy": "   897",
-    "Úbytok": "  1 988",
-    "Úbytok_muži": "   930",
-    "Úbytok_ženy": "  1 058"
-  },
-  {
-    "Rok": "2008",
-    "Prírastok": "  1 651",
-    "Prírastok_muži": "   815",
-    "Prírastok_ženy": "   836",
-    "Úbytok": "  1 902",
-    "Úbytok_muži": "   926",
-    "Úbytok_ženy": "   976"
-  },
-  {
-    "Rok": "2007",
-    "Prírastok": "  1 580",
-    "Prírastok_muži": "   770",
-    "Prírastok_ženy": "   810",
-    "Úbytok": "  1 876",
-    "Úbytok_muži": "   895",
-    "Úbytok_ženy": "   981"
-  },
-  {
-    "Rok": "2006",
-    "Prírastok": "  1 522",
-    "Prírastok_muži": "   785",
-    "Prírastok_ženy": "   737",
-    "Úbytok": "  1 809",
-    "Úbytok_muži": "   864",
-    "Úbytok_ženy": "   945"
-  },
-  {
-    "Rok": "2005",
-    "Prírastok": "  1 691",
-    "Prírastok_muži": "   823",
-    "Prírastok_ženy": "   868",
-    "Úbytok": "  1 711",
-    "Úbytok_muži": "   826",
-    "Úbytok_ženy": "   885"
-  },
-  {
-    "Rok": "2004",
-    "Prírastok": "  1 488",
-    "Prírastok_muži": "   722",
-    "Prírastok_ženy": "   766",
-    "Úbytok": "  1 628",
-    "Úbytok_muži": "   774",
-    "Úbytok_ženy": "   854"
-  },
-  {
-    "Rok": "2003",
-    "Prírastok": "  1 516",
-    "Prírastok_muži": "   729",
-    "Prírastok_ženy": "   787",
-    "Úbytok": "  1 663",
-    "Úbytok_muži": "   821",
-    "Úbytok_ženy": "   842"
-  },
-  {
-    "Rok": "2002",
-    "Prírastok": "  1 553",
-    "Prírastok_muži": "   757",
-    "Prírastok_ženy": "   796",
-    "Úbytok": "  1 639",
-    "Úbytok_muži": "   809",
-    "Úbytok_ženy": "   830"
-  },
-  {
-    "Rok": "2001",
-    "Prírastok": "  1 567",
-    "Prírastok_muži": "   789",
-    "Prírastok_ženy": "   778",
-    "Úbytok": "  1 550",
-    "Úbytok_muži": "   762",
-    "Úbytok_ženy": "   788"
-  },
-  {
-    "Rok": "2000",
-    "Prírastok": "  3 379",
-    "Prírastok_muži": "  1 684",
-    "Prírastok_ženy": "  1 695",
-    "Úbytok": "  1 552",
-    "Úbytok_muži": "   787",
-    "Úbytok_ženy": "   765"
-  }
-]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Chybov� str�nka</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
+		<style>
+			BODY
+			{
+			    PADDING: 20px 0px 0px 120px;
+			    MARGIN: 0px;
+			    FONT-SIZE: 14px;
+			    FONT-FAMILY: verdana;
+			    /*background-image:url(images/Warning_smaller.jpg);*/
+			    background-position: top left;
+			    background-repeat: no-repeat;	
+			
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Vn�torn� chyba servera.
+            </h1>
+            <div  style="width: 550px">
+            <img src="images/Warning_smaller.jpg" align="right" 
+                    hspace="10" />
+            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
+            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
+            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
+            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
+            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
+            </div>
+	</body>
+</html>
