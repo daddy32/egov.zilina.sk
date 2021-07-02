@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210063",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "01.07.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21017",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 02.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 07.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 09.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 10.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 18.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 24.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR,\rPrenájom priestorov - športové využitie v termíne 25.06.2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR",
+    "Celková_cena_(bez_DPH)": "   47,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "01.07.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21018",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 02.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 07.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 09.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 10.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 18.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 24.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR,\rPrevádzkové náklady - športové využitie v termíne 25.06.2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
+    "Celková_cena_(bez_DPH)": "   152,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "01.07.2021"
+  },
+  {
     "IČO": "37977440   ",
     "Číslo_faktúry": "022021",
     "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
