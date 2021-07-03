@@ -959,13 +959,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Uppsala, s.r.o.",
-    "Adresa_dlžníka": "Tamaškovičova 17",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  2 021,97",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Zajac",
     "Adresa_dlžníka": "Fatranská 3102/16",
     "Mesto": "Žilina",
@@ -1445,7 +1438,7 @@
     "Dlžník": "Božena Danielová",
     "Adresa_dlžníka": "Dadanova 3385/3",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   828,85",
+    "Suma_daňových_nedoplatkov": "   828,68",
     "Mena": "EUR"
   },
   {
@@ -1750,13 +1743,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Pekárová",
-    "Adresa_dlžníka": "Bystrická 260/22",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   649,51",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Renáta Havettová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1992,6 +1978,13 @@
     "Adresa_dlžníka": "Strážovská 283/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   562,28",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Pekárová",
+    "Adresa_dlžníka": "Bystrická 260/22",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   560,39",
     "Mena": "EUR"
   },
   {
@@ -14259,13 +14252,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Isteníková",
-    "Adresa_dlžníka": "Jedlíkova 3428/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   197,33",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Vladimír Čemerski",
     "Adresa_dlžníka": "Karpatské námestie 7770/10A",
     "Mesto": "Bratislava-Rača",
@@ -14893,6 +14879,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   184,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Isteníková",
+    "Adresa_dlžníka": "Jedlíkova 3428/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   184,00",
     "Mena": "EUR"
   },
   {
@@ -16597,13 +16590,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kristína Karafová",
-    "Adresa_dlžníka": "Lichardova 2802/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   152,12",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Mažgút",
     "Adresa_dlžníka": "Oslobodenia 200/75",
     "Mesto": "Belá",
@@ -16713,6 +16699,13 @@
     "Adresa_dlžníka": "Legionárska 222/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   89,12",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Kristína Karafová",
+    "Adresa_dlžníka": "Lichardova 2802/12",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   72,12",
     "Mena": "EUR"
   },
   {
