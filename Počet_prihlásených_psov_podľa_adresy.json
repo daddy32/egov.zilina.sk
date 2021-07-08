@@ -17378,7 +17378,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Energetikov",
     "Orient._č.": "  10      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -33458,6 +33458,13 @@
     "Ulica": "Kortinská",
     "Orient._č.": "  20      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Kortinská",
+    "Orient._č.": "  22      ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -77466,13 +77473,6 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Žilinská Lehota",
     "Orient._č.": "  72      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Žilinská Lehota",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  74      ",
     "Počet_psov": "0"
   },
   {

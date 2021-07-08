@@ -115,7 +115,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  36 473,93",
+    "Suma_daňových_nedoplatkov": "  35 473,93",
     "Mena": "EUR"
   },
   {
@@ -144,13 +144,6 @@
     "Adresa_dlžníka": "Trenčianska 53",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  28 124,85",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Talise, a.s.",
-    "Adresa_dlžníka": "Okružná súp. č. 3239",
-    "Mesto": "Modra",
-    "Suma_daňových_nedoplatkov": "  27 456,00",
     "Mena": "EUR"
   },
   {
@@ -238,17 +231,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "DOMENICA, spol. s r.o.",
-    "Adresa_dlžníka": "Družstevná 654/75",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  13 396,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "BILLA s.r.o.",
     "Adresa_dlžníka": "Bajkalská 19/A",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  13 167,29",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "DOMENICA, spol. s r.o.",
+    "Adresa_dlžníka": "Družstevná 654/75",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  13 016,00",
     "Mena": "EUR"
   },
   {
@@ -515,13 +508,6 @@
     "Adresa_dlžníka": "súp. č. 402",
     "Mesto": "Nesluša",
     "Suma_daňových_nedoplatkov": "  5 668,08",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "SPEKTRA PH, s.r.o.",
-    "Adresa_dlžníka": "Hlavná súp. č. 1429",
-    "Mesto": "Bytča",
-    "Suma_daňových_nedoplatkov": "  5 560,73",
     "Mena": "EUR"
   },
   {
@@ -809,13 +795,6 @@
     "Adresa_dlžníka": "Panónska cesta 16",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  2 589,15",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Na Bráne, s.r.o.",
-    "Adresa_dlžníka": "Bottova 43/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 538,25",
     "Mena": "EUR"
   },
   {
@@ -2576,13 +2555,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Lucia Bošková",
-    "Adresa_dlžníka": "súp. č. 1",
-    "Mesto": "Lipové",
-    "Suma_daňových_nedoplatkov": "   402,50",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Štrkáčová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2591,8 +2563,8 @@
   },
   {
     "Dlžník": "Mária Majáková",
-    "Adresa_dlžníka": "Bratislavská 279/3",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 202",
+    "Mesto": "Trenčianske Jastrabie",
     "Suma_daňových_nedoplatkov": "   396,60",
     "Mena": "EUR"
   },
@@ -9612,7 +9584,7 @@
   },
   {
     "Dlžník": "Mgr. Ivan Beňo",
-    "Adresa_dlžníka": "Žilinská Lehota 74/74",
+    "Adresa_dlžníka": "Kortinská 74/22",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   276,30",
     "Mena": "EUR"
@@ -9884,9 +9856,9 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Ján Bača",
-    "Adresa_dlžníka": "Čulenova 2054/22",
-    "Mesto": "Žilina",
+    "Dlžník": "Ing. Ján Bača, CSc.",
+    "Adresa_dlžníka": "Tichá 2179/4",
+    "Mesto": "Bratislava-Staré Mesto",
     "Suma_daňových_nedoplatkov": "   273,20",
     "Mena": "EUR"
   },
@@ -12538,8 +12510,8 @@
   },
   {
     "Dlžník": "Elemír Maják",
-    "Adresa_dlžníka": "Bratislavská 279/3",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 202",
+    "Mesto": "Trenčianske Jastrabie",
     "Suma_daňových_nedoplatkov": "   216,98",
     "Mena": "EUR"
   },
@@ -16423,7 +16395,7 @@
   },
   {
     "Dlžník": "Zdenka Abíková",
-    "Adresa_dlžníka": "Dubová 3273/31",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,08",
     "Mena": "EUR"
