@@ -1,5 +1,95 @@
 [
   {
+    "IČO": "00185752   ",
+    "Číslo_faktúry": "2021009",
+    "Odberateľ": "Krajská knižnica v Žiline",
+    "Text_odb._faktúry": "Prenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 180 EUR, spolu: 180 EUR",
+    "Celková_cena_(bez_DPH)": "   180,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2021010",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 384 EUR, spolu: 384 EUR",
+    "Celková_cena_(bez_DPH)": "   480,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2021011",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 26 EUR, spolu: 26 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 104 EUR, spolu: 104 EUR",
+    "Celková_cena_(bez_DPH)": "   130,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "42157269   ",
+    "Číslo_faktúry": "2021012",
+    "Odberateľ": "Občianske združenie Náš kraj",
+    "Text_odb._faktúry": "Prenájom -(účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 42 EUR, spolu: 42 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 168 EUR, spolu: 168 EUR",
+    "Celková_cena_(bez_DPH)": "   210,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "50646079   ",
+    "Číslo_faktúry": "2021013",
+    "Odberateľ": "Občianske združenie SKIPY",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 160 EUR, spolu: 160 EUR",
+    "Celková_cena_(bez_DPH)": "   200,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021014",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 42 EUR, spolu: 42 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 168 EUR, spolu: 168 EUR",
+    "Celková_cena_(bez_DPH)": "   210,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "37813412   ",
+    "Číslo_faktúry": "2021015",
+    "Odberateľ": "Základná umelecká škola Ferka Špániho",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 221 EUR, spolu: 221 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 884 EUR, spolu: 884 EUR",
+    "Celková_cena_(bez_DPH)": "  1 105,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2021016",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 61 EUR, spolu: 61 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 660 EUR, spolu: 660 EUR",
+    "Celková_cena_(bez_DPH)": "   721,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2021031",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 53,5, jedn. cena: 1 EUR, spolu: 53,5 EUR,\rprevádzkové náklady za 6/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 53,5, jedn. cena: 4 EUR, spolu: 214 EUR",
+    "Celková_cena_(bez_DPH)": "   267,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2021",
+    "Dátum_zverejnenia": "08.07.2021"
+  },
+  {
     "IČO": "37905384   ",
     "Číslo_faktúry": "2021026",
     "Odberateľ": "Materská škola",

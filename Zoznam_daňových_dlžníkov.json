@@ -12327,13 +12327,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zoja Žideková",
-    "Adresa_dlžníka": "Kysucká 551/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   219,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Michalák",
     "Adresa_dlžníka": "B. Němcovej 532/4",
     "Mesto": "Žilina",
@@ -16760,6 +16753,13 @@
   {
     "Dlžník": "Ing. Slavomír Brudňák",
     "Adresa_dlžníka": "Šibeničná 143/25",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   27,59",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zoja Žideková",
+    "Adresa_dlžníka": "Kysucká 551/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   27,59",
     "Mena": "EUR"
