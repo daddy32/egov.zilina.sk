@@ -1696,14 +1696,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Autoservis",
-    "Činnosť": "autoservis",
-    "Ulica": "Bratislavská",
-    "Súp._č.": "  433 ",
-    "Or._č.": "  49      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "Autoservis + autosklo APA  s.r.o.",
     "Činnosť": "autoservis",
     "Ulica": "Kragujevská",
@@ -4592,6 +4584,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "CUKRÁREŇ ORIENT",
+    "Činnosť": "rýchle občerstvenie",
+    "Ulica": "Sad SNP",
+    "Súp._č.": "  670 ",
+    "Or._č.": "   4      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Cukráreň pri Radnici",
     "Činnosť": "cukráreň",
     "Ulica": "Záhradnícka",
@@ -5032,11 +5032,11 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "DANA BERGEROVÁ ZUBNÁ TECHNIKA",
-    "Činnosť": "stomatoprotetické práce",
-    "Ulica": "Vysokoškolákov",
-    "Súp._č.": " 3836 ",
-    "Or._č.": "  22      ",
+    "Prevádzka": "Dana Bergerová ZUBNÁ TECHNIKA",
+    "Činnosť": "vyhotovovanie stomatoprotetických prác",
+    "Ulica": "Bytčická",
+    "Súp._č.": " 3492 ",
+    "Or._č.": "  16      ",
     "Obec": "Žilina"
   },
   {
@@ -8552,6 +8552,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Goran Kovačevič",
+    "Činnosť": "autoservis",
+    "Ulica": "Bratislavská",
+    "Súp._č.": "  433 ",
+    "Or._č.": "  49      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "GOTHAM CAFFE BAR",
     "Činnosť": "caffe bar",
     "Ulica": "Hlinská",
@@ -10317,6 +10325,14 @@
     "Ulica": "Antona Bernoláka",
     "Súp._č.": " 2135 ",
     "Or._č.": "",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Ing. Slávka Hartelová",
+    "Činnosť": "pohonné hmoty",
+    "Ulica": "Kragujevská",
+    "Súp._č.": " 3352 ",
+    "Or._č.": "  16      ",
     "Obec": "Žilina"
   },
   {
@@ -13456,14 +13472,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Krasnosti Concept Store",
-    "Činnosť": "Concept store s kaviarňou",
-    "Ulica": "Veľká okružná",
-    "Súp._č.": " 1061 ",
-    "Or._č.": "   5      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "KRASPLAST",
     "Činnosť": "montáž plastových výrobkov",
     "Ulica": "Potočná",
@@ -15621,6 +15629,14 @@
     "Ulica": "Národná",
     "Súp._č.": "  674 ",
     "Or._č.": "   7      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Marína Šošková - Zubná Technika",
+    "Činnosť": "vyhotovenie stomatoprotetických náhrad",
+    "Ulica": "Bytčická",
+    "Súp._č.": " 3492 ",
+    "Or._č.": "  16      ",
     "Obec": "Žilina"
   },
   {
@@ -26913,10 +26929,10 @@
   },
   {
     "Prevádzka": "Tattoo Studio M",
-    "Činnosť": "kozmetické služby",
-    "Ulica": "P. O. Hviezdoslava",
-    "Súp._č.": "  691 ",
-    "Or._č.": "   2      ",
+    "Činnosť": "služby súvisiace so skrášľovaním tela",
+    "Ulica": "Smreková",
+    "Súp._č.": " 3342 ",
+    "Or._č.": "  32      ",
     "Obec": "Žilina"
   },
   {
@@ -27813,14 +27829,6 @@
     "Ulica": "Zádubnie",
     "Súp._č.": "  248 ",
     "Or._č.": " 248      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "TP elektrik",
-    "Činnosť": "elektroinštalačný materiál, poradenstvo, montáž",
-    "Ulica": "Dlhá",
-    "Súp._č.": "  196 ",
-    "Or._č.": "  34      ",
     "Obec": "Žilina"
   },
   {
@@ -30192,6 +30200,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "VIKING STORE",
+    "Činnosť": "Textil, odev a príslušenstvo",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 2756 ",
+    "Or._č.": "  37      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Viktoria Dance Servis",
     "Činnosť": "predaj tanečných pomôcok",
     "Ulica": "Národná",
@@ -30893,14 +30909,6 @@
     "Ulica": "Kragujevská",
     "Súp._č.": "  389 ",
     "Or._č.": "   9      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Wisteria Ffowers",
-    "Činnosť": "kvetinárstvo",
-    "Ulica": "Borová",
-    "Súp._č.": " 3345 ",
-    "Or._č.": "  37      ",
     "Obec": "Žilina"
   },
   {
@@ -31733,14 +31741,6 @@
     "Ulica": "Jána Milca",
     "Súp._č.": "  757 ",
     "Or._č.": "  42      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "ZUBNÁ TECHNIKA MARÍNA ŠOŠKOVÁ",
-    "Činnosť": "stomatoprotetické práce",
-    "Ulica": "Vysokoškolákov",
-    "Súp._č.": " 3836 ",
-    "Or._č.": "  22      ",
     "Obec": "Žilina"
   },
   {

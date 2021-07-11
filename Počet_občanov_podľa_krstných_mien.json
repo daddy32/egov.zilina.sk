@@ -12,7 +12,7 @@
   {
     "Krstné_meno": "Anna",
     "Pohlavie": "žena",
-    "Počet": "2107"
+    "Počet": "2106"
   },
   {
     "Krstné_meno": "Jozef",
@@ -67,7 +67,7 @@
   {
     "Krstné_meno": "Milan",
     "Pohlavie": "muž",
-    "Počet": "1110"
+    "Počet": "1109"
   },
   {
     "Krstné_meno": "Juraj",
@@ -132,7 +132,7 @@
   {
     "Krstné_meno": "Veronika",
     "Pohlavie": "žena",
-    "Počet": "677"
+    "Počet": "678"
   },
   {
     "Krstné_meno": "Ivan",
@@ -197,7 +197,7 @@
   {
     "Krstné_meno": "Lenka",
     "Pohlavie": "žena",
-    "Počet": "542"
+    "Počet": "541"
   },
   {
     "Krstné_meno": "Gabriela",
@@ -212,7 +212,7 @@
   {
     "Krstné_meno": "Helena",
     "Pohlavie": "žena",
-    "Počet": "534"
+    "Počet": "533"
   },
   {
     "Krstné_meno": "Iveta",
@@ -10776,6 +10776,11 @@
   },
   {
     "Krstné_meno": "Viliam Ján",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
+    "Krstné_meno": "Viliam Martin",
     "Pohlavie": "muž",
     "Počet": "1"
   },
