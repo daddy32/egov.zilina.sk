@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210064",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2021",
+    "Dátum_zverejnenia": "13.07.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210065",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2021",
+    "Dátum_zverejnenia": "13.07.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210066",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",
+    "Celková_cena_(bez_DPH)": "   89,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2021",
+    "Dátum_zverejnenia": "13.07.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210067",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 310,76 EUR, spolu: 310,76 EUR",
+    "Celková_cena_(bez_DPH)": "   310,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2021",
+    "Dátum_zverejnenia": "13.07.2021"
+  },
+  {
+    "IČO": "44355891   ",
+    "Číslo_faktúry": "20210068",
+    "Odberateľ": "WHITE ONION s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 43,61 EUR, spolu: 43,61 EUR",
+    "Celková_cena_(bez_DPH)": "   43,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2021",
+    "Dátum_zverejnenia": "13.07.2021"
+  },
+  {
     "IČO": "47463023   ",
     "Číslo_faktúry": "2021032",
     "Odberateľ": "Sunrise Childcare s.r.o.",
