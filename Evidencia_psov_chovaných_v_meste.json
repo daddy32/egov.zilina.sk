@@ -4925,15 +4925,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Brodno",
-    "Orient._č.": "  70      ",
-    "Č._poschodia": "",
-    "Plemeno": "Škótsky ovčiak dlhosrstý",
-    "Č._známky": "9017",
-    "Farba": "zlatá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Brodno",
     "Orient._č.": " 136      ",
     "Č._poschodia": "",
     "Plemeno": "Jack russel teriér",
@@ -5614,6 +5605,15 @@
     "Plemeno": "Maltézsky psík",
     "Č._známky": "8238",
     "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Zábrežná",
+    "Orient._č.": "  39      ",
+    "Č._poschodia": "",
+    "Plemeno": "Škótsky ovčiak dlhosrstý",
+    "Č._známky": "9017",
+    "Farba": "zlatá"
   },
   {
     "Mesto": "Žilina",

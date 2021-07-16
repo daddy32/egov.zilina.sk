@@ -7878,13 +7878,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
-    "Orient._č.": "  70      ",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
     "Orient._č.": "  78      ",
     "Počet_psov": "0"
   },
@@ -37069,6 +37062,13 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Liesková",
     "Orient._č.": "   4      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Liesková",
+    "Orient._č.": "   5      ",
     "Počet_psov": "0"
   },
   {
@@ -73316,6 +73316,13 @@
     "Ulica": "Zábrežná",
     "Orient._č.": "  37      ",
     "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Zábrežná",
+    "Orient._č.": "  39      ",
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
