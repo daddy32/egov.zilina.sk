@@ -98,17 +98,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  35 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Doprastav, a.s.",
     "Adresa_dlžníka": "Drieňová 27",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  35 313,75",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  34 473,93",
     "Mena": "EUR"
   },
   {
@@ -753,13 +753,6 @@
     "Adresa_dlžníka": "Karpatské námestie 10/A",
     "Mesto": "Bratislava-Rača",
     "Suma_daňových_nedoplatkov": "  2 745,60",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Future 2015, s.r.o.",
-    "Adresa_dlžníka": "Vojtecha Tvrdého 793/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 704,73",
     "Mena": "EUR"
   },
   {
@@ -1635,13 +1628,6 @@
     "Adresa_dlžníka": "Oravská 2351/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   673,91",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Košecký",
-    "Adresa_dlžníka": "U Kapslovné 2770/1",
-    "Mesto": "Praha I.",
-    "Suma_daňových_nedoplatkov": "   673,07",
     "Mena": "EUR"
   },
   {
@@ -2821,13 +2807,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubica Jancová",
-    "Adresa_dlžníka": "Šenkárovská 230/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   356,85",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anna Borovičková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2972,6 +2951,13 @@
     "Adresa_dlžníka": "Kysucká 570/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   334,66",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubica Jancová",
+    "Adresa_dlžníka": "Šenkárovská 230/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   334,43",
     "Mena": "EUR"
   },
   {
@@ -9275,13 +9261,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Martin Dúbravka",
-    "Adresa_dlžníka": "Na Sihoti 555/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   279,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucián Rác",
     "Adresa_dlžníka": "Jura Hronca 3409/11",
     "Mesto": "Žilina",
@@ -11113,6 +11092,13 @@
     "Adresa_dlžníka": "Saleziánska 2608/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   242,66",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Martin Dúbravka",
+    "Adresa_dlžníka": "Na Sihoti 555/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   242,42",
     "Mena": "EUR"
   },
   {

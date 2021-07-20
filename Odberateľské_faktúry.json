@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210069",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2021",
+    "Dátum_zverejnenia": "19.07.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210070",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2021",
+    "Dátum_zverejnenia": "19.07.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210071",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -26,45 EUR, spolu: -26,45 EUR",
+    "Celková_cena_(bez_DPH)": "-   26,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2021",
+    "Dátum_zverejnenia": "19.07.2021"
+  },
+  {
     "IČO": "37977440   ",
     "Číslo_faktúry": "032021",
     "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
