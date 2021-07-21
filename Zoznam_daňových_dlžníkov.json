@@ -2800,13 +2800,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   357,06",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Anna Borovičková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2902,6 +2895,13 @@
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   339,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   338,79",
     "Mena": "EUR"
   },
   {
@@ -11271,7 +11271,7 @@
   },
   {
     "Dlžník": "Silvia Čorejová",
-    "Adresa_dlžníka": "Jedlíkova 3426/25",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   240,40",
     "Mena": "EUR"
