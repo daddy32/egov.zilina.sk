@@ -108,7 +108,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  34 473,93",
+    "Suma_daňových_nedoplatkov": "  33 473,93",
     "Mena": "EUR"
   },
   {
@@ -245,13 +245,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "TWR Business s.r.o.",
-    "Adresa_dlžníka": "Štefániková 11",
-    "Mesto": "Trnava",
-    "Suma_daňových_nedoplatkov": "  12 057,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Franek",
     "Adresa_dlžníka": "Cintorínska 12/10",
     "Mesto": "Gbeľany",
@@ -333,6 +326,13 @@
     "Adresa_dlžníka": "Peterská 15199/20",
     "Mesto": "Bratislava-Ružinov",
     "Suma_daňových_nedoplatkov": "  10 700,39",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "TWR Business s.r.o.",
+    "Adresa_dlžníka": "Štefániková 11",
+    "Mesto": "Trnava",
+    "Suma_daňových_nedoplatkov": "  10 557,58",
     "Mena": "EUR"
   },
   {
@@ -592,13 +592,6 @@
     "Adresa_dlžníka": "P. O. Hviezdoslava 726/42",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 968,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "PELLART, a.s.",
-    "Adresa_dlžníka": "Jána Milca 786/6",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 903,57",
     "Mena": "EUR"
   },
   {
