@@ -13979,13 +13979,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marcel Valiček",
-    "Adresa_dlžníka": "Do Brezičia 352/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   201,69",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Lisík",
     "Adresa_dlžníka": "Sad na Studničkách 8964/2A",
     "Mesto": "Žilina",
@@ -13997,13 +13990,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   201,02",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Emil Chodelka",
-    "Adresa_dlžníka": "Záhradnícka 645/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   200,87",
     "Mena": "EUR"
   },
   {
@@ -14816,6 +14802,13 @@
     "Adresa_dlžníka": "B. S. Timravy 949/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   181,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Marcel Valiček",
+    "Adresa_dlžníka": "Do Brezičia 352/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   180,52",
     "Mena": "EUR"
   },
   {

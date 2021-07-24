@@ -1,5 +1,15 @@
 [
   {
+    "IČO": "25994255   ",
+    "Číslo_faktúry": "2021017",
+    "Odberateľ": "ABC MUSIC v.o.s.",
+    "Text_odb._faktúry": "Prenájom -  (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
+    "Celková_cena_(bez_DPH)": "   375,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2021",
+    "Dátum_zverejnenia": "23.07.2021"
+  },
+  {
     "IČO": "00647713   ",
     "Číslo_faktúry": "20210069",
     "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
