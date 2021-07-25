@@ -12,7 +12,7 @@
   {
     "Krstné_meno": "Anna",
     "Pohlavie": "žena",
-    "Počet": "2103"
+    "Počet": "2102"
   },
   {
     "Krstné_meno": "Jozef",
@@ -57,7 +57,7 @@
   {
     "Krstné_meno": "Eva",
     "Pohlavie": "žena",
-    "Počet": "1297"
+    "Počet": "1298"
   },
   {
     "Krstné_meno": "Tomáš",
@@ -142,7 +142,7 @@
   {
     "Krstné_meno": "Alena",
     "Pohlavie": "žena",
-    "Počet": "668"
+    "Počet": "669"
   },
   {
     "Krstné_meno": "Janka",
@@ -177,7 +177,7 @@
   {
     "Krstné_meno": "Štefan",
     "Pohlavie": "muž",
-    "Počet": "568"
+    "Počet": "569"
   },
   {
     "Krstné_meno": "Roman",
@@ -1890,6 +1890,11 @@
     "Počet": "12"
   },
   {
+    "Krstné_meno": "Annamária",
+    "Pohlavie": "žena",
+    "Počet": "12"
+  },
+  {
     "Krstné_meno": "Bernard",
     "Pohlavie": "muž",
     "Počet": "12"
@@ -1961,11 +1966,6 @@
   },
   {
     "Krstné_meno": "Anita",
-    "Pohlavie": "žena",
-    "Počet": "11"
-  },
-  {
-    "Krstné_meno": "Annamária",
     "Pohlavie": "žena",
     "Počet": "11"
   },
@@ -5990,6 +5990,11 @@
     "Počet": "1"
   },
   {
+    "Krstné_meno": "Esteban",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
     "Krstné_meno": "Ester Benedikta Mária",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -8347,6 +8352,11 @@
   {
     "Krstné_meno": "Matea",
     "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
+    "Krstné_meno": "matej",
+    "Pohlavie": "muž",
     "Počet": "1"
   },
   {
