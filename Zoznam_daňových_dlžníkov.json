@@ -108,7 +108,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  33 473,93",
+    "Suma_daňových_nedoplatkov": "  32 473,93",
     "Mena": "EUR"
   },
   {
@@ -1876,13 +1876,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Madejová",
-    "Adresa_dlžníka": "Juraja Závodského 138/46",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   575,59",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Bartošová",
     "Adresa_dlžníka": "Sasinkova 605/29",
     "Mesto": "Žilina",
@@ -1978,6 +1971,13 @@
     "Adresa_dlžníka": "Černovská 1670/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   538,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Madejová",
+    "Adresa_dlžníka": "Juraja Závodského 138/46",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   538,66",
     "Mena": "EUR"
   },
   {
@@ -8583,7 +8583,7 @@
   },
   {
     "Dlžník": "Alexander Brand",
-    "Adresa_dlžníka": "Petzvalova 8502/43C",
+    "Adresa_dlžníka": "Komenského 2231/51",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   295,48",
     "Mena": "EUR"

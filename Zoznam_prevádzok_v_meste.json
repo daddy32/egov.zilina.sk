@@ -14265,7 +14265,7 @@
   },
   {
     "Prevádzka": "LAS VEGAS II",
-    "Činnosť": "Bar, Herňa",
+    "Činnosť": "bar",
     "Ulica": "Vojtecha Tvrdého",
     "Súp._č.": "  820 ",
     "Or._č.": "   2      ",
@@ -14273,7 +14273,7 @@
   },
   {
     "Prevádzka": "LAS VEGAS II.",
-    "Činnosť": "Herňa, bar",
+    "Činnosť": "Herňa",
     "Ulica": "Vojtecha Tvrdého",
     "Súp._č.": "  820 ",
     "Or._č.": "   2      ",
@@ -31830,6 +31830,14 @@
     "Súp._č.": "  778 ",
     "Or._č.": "  11      ",
     "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Zuzana Kucharčíková",
+    "Činnosť": "trafika",
+    "Ulica": "Dlhá",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
   },
   {
     "Prevádzka": "Zuzana Laščiaková -  R-CARS",
