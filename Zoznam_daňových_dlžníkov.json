@@ -582,7 +582,7 @@
   },
   {
     "Dlžník": "2Š, s.r.o.",
-    "Adresa_dlžníka": "Baničova 3394/8",
+    "Adresa_dlžníka": "Vysokoškolákov 8556/33D",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  4 005,00",
     "Mena": "EUR"
@@ -1463,13 +1463,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubomír Backa",
-    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   771,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Radovan Falašta",
     "Adresa_dlžníka": "súp. č. 110",
     "Mesto": "Dolná Tižina",
@@ -1516,6 +1509,13 @@
     "Adresa_dlžníka": "Tatranská 3111/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   740,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubomír Backa",
+    "Adresa_dlžníka": "Andreja Kmeťa 307/36",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   733,24",
     "Mena": "EUR"
   },
   {
@@ -4425,7 +4425,7 @@
   },
   {
     "Dlžník": "Ľubomír Mravec",
-    "Adresa_dlžníka": "Energetikov 161/13",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
     "Mena": "EUR"
