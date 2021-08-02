@@ -1,15 +1,15 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1024"
+    "Počet": "1026"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "349"
+    "Počet": "348"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "260"
+    "Počet": "258"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -17,7 +17,7 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "209"
+    "Počet": "207"
   },
   {
     "Plemeno": "Čivava",
@@ -29,18 +29,18 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "98"
+    "Počet": "97"
   },
   {
     "Plemeno": "Zlatý retriever",
     "Počet": "85"
   },
   {
-    "Plemeno": "Borderská kólia",
+    "Plemeno": "Staffordshirský bulteriér",
     "Počet": "64"
   },
   {
-    "Plemeno": "Staffordshirský bulteriér",
+    "Plemeno": "Borderská kólia",
     "Počet": "63"
   },
   {
@@ -57,7 +57,7 @@
   },
   {
     "Plemeno": "Trpasličí pinč",
-    "Počet": "55"
+    "Počet": "54"
   },
   {
     "Plemeno": "Bišónik",
@@ -93,7 +93,7 @@
   },
   {
     "Plemeno": "Mops",
-    "Počet": "31"
+    "Počet": "33"
   },
   {
     "Plemeno": "Weimarský stavač",
@@ -104,12 +104,12 @@
     "Počet": "27"
   },
   {
-    "Plemeno": "Bernský salašnícky pes",
+    "Plemeno": "Americký pitbulteriér",
     "Počet": "26"
   },
   {
-    "Plemeno": "Americký pitbulteriér",
-    "Počet": "26"
+    "Plemeno": "Bernský salašnícky pes",
+    "Počet": "25"
   },
   {
     "Plemeno": "Rotvajler",
@@ -144,16 +144,16 @@
     "Počet": "18"
   },
   {
-    "Plemeno": "Boloňský psík",
-    "Počet": "17"
-  },
-  {
     "Plemeno": "Pražský krysařík",
     "Počet": "17"
   },
   {
     "Plemeno": "Teriér",
     "Počet": "17"
+  },
+  {
+    "Plemeno": "Boloňský psík",
+    "Počet": "16"
   },
   {
     "Plemeno": "Nemecký boxer",
@@ -380,6 +380,10 @@
     "Počet": "4"
   },
   {
+    "Plemeno": "Westhighland white teriér",
+    "Počet": "4"
+  },
+  {
     "Plemeno": "Bandog",
     "Počet": "4"
   },
@@ -437,10 +441,6 @@
   },
   {
     "Plemeno": "Trpaslíčí špic",
-    "Počet": "3"
-  },
-  {
-    "Plemeno": "Westhighland white teriér",
     "Počet": "3"
   },
   {
