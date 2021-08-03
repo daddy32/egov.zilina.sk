@@ -931,13 +931,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Trade rental, s.r.o.",
-    "Adresa_dlžníka": "Štrková 510/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 945,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Richter",
     "Adresa_dlžníka": "Mojšová Lúčka 113/113",
     "Mesto": "Žilina",
@@ -977,6 +970,13 @@
     "Adresa_dlžníka": "Šípková 14141/9",
     "Mesto": "Banská Bystrica",
     "Suma_daňových_nedoplatkov": "  1 760,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Trade rental, s.r.o.",
+    "Adresa_dlžníka": "Štrková 510/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 750,00",
     "Mena": "EUR"
   },
   {
@@ -1439,13 +1439,6 @@
     "Adresa_dlžníka": "Zvolenská 3989/17",
     "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "   779,44",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "MVDr. Daniel Cigánik",
-    "Adresa_dlžníka": "Vajanského 2767/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   779,29",
     "Mena": "EUR"
   },
   {
@@ -10966,6 +10959,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   248,43",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "MVDr. Daniel Cigánik",
+    "Adresa_dlžníka": "Vajanského 2767/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   247,69",
     "Mena": "EUR"
   },
   {
