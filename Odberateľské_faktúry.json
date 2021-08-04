@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "46691731   ",
+    "Číslo_faktúry": "20210072",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 8228,85 EUR, spolu: 8228,85 EUR",
+    "Celková_cena_(bez_DPH)": "  8 228,85",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.08.2021",
+    "Dátum_zverejnenia": "03.08.2021"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210073",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.08.2021",
+    "Dátum_zverejnenia": "03.08.2021"
+  },
+  {
     "IČO": "37801457   ",
     "Číslo_faktúry": "21021",
     "Odberateľ": "OZ Cech Terra de Selinan",

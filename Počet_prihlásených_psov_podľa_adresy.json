@@ -19219,7 +19219,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Gaštanová",
     "Orient._č.": "  50      ",
-    "Počet_psov": "2"
+    "Počet_psov": "4"
   },
   {
     "Mesto": "Žilina",
@@ -30573,7 +30573,7 @@
     "Časť_obce": "Závodie",
     "Ulica": "Juraja Závodského",
     "Orient._č.": " 142      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -35248,6 +35248,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Zástranie",
     "Ulica": "Kultúrna",
+    "Orient._č.": "  46      ",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Kultúrna",
     "Orient._č.": "  48      ",
     "Počet_psov": "0"
   },
@@ -37454,7 +37461,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Limbová",
     "Orient._č.": "  12      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -62227,7 +62234,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Republiky",
     "Orient._č.": "  19      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -63522,7 +63529,7 @@
     "Časť_obce": "Hliny",
     "Ulica": "Ružová",
     "Orient._č.": "  36      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -75878,13 +75885,6 @@
     "Ulica": "Zástranie",
     "Orient._č.": "  49      ",
     "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Zástranie",
-    "Ulica": "Zástranie",
-    "Orient._č.": "  51      ",
-    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",

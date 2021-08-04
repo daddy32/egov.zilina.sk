@@ -108,7 +108,7 @@
     "Dlžník": "Fines a.s.",
     "Adresa_dlžníka": "Dolné Rudiny 2954/1",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  32 473,93",
+    "Suma_daňových_nedoplatkov": "  31 473,93",
     "Mena": "EUR"
   },
   {
@@ -6482,13 +6482,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Lacko",
-    "Adresa_dlžníka": "Saleziánska 2608/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   311,82",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Katarína Baltiarová",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -12201,7 +12194,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Viktor Hajduch",
+    "Dlžník": "Viktor Hajdúch",
     "Adresa_dlžníka": "Ružová 1638/40",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   221,21",
@@ -15344,13 +15337,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Maroš Krupík",
-    "Adresa_dlžníka": "Bytčianska 815/11A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   179,39",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Ďuran",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16543,6 +16529,13 @@
   {
     "Dlžník": "Jaroslav Demčišák",
     "Adresa_dlžníka": "Poľná 3174/6",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   95,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Maroš Krupík",
+    "Adresa_dlžníka": "Bytčianska 815/11A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   95,48",
     "Mena": "EUR"

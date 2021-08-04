@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "109"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -37,7 +37,7 @@
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
-    "Počet": "64"
+    "Počet": "65"
   },
   {
     "Plemeno": "Borderská kólia",
@@ -164,11 +164,11 @@
     "Počet": "15"
   },
   {
-    "Plemeno": "Doberman",
-    "Počet": "14"
+    "Plemeno": "Lhasa apso",
+    "Počet": "15"
   },
   {
-    "Plemeno": "Lhasa apso",
+    "Plemeno": "Doberman",
     "Počet": "14"
   },
   {
@@ -224,6 +224,10 @@
     "Počet": "9"
   },
   {
+    "Plemeno": "Argentínska doga",
+    "Počet": "9"
+  },
+  {
     "Plemeno": "Kavkazský ovčiak",
     "Počet": "9"
   },
@@ -233,10 +237,6 @@
   },
   {
     "Plemeno": "Americký kokeršpaniel",
-    "Počet": "8"
-  },
-  {
-    "Plemeno": "Argentínska doga",
     "Počet": "8"
   },
   {
