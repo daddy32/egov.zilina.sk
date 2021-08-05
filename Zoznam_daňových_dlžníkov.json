@@ -924,13 +924,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Frank Svihalek",
-    "Adresa_dlžníka": "Kuzmányho 101/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 954,05",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Richter",
     "Adresa_dlžníka": "Mojšová Lúčka 113/113",
     "Mesto": "Žilina",
@@ -1019,6 +1012,13 @@
     "Adresa_dlžníka": "Rosina súp. č. 829",
     "Mesto": "Rosina",
     "Suma_daňových_nedoplatkov": "  1 544,77",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Frank Svihalek",
+    "Adresa_dlžníka": "Kuzmányho 101/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 504,77",
     "Mena": "EUR"
   },
   {
@@ -12195,7 +12195,7 @@
   },
   {
     "Dlžník": "Viktor Hajdúch",
-    "Adresa_dlžníka": "Ružová 1638/40",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   221,21",
     "Mena": "EUR"
