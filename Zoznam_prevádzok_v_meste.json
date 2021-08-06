@@ -4408,14 +4408,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "Country PUB Slamník",
-    "Činnosť": "rýchle občerstvenie",
-    "Ulica": "Priehradná",
-    "Súp._č.": "  128 ",
-    "Or._č.": "  19      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "COWEL, s.r.o.",
     "Činnosť": "výroba kovových súčiastok a konštrukcií",
     "Ulica": "Bytčianska",
@@ -4821,6 +4813,14 @@
     "Ulica": "Antona Bernoláka",
     "Súp._č.": " 2203 ",
     "Or._č.": "",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "ČIERNY KOHÚT",
+    "Činnosť": "reštaurácia s vinotékou",
+    "Ulica": "Hlinská",
+    "Súp._č.": " 2592 ",
+    "Or._č.": "  14      ",
     "Obec": "Žilina"
   },
   {
@@ -25072,14 +25072,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "SLAMNÍK",
-    "Činnosť": "prechodné ubytovanie",
-    "Ulica": "Priehradná",
-    "Súp._č.": "  128 ",
-    "Or._č.": "  19      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "Slamník Pub",
     "Činnosť": "pohostinská činnosť",
     "Ulica": "M. R. Štefánika",
@@ -28293,6 +28285,14 @@
     "Ulica": "Hričovská",
     "Súp._č.": "  209 ",
     "Or._č.": "  43      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Ubytovňa SLAMNÍK",
+    "Činnosť": "prechodné ubytovanie",
+    "Ulica": "Priehradná",
+    "Súp._č.": "  128 ",
+    "Or._č.": "  19      ",
     "Obec": "Žilina"
   },
   {

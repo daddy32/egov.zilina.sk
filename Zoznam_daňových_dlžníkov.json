@@ -1386,13 +1386,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Božena Danielová",
-    "Adresa_dlžníka": "Dadanova 3385/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   828,68",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Juraj Ševčík - ŠE TREND",
     "Adresa_dlžníka": "súp. č. 187",
     "Mesto": "Zástranie",
@@ -1474,6 +1467,13 @@
     "Adresa_dlžníka": "Športová 563/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   757,35",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Božena Danielová",
+    "Adresa_dlžníka": "Dadanova 3385/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   752,04",
     "Mena": "EUR"
   },
   {
@@ -9744,13 +9744,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Ján Bača, CSc.",
-    "Adresa_dlžníka": "Tichá 2179/4",
-    "Mesto": "Bratislava-Staré Mesto",
-    "Suma_daňových_nedoplatkov": "   273,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivan Trsťan",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -12236,13 +12229,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Senková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   220,21",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Pavol Ruček",
     "Adresa_dlžníka": "Jedlíkova 3423/5",
     "Mesto": "Žilina",
@@ -13444,6 +13430,13 @@
     "Adresa_dlžníka": "Kubínska 1103/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   207,24",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Senková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   206,92",
     "Mena": "EUR"
   },
   {
@@ -15428,13 +15421,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Soňa Baránková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Weilheim",
-    "Suma_daňových_nedoplatkov": "   176,70",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Bakoš",
     "Adresa_dlžníka": "Smreková 3096/26",
     "Mesto": "Žilina",
@@ -15579,6 +15565,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   172,40",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Ján Bača, CSc.",
+    "Adresa_dlžníka": "Tichá 2179/4",
+    "Mesto": "Bratislava-Staré Mesto",
+    "Suma_daňových_nedoplatkov": "   172,27",
     "Mena": "EUR"
   },
   {
@@ -16482,6 +16475,13 @@
     "Adresa_dlžníka": "Borová 3295/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   118,84",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Soňa Baránková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Weilheim",
+    "Suma_daňových_nedoplatkov": "   109,48",
     "Mena": "EUR"
   },
   {
