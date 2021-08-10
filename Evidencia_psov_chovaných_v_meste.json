@@ -8093,6 +8093,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Banícka",
+    "Orient._č.": "   6      ",
+    "Č._poschodia": "",
+    "Plemeno": "Staffordshirský bulteriér",
+    "Č._známky": "9486",
+    "Farba": "modrá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Banícka",
     "Orient._č.": "   7      ",
     "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
@@ -11812,15 +11821,6 @@
     "Ulica": "Petzvalova",
     "Orient._č.": "  61      ",
     "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "5301",
-    "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Petzvalova",
-    "Orient._č.": "  61      ",
-    "Č._poschodia": "",
     "Plemeno": "Miešanec",
     "Č._známky": "8332",
     "Farba": "čierna"
@@ -14618,6 +14618,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Severná",
+    "Orient._č.": "  27      ",
+    "Č._poschodia": "",
+    "Plemeno": "Francúzsky buldoček",
+    "Č._známky": "9484",
+    "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Severná",
     "Orient._č.": "  29      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -16198,6 +16207,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "6450",
     "Farba": "čierna-pálená"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Na Hôrke",
+    "Orient._č.": "   5      ",
+    "Č._poschodia": "",
+    "Plemeno": "Čivava",
+    "Č._známky": "9485",
+    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -21026,6 +21044,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Bratislavská",
+    "Orient._č.": "  38      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9438",
+    "Farba": "bielo-čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Bratislavská",
     "Orient._č.": "  45      ",
     "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
@@ -21245,7 +21272,7 @@
     "Orient._č.": "  14      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
-    "Č._známky": "9175",
+    "Č._známky": "9515",
     "Farba": "čierna"
   },
   {
