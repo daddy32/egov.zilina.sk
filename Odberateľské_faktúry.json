@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "37905112   ",
+    "Číslo_faktúry": "2021036",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 7/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.08.2021",
+    "Dátum_zverejnenia": "10.08.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021019",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné za mesiac júl 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a jej dodatku č. 3 zo dňa 28.06.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.08.2021",
+    "Dátum_zverejnenia": "10.08.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021020",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady za mesiac júl 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a jej dodatku č. 3 zo dňa 28.06.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.08.2021",
+    "Dátum_zverejnenia": "10.08.2021"
+  },
+  {
     "IČO": "30229839   ",
     "Číslo_faktúry": "20210074",
     "Odberateľ": "Mestské divadlo",

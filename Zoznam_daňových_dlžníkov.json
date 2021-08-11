@@ -105,17 +105,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  31 473,93",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SLOVPAP a.s., obch.zav.",
     "Adresa_dlžníka": "Kamenná 6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  31 030,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  29 473,93",
     "Mena": "EUR"
   },
   {
@@ -14504,13 +14504,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Božena Kováčiková",
-    "Adresa_dlžníka": "Pod Skalkou 401/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   185,18",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alžbeta Moravcová",
     "Adresa_dlžníka": "Platanová 3229/24",
     "Mesto": "Žilina",
@@ -15761,6 +15754,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   170,08",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Božena Kováčiková",
+    "Adresa_dlžníka": "Pod Skalkou 401/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   169,98",
     "Mena": "EUR"
   },
   {
