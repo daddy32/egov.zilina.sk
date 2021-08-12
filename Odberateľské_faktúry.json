@@ -1,5 +1,65 @@
 [
   {
+    "IČO": "36361585   ",
+    "Číslo_faktúry": "12021",
+    "Odberateľ": "Nelson Services, s.r.o.",
+    "Text_odb._faktúry": "el. energia, množ.: 1, jedn. cena: 1131,73 EUR, spolu: 1131,73 EUR",
+    "Celková_cena_(bez_DPH)": "  1 131,73",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2021001",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za 7/2021, množ.: 1, jedn. cena: 166 EUR, spolu: 166 EUR",
+    "Celková_cena_(bez_DPH)": "   166,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.08.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2021002",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén -voda, množ.: 1, jedn. cena: 11,53 EUR, spolu: 11,53 EUR,\rBazén - plyn, elektrická energia, množ.: 1, jedn. cena: 345,73 EUR, spolu: 345,73 EUR",
+    "Celková_cena_(bez_DPH)": "   357,26",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.08.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
+    "IČO": "40975649   ",
+    "Číslo_faktúry": "20210080",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 82, jedn. cena: ,5 EUR, spolu: 41 EUR",
+    "Celková_cena_(bez_DPH)": "   41,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.08.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
+    "IČO": "35079886   ",
+    "Číslo_faktúry": "20210081",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 93, jedn. cena: ,5 EUR, spolu: 46,5 EUR",
+    "Celková_cena_(bez_DPH)": "   46,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.08.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
+    "IČO": "46691731   ",
+    "Číslo_faktúry": "20210082",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 6018,35 EUR, spolu: 6018,35 EUR",
+    "Celková_cena_(bez_DPH)": "  6 018,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.08.2021",
+    "Dátum_zverejnenia": "11.08.2021"
+  },
+  {
     "IČO": "37905112   ",
     "Číslo_faktúry": "2021036",
     "Odberateľ": "Materská škola",
