@@ -931,13 +931,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Pavlíková - ROSÉ",
-    "Adresa_dlžníka": "Jozefa Vuruma 145/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 822,60",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "IGA, s.r.o.",
     "Adresa_dlžníka": "Timravy 1102/8",
     "Mesto": "Martin",
@@ -1057,13 +1050,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Hemčíková",
-    "Adresa_dlžníka": "Antona Bielka 545/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 300,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Poliaková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1131,6 +1117,13 @@
     "Adresa_dlžníka": "Rastislavova 1201/7",
     "Mesto": "Slovenský Grob",
     "Suma_daňových_nedoplatkov": "  1 167,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Hemčíková",
+    "Adresa_dlžníka": "Antona Bielka 545/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 150,00",
     "Mena": "EUR"
   },
   {
@@ -1264,6 +1257,13 @@
     "Adresa_dlžníka": "Borová 3176/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   947,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jana Pavlíková - ROSÉ",
+    "Adresa_dlžníka": "Jozefa Vuruma 145/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   943,80",
     "Mena": "EUR"
   },
   {
