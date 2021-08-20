@@ -1,19 +1,19 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1027"
+    "Počet": "1026"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "346"
+    "Počet": "345"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "257"
+    "Počet": "258"
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "212"
+    "Počet": "210"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -21,11 +21,11 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "131"
+    "Počet": "130"
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "109"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -56,11 +56,11 @@
     "Počet": "55"
   },
   {
-    "Plemeno": "Trpasličí pinč",
-    "Počet": "52"
+    "Plemeno": "Bišónik",
+    "Počet": "51"
   },
   {
-    "Plemeno": "Bišónik",
+    "Plemeno": "Trpasličí pinč",
     "Počet": "51"
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "Plemeno": "Bígl",
-    "Počet": "46"
+    "Počet": "48"
   },
   {
     "Plemeno": "Francúzsky buldoček",
@@ -85,7 +85,7 @@
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
-    "Počet": "38"
+    "Počet": "39"
   },
   {
     "Plemeno": "Pudel",
@@ -97,7 +97,7 @@
   },
   {
     "Plemeno": "Weimarský stavač",
-    "Počet": "30"
+    "Počet": "29"
   },
   {
     "Plemeno": "Stredoázijský ovčiak",
@@ -196,6 +196,10 @@
     "Počet": "12"
   },
   {
+    "Plemeno": "Shiba inu",
+    "Počet": "12"
+  },
+  {
     "Plemeno": "Austrálsky ovčiak",
     "Počet": "12"
   },
@@ -205,10 +209,6 @@
   },
   {
     "Plemeno": "Šarpej",
-    "Počet": "11"
-  },
-  {
-    "Plemeno": "Shiba inu",
     "Počet": "11"
   },
   {

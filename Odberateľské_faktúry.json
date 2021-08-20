@@ -1,5 +1,105 @@
 [
   {
+    "IČO": "31795421   ",
+    "Číslo_faktúry": "21023",
+    "Odberateľ": "Slovenský zväz florbalu",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 15.08.2021, množ.: 3, jedn. cena: 6,4 EUR, spolu: 19,2 EUR",
+    "Celková_cena_(bez_DPH)": "   19,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "31795421   ",
+    "Číslo_faktúry": "21024",
+    "Odberateľ": "Slovenský zväz florbalu",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 15.08.2021, množ.: 3, jedn. cena: 15,6 EUR, spolu: 46,8 EUR",
+    "Celková_cena_(bez_DPH)": "   46,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210089",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210090",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210083",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -3,14 EUR, spolu: -3,14 EUR",
+    "Celková_cena_(bez_DPH)": "-   3,14",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210084",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 29702,3 EUR, spolu: 29702,3 EUR",
+    "Celková_cena_(bez_DPH)": "  29 702,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210085",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 437,1 EUR, spolu: 437,1 EUR",
+    "Celková_cena_(bez_DPH)": "   437,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "37905147   ",
+    "Číslo_faktúry": "20210086",
+    "Odberateľ": "Materská škola Andreja Kmeťa Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,53 EUR, spolu: 64,53 EUR",
+    "Celková_cena_(bez_DPH)": "   64,53",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "20210087",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 62,97 EUR, spolu: 62,97 EUR",
+    "Celková_cena_(bez_DPH)": "   62,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
+    "IČO": "37904981   ",
+    "Číslo_faktúry": "20210088",
+    "Odberateľ": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 67,45 EUR, spolu: 67,45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.08.2021",
+    "Dátum_zverejnenia": "19.08.2021"
+  },
+  {
     "IČO": "46723994   ",
     "Číslo_faktúry": "202103",
     "Odberateľ": "ŽILBYT, s.r.o.",
