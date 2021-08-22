@@ -105,6 +105,11 @@
     "Počet": "79"
   },
   {
+    "Priezvisko": "Mičicová",
+    "Pohlavie": "žena",
+    "Počet": "77"
+  },
+  {
     "Priezvisko": "Štaffenová",
     "Pohlavie": "žena",
     "Počet": "77"
@@ -112,11 +117,6 @@
   {
     "Priezvisko": "Kysela",
     "Pohlavie": "muž",
-    "Počet": "75"
-  },
-  {
-    "Priezvisko": "Mičicová",
-    "Pohlavie": "žena",
     "Počet": "75"
   },
   {
@@ -250,11 +250,6 @@
     "Počet": "59"
   },
   {
-    "Priezvisko": "Králiková",
-    "Pohlavie": "žena",
-    "Počet": "59"
-  },
-  {
     "Priezvisko": "Mičica",
     "Pohlavie": "muž",
     "Počet": "59"
@@ -266,6 +261,11 @@
   },
   {
     "Priezvisko": "Frátriková",
+    "Pohlavie": "žena",
+    "Počet": "58"
+  },
+  {
+    "Priezvisko": "Králiková",
     "Pohlavie": "žena",
     "Počet": "58"
   },
@@ -375,11 +375,6 @@
     "Počet": "53"
   },
   {
-    "Priezvisko": "Králik",
-    "Pohlavie": "muž",
-    "Počet": "53"
-  },
-  {
     "Priezvisko": "Chabada",
     "Pohlavie": "muž",
     "Počet": "52"
@@ -406,6 +401,11 @@
   },
   {
     "Priezvisko": "Barčiak",
+    "Pohlavie": "muž",
+    "Počet": "51"
+  },
+  {
+    "Priezvisko": "Králik",
     "Pohlavie": "muž",
     "Počet": "51"
   },
@@ -3440,6 +3440,11 @@
     "Počet": "19"
   },
   {
+    "Priezvisko": "Sedlák",
+    "Pohlavie": "muž",
+    "Počet": "19"
+  },
+  {
     "Priezvisko": "Seidl",
     "Pohlavie": "muž",
     "Počet": "19"
@@ -3522,6 +3527,11 @@
   {
     "Priezvisko": "Dobroňová",
     "Pohlavie": "žena",
+    "Počet": "18"
+  },
+  {
+    "Priezvisko": "Ďugel",
+    "Pohlavie": "muž",
     "Počet": "18"
   },
   {
@@ -3700,11 +3710,6 @@
     "Počet": "18"
   },
   {
-    "Priezvisko": "Sedlák",
-    "Pohlavie": "muž",
-    "Počet": "18"
-  },
-  {
     "Priezvisko": "Slivková",
     "Pohlavie": "žena",
     "Počet": "18"
@@ -3807,11 +3812,6 @@
   {
     "Priezvisko": "Dudášová",
     "Pohlavie": "žena",
-    "Počet": "17"
-  },
-  {
-    "Priezvisko": "Ďugel",
-    "Pohlavie": "muž",
     "Počet": "17"
   },
   {
@@ -4226,6 +4226,11 @@
   },
   {
     "Priezvisko": "Fojtík",
+    "Pohlavie": "muž",
+    "Počet": "16"
+  },
+  {
+    "Priezvisko": "Galo",
     "Pohlavie": "muž",
     "Počet": "16"
   },
@@ -4670,11 +4675,6 @@
     "Počet": "15"
   },
   {
-    "Priezvisko": "Galo",
-    "Pohlavie": "muž",
-    "Počet": "15"
-  },
-  {
     "Priezvisko": "Galová",
     "Pohlavie": "žena",
     "Počet": "15"
@@ -5002,11 +5002,6 @@
   {
     "Priezvisko": "Žilinčík",
     "Pohlavie": "muž",
-    "Počet": "15"
-  },
-  {
-    "Priezvisko": "Žuchová",
-    "Pohlavie": "žena",
     "Počet": "15"
   },
   {
@@ -5490,6 +5485,11 @@
     "Počet": "14"
   },
   {
+    "Priezvisko": "Žuchová",
+    "Pohlavie": "žena",
+    "Počet": "14"
+  },
+  {
     "Priezvisko": "Andelová",
     "Pohlavie": "žena",
     "Počet": "13"
@@ -5702,11 +5702,6 @@
   {
     "Priezvisko": "Hradská",
     "Pohlavie": "žena",
-    "Počet": "13"
-  },
-  {
-    "Priezvisko": "Hradský",
-    "Pohlavie": "muž",
     "Počet": "13"
   },
   {
@@ -6430,6 +6425,11 @@
     "Počet": "12"
   },
   {
+    "Priezvisko": "Hradský",
+    "Pohlavie": "muž",
+    "Počet": "12"
+  },
+  {
     "Priezvisko": "Hrnčiar",
     "Pohlavie": "muž",
     "Počet": "12"
@@ -6955,12 +6955,12 @@
     "Počet": "12"
   },
   {
-    "Priezvisko": "Vajdová",
+    "Priezvisko": "Turzová",
     "Pohlavie": "žena",
     "Počet": "12"
   },
   {
-    "Priezvisko": "Verešová",
+    "Priezvisko": "Vajdová",
     "Pohlavie": "žena",
     "Počet": "12"
   },
@@ -7257,11 +7257,6 @@
   {
     "Priezvisko": "Gomola",
     "Pohlavie": "muž",
-    "Počet": "11"
-  },
-  {
-    "Priezvisko": "Gomolová",
-    "Pohlavie": "žena",
     "Počet": "11"
   },
   {
@@ -7935,11 +7930,6 @@
     "Počet": "11"
   },
   {
-    "Priezvisko": "Turzová",
-    "Pohlavie": "žena",
-    "Počet": "11"
-  },
-  {
     "Priezvisko": "Uhláriková",
     "Pohlavie": "žena",
     "Počet": "11"
@@ -7951,6 +7941,11 @@
   },
   {
     "Priezvisko": "Večeríková",
+    "Pohlavie": "žena",
+    "Počet": "11"
+  },
+  {
+    "Priezvisko": "Verešová",
     "Pohlavie": "žena",
     "Počet": "11"
   },
@@ -8155,11 +8150,6 @@
     "Počet": "10"
   },
   {
-    "Priezvisko": "Drličková",
-    "Pohlavie": "žena",
-    "Počet": "10"
-  },
-  {
     "Priezvisko": "Drončovský",
     "Pohlavie": "muž",
     "Počet": "10"
@@ -8267,6 +8257,11 @@
   {
     "Priezvisko": "Golis",
     "Pohlavie": "muž",
+    "Počet": "10"
+  },
+  {
+    "Priezvisko": "Gomolová",
+    "Pohlavie": "žena",
     "Počet": "10"
   },
   {
@@ -9390,6 +9385,11 @@
     "Počet": "9"
   },
   {
+    "Priezvisko": "Drličková",
+    "Pohlavie": "žena",
+    "Počet": "9"
+  },
+  {
     "Priezvisko": "Dubaj",
     "Pohlavie": "muž",
     "Počet": "9"
@@ -9697,6 +9697,11 @@
   {
     "Priezvisko": "Kada",
     "Pohlavie": "muž",
+    "Počet": "9"
+  },
+  {
+    "Priezvisko": "Kajánková",
+    "Pohlavie": "žena",
     "Počet": "9"
   },
   {
@@ -11266,11 +11271,6 @@
   },
   {
     "Priezvisko": "Kadlecová",
-    "Pohlavie": "žena",
-    "Počet": "8"
-  },
-  {
-    "Priezvisko": "Kajánková",
     "Pohlavie": "žena",
     "Počet": "8"
   },
@@ -15655,11 +15655,6 @@
     "Počet": "6"
   },
   {
-    "Priezvisko": "Hunčáková",
-    "Pohlavie": "žena",
-    "Počet": "6"
-  },
-  {
     "Priezvisko": "Hundáková",
     "Pohlavie": "žena",
     "Počet": "6"
@@ -16210,11 +16205,6 @@
     "Počet": "6"
   },
   {
-    "Priezvisko": "Kučaková",
-    "Pohlavie": "žena",
-    "Počet": "6"
-  },
-  {
     "Priezvisko": "Kuderavá",
     "Pohlavie": "žena",
     "Počet": "6"
@@ -16312,11 +16302,6 @@
   {
     "Priezvisko": "Látka",
     "Pohlavie": "muž",
-    "Počet": "6"
-  },
-  {
-    "Priezvisko": "Latková",
-    "Pohlavie": "žena",
     "Počet": "6"
   },
   {
@@ -19265,6 +19250,11 @@
     "Počet": "5"
   },
   {
+    "Priezvisko": "Hunčáková",
+    "Pohlavie": "žena",
+    "Počet": "5"
+  },
+  {
     "Priezvisko": "Hundák",
     "Pohlavie": "muž",
     "Počet": "5"
@@ -19965,6 +19955,11 @@
     "Počet": "5"
   },
   {
+    "Priezvisko": "Kučaková",
+    "Pohlavie": "žena",
+    "Počet": "5"
+  },
+  {
     "Priezvisko": "Kučeríková",
     "Pohlavie": "žena",
     "Počet": "5"
@@ -20091,6 +20086,11 @@
   },
   {
     "Priezvisko": "Laššová",
+    "Pohlavie": "žena",
+    "Počet": "5"
+  },
+  {
+    "Priezvisko": "Latková",
     "Pohlavie": "žena",
     "Počet": "5"
   },
@@ -25355,6 +25355,11 @@
     "Počet": "4"
   },
   {
+    "Priezvisko": "Končelíková",
+    "Pohlavie": "žena",
+    "Počet": "4"
+  },
+  {
     "Priezvisko": "Koňušiak",
     "Pohlavie": "muž",
     "Počet": "4"
@@ -25896,11 +25901,6 @@
   },
   {
     "Priezvisko": "Látečka",
-    "Pohlavie": "muž",
-    "Počet": "4"
-  },
-  {
-    "Priezvisko": "Latko",
     "Pohlavie": "muž",
     "Počet": "4"
   },
@@ -34425,11 +34425,6 @@
     "Počet": "3"
   },
   {
-    "Priezvisko": "Končelíková",
-    "Pohlavie": "žena",
-    "Počet": "3"
-  },
-  {
     "Priezvisko": "Kondeková",
     "Pohlavie": "žena",
     "Počet": "3"
@@ -35312,6 +35307,11 @@
   {
     "Priezvisko": "Laterníková",
     "Pohlavie": "žena",
+    "Počet": "3"
+  },
+  {
+    "Priezvisko": "Latko",
+    "Pohlavie": "muž",
     "Počet": "3"
   },
   {
@@ -49130,6 +49130,11 @@
     "Počet": "2"
   },
   {
+    "Priezvisko": "Kočan",
+    "Pohlavie": "muž",
+    "Počet": "2"
+  },
+  {
     "Priezvisko": "Kočibál",
     "Pohlavie": "muž",
     "Počet": "2"
@@ -51667,11 +51672,6 @@
   {
     "Priezvisko": "Marcineková",
     "Pohlavie": "žena",
-    "Počet": "2"
-  },
-  {
-    "Priezvisko": "Marcinka",
-    "Pohlavie": "muž",
     "Počet": "2"
   },
   {
@@ -55527,6 +55527,11 @@
   {
     "Priezvisko": "Rusovský",
     "Pohlavie": "muž",
+    "Počet": "2"
+  },
+  {
+    "Priezvisko": "Ruttkay",
+    "Pohlavie": "žena",
     "Počet": "2"
   },
   {
@@ -72345,6 +72350,11 @@
     "Počet": "1"
   },
   {
+    "Priezvisko": "Jánošková Verešová",
+    "Pohlavie": "žena",
+    "Počet": "1"
+  },
+  {
     "Priezvisko": "Janoštíková",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -74665,11 +74675,6 @@
     "Počet": "1"
   },
   {
-    "Priezvisko": "Kočan",
-    "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
     "Priezvisko": "Kočembová",
     "Pohlavie": "žena",
     "Počet": "1"
@@ -75986,11 +75991,6 @@
   },
   {
     "Priezvisko": "Králik",
-    "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Králik Blašková",
     "Pohlavie": "žena",
     "Počet": "1"
   },
@@ -79191,6 +79191,11 @@
   },
   {
     "Priezvisko": "Marcina",
+    "Pohlavie": "muž",
+    "Počet": "1"
+  },
+  {
+    "Priezvisko": "Marcinka",
     "Pohlavie": "muž",
     "Počet": "1"
   },
