@@ -10885,13 +10885,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MVDr. Daniel Cigánik",
-    "Adresa_dlžníka": "Vajanského 2767/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   247,69",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Vojvodová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14042,13 +14035,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Tomáš Bednár",
-    "Adresa_dlžníka": "Tajovského 8539/3D",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   196,56",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Kvetoslava Drážovská",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16499,6 +16485,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "MVDr. Daniel Cigánik",
+    "Adresa_dlžníka": "Vajanského 2767/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   79,82",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Kristína Karafová",
     "Adresa_dlžníka": "Lichardova 2802/12",
     "Mesto": "Žilina",
@@ -16550,6 +16543,13 @@
   {
     "Dlžník": "Dušan Jozefček",
     "Adresa_dlžníka": "Minčolská 1782/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   48,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Tomáš Bednár",
+    "Adresa_dlžníka": "Tajovského 8539/3D",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   48,76",
     "Mena": "EUR"
