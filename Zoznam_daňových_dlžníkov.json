@@ -7861,13 +7861,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marián Heřmánek",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   298,20",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marián Líška",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11565,7 +11558,7 @@
   },
   {
     "Dlžník": "Róbert Garlík",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Karpatská 3106/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   232,12",
     "Mena": "EUR"
