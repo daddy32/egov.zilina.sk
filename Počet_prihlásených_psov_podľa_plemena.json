@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1026"
+    "Počet": "1025"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "345"
+    "Počet": "344"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -13,7 +13,7 @@
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "210"
+    "Počet": "207"
   },
   {
     "Plemeno": "Labradorský retriever",
@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "130"
+    "Počet": "131"
   },
   {
     "Plemeno": "Jazvečík",
@@ -40,15 +40,15 @@
     "Počet": "66"
   },
   {
-    "Plemeno": "Miešanec",
-    "Počet": "63"
-  },
-  {
     "Plemeno": "Borderská kólia",
     "Počet": "62"
   },
   {
     "Plemeno": "Shih - tzu",
+    "Počet": "62"
+  },
+  {
+    "Plemeno": "Miešanec",
     "Počet": "62"
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "Plemeno": "Bígl",
-    "Počet": "48"
+    "Počet": "47"
   },
   {
     "Plemeno": "Francúzsky buldoček",
@@ -348,6 +348,10 @@
     "Počet": "4"
   },
   {
+    "Plemeno": "Havanský psík",
+    "Počet": "4"
+  },
+  {
     "Plemeno": "Írsky teriér",
     "Počet": "4"
   },
@@ -409,10 +413,6 @@
   },
   {
     "Plemeno": "Coton de Tuléar",
-    "Počet": "3"
-  },
-  {
-    "Plemeno": "Havanský psík",
     "Počet": "3"
   },
   {
