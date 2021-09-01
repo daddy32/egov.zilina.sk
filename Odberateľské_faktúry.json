@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "21027",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne august 2021, množ.: 30, jedn. cena: 1,5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.08.2021",
+    "Dátum_zverejnenia": "31.08.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "21028",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne august 2021, množ.: 30, jedn. cena: 14,5 EUR, spolu: 435 EUR",
+    "Celková_cena_(bez_DPH)": "   435,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.08.2021",
+    "Dátum_zverejnenia": "31.08.2021"
+  },
+  {
     "IČO": "36407470   ",
     "Číslo_faktúry": "20210091",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
