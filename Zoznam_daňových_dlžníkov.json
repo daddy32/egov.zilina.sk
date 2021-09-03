@@ -350,13 +350,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Roman Žucha",
-    "Adresa_dlžníka": "súp. č. 59",
-    "Mesto": "Rosina",
-    "Suma_daňových_nedoplatkov": "  10 016,29",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "LC Transport, s.r.o.",
     "Adresa_dlžníka": "Priemyselná 8523/2A",
     "Mesto": "Žilina",
@@ -375,6 +368,13 @@
     "Adresa_dlžníka": "Smreková 3502/33",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  9 843,69",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Roman Žucha",
+    "Adresa_dlžníka": "súp. č. 59",
+    "Mesto": "Rosina",
+    "Suma_daňových_nedoplatkov": "  9 724,89",
     "Mena": "EUR"
   },
   {
@@ -16345,13 +16345,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mgr. Martin Uličný",
-    "Adresa_dlžníka": "Jura Hronca 3409/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   143,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefánia Jaššová",
     "Adresa_dlžníka": "Antona Bernoláka 2180/56",
     "Mesto": "Žilina",
@@ -16475,6 +16468,13 @@
     "Adresa_dlžníka": "Vajanského 2767/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   79,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mgr. Martin Uličný",
+    "Adresa_dlžníka": "Jura Hronca 3409/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   79,50",
     "Mena": "EUR"
   },
   {
