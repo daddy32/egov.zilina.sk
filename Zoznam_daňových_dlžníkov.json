@@ -2086,13 +2086,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Zuzana Choleva",
-    "Adresa_dlžníka": "Karola Kmeťku 3150/2",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   482,51",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martina Cicková",
     "Adresa_dlžníka": "Bratislavská 515/50",
     "Mesto": "Žilina",
@@ -6346,6 +6339,13 @@
     "Adresa_dlžníka": "Moyzesova 969/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   314,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Zuzana Choleva",
+    "Adresa_dlžníka": "Karola Kmeťku 3150/2",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   314,51",
     "Mena": "EUR"
   },
   {
