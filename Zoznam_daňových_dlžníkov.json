@@ -2387,7 +2387,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Barbora Žillová",
+    "Dlžník": "Barbora Blaháková",
     "Adresa_dlžníka": "Pod Dúbravou 56/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   410,74",
@@ -11508,13 +11508,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ondrej Pevný",
-    "Adresa_dlžníka": "Janka Silana 1875/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   232,65",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Soňa Krištofová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16461,6 +16454,13 @@
     "Adresa_dlžníka": "Bláhova 459/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   89,12",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ondrej Pevný",
+    "Adresa_dlžníka": "Janka Silana 1875/27",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   87,10",
     "Mena": "EUR"
   },
   {

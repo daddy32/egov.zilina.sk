@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021037",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 8/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.09.2021",
+    "Dátum_zverejnenia": "06.09.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021038",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 8/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 90, jedn. cena: 4,5 EUR, spolu: 405 EUR,\rprenájom kabinetu za 8/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 8/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 90, jedn. cena: 7,5 EUR, spolu: 675 EUR",
+    "Celková_cena_(bez_DPH)": "  1 120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.09.2021",
+    "Dátum_zverejnenia": "06.09.2021"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021039",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 8/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 8/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.09.2021",
+    "Dátum_zverejnenia": "06.09.2021"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2021040",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prevádzkové náklady za 8/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR,\rprenájom priestorov za 8/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.09.2021",
+    "Dátum_zverejnenia": "06.09.2021"
+  },
+  {
+    "IČO": "37813358   ",
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Základná umelecká škola Ladislava Árvaya",
+    "Text_odb._faktúry": "nájom. učebňa, množ.: 1, jedn. cena: 2 EUR, spolu: 2 EUR",
+    "Celková_cena_(bez_DPH)": "   2,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.08.2021",
+    "Dátum_zverejnenia": "06.09.2021"
+  },
+  {
     "IČO": "37813358   ",
     "Číslo_faktúry": "2021002",
     "Odberateľ": "Základná umelecká škola Ladislava Árvaya",
