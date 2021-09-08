@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021021",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné za mesiac august 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a jej dodatku č. 3 zo dňa 28.6.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.09.2021",
+    "Dátum_zverejnenia": "07.09.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021022",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady za mesiac august 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a jej dodatku č. 3 zo dňa 28.6.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.09.2021",
+    "Dátum_zverejnenia": "07.09.2021"
+  },
+  {
     "IČO": "37905384   ",
     "Číslo_faktúry": "2021037",
     "Odberateľ": "Materská škola",
