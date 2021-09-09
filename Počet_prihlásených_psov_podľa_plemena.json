@@ -1,27 +1,27 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1025"
+    "Počet": "1024"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "344"
+    "Počet": "343"
   },
   {
     "Plemeno": "Nemecký ovčiak",
     "Počet": "258"
   },
   {
+    "Plemeno": "Labradorský retriever",
+    "Počet": "207"
+  },
+  {
     "Plemeno": "Maltézsky psík",
     "Počet": "207"
   },
   {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "206"
-  },
-  {
     "Plemeno": "Čivava",
-    "Počet": "131"
+    "Počet": "132"
   },
   {
     "Plemeno": "Jazvečík",
@@ -44,16 +44,16 @@
     "Počet": "63"
   },
   {
-    "Plemeno": "Shih - tzu",
-    "Počet": "62"
+    "Plemeno": "Miešanec",
+    "Počet": "63"
   },
   {
-    "Plemeno": "Miešanec",
-    "Počet": "62"
+    "Plemeno": "Shih - tzu",
+    "Počet": "61"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
-    "Počet": "55"
+    "Počet": "54"
   },
   {
     "Plemeno": "Bišónik",
@@ -65,15 +65,15 @@
   },
   {
     "Plemeno": "Anglický kokeršpaniel",
-    "Počet": "50"
+    "Počet": "49"
+  },
+  {
+    "Plemeno": "Francúzsky buldoček",
+    "Počet": "48"
   },
   {
     "Plemeno": "Bígl",
     "Počet": "47"
-  },
-  {
-    "Plemeno": "Francúzsky buldoček",
-    "Počet": "46"
   },
   {
     "Plemeno": "Nemecký špic",
@@ -97,11 +97,15 @@
   },
   {
     "Plemeno": "Weimarský stavač",
-    "Počet": "29"
+    "Počet": "30"
   },
   {
     "Plemeno": "Stredoázijský ovčiak",
     "Počet": "27"
+  },
+  {
+    "Plemeno": "Rotvajler",
+    "Počet": "26"
   },
   {
     "Plemeno": "Americký pitbulteriér",
@@ -109,10 +113,6 @@
   },
   {
     "Plemeno": "Bernský salašnícky pes",
-    "Počet": "25"
-  },
-  {
-    "Plemeno": "Rotvajler",
     "Počet": "25"
   },
   {
@@ -172,11 +172,11 @@
     "Počet": "14"
   },
   {
-    "Plemeno": "Nemecká doga",
-    "Počet": "14"
+    "Plemeno": "Belgický ovčiak",
+    "Počet": "13"
   },
   {
-    "Plemeno": "Belgický ovčiak",
+    "Plemeno": "Nemecká doga",
     "Počet": "13"
   },
   {
@@ -204,15 +204,15 @@
     "Počet": "12"
   },
   {
+    "Plemeno": "Pomeranian",
+    "Počet": "12"
+  },
+  {
     "Plemeno": "Čínsky chocholatý pes",
     "Počet": "11"
   },
   {
     "Plemeno": "Šarpej",
-    "Počet": "11"
-  },
-  {
-    "Plemeno": "Pomeranian",
     "Počet": "11"
   },
   {
@@ -669,6 +669,10 @@
   },
   {
     "Plemeno": "Slovenský hrubosrstý stavač",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Švajčiarský durič",
     "Počet": "1"
   },
   {
