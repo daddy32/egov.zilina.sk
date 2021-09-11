@@ -2828,13 +2828,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   338,79",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Eva Zavartkayová",
     "Adresa_dlžníka": "Mikovíniho 1158/31",
     "Mesto": "Žilina",
@@ -3028,6 +3021,13 @@
     "Adresa_dlžníka": "Bajzova 2420/25",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   322,92",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   322,16",
     "Mena": "EUR"
   },
   {
@@ -15666,13 +15666,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Božena Kováčiková",
-    "Adresa_dlžníka": "Pod Skalkou 401/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   169,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zuzana Štubňová",
     "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 894/13",
     "Mesto": "Žilina",
@@ -15866,6 +15859,13 @@
     "Adresa_dlžníka": "Nábrežie Rajčianky 447/30",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   167,29",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Božena Kováčiková",
+    "Adresa_dlžníka": "Pod Skalkou 401/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   167,09",
     "Mena": "EUR"
   },
   {
