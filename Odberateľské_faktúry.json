@@ -1,5 +1,95 @@
 [
   {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "21029",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne september 2021, množ.: 15, jedn. cena: 1,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   22,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "21030",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne september 2021, množ.: 15, jedn. cena: 14,5 EUR, spolu: 217,5 EUR",
+    "Celková_cena_(bez_DPH)": "   217,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210092",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 331,76 EUR, spolu: 331,76 EUR",
+    "Celková_cena_(bez_DPH)": "   331,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210093",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",
+    "Celková_cena_(bez_DPH)": "   89,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210094",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210095",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210096",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.09.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "36010057   ",
+    "Číslo_faktúry": "12021",
+    "Odberateľ": "A2B, s.r.o.",
+    "Text_odb._faktúry": "vývoz a likvidácia odpadovej vody zo žumpy 2021, množ.: 1, jedn. cena: 158,4 EUR, spolu: 158,4 EUR",
+    "Celková_cena_(bez_DPH)": "   158,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.08.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
+    "IČO": "31584705   ",
+    "Číslo_faktúry": "22021",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "vývoz a likvidácia odpadovej vody zo žumpy 2021, množ.: 1, jedn. cena: 22,18 EUR, spolu: 22,18 EUR",
+    "Celková_cena_(bez_DPH)": "   22,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.08.2021",
+    "Dátum_zverejnenia": "14.09.2021"
+  },
+  {
     "IČO": "50372700   ",
     "Číslo_faktúry": "2021021",
     "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
