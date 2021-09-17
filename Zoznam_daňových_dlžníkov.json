@@ -3010,13 +3010,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   322,16",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ai Tran Viet",
     "Adresa_dlžníka": "Námestie sv. Jána Bosca 65/74",
     "Mesto": "Žilina",
@@ -7123,6 +7116,13 @@
     "Adresa_dlžníka": "Bratislavská 513/42",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   306,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   305,53",
     "Mena": "EUR"
   },
   {
@@ -11281,13 +11281,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   237,48",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Gabriela Brozová",
-    "Adresa_dlžníka": "Horná Trnovská 450/66",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   236,63",
     "Mena": "EUR"
   },
   {
@@ -15848,13 +15841,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Božena Kováčiková",
-    "Adresa_dlžníka": "Pod Skalkou 401/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   167,09",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Szotkovski",
     "Adresa_dlžníka": "Juraja Závodského 461/61",
     "Mesto": "Žilina",
@@ -16086,6 +16072,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Božena Kováčiková",
+    "Adresa_dlžníka": "Pod Skalkou 401/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   164,82",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Róbert Majchrák",
     "Adresa_dlžníka": "Brezová 3764/63",
     "Mesto": "Žilina",
@@ -16307,6 +16300,13 @@
     "Adresa_dlžníka": "Gavlovičova 284/6",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   144,33",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Brozová",
+    "Adresa_dlžníka": "Horná Trnovská 450/66",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   135,11",
     "Mena": "EUR"
   },
   {
