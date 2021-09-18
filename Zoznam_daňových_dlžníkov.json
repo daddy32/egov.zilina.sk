@@ -318,7 +318,7 @@
     "Dlžník": "EJ BTS, s.r.o.",
     "Adresa_dlžníka": "Kamenná 2822/5",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  10 217,60",
+    "Suma_daňových_nedoplatkov": "  10 198,40",
     "Mena": "EUR"
   },
   {
@@ -532,13 +532,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "ASKY s.r.o.",
-    "Adresa_dlžníka": "Hlinská 3337/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  4 119,34",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Zuzana Halusková",
     "Adresa_dlžníka": "Beša súp. č. 31",
     "Mesto": "Levice",
@@ -613,6 +606,13 @@
     "Adresa_dlžníka": "Národná 671/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 362,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "ASKY s.r.o.",
+    "Adresa_dlžníka": "Hlinská 3337/27",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 332,26",
     "Mena": "EUR"
   },
   {
@@ -879,13 +879,6 @@
     "Adresa_dlžníka": "Fatranská 3102/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 001,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 000,00",
     "Mena": "EUR"
   },
   {
