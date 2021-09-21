@@ -1,11 +1,11 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1024"
+    "Počet": "1023"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "343"
+    "Počet": "342"
   },
   {
     "Plemeno": "Nemecký ovčiak",
@@ -13,11 +13,11 @@
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "207"
+    "Počet": "206"
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "207"
+    "Počet": "206"
   },
   {
     "Plemeno": "Čivava",
@@ -25,15 +25,15 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "110"
+    "Počet": "109"
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "97"
+    "Počet": "95"
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "86"
+    "Počet": "88"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -49,19 +49,19 @@
   },
   {
     "Plemeno": "Shih - tzu",
-    "Počet": "61"
+    "Počet": "60"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
     "Počet": "54"
   },
   {
-    "Plemeno": "Bišónik",
+    "Plemeno": "Trpasličí pinč",
     "Počet": "51"
   },
   {
-    "Plemeno": "Trpasličí pinč",
-    "Počet": "51"
+    "Plemeno": "Bišónik",
+    "Počet": "50"
   },
   {
     "Plemeno": "Anglický kokeršpaniel",
@@ -320,6 +320,10 @@
     "Počet": "5"
   },
   {
+    "Plemeno": "Šetlandský ovčiak",
+    "Počet": "5"
+  },
+  {
     "Plemeno": "Whippet",
     "Počet": "5"
   },
@@ -369,10 +373,6 @@
   },
   {
     "Plemeno": "Stavač",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Šetlandský ovčiak",
     "Počet": "4"
   },
   {
@@ -465,6 +465,10 @@
   },
   {
     "Plemeno": "Staroanglický ovčiarsky pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Austrálsky dobytkársky pes",
     "Počet": "2"
   },
   {
@@ -569,10 +573,6 @@
   },
   {
     "Plemeno": "Arabský chrt",
-    "Počet": "1"
-  },
-  {
-    "Plemeno": "Austrálsky dobytkársky pes",
     "Počet": "1"
   },
   {
