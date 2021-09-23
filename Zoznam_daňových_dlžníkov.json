@@ -602,13 +602,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "ASKY s.r.o.",
-    "Adresa_dlžníka": "Hlinská 3337/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 332,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jaroslav Buchta",
     "Adresa_dlžníka": "Krivánska",
     "Mesto": "Varín",
@@ -669,6 +662,13 @@
     "Adresa_dlžníka": "Tulská 2972/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 007,49",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "ASKY s.r.o.",
+    "Adresa_dlžníka": "Hlinská 3337/27",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 006,22",
     "Mena": "EUR"
   },
   {
@@ -1670,13 +1670,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   617,11",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Žaneta Balážová",
-    "Adresa_dlžníka": "Pivovarská 1066/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   616,84",
     "Mena": "EUR"
   },
   {
@@ -11459,13 +11452,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Milan Jaššo",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   232,32",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Denisa Orlická",
     "Adresa_dlžníka": "Minčolská 1782/1",
     "Mesto": "Žilina",
@@ -11813,6 +11799,13 @@
     "Adresa_dlžníka": "Osiková 3213/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   230,98",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Milan Jaššo",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   230,28",
     "Mena": "EUR"
   },
   {
@@ -12671,13 +12664,6 @@
   },
   {
     "Dlžník": "Michal Uradnik",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   216,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Zachar",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,98",
@@ -14609,6 +14595,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Ing. Kamil Gálik",
+    "Adresa_dlžníka": "Hečkova 2425/40",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   180,64",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Marcel Valiček",
     "Adresa_dlžníka": "Do Brezičia 352/20",
     "Mesto": "Žilina",
@@ -15239,13 +15232,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Bakoš",
-    "Adresa_dlžníka": "Smreková 3096/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   176,53",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Veronika Nwodo",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15271,13 +15257,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   175,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Kamil Gálik",
-    "Adresa_dlžníka": "Hečkova 2425/40",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   175,84",
     "Mena": "EUR"
   },
   {
@@ -15390,13 +15369,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   172,40",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Ján Bača, CSc.",
-    "Adresa_dlžníka": "Tichá 2179/4",
-    "Mesto": "Bratislava-Staré Mesto",
-    "Suma_daňových_nedoplatkov": "   172,27",
     "Mena": "EUR"
   },
   {
@@ -15782,13 +15754,6 @@
     "Adresa_dlžníka": "Veľká okružná 2130/86",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   167,50",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Daniela Hlubinová",
-    "Adresa_dlžníka": "Závodská cesta 3740/60",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   167,29",
     "Mena": "EUR"
   },
   {
@@ -16191,6 +16156,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jozef Bakoš",
+    "Adresa_dlžníka": "Smreková 3096/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   157,22",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Lukáš Hrtánek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16200,6 +16172,13 @@
   {
     "Dlžník": "Marianna Husárová",
     "Adresa_dlžníka": "Brodno 167/167",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   156,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michal Zachar",
+    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   156,26",
     "Mena": "EUR"
@@ -16251,6 +16230,13 @@
     "Adresa_dlžníka": "Moyzesova 963/28",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   149,46",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Daniela Hlubinová",
+    "Adresa_dlžníka": "Závodská cesta 3740/60",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   148,03",
     "Mena": "EUR"
   },
   {
