@@ -10878,13 +10878,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Závodský",
-    "Adresa_dlžníka": "Na Šefranici 1243/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   244,41",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marek Pekár",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15141,13 +15134,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Pavol Hruška",
-    "Adresa_dlžníka": "Moyzesova 926/55",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   178,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Juraj Ondruš",
     "Adresa_dlžníka": "Irkutská 1400/9",
     "Mesto": "Košice-Nad jazerom",
@@ -16401,6 +16387,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michal Závodský",
+    "Adresa_dlžníka": "Na Šefranici 1243/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   72,12",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Martin Pelikán",
     "Adresa_dlžníka": "Tatranská 3111/7",
     "Mesto": "Žilina",
@@ -16489,6 +16482,13 @@
     "Adresa_dlžníka": "Záhrbie 211/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   42,70",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Pavol Hruška",
+    "Adresa_dlžníka": "Moyzesova 926/55",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   40,59",
     "Mena": "EUR"
   },
   {

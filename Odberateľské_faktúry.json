@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210097",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 27224,5 EUR, spolu: 27224,5 EUR",
+    "Celková_cena_(bez_DPH)": "  27 224,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.09.2021",
+    "Dátum_zverejnenia": "24.09.2021"
+  },
+  {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2021006",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Slávia, nájom, množ.: 1, jedn. cena: 13,05 EUR, spolu: 13,05 EUR,\rSlávia, prev.naklady, množ.: 1, jedn. cena: 187,5 EUR, spolu: 187,5 EUR",
+    "Celková_cena_(bez_DPH)": "   200,55",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.09.2021",
+    "Dátum_zverejnenia": "24.09.2021"
+  },
+  {
     "IČO": "14222825   ",
     "Číslo_faktúry": "2021041",
     "Odberateľ": "TJ Mladosť Žilina",
