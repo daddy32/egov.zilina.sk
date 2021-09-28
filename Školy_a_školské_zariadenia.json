@@ -1,33 +1,298 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Škola": "Materská škola Cesta k vodojemu 4, Žilina",
+    "Adresa": "Cesta k vodojemu 386/4",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Jaroslava Rybáriková"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Rybné námestie 1/1",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Marta Haneli"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Študentská 3/15",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Marcela Čamatejová"
+  },
+  {
+    "Škola": "Materská škola, Dedinská 1/1, Žilina",
+    "Adresa": "Dedinská 1/1",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Dáša Klimeková"
+  },
+  {
+    "Škola": "Materská škola Kultúrna ulica 284/11, Žilina",
+    "Adresa": "Kultúrna 284/11",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Janka Slotová"
+  },
+  {
+    "Škola": "Materská škola Andreja Kmeťa Žilina",
+    "Adresa": "Andreja Kmeťa 324/15",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Alena Pazderníková"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Predmestská 1339/27",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mária Martinčeková"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Stavbárska 2328/4",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Daniela Cehlárová"
+  },
+  {
+    "Škola": "Materská škola, Puškinova 3A",
+    "Adresa": "",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Eva Koucká"
+  },
+  {
+    "Škola": "Materská škola Čajakova 4, Žilina",
+    "Adresa": "Čajakova 2173/4",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Mária Mihálková"
+  },
+  {
+    "Škola": "Materská škola, Bajzova 2983/9, Žilina",
+    "Adresa": "Bajzova 2416/9",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Viera Jombíková"
+  },
+  {
+    "Škola": "Základná škola, V. Javorku 32, Žilina",
+    "Adresa": "Vendelína Javorku 2535/32",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "RNDr. Jana Popluhárová Čellárová"
+  },
+  {
+    "Škola": "Materská škola Jarná 7, Žilina",
+    "Adresa": "Jarná 2602/7",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Janka Mikolajová"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Suvorovova 2797/20",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "PhDr. Renáta Migátová"
+  },
+  {
+    "Škola": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Adresa": "Námestie J. Borodáča 3872/6",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Drahomíra Filipová"
+  },
+  {
+    "Škola": "Materská škola Nám. Janka Borodáča 7, Žilina",
+    "Adresa": "Námestie J. Borodáča 8100/7",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Tatiana Faglicová"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Gemerská 1772/7",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Jana Krajčušková"
+  },
+  {
+    "Škola": "Materská škola, Trnavska 2993/21, Žilina",
+    "Adresa": "Trnavská 2993/21",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Elena Kubalová"
+  },
+  {
+    "Škola": "Materská škola",
+    "Adresa": "Limbová 3491/26",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Veronika Lovíšková"
+  },
+  {
+    "Škola": "Materská škola Ul. Petzvalova",
+    "Adresa": "Petzvalova 3382/8",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Silvia Jurášová"
+  },
+  {
+    "Škola": "Materská škola Zádubnie",
+    "Adresa": "Ku škôlke 196/11",
+    "Typ_školy": "Materská škola",
+    "Druh_školy": "Materská škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Denisa Kurňavová"
+  },
+  {
+    "Škola": "Základná škola, Do Stošky 8, Žilina",
+    "Adresa": "Do Stošky 231/8",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Ing. Ľubomír Krajčí"
+  },
+  {
+    "Škola": "Základná škola s materskou školou Brodno 110, Žilina",
+    "Adresa": "Brodňanská 110/17",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Janette Chupáčová"
+  },
+  {
+    "Škola": "Základná škola Slovenských dobrovoľníkov 122/7, Žilina",
+    "Adresa": "Slovenských dobrovoľníkov 122/7",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mária Luptáková"
+  },
+  {
+    "Škola": "Základná škola s materskou školou - Trnové",
+    "Adresa": "Dolná Trnovská 280/36",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Andrea Lehotská"
+  },
+  {
+    "Škola": "Základná škola s materskou školou, Školská 49, Žilina",
+    "Adresa": "Školská 1/49",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Eva Kubová"
+  },
+  {
+    "Škola": "Základná škola, Jarná 20, Žilina",
+    "Adresa": "Jarná 2599/20",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Ján Kotman"
+  },
+  {
+    "Škola": "Základná škola, Lichardova 24, Žilina",
+    "Adresa": "Lichardova 2805/24",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Ida Pavlovičová"
+  },
+  {
+    "Škola": "Základná škola s materskou školou - Sv. Gorazda",
+    "Adresa": "Sv. Gorazda 1671/1",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Jozef Englárt"
+  },
+  {
+    "Škola": "Základná škola Karpatská 11, Žilina",
+    "Adresa": "Karpatská 8063/11",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Eva Smolková, Mgr."
+  },
+  {
+    "Škola": "Základná škola - Martinská",
+    "Adresa": "Martinská 3130/20",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Beáta Veselská"
+  },
+  {
+    "Škola": "Základná škola s materskou školou, Gaštanová 56 Žilina",
+    "Adresa": "Gaštanová 3136/56",
+    "Typ_školy": "Základná škola s materskou školou",
+    "Druh_školy": "Základná škola s materskou školou",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Alena Tisoňová"
+  },
+  {
+    "Škola": "Základná škola Limbová Žilina",
+    "Adresa": "Limbová 3346/30",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Mgr. Janka Sliviaková"
+  },
+  {
+    "Škola": "Základná škola, Námestie mladosti 1, Žilina",
+    "Adresa": "Námestie mladosti 3467/1",
+    "Typ_školy": "Základná škola",
+    "Druh_školy": "Základná škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "PaedDr. Janka Kamenská Halečková"
+  },
+  {
+    "Škola": "Základná umelecká škola Ladislava Árvaya",
+    "Adresa": "Dolný val 202/12",
+    "Typ_školy": "Základná umelecká škola",
+    "Druh_školy": "Základná umelecká škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "PaedDr. Beáta Vörösová"
+  },
+  {
+    "Škola": "Základná umelecká škola Ferka Špániho",
+    "Adresa": "Martinská 1770/19",
+    "Typ_školy": "Základná umelecká škola",
+    "Druh_školy": "Základná umelecká škola",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": "Dagmar Wróbelová"
+  },
+  {
+    "Škola": "Centrum voľného času",
+    "Adresa": "Kuzmányho 105/4",
+    "Typ_školy": "Centrum voľného času",
+    "Druh_školy": "Centrum voľného času",
+    "Zriaďovateľ": "Mesto Žilina",
+    "Riaditeľ": ""
+  }
+]

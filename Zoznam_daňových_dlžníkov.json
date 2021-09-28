@@ -1869,13 +1869,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Džúdžiová",
-    "Adresa_dlžníka": "Bytčianska 107/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   548,11",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Jana Gavláková",
     "Adresa_dlžníka": "Lichardova 8507/26",
     "Mesto": "Žilina",
@@ -2118,6 +2111,13 @@
     "Adresa_dlžníka": "Bratislavská 512/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   464,34",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Džúdžiová",
+    "Adresa_dlžníka": "Bytčianska 107/9",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   462,94",
     "Mena": "EUR"
   },
   {
@@ -13160,13 +13160,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Sliviaková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   208,72",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Rišo",
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
@@ -16153,6 +16146,13 @@
     "Adresa_dlžníka": "Brodno 167/167",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   156,26",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Sliviaková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   154,82",
     "Mena": "EUR"
   },
   {

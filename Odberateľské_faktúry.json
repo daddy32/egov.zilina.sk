@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "",
+    "Číslo_faktúry": "20210098",
+    "Odberateľ": "Daniela Zemanová",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 175 EUR, spolu: 175 EUR",
+    "Celková_cena_(bez_DPH)": "   175,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.09.2021",
+    "Dátum_zverejnenia": "27.09.2021"
+  },
+  {
+    "IČO": "00176958   ",
+    "Číslo_faktúry": "20210099",
+    "Odberateľ": "Ľudové bytové družstvo v Žiline",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.09.2021",
+    "Dátum_zverejnenia": "27.09.2021"
+  },
+  {
+    "IČO": "00178152   ",
+    "Číslo_faktúry": "20210100",
+    "Odberateľ": "Slovenský zväz záhradkárov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 125 EUR, spolu: 125 EUR",
+    "Celková_cena_(bez_DPH)": "   125,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.09.2021",
+    "Dátum_zverejnenia": "27.09.2021"
+  },
+  {
     "IČO": "36407470   ",
     "Číslo_faktúry": "20210097",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
