@@ -827,8 +827,8 @@
   },
   {
     "Dlžník": "Karol Baránek",
-    "Adresa_dlžníka": "Na stave 947/7",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 1026A",
+    "Mesto": "Donovaly",
     "Suma_daňových_nedoplatkov": "  2 187,81",
     "Mena": "EUR"
   },
@@ -1586,13 +1586,6 @@
     "Adresa_dlžníka": "súp. č. 443",
     "Mesto": "Častkovce",
     "Suma_daňových_nedoplatkov": "   651,75",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michaela Nemcová",
-    "Adresa_dlžníka": "Limbová 3057/17",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   651,10",
     "Mena": "EUR"
   },
   {
@@ -8568,6 +8561,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Nemcová",
+    "Adresa_dlžníka": "Limbová 3057/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   291,26",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Jozef Tonka",
     "Adresa_dlžníka": "Bratislavská 8367/42A",
     "Mesto": "Žilina",
@@ -14130,13 +14130,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   191,43",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Katarína Šusteková",
-    "Adresa_dlžníka": "Karola Kmeťku 3150/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   190,96",
     "Mena": "EUR"
   },
   {
