@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210101",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.09.2021",
+    "Dátum_zverejnenia": "29.09.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210102",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.09.2021",
+    "Dátum_zverejnenia": "29.09.2021"
+  },
+  {
+    "IČO": "30229839   ",
+    "Číslo_faktúry": "20210103",
+    "Odberateľ": "Mestské divadlo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 163,57 EUR, spolu: 163,57 EUR",
+    "Celková_cena_(bez_DPH)": "   163,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.09.2021",
+    "Dátum_zverejnenia": "29.09.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210104",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: ,91 EUR, spolu: ,91 EUR",
+    "Celková_cena_(bez_DPH)": "   0,91",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.09.2021",
+    "Dátum_zverejnenia": "29.09.2021"
+  },
+  {
     "IČO": "",
     "Číslo_faktúry": "20210098",
     "Odberateľ": "Daniela Zemanová",

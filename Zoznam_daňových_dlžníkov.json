@@ -2758,13 +2758,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Júlia Frátriková",
-    "Adresa_dlžníka": "",
-    "Mesto": "",
-    "Suma_daňových_nedoplatkov": "   343,46",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Petra Vavriková",
     "Adresa_dlžníka": "Veľká okružná 1304/3",
     "Mesto": "Žilina",
@@ -2783,13 +2776,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   337,49",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Emília Žillová",
-    "Adresa_dlžníka": "Pod Dúbravou 56/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   336,90",
     "Mena": "EUR"
   },
   {
@@ -9913,8 +9899,8 @@
   },
   {
     "Dlžník": "Jaroslav Škubák",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Rúbanisko I 2185/20",
+    "Mesto": "Lučenec",
     "Suma_daňových_nedoplatkov": "   264,25",
     "Mena": "EUR"
   },
@@ -13351,6 +13337,13 @@
   {
     "Dlžník": "Diana Juríková",
     "Adresa_dlžníka": "Limbová 3057/15",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   202,98",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Emília Žillová",
+    "Adresa_dlžníka": "Pod Dúbravou 56/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   202,98",
     "Mena": "EUR"

@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1023"
+    "Počet": "1022"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -12,12 +12,12 @@
     "Počet": "258"
   },
   {
-    "Plemeno": "Labradorský retriever",
+    "Plemeno": "Maltézsky psík",
     "Počet": "206"
   },
   {
-    "Plemeno": "Maltézsky psík",
-    "Počet": "206"
+    "Plemeno": "Labradorský retriever",
+    "Počet": "205"
   },
   {
     "Plemeno": "Čivava",
@@ -236,10 +236,6 @@
     "Počet": "9"
   },
   {
-    "Plemeno": "Americký kokeršpaniel",
-    "Počet": "8"
-  },
-  {
     "Plemeno": "Bostonský teriér",
     "Počet": "8"
   },
@@ -250,6 +246,10 @@
   {
     "Plemeno": "Boxer",
     "Počet": "8"
+  },
+  {
+    "Plemeno": "Americký kokeršpaniel",
+    "Počet": "7"
   },
   {
     "Plemeno": "Írsky červený seter",
