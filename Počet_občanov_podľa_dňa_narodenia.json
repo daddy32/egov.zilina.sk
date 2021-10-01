@@ -1,33 +1,3662 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Deň": "01. január",
+    "Pohlavie": "muž",
+    "Počet": "130"
+  },
+  {
+    "Deň": "01. január",
+    "Pohlavie": "žena",
+    "Počet": "153"
+  },
+  {
+    "Deň": "02. január",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "02. január",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "03. január",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "03. január",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "04. január",
+    "Pohlavie": "muž",
+    "Počet": "119"
+  },
+  {
+    "Deň": "04. január",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "05. január",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "05. január",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "06. január",
+    "Pohlavie": "muž",
+    "Počet": "128"
+  },
+  {
+    "Deň": "06. január",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "07. január",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "07. január",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "08. január",
+    "Pohlavie": "muž",
+    "Počet": "134"
+  },
+  {
+    "Deň": "08. január",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "09. január",
+    "Pohlavie": "muž",
+    "Počet": "125"
+  },
+  {
+    "Deň": "09. január",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "10. január",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "10. január",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "11. január",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "11. január",
+    "Pohlavie": "žena",
+    "Počet": "134"
+  },
+  {
+    "Deň": "12. január",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "12. január",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "13. január",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "13. január",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "14. január",
+    "Pohlavie": "muž",
+    "Počet": "128"
+  },
+  {
+    "Deň": "14. január",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "15. január",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "15. január",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "16. január",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "16. január",
+    "Pohlavie": "žena",
+    "Počet": "109"
+  },
+  {
+    "Deň": "17. január",
+    "Pohlavie": "muž",
+    "Počet": "125"
+  },
+  {
+    "Deň": "17. január",
+    "Pohlavie": "žena",
+    "Počet": "134"
+  },
+  {
+    "Deň": "18. január",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "18. január",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "19. január",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "19. január",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "20. január",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "20. január",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "21. január",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "21. január",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "22. január",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "22. január",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "23. január",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "23. január",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "24. január",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "24. január",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "25. január",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "25. január",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  },
+  {
+    "Deň": "26. január",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "26. január",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "27. január",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "27. január",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "28. január",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "28. január",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "29. január",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "29. január",
+    "Pohlavie": "žena",
+    "Počet": "101"
+  },
+  {
+    "Deň": "30. január",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "30. január",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "31. január",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "31. január",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "01. február",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "01. február",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "02. február",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "02. február",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "03. február",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "03. február",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "04. február",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "04. február",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "05. február",
+    "Pohlavie": "muž",
+    "Počet": "87"
+  },
+  {
+    "Deň": "05. február",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "06. február",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "06. február",
+    "Pohlavie": "žena",
+    "Počet": "100"
+  },
+  {
+    "Deň": "07. február",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "07. február",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "08. február",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "08. február",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "09. február",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "09. február",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "10. február",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "10. február",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "11. február",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "11. február",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "12. február",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "12. február",
+    "Pohlavie": "žena",
+    "Počet": "135"
+  },
+  {
+    "Deň": "13. február",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "13. február",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "14. február",
+    "Pohlavie": "muž",
+    "Počet": "118"
+  },
+  {
+    "Deň": "14. február",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "15. február",
+    "Pohlavie": "muž",
+    "Počet": "116"
+  },
+  {
+    "Deň": "15. február",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "16. február",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "16. február",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "17. február",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "17. február",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "18. február",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "18. február",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "19. február",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "19. február",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "20. február",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "20. február",
+    "Pohlavie": "žena",
+    "Počet": "154"
+  },
+  {
+    "Deň": "21. február",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "21. február",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "22. február",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "22. február",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "23. február",
+    "Pohlavie": "muž",
+    "Počet": "128"
+  },
+  {
+    "Deň": "23. február",
+    "Pohlavie": "žena",
+    "Počet": "141"
+  },
+  {
+    "Deň": "24. február",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "24. február",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "25. február",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "25. február",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "26. február",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "26. február",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "27. február",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "27. február",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "28. február",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "28. február",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "29. február",
+    "Pohlavie": "muž",
+    "Počet": "26"
+  },
+  {
+    "Deň": "29. február",
+    "Pohlavie": "žena",
+    "Počet": "23"
+  },
+  {
+    "Deň": "01. marec",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "01. marec",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "02. marec",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "02. marec",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "03. marec",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "03. marec",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "04. marec",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "04. marec",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "05. marec",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "05. marec",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "06. marec",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "06. marec",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "07. marec",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "07. marec",
+    "Pohlavie": "žena",
+    "Počet": "101"
+  },
+  {
+    "Deň": "08. marec",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "08. marec",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "09. marec",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "09. marec",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "10. marec",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "10. marec",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "11. marec",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "11. marec",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "12. marec",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "12. marec",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "13. marec",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "13. marec",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "14. marec",
+    "Pohlavie": "muž",
+    "Počet": "94"
+  },
+  {
+    "Deň": "14. marec",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "15. marec",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "15. marec",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "16. marec",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "16. marec",
+    "Pohlavie": "žena",
+    "Počet": "136"
+  },
+  {
+    "Deň": "17. marec",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "17. marec",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "18. marec",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "18. marec",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "19. marec",
+    "Pohlavie": "muž",
+    "Počet": "139"
+  },
+  {
+    "Deň": "19. marec",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "20. marec",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "20. marec",
+    "Pohlavie": "žena",
+    "Počet": "132"
+  },
+  {
+    "Deň": "21. marec",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "21. marec",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "22. marec",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "22. marec",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "23. marec",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "23. marec",
+    "Pohlavie": "žena",
+    "Počet": "102"
+  },
+  {
+    "Deň": "24. marec",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "24. marec",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "25. marec",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "25. marec",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "26. marec",
+    "Pohlavie": "muž",
+    "Počet": "128"
+  },
+  {
+    "Deň": "26. marec",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "27. marec",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "27. marec",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "28. marec",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "28. marec",
+    "Pohlavie": "žena",
+    "Počet": "136"
+  },
+  {
+    "Deň": "29. marec",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "29. marec",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "30. marec",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "30. marec",
+    "Pohlavie": "žena",
+    "Počet": "134"
+  },
+  {
+    "Deň": "31. marec",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "31. marec",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "01. apríl",
+    "Pohlavie": "muž",
+    "Počet": "94"
+  },
+  {
+    "Deň": "01. apríl",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "02. apríl",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "02. apríl",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "03. apríl",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "03. apríl",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "04. apríl",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "04. apríl",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "05. apríl",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "05. apríl",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "06. apríl",
+    "Pohlavie": "muž",
+    "Počet": "130"
+  },
+  {
+    "Deň": "06. apríl",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "07. apríl",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "07. apríl",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "08. apríl",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "08. apríl",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "09. apríl",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "09. apríl",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "10. apríl",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "10. apríl",
+    "Pohlavie": "žena",
+    "Počet": "153"
+  },
+  {
+    "Deň": "11. apríl",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "11. apríl",
+    "Pohlavie": "žena",
+    "Počet": "134"
+  },
+  {
+    "Deň": "12. apríl",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "12. apríl",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "13. apríl",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "13. apríl",
+    "Pohlavie": "žena",
+    "Počet": "133"
+  },
+  {
+    "Deň": "14. apríl",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "14. apríl",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "15. apríl",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "15. apríl",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "16. apríl",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "16. apríl",
+    "Pohlavie": "žena",
+    "Počet": "136"
+  },
+  {
+    "Deň": "17. apríl",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "17. apríl",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "18. apríl",
+    "Pohlavie": "muž",
+    "Počet": "138"
+  },
+  {
+    "Deň": "18. apríl",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "19. apríl",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "19. apríl",
+    "Pohlavie": "žena",
+    "Počet": "137"
+  },
+  {
+    "Deň": "20. apríl",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "20. apríl",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "21. apríl",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "21. apríl",
+    "Pohlavie": "žena",
+    "Počet": "100"
+  },
+  {
+    "Deň": "22. apríl",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "22. apríl",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "23. apríl",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "23. apríl",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "24. apríl",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "24. apríl",
+    "Pohlavie": "žena",
+    "Počet": "135"
+  },
+  {
+    "Deň": "25. apríl",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "25. apríl",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "26. apríl",
+    "Pohlavie": "muž",
+    "Počet": "137"
+  },
+  {
+    "Deň": "26. apríl",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "27. apríl",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "27. apríl",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "28. apríl",
+    "Pohlavie": "muž",
+    "Počet": "132"
+  },
+  {
+    "Deň": "28. apríl",
+    "Pohlavie": "žena",
+    "Počet": "146"
+  },
+  {
+    "Deň": "29. apríl",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "29. apríl",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "30. apríl",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "30. apríl",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "01. máj",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "01. máj",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "02. máj",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "02. máj",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "03. máj",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "03. máj",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "04. máj",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "04. máj",
+    "Pohlavie": "žena",
+    "Počet": "136"
+  },
+  {
+    "Deň": "05. máj",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "05. máj",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "06. máj",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "06. máj",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "07. máj",
+    "Pohlavie": "muž",
+    "Počet": "136"
+  },
+  {
+    "Deň": "07. máj",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "08. máj",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "08. máj",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "09. máj",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "09. máj",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "10. máj",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "10. máj",
+    "Pohlavie": "žena",
+    "Počet": "145"
+  },
+  {
+    "Deň": "11. máj",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "11. máj",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "12. máj",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "12. máj",
+    "Pohlavie": "žena",
+    "Počet": "120"
+  },
+  {
+    "Deň": "13. máj",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "13. máj",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "14. máj",
+    "Pohlavie": "muž",
+    "Počet": "137"
+  },
+  {
+    "Deň": "14. máj",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "15. máj",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "15. máj",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "16. máj",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "16. máj",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "17. máj",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "17. máj",
+    "Pohlavie": "žena",
+    "Počet": "141"
+  },
+  {
+    "Deň": "18. máj",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "18. máj",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "19. máj",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "19. máj",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "20. máj",
+    "Pohlavie": "muž",
+    "Počet": "136"
+  },
+  {
+    "Deň": "20. máj",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "21. máj",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "21. máj",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "22. máj",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "22. máj",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "23. máj",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "23. máj",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "24. máj",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "24. máj",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "25. máj",
+    "Pohlavie": "muž",
+    "Počet": "131"
+  },
+  {
+    "Deň": "25. máj",
+    "Pohlavie": "žena",
+    "Počet": "120"
+  },
+  {
+    "Deň": "26. máj",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "26. máj",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "27. máj",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "27. máj",
+    "Pohlavie": "žena",
+    "Počet": "93"
+  },
+  {
+    "Deň": "28. máj",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "28. máj",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "29. máj",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "29. máj",
+    "Pohlavie": "žena",
+    "Počet": "132"
+  },
+  {
+    "Deň": "30. máj",
+    "Pohlavie": "muž",
+    "Počet": "135"
+  },
+  {
+    "Deň": "30. máj",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "31. máj",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "31. máj",
+    "Pohlavie": "žena",
+    "Počet": "120"
+  },
+  {
+    "Deň": "01. jún",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "01. jún",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "02. jún",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "02. jún",
+    "Pohlavie": "žena",
+    "Počet": "137"
+  },
+  {
+    "Deň": "03. jún",
+    "Pohlavie": "muž",
+    "Počet": "124"
+  },
+  {
+    "Deň": "03. jún",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "04. jún",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "04. jún",
+    "Pohlavie": "žena",
+    "Počet": "120"
+  },
+  {
+    "Deň": "05. jún",
+    "Pohlavie": "muž",
+    "Počet": "119"
+  },
+  {
+    "Deň": "05. jún",
+    "Pohlavie": "žena",
+    "Počet": "138"
+  },
+  {
+    "Deň": "06. jún",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "06. jún",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "07. jún",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "07. jún",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "08. jún",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "08. jún",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "09. jún",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "09. jún",
+    "Pohlavie": "žena",
+    "Počet": "138"
+  },
+  {
+    "Deň": "10. jún",
+    "Pohlavie": "muž",
+    "Počet": "124"
+  },
+  {
+    "Deň": "10. jún",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "11. jún",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "11. jún",
+    "Pohlavie": "žena",
+    "Počet": "97"
+  },
+  {
+    "Deň": "12. jún",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "12. jún",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "13. jún",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "13. jún",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "14. jún",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "14. jún",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "15. jún",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "15. jún",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "16. jún",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "16. jún",
+    "Pohlavie": "žena",
+    "Počet": "92"
+  },
+  {
+    "Deň": "17. jún",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "17. jún",
+    "Pohlavie": "žena",
+    "Počet": "134"
+  },
+  {
+    "Deň": "18. jún",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "18. jún",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "19. jún",
+    "Pohlavie": "muž",
+    "Počet": "116"
+  },
+  {
+    "Deň": "19. jún",
+    "Pohlavie": "žena",
+    "Počet": "102"
+  },
+  {
+    "Deň": "20. jún",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "20. jún",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "21. jún",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "21. jún",
+    "Pohlavie": "žena",
+    "Počet": "109"
+  },
+  {
+    "Deň": "22. jún",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "22. jún",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "23. jún",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "23. jún",
+    "Pohlavie": "žena",
+    "Počet": "136"
+  },
+  {
+    "Deň": "24. jún",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "24. jún",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "25. jún",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "25. jún",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "26. jún",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "26. jún",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "27. jún",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "27. jún",
+    "Pohlavie": "žena",
+    "Počet": "97"
+  },
+  {
+    "Deň": "28. jún",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "28. jún",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "29. jún",
+    "Pohlavie": "muž",
+    "Počet": "124"
+  },
+  {
+    "Deň": "29. jún",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "30. jún",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "30. jún",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "01. júl",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "01. júl",
+    "Pohlavie": "žena",
+    "Počet": "132"
+  },
+  {
+    "Deň": "02. júl",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "02. júl",
+    "Pohlavie": "žena",
+    "Počet": "120"
+  },
+  {
+    "Deň": "03. júl",
+    "Pohlavie": "muž",
+    "Počet": "132"
+  },
+  {
+    "Deň": "03. júl",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "04. júl",
+    "Pohlavie": "muž",
+    "Počet": "119"
+  },
+  {
+    "Deň": "04. júl",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "05. júl",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "05. júl",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "06. júl",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "06. júl",
+    "Pohlavie": "žena",
+    "Počet": "137"
+  },
+  {
+    "Deň": "07. júl",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "07. júl",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "08. júl",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "08. júl",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "09. júl",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "09. júl",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "10. júl",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "10. júl",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "11. júl",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "11. júl",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "12. júl",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "12. júl",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "13. júl",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "13. júl",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "14. júl",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "14. júl",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "15. júl",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "15. júl",
+    "Pohlavie": "žena",
+    "Počet": "143"
+  },
+  {
+    "Deň": "16. júl",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "16. júl",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "17. júl",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "17. júl",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "18. júl",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "18. júl",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "19. júl",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "19. júl",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "20. júl",
+    "Pohlavie": "muž",
+    "Počet": "125"
+  },
+  {
+    "Deň": "20. júl",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "21. júl",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "21. júl",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "22. júl",
+    "Pohlavie": "muž",
+    "Počet": "133"
+  },
+  {
+    "Deň": "22. júl",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "23. júl",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "23. júl",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "24. júl",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "24. júl",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "25. júl",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "25. júl",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "26. júl",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "26. júl",
+    "Pohlavie": "žena",
+    "Počet": "141"
+  },
+  {
+    "Deň": "27. júl",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "27. júl",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "28. júl",
+    "Pohlavie": "muž",
+    "Počet": "129"
+  },
+  {
+    "Deň": "28. júl",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "29. júl",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "29. júl",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "30. júl",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "30. júl",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "31. júl",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "31. júl",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "01. august",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "01. august",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "02. august",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "02. august",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "03. august",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "03. august",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "04. august",
+    "Pohlavie": "muž",
+    "Počet": "126"
+  },
+  {
+    "Deň": "04. august",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "05. august",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "05. august",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "06. august",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "06. august",
+    "Pohlavie": "žena",
+    "Počet": "94"
+  },
+  {
+    "Deň": "07. august",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "07. august",
+    "Pohlavie": "žena",
+    "Počet": "97"
+  },
+  {
+    "Deň": "08. august",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "08. august",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "09. august",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "09. august",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "10. august",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "10. august",
+    "Pohlavie": "žena",
+    "Počet": "135"
+  },
+  {
+    "Deň": "11. august",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "11. august",
+    "Pohlavie": "žena",
+    "Počet": "98"
+  },
+  {
+    "Deň": "12. august",
+    "Pohlavie": "muž",
+    "Počet": "80"
+  },
+  {
+    "Deň": "12. august",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "13. august",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "13. august",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "14. august",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "14. august",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "15. august",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "15. august",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "16. august",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "16. august",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "17. august",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "17. august",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "18. august",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "18. august",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "19. august",
+    "Pohlavie": "muž",
+    "Počet": "124"
+  },
+  {
+    "Deň": "19. august",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "20. august",
+    "Pohlavie": "muž",
+    "Počet": "92"
+  },
+  {
+    "Deň": "20. august",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "21. august",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "21. august",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "22. august",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "22. august",
+    "Pohlavie": "žena",
+    "Počet": "96"
+  },
+  {
+    "Deň": "23. august",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "23. august",
+    "Pohlavie": "žena",
+    "Počet": "85"
+  },
+  {
+    "Deň": "24. august",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "24. august",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "25. august",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "25. august",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "26. august",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "26. august",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "27. august",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "27. august",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "28. august",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "28. august",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "29. august",
+    "Pohlavie": "muž",
+    "Počet": "96"
+  },
+  {
+    "Deň": "29. august",
+    "Pohlavie": "žena",
+    "Počet": "100"
+  },
+  {
+    "Deň": "30. august",
+    "Pohlavie": "muž",
+    "Počet": "116"
+  },
+  {
+    "Deň": "30. august",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "31. august",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "31. august",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "01. september",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "01. september",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "02. september",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "02. september",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "03. september",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "03. september",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "04. september",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "04. september",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "05. september",
+    "Pohlavie": "muž",
+    "Počet": "118"
+  },
+  {
+    "Deň": "05. september",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "06. september",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "06. september",
+    "Pohlavie": "žena",
+    "Počet": "121"
+  },
+  {
+    "Deň": "07. september",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "07. september",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "08. september",
+    "Pohlavie": "muž",
+    "Počet": "84"
+  },
+  {
+    "Deň": "08. september",
+    "Pohlavie": "žena",
+    "Počet": "102"
+  },
+  {
+    "Deň": "09. september",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "09. september",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "10. september",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "10. september",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "11. september",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "11. september",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "12. september",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "12. september",
+    "Pohlavie": "žena",
+    "Počet": "142"
+  },
+  {
+    "Deň": "13. september",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "13. september",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "14. september",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "14. september",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "15. september",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "15. september",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "16. september",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "16. september",
+    "Pohlavie": "žena",
+    "Počet": "128"
+  },
+  {
+    "Deň": "17. september",
+    "Pohlavie": "muž",
+    "Počet": "135"
+  },
+  {
+    "Deň": "17. september",
+    "Pohlavie": "žena",
+    "Počet": "138"
+  },
+  {
+    "Deň": "18. september",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "18. september",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "19. september",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "19. september",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "20. september",
+    "Pohlavie": "muž",
+    "Počet": "127"
+  },
+  {
+    "Deň": "20. september",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "21. september",
+    "Pohlavie": "muž",
+    "Počet": "129"
+  },
+  {
+    "Deň": "21. september",
+    "Pohlavie": "žena",
+    "Počet": "130"
+  },
+  {
+    "Deň": "22. september",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "22. september",
+    "Pohlavie": "žena",
+    "Počet": "125"
+  },
+  {
+    "Deň": "23. september",
+    "Pohlavie": "muž",
+    "Počet": "124"
+  },
+  {
+    "Deň": "23. september",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "24. september",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "24. september",
+    "Pohlavie": "žena",
+    "Počet": "133"
+  },
+  {
+    "Deň": "25. september",
+    "Pohlavie": "muž",
+    "Počet": "138"
+  },
+  {
+    "Deň": "25. september",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "26. september",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "26. september",
+    "Pohlavie": "žena",
+    "Počet": "94"
+  },
+  {
+    "Deň": "27. september",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "27. september",
+    "Pohlavie": "žena",
+    "Počet": "141"
+  },
+  {
+    "Deň": "28. september",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "28. september",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "29. september",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "29. september",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "30. september",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "30. september",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "01. október",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "01. október",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "02. október",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "02. október",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "03. október",
+    "Pohlavie": "muž",
+    "Počet": "94"
+  },
+  {
+    "Deň": "03. október",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "04. október",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "04. október",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "05. október",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "05. október",
+    "Pohlavie": "žena",
+    "Počet": "113"
+  },
+  {
+    "Deň": "06. október",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "06. október",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "07. október",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "07. október",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "08. október",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "08. október",
+    "Pohlavie": "žena",
+    "Počet": "101"
+  },
+  {
+    "Deň": "09. október",
+    "Pohlavie": "muž",
+    "Počet": "89"
+  },
+  {
+    "Deň": "09. október",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "10. október",
+    "Pohlavie": "muž",
+    "Počet": "82"
+  },
+  {
+    "Deň": "10. október",
+    "Pohlavie": "žena",
+    "Počet": "95"
+  },
+  {
+    "Deň": "11. október",
+    "Pohlavie": "muž",
+    "Počet": "115"
+  },
+  {
+    "Deň": "11. október",
+    "Pohlavie": "žena",
+    "Počet": "127"
+  },
+  {
+    "Deň": "12. október",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "12. október",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "13. október",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "13. október",
+    "Pohlavie": "žena",
+    "Počet": "115"
+  },
+  {
+    "Deň": "14. október",
+    "Pohlavie": "muž",
+    "Počet": "94"
+  },
+  {
+    "Deň": "14. október",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "15. október",
+    "Pohlavie": "muž",
+    "Počet": "87"
+  },
+  {
+    "Deň": "15. október",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  },
+  {
+    "Deň": "16. október",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "16. október",
+    "Pohlavie": "žena",
+    "Počet": "87"
+  },
+  {
+    "Deň": "17. október",
+    "Pohlavie": "muž",
+    "Počet": "121"
+  },
+  {
+    "Deň": "17. október",
+    "Pohlavie": "žena",
+    "Počet": "93"
+  },
+  {
+    "Deň": "18. október",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "18. október",
+    "Pohlavie": "žena",
+    "Počet": "89"
+  },
+  {
+    "Deň": "19. október",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "19. október",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "20. október",
+    "Pohlavie": "muž",
+    "Počet": "89"
+  },
+  {
+    "Deň": "20. október",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "21. október",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "21. október",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "22. október",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "22. október",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "23. október",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "23. október",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "24. október",
+    "Pohlavie": "muž",
+    "Počet": "82"
+  },
+  {
+    "Deň": "24. október",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "25. október",
+    "Pohlavie": "muž",
+    "Počet": "89"
+  },
+  {
+    "Deň": "25. október",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "26. október",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "26. október",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  },
+  {
+    "Deň": "27. október",
+    "Pohlavie": "muž",
+    "Počet": "112"
+  },
+  {
+    "Deň": "27. október",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "28. október",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "28. október",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "29. október",
+    "Pohlavie": "muž",
+    "Počet": "90"
+  },
+  {
+    "Deň": "29. október",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "30. október",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "30. október",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "31. október",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "31. október",
+    "Pohlavie": "žena",
+    "Počet": "98"
+  },
+  {
+    "Deň": "01. november",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "01. november",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "02. november",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "02. november",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "03. november",
+    "Pohlavie": "muž",
+    "Počet": "126"
+  },
+  {
+    "Deň": "03. november",
+    "Pohlavie": "žena",
+    "Počet": "107"
+  },
+  {
+    "Deň": "04. november",
+    "Pohlavie": "muž",
+    "Počet": "107"
+  },
+  {
+    "Deň": "04. november",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "05. november",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "05. november",
+    "Pohlavie": "žena",
+    "Počet": "93"
+  },
+  {
+    "Deň": "06. november",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "06. november",
+    "Pohlavie": "žena",
+    "Počet": "126"
+  },
+  {
+    "Deň": "07. november",
+    "Pohlavie": "muž",
+    "Počet": "122"
+  },
+  {
+    "Deň": "07. november",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "08. november",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "08. november",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "09. november",
+    "Pohlavie": "muž",
+    "Počet": "123"
+  },
+  {
+    "Deň": "09. november",
+    "Pohlavie": "žena",
+    "Počet": "112"
+  },
+  {
+    "Deň": "10. november",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "10. november",
+    "Pohlavie": "žena",
+    "Počet": "129"
+  },
+  {
+    "Deň": "11. november",
+    "Pohlavie": "muž",
+    "Počet": "120"
+  },
+  {
+    "Deň": "11. november",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "12. november",
+    "Pohlavie": "muž",
+    "Počet": "80"
+  },
+  {
+    "Deň": "12. november",
+    "Pohlavie": "žena",
+    "Počet": "106"
+  },
+  {
+    "Deň": "13. november",
+    "Pohlavie": "muž",
+    "Počet": "71"
+  },
+  {
+    "Deň": "13. november",
+    "Pohlavie": "žena",
+    "Počet": "122"
+  },
+  {
+    "Deň": "14. november",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "14. november",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "15. november",
+    "Pohlavie": "muž",
+    "Počet": "94"
+  },
+  {
+    "Deň": "15. november",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "16. november",
+    "Pohlavie": "muž",
+    "Počet": "108"
+  },
+  {
+    "Deň": "16. november",
+    "Pohlavie": "žena",
+    "Počet": "93"
+  },
+  {
+    "Deň": "17. november",
+    "Pohlavie": "muž",
+    "Počet": "81"
+  },
+  {
+    "Deň": "17. november",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "18. november",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "18. november",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "19. november",
+    "Pohlavie": "muž",
+    "Počet": "89"
+  },
+  {
+    "Deň": "19. november",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "20. november",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "20. november",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "21. november",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "21. november",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "22. november",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "22. november",
+    "Pohlavie": "žena",
+    "Počet": "102"
+  },
+  {
+    "Deň": "23. november",
+    "Pohlavie": "muž",
+    "Počet": "99"
+  },
+  {
+    "Deň": "23. november",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "24. november",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "24. november",
+    "Pohlavie": "žena",
+    "Počet": "93"
+  },
+  {
+    "Deň": "25. november",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "25. november",
+    "Pohlavie": "žena",
+    "Počet": "119"
+  },
+  {
+    "Deň": "26. november",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "26. november",
+    "Pohlavie": "žena",
+    "Počet": "123"
+  },
+  {
+    "Deň": "27. november",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "27. november",
+    "Pohlavie": "žena",
+    "Počet": "110"
+  },
+  {
+    "Deň": "28. november",
+    "Pohlavie": "muž",
+    "Počet": "109"
+  },
+  {
+    "Deň": "28. november",
+    "Pohlavie": "žena",
+    "Počet": "81"
+  },
+  {
+    "Deň": "29. november",
+    "Pohlavie": "muž",
+    "Počet": "105"
+  },
+  {
+    "Deň": "29. november",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "30. november",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "30. november",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "01. december",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "01. december",
+    "Pohlavie": "žena",
+    "Počet": "116"
+  },
+  {
+    "Deň": "02. december",
+    "Pohlavie": "muž",
+    "Počet": "73"
+  },
+  {
+    "Deň": "02. december",
+    "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Deň": "03. december",
+    "Pohlavie": "muž",
+    "Počet": "95"
+  },
+  {
+    "Deň": "03. december",
+    "Pohlavie": "žena",
+    "Počet": "91"
+  },
+  {
+    "Deň": "04. december",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "04. december",
+    "Pohlavie": "žena",
+    "Počet": "98"
+  },
+  {
+    "Deň": "05. december",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "05. december",
+    "Pohlavie": "žena",
+    "Počet": "100"
+  },
+  {
+    "Deň": "06. december",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "06. december",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "07. december",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "07. december",
+    "Pohlavie": "žena",
+    "Počet": "94"
+  },
+  {
+    "Deň": "08. december",
+    "Pohlavie": "muž",
+    "Počet": "101"
+  },
+  {
+    "Deň": "08. december",
+    "Pohlavie": "žena",
+    "Počet": "111"
+  },
+  {
+    "Deň": "09. december",
+    "Pohlavie": "muž",
+    "Počet": "81"
+  },
+  {
+    "Deň": "09. december",
+    "Pohlavie": "žena",
+    "Počet": "97"
+  },
+  {
+    "Deň": "10. december",
+    "Pohlavie": "muž",
+    "Počet": "113"
+  },
+  {
+    "Deň": "10. december",
+    "Pohlavie": "žena",
+    "Počet": "88"
+  },
+  {
+    "Deň": "11. december",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "11. december",
+    "Pohlavie": "žena",
+    "Počet": "114"
+  },
+  {
+    "Deň": "12. december",
+    "Pohlavie": "muž",
+    "Počet": "86"
+  },
+  {
+    "Deň": "12. december",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "13. december",
+    "Pohlavie": "muž",
+    "Počet": "110"
+  },
+  {
+    "Deň": "13. december",
+    "Pohlavie": "žena",
+    "Počet": "109"
+  },
+  {
+    "Deň": "14. december",
+    "Pohlavie": "muž",
+    "Počet": "117"
+  },
+  {
+    "Deň": "14. december",
+    "Pohlavie": "žena",
+    "Počet": "97"
+  },
+  {
+    "Deň": "15. december",
+    "Pohlavie": "muž",
+    "Počet": "97"
+  },
+  {
+    "Deň": "15. december",
+    "Pohlavie": "žena",
+    "Počet": "117"
+  },
+  {
+    "Deň": "16. december",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "16. december",
+    "Pohlavie": "žena",
+    "Počet": "137"
+  },
+  {
+    "Deň": "17. december",
+    "Pohlavie": "muž",
+    "Počet": "102"
+  },
+  {
+    "Deň": "17. december",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  },
+  {
+    "Deň": "18. december",
+    "Pohlavie": "muž",
+    "Počet": "111"
+  },
+  {
+    "Deň": "18. december",
+    "Pohlavie": "žena",
+    "Počet": "94"
+  },
+  {
+    "Deň": "19. december",
+    "Pohlavie": "muž",
+    "Počet": "83"
+  },
+  {
+    "Deň": "19. december",
+    "Pohlavie": "žena",
+    "Počet": "131"
+  },
+  {
+    "Deň": "20. december",
+    "Pohlavie": "muž",
+    "Počet": "100"
+  },
+  {
+    "Deň": "20. december",
+    "Pohlavie": "žena",
+    "Počet": "124"
+  },
+  {
+    "Deň": "21. december",
+    "Pohlavie": "muž",
+    "Počet": "93"
+  },
+  {
+    "Deň": "21. december",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "22. december",
+    "Pohlavie": "muž",
+    "Počet": "103"
+  },
+  {
+    "Deň": "22. december",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  },
+  {
+    "Deň": "23. december",
+    "Pohlavie": "muž",
+    "Počet": "98"
+  },
+  {
+    "Deň": "23. december",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "24. december",
+    "Pohlavie": "muž",
+    "Počet": "104"
+  },
+  {
+    "Deň": "24. december",
+    "Pohlavie": "žena",
+    "Počet": "79"
+  },
+  {
+    "Deň": "25. december",
+    "Pohlavie": "muž",
+    "Počet": "82"
+  },
+  {
+    "Deň": "25. december",
+    "Pohlavie": "žena",
+    "Počet": "84"
+  },
+  {
+    "Deň": "26. december",
+    "Pohlavie": "muž",
+    "Počet": "91"
+  },
+  {
+    "Deň": "26. december",
+    "Pohlavie": "žena",
+    "Počet": "105"
+  },
+  {
+    "Deň": "27. december",
+    "Pohlavie": "muž",
+    "Počet": "86"
+  },
+  {
+    "Deň": "27. december",
+    "Pohlavie": "žena",
+    "Počet": "103"
+  },
+  {
+    "Deň": "28. december",
+    "Pohlavie": "muž",
+    "Počet": "114"
+  },
+  {
+    "Deň": "28. december",
+    "Pohlavie": "žena",
+    "Počet": "108"
+  },
+  {
+    "Deň": "29. december",
+    "Pohlavie": "muž",
+    "Počet": "106"
+  },
+  {
+    "Deň": "29. december",
+    "Pohlavie": "žena",
+    "Počet": "98"
+  },
+  {
+    "Deň": "30. december",
+    "Pohlavie": "muž",
+    "Počet": "89"
+  },
+  {
+    "Deň": "30. december",
+    "Pohlavie": "žena",
+    "Počet": "104"
+  },
+  {
+    "Deň": "31. december",
+    "Pohlavie": "muž",
+    "Počet": "77"
+  },
+  {
+    "Deň": "31. december",
+    "Pohlavie": "žena",
+    "Počet": "99"
+  }
+]
