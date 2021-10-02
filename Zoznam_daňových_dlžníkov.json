@@ -2583,13 +2583,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MUDr. Martin Hromec",
-    "Adresa_dlžníka": "Rumunskej armády 3891/1",
-    "Mesto": "Martin",
-    "Suma_daňových_nedoplatkov": "   370,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Marcel Javorský",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2755,6 +2748,13 @@
     "Adresa_dlžníka": "Majochova 2495/25",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   343,82",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "MUDr. Martin Hromec",
+    "Adresa_dlžníka": "Rumunskej armády 3891/1",
+    "Mesto": "Martin",
+    "Suma_daňových_nedoplatkov": "   342,99",
     "Mena": "EUR"
   },
   {
