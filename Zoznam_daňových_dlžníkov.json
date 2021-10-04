@@ -1648,7 +1648,7 @@
     "Dlžník": "Monika Krigovská",
     "Adresa_dlžníka": "Bytčianska 107/9",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   626,92",
+    "Suma_daňových_nedoplatkov": "   621,92",
     "Mena": "EUR"
   },
   {
@@ -15729,13 +15729,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Tomáš Kramar",
-    "Adresa_dlžníka": "Sasinkova 418/43",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,84",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Alena Novotná",
     "Adresa_dlžníka": "Nanterská 1682/3",
     "Mesto": "Žilina",
@@ -16153,6 +16146,13 @@
     "Adresa_dlžníka": "Bratislavská 8535/36A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   151,54",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Tomáš Kramar",
+    "Adresa_dlžníka": "Sasinkova 418/43",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   150,64",
     "Mena": "EUR"
   },
   {
