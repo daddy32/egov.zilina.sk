@@ -1,5 +1,125 @@
 [
   {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021045",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2021046",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21031",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 8.9., 22.9., 29.9. 2021, množ.: 4,5, jedn. cena: 4,5 EUR, spolu: 20,25 EUR,\rPrenájom priestorov - športové využitie v termíne 15.9.2021, množ.: 1,5, jedn. cena: 6,4 EUR, spolu: 9,6 EUR",
+    "Celková_cena_(bez_DPH)": "   29,85",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2021047",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21032",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 8.9., 22.9., 29.9. 2021, množ.: 4,5, jedn. cena: 14,5 EUR, spolu: 65,25 EUR,\rPrevádzkové náklady - športové využitie v termíne 15.9.2021, množ.: 1,5, jedn. cena: 15,6 EUR, spolu: 23,4 EUR",
+    "Celková_cena_(bez_DPH)": "   88,65",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "21033",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 16.9., 22.9., 23.9., 29.9., 30.09.2021, množ.: 7,5, jedn. cena: 1,5 EUR, spolu: 11,25 EUR",
+    "Celková_cena_(bez_DPH)": "   11,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "21034",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 16.9., 22.9., 23.9., 29.9., 30.9. 2021, množ.: 7,5, jedn. cena: 14,5 EUR, spolu: 108,75 EUR",
+    "Celková_cena_(bez_DPH)": "   108,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2021048",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prevádzkové náklady malú telocvičňu za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 2, jedn. cena: 4 EUR, spolu: 8 EUR,\rprenájom malej telocvične za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 2, jedn. cena: 1 EUR, spolu: 2 EUR,\rprevádzkové náklady veľkej telocvične za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 7,5 EUR, spolu: 30 EUR,\rprenájom veľkej telocvične za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 4,5 EUR, spolu: 18 EUR",
+    "Celková_cena_(bez_DPH)": "   58,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2021049",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 2, jedn. cena: 4,5 EUR, spolu: 9 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 2, jedn. cena: 7,5 EUR, spolu: 15 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021042",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021043",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 84, jedn. cena: 4,5 EUR, spolu: 378 EUR,\rprenájom kabinetu za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 84, jedn. cena: 7,5 EUR, spolu: 630 EUR",
+    "Celková_cena_(bez_DPH)": "  1 048,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
+    "IČO": "31925430   ",
+    "Číslo_faktúry": "2021044",
+    "Odberateľ": "Mládežnícky basketbalový klub Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 4,5 EUR, spolu: 27 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 7,5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   72,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_zverejnenia": "04.10.2021"
+  },
+  {
     "IČO": "00647713   ",
     "Číslo_faktúry": "20210101",
     "Odberateľ": "ÚSMEV - zariadenie pre seniorov",

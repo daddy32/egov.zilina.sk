@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "132"
+    "Počet": "131"
   },
   {
     "Plemeno": "Jazvečík",
@@ -108,11 +108,11 @@
     "Počet": "26"
   },
   {
-    "Plemeno": "Americký pitbulteriér",
-    "Počet": "26"
+    "Plemeno": "Bernský salašnícky pes",
+    "Počet": "25"
   },
   {
-    "Plemeno": "Bernský salašnícky pes",
+    "Plemeno": "Americký pitbulteriér",
     "Počet": "25"
   },
   {
@@ -480,10 +480,6 @@
     "Počet": "2"
   },
   {
-    "Plemeno": "Borderský teriér",
-    "Počet": "2"
-  },
-  {
     "Plemeno": "Briard",
     "Počet": "2"
   },
@@ -589,6 +585,10 @@
   },
   {
     "Plemeno": "Blenheimský španiel Kráľ Karol",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Borderský teriér",
     "Počet": "1"
   },
   {
