@@ -1365,13 +1365,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Lenko",
-    "Adresa_dlžníka": "Ďurka Langsfelda 187/27",
-    "Mesto": "Sučany",
-    "Suma_daňových_nedoplatkov": "   779,44",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucia Štrkáčová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1922,6 +1915,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   518,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Róbert Lenko",
+    "Adresa_dlžníka": "Ďurka Langsfelda 187/27",
+    "Mesto": "Sučany",
+    "Suma_daňových_nedoplatkov": "   518,08",
     "Mena": "EUR"
   },
   {
@@ -12065,13 +12065,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   217,79",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "IRMA s.r.o.",
-    "Adresa_dlžníka": "Komenského 22",
-    "Mesto": "Komárno",
-    "Suma_daňových_nedoplatkov": "   217,72",
     "Mena": "EUR"
   },
   {

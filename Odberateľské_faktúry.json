@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210105",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.10.2021",
+    "Dátum_zverejnenia": "05.10.2021"
+  },
+  {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2021007",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 4,35 EUR, spolu: 4,35 EUR,\rPrevádzkové náklady, množ.: 1, jedn. cena: 52,5 EUR, spolu: 52,5 EUR",
+    "Celková_cena_(bez_DPH)": "   56,85",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.10.2021",
+    "Dátum_zverejnenia": "05.10.2021"
+  },
+  {
     "IČO": "42433495   ",
     "Číslo_faktúry": "2021045",
     "Odberateľ": "Súkromná základná umelecká škola",
