@@ -1,5 +1,365 @@
 [
   {
+    "IČO": "",
+    "Číslo_faktúry": "20210132",
+    "Odberateľ": "Peter Kuchár",
+    "Text_odb._faktúry": "množ.: 226, jedn. cena: 1,21 EUR, spolu: 273,46 EUR",
+    "Celková_cena_(bez_DPH)": "   273,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "00169048   ",
+    "Číslo_faktúry": "20210133",
+    "Odberateľ": "COOP Jednota Žilina, spotrebné družstvo",
+    "Text_odb._faktúry": "množ.: 56, jedn. cena: 1,21 EUR, spolu: 67,76 EUR",
+    "Celková_cena_(bez_DPH)": "   67,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210134",
+    "Odberateľ": "Mgr. Daša Hámorská",
+    "Text_odb._faktúry": "množ.: 65, jedn. cena: 1,21 EUR, spolu: 78,65 EUR",
+    "Celková_cena_(bez_DPH)": "   78,65",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210135",
+    "Odberateľ": "Ľudmila Višňovská",
+    "Text_odb._faktúry": "množ.: 162, jedn. cena: 1,21 EUR, spolu: 196,02 EUR",
+    "Celková_cena_(bez_DPH)": "   196,02",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210136",
+    "Odberateľ": "Ing. Ján Holeš",
+    "Text_odb._faktúry": "množ.: 66, jedn. cena: 1,21 EUR, spolu: 79,86 EUR",
+    "Celková_cena_(bez_DPH)": "   79,86",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210113",
+    "Odberateľ": "Miroslav Niník",
+    "Text_odb._faktúry": "množ.: 272, jedn. cena: 1,21 EUR, spolu: 329,12 EUR",
+    "Celková_cena_(bez_DPH)": "   329,12",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210114",
+    "Odberateľ": "Jozef Virdzek",
+    "Text_odb._faktúry": "množ.: 105,2, jedn. cena: 1,21 EUR, spolu: 127,29 EUR",
+    "Celková_cena_(bez_DPH)": "   127,29",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210115",
+    "Odberateľ": "Anna Kubová",
+    "Text_odb._faktúry": "množ.: 19, jedn. cena: 1,21 EUR, spolu: 22,99 EUR",
+    "Celková_cena_(bez_DPH)": "   22,99",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210116",
+    "Odberateľ": "Stanislav Januš",
+    "Text_odb._faktúry": "množ.: 68, jedn. cena: 1,21 EUR, spolu: 82,28 EUR",
+    "Celková_cena_(bez_DPH)": "   82,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210117",
+    "Odberateľ": "Janka Timková",
+    "Text_odb._faktúry": "množ.: 204, jedn. cena: 1,21 EUR, spolu: 246,84 EUR",
+    "Celková_cena_(bez_DPH)": "   246,84",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210118",
+    "Odberateľ": "Renáta Hudecová",
+    "Text_odb._faktúry": "množ.: 102, jedn. cena: 1,21 EUR, spolu: 123,42 EUR",
+    "Celková_cena_(bez_DPH)": "   123,42",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210119",
+    "Odberateľ": "Margita Garbárová",
+    "Text_odb._faktúry": "množ.: 73,4, jedn. cena: 1,21 EUR, spolu: 88,81 EUR",
+    "Celková_cena_(bez_DPH)": "   88,81",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210120",
+    "Odberateľ": "Marcel Ďurkovský",
+    "Text_odb._faktúry": "množ.: 238, jedn. cena: 1,21 EUR, spolu: 287,98 EUR",
+    "Celková_cena_(bez_DPH)": "   287,98",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210121",
+    "Odberateľ": "Ing. Tomáš Škoda",
+    "Text_odb._faktúry": "množ.: 201, jedn. cena: 1,21 EUR, spolu: 243,21 EUR",
+    "Celková_cena_(bez_DPH)": "   243,21",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210122",
+    "Odberateľ": "Peter Belanec",
+    "Text_odb._faktúry": "množ.: 102, jedn. cena: 1,21 EUR, spolu: 123,42 EUR",
+    "Celková_cena_(bez_DPH)": "   123,42",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210123",
+    "Odberateľ": "Roman Jurkovič",
+    "Text_odb._faktúry": "množ.: 19, jedn. cena: 1,21 EUR, spolu: 22,99 EUR",
+    "Celková_cena_(bez_DPH)": "   22,99",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210124",
+    "Odberateľ": "Jarmila Chvasteková",
+    "Text_odb._faktúry": "množ.: 34, jedn. cena: 1,21 EUR, spolu: 41,14 EUR",
+    "Celková_cena_(bez_DPH)": "   41,14",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021023",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné za mesiac september 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021024",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady za mesiac september 2021 v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210125",
+    "Odberateľ": "Iveta Belancová",
+    "Text_odb._faktúry": "množ.: 68, jedn. cena: 1,21 EUR, spolu: 82,28 EUR",
+    "Celková_cena_(bez_DPH)": "   82,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210126",
+    "Odberateľ": "Peter Hrošovský",
+    "Text_odb._faktúry": "množ.: 68, jedn. cena: 1,21 EUR, spolu: 82,28 EUR",
+    "Celková_cena_(bez_DPH)": "   82,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "37811789   ",
+    "Číslo_faktúry": "20210127",
+    "Odberateľ": "Základná škola s materskou školou Brodno 110, Žilina",
+    "Text_odb._faktúry": "množ.: 642, jedn. cena: 1,21 EUR, spolu: 776,82 EUR",
+    "Celková_cena_(bez_DPH)": "   776,82",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2021025",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021, množ.: 1, jedn. cena: 12 EUR, spolu: 12 EUR",
+    "Celková_cena_(bez_DPH)": "   12,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2021026",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021, množ.: 1, jedn. cena: 22,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   22,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210128",
+    "Odberateľ": "Vlasta Prandová",
+    "Text_odb._faktúry": "množ.: 55, jedn. cena: 1,21 EUR, spolu: 66,55 EUR",
+    "Celková_cena_(bez_DPH)": "   66,55",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210129",
+    "Odberateľ": "Jarmila Husárová",
+    "Text_odb._faktúry": "množ.: 137, jedn. cena: 1,21 EUR, spolu: 165,77 EUR",
+    "Celková_cena_(bez_DPH)": "   165,77",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210130",
+    "Odberateľ": "Maroš Maljar",
+    "Text_odb._faktúry": "množ.: 120, jedn. cena: 1,21 EUR, spolu: 145,2 EUR",
+    "Celková_cena_(bez_DPH)": "   145,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210131",
+    "Odberateľ": "Rudolf Husár",
+    "Text_odb._faktúry": "množ.: 97, jedn. cena: 1,21 EUR, spolu: 117,37 EUR",
+    "Celková_cena_(bez_DPH)": "   117,37",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210108",
+    "Odberateľ": "Ing. Ján Tabak",
+    "Text_odb._faktúry": "množ.: 204, jedn. cena: 1,21 EUR, spolu: 246,84 EUR",
+    "Celková_cena_(bez_DPH)": "   246,84",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210109",
+    "Odberateľ": "Alžbeta Michalcová",
+    "Text_odb._faktúry": "množ.: 68, jedn. cena: 1,21 EUR, spolu: 82,28 EUR",
+    "Celková_cena_(bez_DPH)": "   82,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210110",
+    "Odberateľ": "Ing. Martin Malatinský",
+    "Text_odb._faktúry": "množ.: 205,44, jedn. cena: 1,21 EUR, spolu: 248,58 EUR",
+    "Celková_cena_(bez_DPH)": "   248,58",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210111",
+    "Odberateľ": "Ján Koháry",
+    "Text_odb._faktúry": "množ.: 68, jedn. cena: 1,21 EUR, spolu: 82,28 EUR",
+    "Celková_cena_(bez_DPH)": "   82,28",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210112",
+    "Odberateľ": "Marian Slučik",
+    "Text_odb._faktúry": "množ.: 19, jedn. cena: 1,21 EUR, spolu: 22,99 EUR",
+    "Celková_cena_(bez_DPH)": "   22,99",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "37740881   ",
+    "Číslo_faktúry": "2021003",
+    "Odberateľ": "Veronika Čech-Špirková",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 12,11 EUR, spolu: 12,11 EUR,\rStočné, množ.: 1, jedn. cena: 13,14 EUR, spolu: 13,14 EUR,\rTeplo, množ.: 1, jedn. cena: 24,85 EUR, spolu: 24,85 EUR",
+    "Celková_cena_(bez_DPH)": "   50,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210106",
+    "Odberateľ": "Karol Minárik",
+    "Text_odb._faktúry": "množ.: 102, jedn. cena: 1,21 EUR, spolu: 123,42 EUR",
+    "Celková_cena_(bez_DPH)": "   123,42",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210107",
+    "Odberateľ": "Mgr. Anna Hrošovská",
+    "Text_odb._faktúry": "množ.: 136, jedn. cena: 1,21 EUR, spolu: 164,56 EUR",
+    "Celková_cena_(bez_DPH)": "   164,56",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "06.10.2021"
+  },
+  {
     "IČO": "47204346   ",
     "Číslo_faktúry": "20210105",
     "Odberateľ": "COMWOY REAL, s.r.o.",
