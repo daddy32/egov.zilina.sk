@@ -1,6 +1,46 @@
 [
   {
     "IČO": "",
+    "Číslo_faktúry": "2021027",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 21/2021 zo dňa 6.9.2021 za obdobie september 2021, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "07.10.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021028",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 21/2021 zo dňa 6.9.2021 za mesiac september 2021, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "07.10.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021029",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za mesiac september 2021, množ.: 1, jedn. cena: 12 EUR, spolu: 12 EUR",
+    "Celková_cena_(bez_DPH)": "   12,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "07.10.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021030",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie september 2021, množ.: 1, jedn. cena: 22,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   22,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.10.2021",
+    "Dátum_zverejnenia": "07.10.2021"
+  },
+  {
+    "IČO": "",
     "Číslo_faktúry": "20210132",
     "Odberateľ": "Peter Kuchár",
     "Text_odb._faktúry": "množ.: 226, jedn. cena: 1,21 EUR, spolu: 273,46 EUR",
@@ -133,8 +173,8 @@
     "IČO": "",
     "Číslo_faktúry": "20210121",
     "Odberateľ": "Ing. Tomáš Škoda",
-    "Text_odb._faktúry": "množ.: 201, jedn. cena: 1,21 EUR, spolu: 243,21 EUR",
-    "Celková_cena_(bez_DPH)": "   243,21",
+    "Text_odb._faktúry": "množ.: 204, jedn. cena: 1,21 EUR, spolu: 246,84 EUR",
+    "Celková_cena_(bez_DPH)": "   246,84",
     "Mena": "EUR",
     "Dátum_vystavenia": "06.10.2021",
     "Dátum_zverejnenia": "06.10.2021"
@@ -410,16 +450,6 @@
     "Dátum_zverejnenia": "04.10.2021"
   },
   {
-    "IČO": "37905082   ",
-    "Číslo_faktúry": "2021047",
-    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
-    "Text_odb._faktúry": "prevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
-    "Celková_cena_(bez_DPH)": "   350,00",
-    "Mena": "EUR",
-    "Dátum_vystavenia": "04.10.2021",
-    "Dátum_zverejnenia": "04.10.2021"
-  },
-  {
     "IČO": "37812050   ",
     "Číslo_faktúry": "21032",
     "Odberateľ": "Športový klub MAKROTEAM",
@@ -453,10 +483,10 @@
     "IČO": "37810961   ",
     "Číslo_faktúry": "2021048",
     "Odberateľ": "Centrum voľného času",
-    "Text_odb._faktúry": "prevádzkové náklady malú telocvičňu za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 2, jedn. cena: 4 EUR, spolu: 8 EUR,\rprenájom malej telocvične za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 2, jedn. cena: 1 EUR, spolu: 2 EUR,\rprevádzkové náklady veľkej telocvične za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 7,5 EUR, spolu: 30 EUR,\rprenájom veľkej telocvične za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 4,5 EUR, spolu: 18 EUR",
-    "Celková_cena_(bez_DPH)": "   58,00",
+    "Text_odb._faktúry": "prevádzkové náklady malú telocvičňu za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 4 EUR, spolu: 16 EUR,\rprenájom malej telocvične za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 1 EUR, spolu: 4 EUR",
+    "Celková_cena_(bez_DPH)": "   20,00",
     "Mena": "EUR",
-    "Dátum_vystavenia": "04.10.2021",
+    "Dátum_vystavenia": "07.10.2021",
     "Dátum_zverejnenia": "04.10.2021"
   },
   {
