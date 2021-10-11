@@ -1,22 +1,22 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1024"
+    "Počet": "1021"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "342"
+    "Počet": "343"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "258"
-  },
-  {
-    "Plemeno": "Maltézsky psík",
-    "Počet": "206"
+    "Počet": "259"
   },
   {
     "Plemeno": "Labradorský retriever",
+    "Počet": "205"
+  },
+  {
+    "Plemeno": "Maltézsky psík",
     "Počet": "205"
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "109"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -45,7 +45,7 @@
   },
   {
     "Plemeno": "Miešanec",
-    "Počet": "63"
+    "Počet": "62"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -53,14 +53,14 @@
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
-    "Počet": "54"
-  },
-  {
-    "Plemeno": "Bišónik",
-    "Počet": "51"
+    "Počet": "53"
   },
   {
     "Plemeno": "Trpasličí pinč",
+    "Počet": "52"
+  },
+  {
+    "Plemeno": "Bišónik",
     "Počet": "51"
   },
   {
@@ -68,11 +68,11 @@
     "Počet": "48"
   },
   {
-    "Plemeno": "Anglický kokeršpaniel",
-    "Počet": "48"
+    "Plemeno": "Bígl",
+    "Počet": "47"
   },
   {
-    "Plemeno": "Bígl",
+    "Plemeno": "Anglický kokeršpaniel",
     "Počet": "47"
   },
   {
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "33"
+    "Počet": "32"
   },
   {
     "Plemeno": "Mops",
@@ -141,11 +141,11 @@
   },
   {
     "Plemeno": "Slovenský čuvač",
-    "Počet": "18"
+    "Počet": "19"
   },
   {
     "Plemeno": "Pražský krysařík",
-    "Počet": "17"
+    "Počet": "18"
   },
   {
     "Plemeno": "Teriér",
@@ -156,15 +156,15 @@
     "Počet": "16"
   },
   {
-    "Plemeno": "Nemecký boxer",
-    "Počet": "16"
-  },
-  {
     "Plemeno": "Bavorský farbiar",
     "Počet": "15"
   },
   {
     "Plemeno": "Lhasa apso",
+    "Počet": "15"
+  },
+  {
+    "Plemeno": "Nemecký boxer",
     "Počet": "15"
   },
   {
@@ -228,6 +228,10 @@
     "Počet": "9"
   },
   {
+    "Plemeno": "Foxteriér",
+    "Počet": "9"
+  },
+  {
     "Plemeno": "Kavkazský ovčiak",
     "Počet": "9"
   },
@@ -237,10 +241,6 @@
   },
   {
     "Plemeno": "Bostonský teriér",
-    "Počet": "8"
-  },
-  {
-    "Plemeno": "Foxteriér",
     "Počet": "8"
   },
   {
@@ -332,6 +332,10 @@
     "Počet": "5"
   },
   {
+    "Plemeno": "Westhighland white teriér",
+    "Počet": "5"
+  },
+  {
     "Plemeno": "Biewer jorkšírsky teriér",
     "Počet": "5"
   },
@@ -381,10 +385,6 @@
   },
   {
     "Plemeno": "Waleský špringeršpaniel",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Westhighland white teriér",
     "Počet": "4"
   },
   {
