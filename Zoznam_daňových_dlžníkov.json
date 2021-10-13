@@ -738,7 +738,7 @@
     "Dlžník": "EMP, s. r. o.",
     "Adresa_dlžníka": "M. R. Štefánika 3560/109",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 504,29",
+    "Suma_daňových_nedoplatkov": "  2 501,18",
     "Mena": "EUR"
   },
   {
@@ -1431,7 +1431,7 @@
     "Dlžník": "Božena Danielová",
     "Adresa_dlžníka": "Dadanova 3385/3",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   739,95",
+    "Suma_daňových_nedoplatkov": "   727,86",
     "Mena": "EUR"
   },
   {
@@ -10080,13 +10080,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michaela Gráčová",
-    "Adresa_dlžníka": "Tatranská 3111/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   260,10",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Michal Katrenec",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11081,6 +11074,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michaela Gráčová",
+    "Adresa_dlžníka": "Tatranská 3111/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   240,10",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ján Sedlaček",
     "Adresa_dlžníka": "Borová 3203/29",
     "Mesto": "Žilina",
@@ -12009,13 +12009,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   221,00",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubomír Šefár",
-    "Adresa_dlžníka": "Belanovce súp. č. 360",
-    "Mesto": "Povina",
-    "Suma_daňových_nedoplatkov": "   220,93",
     "Mena": "EUR"
   },
   {
@@ -14252,13 +14245,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Dubec",
-    "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   187,07",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Eva Pecková",
     "Adresa_dlžníka": "Jarná 2604/10",
     "Mesto": "Žilina",
@@ -16258,6 +16244,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   105,84",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Dubec",
+    "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   104,67",
     "Mena": "EUR"
   },
   {
