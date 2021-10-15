@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "40975649   ",
+    "Číslo_faktúry": "20210137",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 41, jedn. cena: ,5 EUR, spolu: 20,5 EUR",
+    "Celková_cena_(bez_DPH)": "   20,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.10.2021",
+    "Dátum_zverejnenia": "14.10.2021"
+  },
+  {
+    "IČO": "35079886   ",
+    "Číslo_faktúry": "20210138",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 47, jedn. cena: ,5 EUR, spolu: 23,5 EUR",
+    "Celková_cena_(bez_DPH)": "   23,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.10.2021",
+    "Dátum_zverejnenia": "14.10.2021"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2021050",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 9/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 59, jedn. cena: 1 EUR, spolu: 59 EUR,\rprevádzkové náklady za 9/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 59, jedn. cena: 4 EUR, spolu: 236 EUR",
+    "Celková_cena_(bez_DPH)": "   295,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.10.2021",
+    "Dátum_zverejnenia": "14.10.2021"
+  },
+  {
     "IČO": "",
     "Číslo_faktúry": "2021027",
     "Odberateľ": "Mgr. Michal Súčan",
