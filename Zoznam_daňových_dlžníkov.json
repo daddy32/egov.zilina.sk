@@ -238,13 +238,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ekostav Slovakia, spol. s. r. o.",
-    "Adresa_dlžníka": "Litovelská súp. č. 871",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  11 795,58",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Walker, s.r.o.",
     "Adresa_dlžníka": "Kysucká 536/1",
     "Mesto": "Žilina",
@@ -452,6 +445,13 @@
     "Adresa_dlžníka": "Kremnická 24",
     "Mesto": "Bratislava V",
     "Suma_daňových_nedoplatkov": "  6 019,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ekostav Slovakia, spol. s. r. o.",
+    "Adresa_dlžníka": "Litovelská súp. č. 871",
+    "Mesto": "Kysucké Nové Mesto",
+    "Suma_daňových_nedoplatkov": "  5 787,57",
     "Mena": "EUR"
   },
   {
