@@ -1,23 +1,33 @@
-[
-  {
-    "Mena": "EUR",
-    "Druh_v√Ωdavkov": "Podiel be≈æn√Ωch v√Ωdavkov na celkov√Ωch v√Ωdavkoch",
-    "V√Ω≈°ka_v√Ωdavkov": " 45 658 635,00",
-    "Celkov√©_v√Ωdavky": " 57 127 654,00",
-    "Podiel_na_celk._v√Ωdav._[%]": "79,92"
-  },
-  {
-    "Mena": "EUR",
-    "Druh_v√Ωdavkov": "Podiel kapit√°lov√Ωch v√Ωdavkov na celkov√Ωch v√Ωdavkoch",
-    "V√Ω≈°ka_v√Ωdavkov": " 8 721 235,00",
-    "Celkov√©_v√Ωdavky": " 57 127 654,00",
-    "Podiel_na_celk._v√Ωdav._[%]": "15,27"
-  },
-  {
-    "Mena": "EUR",
-    "Druh_v√Ωdavkov": "Podiel v√Ωd. z transakci√≠ s fin. akt√≠vami a pas√≠vami na celk. v√Ωdavkoch",
-    "V√Ω≈°ka_v√Ωdavkov": " 2 747 784,00",
-    "Celkov√©_v√Ωdavky": " 57 127 654,00",
-    "Podiel_na_celk._v√Ωdav._[%]": "4,81"
-  }
-]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Chybov· str·nka</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
+		<style>
+			BODY
+			{
+			    PADDING: 20px 0px 0px 120px;
+			    MARGIN: 0px;
+			    FONT-SIZE: 14px;
+			    FONT-FAMILY: verdana;
+			    /*background-image:url(images/Warning_smaller.jpg);*/
+			    background-position: top left;
+			    background-repeat: no-repeat;	
+			
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Vn˙torn· chyba servera.
+            </h1>
+            <div  style="width: 550px">
+            <img src="images/Warning_smaller.jpg" align="right" 
+                    hspace="10" />
+            <p>Na serveri doölo k vn˙tornej chybe alebo nespr·vnej 
+            konfigur·cii a z toho dÙvodu nemohla byù vybaven· Vaöa poûiadavka. ProsÌme, 
+            kontaktujte spr·vcu servera, <b>info@zilina.sk</b> a informujte ho o Ëase, kedy doölo k 
+            chybe a prÌpadne aj o ÔalöÌch skutoËnostiach alebo postupe, ktorÈ mohli 
+            spÙsobiù t˙to chybu. œakujeme za Vaöu pomoc.</p>
+            </div>
+	</body>
+</html>
