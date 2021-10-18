@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1021"
+    "Počet": "1020"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -9,14 +9,14 @@
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "259"
-  },
-  {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "205"
+    "Počet": "260"
   },
   {
     "Plemeno": "Maltézsky psík",
+    "Počet": "206"
+  },
+  {
+    "Plemeno": "Labradorský retriever",
     "Počet": "205"
   },
   {
@@ -25,11 +25,11 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "110"
+    "Počet": "111"
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "94"
+    "Počet": "96"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -49,7 +49,7 @@
   },
   {
     "Plemeno": "Shih - tzu",
-    "Počet": "57"
+    "Počet": "58"
   },
   {
     "Plemeno": "Cavalier King Charles španiel",
@@ -93,7 +93,7 @@
   },
   {
     "Plemeno": "Mops",
-    "Počet": "31"
+    "Počet": "32"
   },
   {
     "Plemeno": "Weimarský stavač",
@@ -124,15 +124,15 @@
     "Počet": "24"
   },
   {
+    "Plemeno": "Rodézsky ridgeback",
+    "Počet": "23"
+  },
+  {
     "Plemeno": "Sibírsky husky",
     "Počet": "23"
   },
   {
     "Plemeno": "Hovawart",
-    "Počet": "22"
-  },
-  {
-    "Plemeno": "Rodézsky ridgeback",
     "Počet": "22"
   },
   {
@@ -149,7 +149,7 @@
   },
   {
     "Plemeno": "Teriér",
-    "Počet": "17"
+    "Počet": "18"
   },
   {
     "Plemeno": "Boloňský psík",
@@ -176,10 +176,6 @@
     "Počet": "13"
   },
   {
-    "Plemeno": "Nemecká doga",
-    "Počet": "13"
-  },
-  {
     "Plemeno": "Škótsky ovčiak dlhosrstý",
     "Počet": "13"
   },
@@ -200,6 +196,10 @@
     "Počet": "12"
   },
   {
+    "Plemeno": "Nemecká doga",
+    "Počet": "12"
+  },
+  {
     "Plemeno": "Shiba inu",
     "Počet": "12"
   },
@@ -216,6 +216,10 @@
     "Počet": "11"
   },
   {
+    "Plemeno": "Foxteriér",
+    "Počet": "10"
+  },
+  {
     "Plemeno": "Maďarský krátkosrstý stavač",
     "Počet": "10"
   },
@@ -225,10 +229,6 @@
   },
   {
     "Plemeno": "Argentínska doga",
-    "Počet": "9"
-  },
-  {
-    "Plemeno": "Foxteriér",
     "Počet": "9"
   },
   {
