@@ -301,6 +301,12 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Budatínsky Park",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Strážov",
     "Ulica": "Bukovinská",
     "Počet_psov": "9"
@@ -934,6 +940,12 @@
     "Časť_obce": "Hliny",
     "Ulica": "Hlinská",
     "Počet_psov": "26"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Hlinský Park",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -2215,6 +2227,12 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Námestie Richarda Marsinu",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Bánová",
     "Ulica": "Námestie sv. Jána Bosca",
     "Počet_psov": "28"
@@ -2449,6 +2467,12 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Andreja Barčíka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Staré mesto",
     "Ulica": "Park Carla Gustava Swenssona",
     "Počet_psov": "0"
@@ -2457,6 +2481,18 @@
     "Mesto": "Žilina",
     "Časť_obce": "",
     "Ulica": "Park Carla Gustava Swenssona",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Františka Hanovca",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Park Jozefa Červinku",
     "Počet_psov": "0"
   },
   {
