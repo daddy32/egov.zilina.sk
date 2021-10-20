@@ -1,6 +1,36 @@
 [
   {
     "IČO": "00163121   ",
+    "Číslo_faktúry": "20210141",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.10.2021",
+    "Dátum_zverejnenia": "19.10.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210142",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.10.2021",
+    "Dátum_zverejnenia": "19.10.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210143",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 11,46 EUR, spolu: 11,46 EUR",
+    "Celková_cena_(bez_DPH)": "   11,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.10.2021",
+    "Dátum_zverejnenia": "19.10.2021"
+  },
+  {
+    "IČO": "00163121   ",
     "Číslo_faktúry": "20210139",
     "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 379,76 EUR, spolu: 379,76 EUR",

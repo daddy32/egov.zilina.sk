@@ -665,13 +665,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "ASKY s.r.o.",
-    "Adresa_dlžníka": "Hlinská 3337/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 006,22",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "ENZO - VERONIKA - VES, a.s. \"v konkurze\"",
     "Adresa_dlžníka": "342",
     "Mesto": "Dežerice",
@@ -725,6 +718,13 @@
     "Adresa_dlžníka": "Svatopetrská 35/7",
     "Mesto": "Brno",
     "Suma_daňových_nedoplatkov": "  2 675,12",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "ASKY s.r.o.",
+    "Adresa_dlžníka": "Hlinská 3337/27",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 622,42",
     "Mena": "EUR"
   },
   {
@@ -9716,13 +9716,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mária Rychnavská",
-    "Adresa_dlžníka": "760",
-    "Mesto": "Kysucký Lieskovec",
-    "Suma_daňových_nedoplatkov": "   270,95",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Eva Sagálová",
     "Adresa_dlžníka": "Fraňa Mráza 619/13",
     "Mesto": "Žilina",
@@ -16188,6 +16181,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   124,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mária Rychnavská",
+    "Adresa_dlžníka": "760",
+    "Mesto": "Kysucký Lieskovec",
+    "Suma_daňových_nedoplatkov": "   123,94",
     "Mena": "EUR"
   },
   {
