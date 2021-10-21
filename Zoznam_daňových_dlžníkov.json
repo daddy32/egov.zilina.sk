@@ -1008,13 +1008,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Hemčíková",
-    "Adresa_dlžníka": "Antona Bielka 545/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 300,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Poliaková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1068,6 +1061,13 @@
     "Adresa_dlžníka": "99",
     "Mesto": "Rumanová",
     "Suma_daňových_nedoplatkov": "  1 201,35",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Hemčíková",
+    "Adresa_dlžníka": "Antona Bielka 545/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  1 200,00",
     "Mena": "EUR"
   },
   {
@@ -16387,20 +16387,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dominik Jaroš",
-    "Adresa_dlžníka": "Kvačalova 1216/49",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   50,25",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Slavomír Hacaj",
-    "Adresa_dlžníka": "Karmínová 1168/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   50,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Tomáš Bednár",
     "Adresa_dlžníka": "Tajovského 8539/3D",
     "Mesto": "Žilina",
@@ -16454,6 +16440,13 @@
     "Adresa_dlžníka": "Osiková 3213/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   37,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Dominik Jaroš",
+    "Adresa_dlžníka": "Kvačalova 1216/49",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   27,59",
     "Mena": "EUR"
   },
   {
