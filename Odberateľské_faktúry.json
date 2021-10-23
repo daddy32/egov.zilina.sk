@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021009",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
+    "Text_odb._faktúry": "prevádzkové náklady k NZ 11/2021, september 2021, množ.: 1, jedn. cena: 151,52 EUR, spolu: 151,52 EUR",
+    "Celková_cena_(bez_DPH)": "   151,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.10.2021",
+    "Dátum_zverejnenia": "22.10.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021010",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
+    "Text_odb._faktúry": "nájomné k NZ 11/2021, basketbal, septebmer 2021, množ.: 1, jedn. cena: 93,45 EUR, spolu: 93,45 EUR",
+    "Celková_cena_(bez_DPH)": "   93,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.10.2021",
+    "Dátum_zverejnenia": "22.10.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021011",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 12/2021, karate, september, množ.: 1, jedn. cena: 36,08 EUR, spolu: 36,08 EUR",
+    "Celková_cena_(bez_DPH)": "   36,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.10.2021",
+    "Dátum_zverejnenia": "22.10.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021012",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, ŽIlina",
+    "Text_odb._faktúry": "nájomné k NZ 12/2021, karate, september, množ.: 1, jedn. cena: 22,25 EUR, spolu: 22,25 EUR",
+    "Celková_cena_(bez_DPH)": "   22,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.10.2021",
+    "Dátum_zverejnenia": "22.10.2021"
+  },
+  {
     "IČO": "00163121   ",
     "Číslo_faktúry": "20210141",
     "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",

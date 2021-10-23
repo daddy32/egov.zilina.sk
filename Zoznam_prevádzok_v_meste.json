@@ -7697,18 +7697,18 @@
   },
   {
     "Prevádzka": "Flamengo kvety  s.r.o.",
-    "Činnosť": "predaj kvetín a doplnkového tovaru",
-    "Ulica": "Námestie Andreja Hlinku",
-    "Súp._č.": " 8610 ",
-    "Or._č.": "   7B     ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Flamengo kvety  s.r.o.",
     "Činnosť": "kvety",
     "Ulica": "Hlinská",
     "Súp._č.": " 8640 ",
     "Or._č.": "  45      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Flamengo kvety  s.r.o. (Mirage)",
+    "Činnosť": "predaj kvetín a doplnkového tovaru",
+    "Ulica": "Námestie Andreja Hlinku",
+    "Súp._č.": " 8610 ",
+    "Or._č.": "   7B     ",
     "Obec": "Žilina"
   },
   {
@@ -16289,7 +16289,7 @@
   },
   {
     "Prevádzka": "MEGA FIT MENU",
-    "Činnosť": "pohostinská činnosť a výroba hotových jedál určených na priamu spotrebu mimo prev. priestorov",
+    "Činnosť": "Fit strava, raňajkové a denné menu",
     "Ulica": "Prielohy",
     "Súp._č.": "  979 ",
     "Or._č.": "  10      ",
@@ -30648,6 +30648,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "VIX CLUB ZEPPELIN",
+    "Činnosť": "Herňa",
+    "Ulica": "Černovská",
+    "Súp._č.": " 1668 ",
+    "Or._č.": "  13      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "VKP armatúry,s.r.o",
     "Činnosť": "drogéria",
     "Ulica": "Nitrianska",
@@ -31689,10 +31697,10 @@
   },
   {
     "Prevádzka": "ZLATOKOV SK, a.s.",
-    "Činnosť": "predaj klenot.tovaru\r\n",
-    "Ulica": "Farská ulička",
-    "Súp._č.": "   27 ",
-    "Or._č.": "   2      ",
+    "Činnosť": "zlatníctvo",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 8618 ",
+    "Or._č.": "  59A     ",
     "Obec": "Žilina"
   },
   {

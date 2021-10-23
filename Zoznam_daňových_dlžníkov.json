@@ -273,13 +273,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "SIRS-Akvizície, a.s.",
-    "Adresa_dlžníka": "Framborská 291/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  11 106,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SMARAGD, v.o.d., družstvo \"v likvidácii\"",
     "Adresa_dlžníka": "Žilinská 8",
     "Mesto": "Bratislava",
@@ -553,17 +546,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Energoteam s.r.o.",
-    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 891,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "BYTY - SLOVAKIA s.r.o.",
     "Adresa_dlžníka": "Vysokoškolákov 8556/33B",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 859,34",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Energoteam s.r.o.",
+    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 791,62",
     "Mena": "EUR"
   },
   {
@@ -14028,13 +14021,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Fuljer",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Šurab",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15379,6 +15365,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Peter Fuljer",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   170,26",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Philipp",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16185,7 +16178,7 @@
   },
   {
     "Dlžník": "Mária Rychnavská",
-    "Adresa_dlžníka": "760",
+    "Adresa_dlžníka": "Kysucký Lieskovec 73",
     "Mesto": "Kysucký Lieskovec",
     "Suma_daňových_nedoplatkov": "   123,94",
     "Mena": "EUR"
