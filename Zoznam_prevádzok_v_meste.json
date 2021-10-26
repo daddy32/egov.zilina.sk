@@ -960,6 +960,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Andrea Slováková - BodyMass",
+    "Činnosť": "wellnes, masérske služby",
+    "Ulica": "M. R. Štefánika",
+    "Súp._č.": "  820 ",
+    "Or._č.": "",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Anesteziologická ambulancia",
     "Činnosť": "anesteziologická amulancia",
     "Ulica": "Hálkova",
@@ -2789,6 +2797,14 @@
     "Ulica": "Veľká okružná",
     "Súp._č.": " 8618 ",
     "Or._č.": "  59A     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Bio-racio-dia",
+    "Činnosť": "predaj potravín, kozmetiky a zdravej výživy",
+    "Ulica": "Štúrova",
+    "Súp._č.": "   54 ",
+    "Or._č.": "   1      ",
     "Obec": "Žilina"
   },
   {
@@ -5717,14 +5733,6 @@
     "Ulica": "Vojtecha Spanyola",
     "Súp._č.": " 8343 ",
     "Or._č.": "   1A     ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "DOBRÁ ČAJOVŇA",
-    "Činnosť": "čajovňa",
-    "Ulica": "Horný val",
-    "Súp._č.": "   73 ",
-    "Or._č.": "  37      ",
     "Obec": "Žilina"
   },
   {
@@ -10389,6 +10397,14 @@
     "Ulica": "Oslobodenia",
     "Súp._č.": "  510 ",
     "Or._č.": "  62      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Ing. Radomír Blažek - Geodetic",
+    "Činnosť": "administratívne služby",
+    "Ulica": "Na Veľký Diel",
+    "Súp._č.": " 3323 ",
+    "Or._č.": "   1      ",
     "Obec": "Žilina"
   },
   {
@@ -18533,6 +18549,14 @@
     "Ulica": "Matice slovenskej",
     "Súp._č.": " 8534 ",
     "Or._č.": "   4      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Novinový stánok (Kysucká 27)",
+    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
+    "Ulica": "Kysucká",
+    "Súp._č.": " 8480 ",
+    "Or._č.": "  27      ",
     "Obec": "Žilina"
   },
   {
@@ -26696,6 +26720,14 @@
     "Obec": ""
   },
   {
+    "Prevádzka": "ŠNICEL PIZZA",
+    "Činnosť": "gastro",
+    "Ulica": "Nitrianska",
+    "Súp._č.": " 3625 ",
+    "Or._č.": "",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "ŠPAGETÉRIA MONTANARI",
     "Činnosť": "reštauračné služby",
     "Ulica": "Mariánske námestie",
@@ -27872,14 +27904,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "TOPAS, spol. s r.o.  (Kysucká 27)",
-    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
-    "Ulica": "Kysucká",
-    "Súp._č.": " 8480 ",
-    "Or._č.": "  27      ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "TOPAS, spol. s r.o. ( Nám. A. Hlinku)",
     "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
     "Ulica": "Námestie Andreja Hlinku",
@@ -27894,14 +27918,6 @@
     "Súp._č.": " 8610 ",
     "Or._č.": "   7B     ",
     "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "TOPAS, spol. s r.o. (Obvodová)",
-    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
-    "Ulica": "Obvodová",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
   },
   {
     "Prevádzka": "TopLevel",
@@ -27968,6 +27984,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Trafika (A. Bernoláka)",
+    "Činnosť": "predaj tlače, tabakové výrobky, drobný tovar",
+    "Ulica": "Antona Bernoláka",
+    "Súp._č.": " 2201 ",
+    "Or._č.": "  22      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Trafika JAMATDAM",
     "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
     "Ulica": "Nám. Ľ. Štúra",
@@ -27976,12 +28000,12 @@
     "Obec": ""
   },
   {
-    "Prevádzka": "Trafika TOPAS (A. Bernoláka)",
-    "Činnosť": "predaj tlače, tabakové výrobky, drobný tovar",
-    "Ulica": "Antona Bernoláka",
-    "Súp._č.": " 2201 ",
-    "Or._č.": "  22      ",
-    "Obec": "Žilina"
+    "Prevádzka": "Trafika (Obvodová)",
+    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
+    "Ulica": "Obvodová",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
   },
   {
     "Prevádzka": "TRAM NAIL",

@@ -1890,13 +1890,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Katarína Jamborová",
-    "Adresa_dlžníka": "Požiarnická 42/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   523,61",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomíra Urbancová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2006,6 +1999,13 @@
     "Adresa_dlžníka": "Gaštanová 3080/16",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   488,07",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Katarína Jamborová",
+    "Adresa_dlžníka": "Požiarnická 42/8",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   486,25",
     "Mena": "EUR"
   },
   {
