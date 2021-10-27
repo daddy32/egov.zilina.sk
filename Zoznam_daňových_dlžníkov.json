@@ -1057,13 +1057,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Hemčíková",
-    "Adresa_dlžníka": "Antona Bielka 545/26",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 200,00",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Škatuláková",
     "Adresa_dlžníka": "5",
     "Mesto": "Konská",
@@ -1215,6 +1208,13 @@
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   928,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Hemčíková",
+    "Adresa_dlžníka": "Antona Bielka 545/26",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   900,00",
     "Mena": "EUR"
   },
   {
@@ -7386,8 +7386,8 @@
   },
   {
     "Dlžník": "František Chudjak",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Fatranská 1064/3",
+    "Mesto": "Turany",
     "Suma_daňových_nedoplatkov": "   298,20",
     "Mena": "EUR"
   },

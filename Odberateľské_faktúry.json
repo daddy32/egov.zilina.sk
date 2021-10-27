@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210146",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 26412,67 EUR, spolu: 26412,67 EUR",
+    "Celková_cena_(bez_DPH)": "  26 412,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.10.2021",
+    "Dátum_zverejnenia": "26.10.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210144",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 64,8 EUR, spolu: 64,8 EUR",
+    "Celková_cena_(bez_DPH)": "   64,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.10.2021",
+    "Dátum_zverejnenia": "26.10.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210145",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.10.2021",
+    "Dátum_zverejnenia": "26.10.2021"
+  },
+  {
     "IČO": "42060036   ",
     "Číslo_faktúry": "21035",
     "Odberateľ": "AC UNIZA Žilina",
