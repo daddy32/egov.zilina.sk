@@ -1,5 +1,65 @@
 [
   {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "21039",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 6.10., 7.10., 13.10., 14.10., 20.10., 21.10., 27.10. 2021, množ.: 10,5, jedn. cena: 1,5 EUR, spolu: 15,75 EUR",
+    "Celková_cena_(bez_DPH)": "   15,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "21040",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 6.10., 7.10., 13.10., 14.10., 20.10., 21.10., 27.10. 2021, množ.: 10,5, jedn. cena: 14,5 EUR, spolu: 152,25 EUR",
+    "Celková_cena_(bez_DPH)": "   152,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21041",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 6.10., 13.10., 20.10., 27.10. 2021, množ.: 6, jedn. cena: 4,5 EUR, spolu: 27 EUR",
+    "Celková_cena_(bez_DPH)": "   27,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
+    "IČO": "37812050   ",
+    "Číslo_faktúry": "21042",
+    "Odberateľ": "Športový klub MAKROTEAM",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 6.10., 13.10., 20.10., 27.10. 2021, množ.: 6, jedn. cena: 14,5 EUR, spolu: 87 EUR",
+    "Celková_cena_(bez_DPH)": "   87,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21043",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 4.10., 6.10., 11.10., 13.10., 18.10., 20.10., 25.10., 27.10. 2021, množ.: 16, jedn. cena: 9,5 EUR, spolu: 152 EUR",
+    "Celková_cena_(bez_DPH)": "   152,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "21044",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 4.10., 6.10., 11.10., 13.10., 18.10., 20.10., 25.10., 27.10. 2021, množ.: 16, jedn. cena: 14,5 EUR, spolu: 232 EUR",
+    "Celková_cena_(bez_DPH)": "   232,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.10.2021",
+    "Dátum_zverejnenia": "27.10.2021"
+  },
+  {
     "IČO": "36407470   ",
     "Číslo_faktúry": "20210146",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
