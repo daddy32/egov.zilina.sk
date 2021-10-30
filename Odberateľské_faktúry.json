@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "36421120   ",
+    "Číslo_faktúry": "042021",
+    "Odberateľ": "ŽP EKO QELET a.s.",
+    "Text_odb._faktúry": "Odovzdanie starého vozidla, množ.: 1, jedn. cena: 106 EUR, spolu: 106 EUR",
+    "Celková_cena_(bez_DPH)": "   106,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.09.2021",
+    "Dátum_zverejnenia": "29.10.2021"
+  },
+  {
+    "IČO": "37977440   ",
+    "Číslo_faktúry": "052021",
+    "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 171,7 EUR, spolu: 171,7 EUR",
+    "Celková_cena_(bez_DPH)": "   171,70",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.09.2021",
+    "Dátum_zverejnenia": "29.10.2021"
+  },
+  {
     "IČO": "37911074   ",
     "Číslo_faktúry": "21039",
     "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
