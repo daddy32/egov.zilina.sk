@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021051",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 84, jedn. cena: 4,5 EUR, spolu: 378 EUR,\rprenájom kabinetu za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 84, jedn. cena: 7,5 EUR, spolu: 630 EUR",
+    "Celková_cena_(bez_DPH)": "  1 048,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.11.2021",
+    "Dátum_zverejnenia": "02.11.2021"
+  },
+  {
+    "IČO": "31925430   ",
+    "Číslo_faktúry": "2021052",
+    "Odberateľ": "Mládežnícky basketbalový klub Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 4,5 EUR, spolu: 27 EUR,\rprevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 7,5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   72,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.11.2021",
+    "Dátum_zverejnenia": "02.11.2021"
+  },
+  {
     "IČO": "36421120   ",
     "Číslo_faktúry": "042021",
     "Odberateľ": "ŽP EKO QELET a.s.",
