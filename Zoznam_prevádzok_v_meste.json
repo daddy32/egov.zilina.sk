@@ -18544,12 +18544,76 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Novinový stánok",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Smreková",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
+    "Prevádzka": "Novinový stánok (Aupark)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 8618 ",
+    "Or._č.": "  59A     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Novinový stánok (autobus. nástupište, pasáž)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Daniela Dlabača",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
+    "Prevádzka": "Novinový stánok (Hviezdoslavova)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "P. O. Hviezdoslava",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
     "Prevádzka": "Novinový stánok (Kysucká 27)",
     "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
     "Ulica": "Kysucká",
     "Súp._č.": " 8480 ",
     "Or._č.": "  27      ",
     "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Novinový stánok (pred vstupom do NsP)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Vojtecha Spanyola",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
+    "Prevádzka": "Novinový stánok (pri súde)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Daniela Dlabača",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
+    "Prevádzka": "Novinový stánok (pri vstupe do NsP)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Vojtecha Spanyola",
+    "Súp._č.": " 1740 ",
+    "Or._č.": "  43      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Novinový stánok (Slovanská)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Slovanská",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
   },
   {
     "Prevádzka": "Novostavba autoumývarky a administratívnej budovy",
@@ -27896,22 +27960,6 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "TOPAS, spol. s r.o. ( Nám. A. Hlinku)",
-    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
-    "Ulica": "Námestie Andreja Hlinku",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
-  },
-  {
-    "Prevádzka": "TOPAS, spol. s r.o. (Mirage)",
-    "Činnosť": "predaj periodickej a neperiodickej tlače, tabakových výrobkov a doplnkového tovaru",
-    "Ulica": "Námestie Andreja Hlinku",
-    "Súp._č.": " 8610 ",
-    "Or._č.": "   7B     ",
-    "Obec": "Žilina"
-  },
-  {
     "Prevádzka": "TopLevel",
     "Činnosť": "predaj pc hier, herných konzol, hier",
     "Ulica": "Mariánske námestie",
@@ -27976,6 +28024,30 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Trafika ( Aupark 1)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 8618 ",
+    "Or._č.": "  59A     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Trafika ( Aupark 2)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Veľká okružná",
+    "Súp._č.": " 8618 ",
+    "Or._č.": "  59A     ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Trafika ( Nám. A. Hlinku)",
+    "Činnosť": "predaj novín a časpopisov, tabakové výrobky",
+    "Ulica": "Námestie Andreja Hlinku",
+    "Súp._č.": " 8610 ",
+    "Or._č.": "   7B     ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Trafika (A. Bernoláka)",
     "Činnosť": "predaj tlače, tabakové výrobky, drobný tovar",
     "Ulica": "Antona Bernoláka",
@@ -27990,6 +28062,22 @@
     "Súp._č.": "",
     "Or._č.": "",
     "Obec": ""
+  },
+  {
+    "Prevádzka": "Trafika (Košická3)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Košická",
+    "Súp._č.": " 1367 ",
+    "Or._č.": "   3      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Trafika (Mirage)",
+    "Činnosť": "predaj periodickej a neperiodickej tlače, tabakových výrobkov a doplnkového tovaru",
+    "Ulica": "Námestie Andreja Hlinku",
+    "Súp._č.": " 8610 ",
+    "Or._č.": "   7B     ",
+    "Obec": "Žilina"
   },
   {
     "Prevádzka": "TRAFIKA NOVINKY",

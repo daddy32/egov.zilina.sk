@@ -11904,7 +11904,7 @@
     "Časť_obce": "Hliny",
     "Ulica": "Daxnerova",
     "Orient._č.": "  35      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -22608,6 +22608,13 @@
     "Ulica": "Holubia",
     "Orient._č.": "  14      ",
     "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Holubia",
+    "Orient._č.": "",
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -33730,7 +33737,7 @@
     "Časť_obce": "Hájik",
     "Ulica": "Korzo",
     "Orient._č.": "  12      ",
-    "Počet_psov": "0"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -44825,7 +44832,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Na lány",
     "Orient._č.": "   4      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -76473,6 +76480,13 @@
     "Ulica": "Zástranská",
     "Orient._č.": "  17      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Zástranská",
+    "Orient._č.": "  17A     ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",

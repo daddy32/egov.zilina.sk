@@ -6988,15 +6988,6 @@
     "Ulica": "Na lány",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "5428",
-    "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na lány",
-    "Orient._č.": "   4      ",
-    "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
     "Č._známky": "8765",
     "Farba": "pálená"
@@ -10955,6 +10946,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Korzo",
+    "Orient._č.": "  12      ",
+    "Č._poschodia": "",
+    "Plemeno": "Miešanec",
+    "Č._známky": "9602",
+    "Farba": "piesková"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Korzo",
     "Orient._č.": "  13      ",
     "Č._poschodia": "",
     "Plemeno": "Maltézsky psík",
@@ -12778,6 +12778,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "8776",
     "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Daxnerova",
+    "Orient._č.": "  35      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9603",
+    "Farba": "béžová"
   },
   {
     "Mesto": "Žilina",
@@ -31929,6 +31938,15 @@
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
     "Č._známky": "167",
+    "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Holubia",
+    "Orient._č.": "",
+    "Č._poschodia": "",
+    "Plemeno": "Borderská kólia",
+    "Č._známky": "9604",
     "Farba": "čierna"
   },
   {

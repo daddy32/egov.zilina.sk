@@ -1,33 +1,93 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybová stránka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vnútorná chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri došlo k vnútornej chybe alebo nesprávnej 
-            konfigurácii a z toho dôvodu nemohla byť vybavená Vaša požiadavka. Prosíme, 
-            kontaktujte správcu servera, <b>info@zilina.sk</b> a informujte ho o čase, kedy došlo k 
-            chybe a prípadne aj o ďalších skutočnostiach alebo postupe, ktoré mohli 
-            spôsobiť túto chybu. Ďakujeme za Vašu pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Rok": "2021",
+    "PrĂ­jmy": " 95 052 237,00",
+    "VĂ˝davky": " 65 775 888,00",
+    "Rozdiel": " 29 276 349,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2020",
+    "PrĂ­jmy": " 88 215 623,00",
+    "VĂ˝davky": " 57 127 654,00",
+    "Rozdiel": " 31 087 969,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2019",
+    "PrĂ­jmy": " 86 882 653,00",
+    "VĂ˝davky": " 60 472 800,00",
+    "Rozdiel": " 26 409 853,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2018",
+    "PrĂ­jmy": " 84 586 329,00",
+    "VĂ˝davky": " 62 615 080,00",
+    "Rozdiel": " 21 971 249,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2017",
+    "PrĂ­jmy": " 74 077 233,00",
+    "VĂ˝davky": " 53 556 277,00",
+    "Rozdiel": " 20 520 956,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2016",
+    "PrĂ­jmy": " 75 695 098,00",
+    "VĂ˝davky": " 56 476 487,00",
+    "Rozdiel": " 19 218 611,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2015",
+    "PrĂ­jmy": " 62 634 267,00",
+    "VĂ˝davky": " 45 190 950,00",
+    "Rozdiel": " 17 443 317,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2014",
+    "PrĂ­jmy": " 72 485 763,00",
+    "VĂ˝davky": " 55 829 211,00",
+    "Rozdiel": " 16 656 552,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2013",
+    "PrĂ­jmy": " 50 605 753,00",
+    "VĂ˝davky": " 34 084 190,00",
+    "Rozdiel": " 16 521 563,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2012",
+    "PrĂ­jmy": " 50 157 592,00",
+    "VĂ˝davky": " 34 171 747,00",
+    "Rozdiel": " 15 985 845,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2011",
+    "PrĂ­jmy": " 74 171 096,00",
+    "VĂ˝davky": " 58 156 764,00",
+    "Rozdiel": " 16 014 332,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2010",
+    "PrĂ­jmy": " 55 638 614,00",
+    "VĂ˝davky": " 38 967 864,00",
+    "Rozdiel": " 16 670 750,00",
+    "Mena": "EUR"
+  },
+  {
+    "Rok": "2009",
+    "PrĂ­jmy": " 57 232 568,00",
+    "VĂ˝davky": " 41 089 537,00",
+    "Rozdiel": " 16 143 031,00",
+    "Mena": "EUR"
+  }
+]

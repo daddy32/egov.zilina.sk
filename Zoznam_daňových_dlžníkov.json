@@ -434,13 +434,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ekostav Slovakia, spol. s. r. o.",
-    "Adresa_dlžníka": "Litovelská súp. č. 871",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "  5 787,57",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Sarah Viera Nováková",
     "Adresa_dlžníka": "súp. č. 402",
     "Mesto": "Nesluša",
@@ -1330,17 +1323,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Andrea Olejkárová",
-    "Adresa_dlžníka": "Borová 3178/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   800,74",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Kasanický",
     "Adresa_dlžníka": "Jána Vojtaššáka 3146/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   786,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Andrea Olejkárová",
+    "Adresa_dlžníka": "Borová 3178/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   785,54",
     "Mena": "EUR"
   },
   {
@@ -1729,13 +1722,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Jankovská",
-    "Adresa_dlžníka": "Jura Hronca 3407/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   588,27",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Izabela Balážová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -1747,6 +1733,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   581,79",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Jankovská",
+    "Adresa_dlžníka": "Jura Hronca 3407/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   578,12",
     "Mena": "EUR"
   },
   {
@@ -8533,13 +8526,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Roman Králech",
-    "Adresa_dlžníka": "Bratislavská 497/74",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   289,98",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozef Dorociak",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -9468,6 +9454,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   274,16",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Roman Králech",
+    "Adresa_dlžníka": "Bratislavská 497/74",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   273,98",
     "Mena": "EUR"
   },
   {

@@ -1,5 +1,125 @@
 [
   {
+    "IČO": "00648965   ",
+    "Číslo_faktúry": "21002",
+    "Odberateľ": "Obec Ovčiarsko",
+    "Text_odb._faktúry": "Obedy z dotácie - predškoláci, množ.: 3, jedn. cena: 1,3 EUR, spolu: 3,9 EUR",
+    "Celková_cena_(bez_DPH)": "   3,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.10.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021035",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné na základe Nájomnej zmluvy č. 21/2021 zo dňa6.9.2021 za mesiac október 2021, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
+    "Celková_cena_(bez_DPH)": "   32,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "00648965   ",
+    "Číslo_faktúry": "21003",
+    "Odberateľ": "Obec Ovčiarsko",
+    "Text_odb._faktúry": "Režijné náklady na prípravu obeda, množ.: 31, jedn. cena: 1,5 EUR, spolu: 46,5 EUR",
+    "Celková_cena_(bez_DPH)": "   46,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.10.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "37814508   ",
+    "Číslo_faktúry": "21004",
+    "Odberateľ": "Základná škola s materskou školou, Ul. Hlavná 200/15, Hôrky",
+    "Text_odb._faktúry": "Náklady na potraviny, množ.: 3, jedn. cena: ,15 EUR, spolu: ,45 EUR,\rNáklady na potraviny, množ.: 28, jedn. cena: 1,45 EUR, spolu: 40,6 EUR,\rNáklady na potraviny, množ.: 45, jedn. cena: ,15 EUR, spolu: 6,75 EUR,\rNáklady na potraviny, množ.: 85, jedn. cena: 1,45 EUR, spolu: 123,25 EUR",
+    "Celková_cena_(bez_DPH)": "   171,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.10.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "37814508   ",
+    "Číslo_faktúry": "21005",
+    "Odberateľ": "Základná škola s materskou školou, Ul. Hlavná 200/15, Hôrky",
+    "Text_odb._faktúry": "Režijné náklady, množ.: 130, jedn. cena: 1,5 EUR, spolu: 195 EUR",
+    "Celková_cena_(bez_DPH)": "   195,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.10.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021036",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 21/2021 zo dňa6.9.2021, množ.: 1, jedn. cena: 60 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   60,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021037",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021038",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021033",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmnluvy č. 24/2021 zo dňa 21.9.2021 za mesiac október 2021, množ.: 1, jedn. cena: 12 EUR, spolu: 12 EUR",
+    "Celková_cena_(bez_DPH)": "   12,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021034",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za mesiac október 2021, množ.: 1, jedn. cena: 22,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   22,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021031",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za mesiac október 2021, množ.: 1, jedn. cena: 48 EUR, spolu: 48 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021032",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021, množ.: 1, jedn. cena: 90 EUR, spolu: 90 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "03.11.2021"
+  },
+  {
     "IČO": "42054125   ",
     "Číslo_faktúry": "2021051",
     "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
