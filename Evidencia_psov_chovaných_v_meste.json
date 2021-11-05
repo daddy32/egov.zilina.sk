@@ -497,6 +497,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Jabloňová",
+    "Orient._č.": "  49      ",
+    "Č._poschodia": "",
+    "Plemeno": "Čivava",
+    "Č._známky": "9605",
+    "Farba": "čierno-pálená"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Jabloňová",
     "Orient._č.": "  50      ",
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
@@ -12100,15 +12109,6 @@
     "Ulica": "Antona Bernoláka",
     "Orient._č.": "  31      ",
     "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "3633",
-    "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Antona Bernoláka",
-    "Orient._č.": "  31      ",
-    "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "5792",
     "Farba": "sivá"
@@ -14405,7 +14405,7 @@
     "Orient._č.": "   3      ",
     "Č._poschodia": "",
     "Plemeno": "Maďarská vyžla",
-    "Č._známky": "9354",
+    "Č._známky": "9618",
     "Farba": "hnedá"
   },
   {
@@ -20239,15 +20239,6 @@
     "Plemeno": "Labradorský retriever",
     "Č._známky": "7811",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Platanová",
-    "Orient._č.": "  17      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "6174",
-    "Farba": "tmavo -sivá"
   },
   {
     "Mesto": "Žilina",
@@ -28388,6 +28379,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Fatranská",
+    "Orient._č.": "   4      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "9606",
+    "Farba": "biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Fatranská",
     "Orient._č.": "   6      ",
     "Č._poschodia": "",
     "Plemeno": "Jack russel teriér",
@@ -31039,15 +31039,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "7455",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Tulská",
-    "Orient._č.": "   1      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "6436",
-    "Farba": "trikolóra"
   },
   {
     "Mesto": "Žilina",

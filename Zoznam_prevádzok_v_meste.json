@@ -3048,6 +3048,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Bombers",
+    "Činnosť": "zábavná pyrotechnika",
+    "Ulica": "Kamenná cesta",
+    "Súp._č.": "",
+    "Or._č.": "   3      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Bon Bon čokoládovňa",
     "Činnosť": "čokoládovňa",
     "Ulica": "Mariánske námestie",
@@ -9288,6 +9296,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "HOKEJKA",
+    "Činnosť": "bar",
+    "Ulica": "Športová",
+    "Súp._č.": "  565 ",
+    "Or._č.": "   5      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Holičstvo - Kaderníctvo Diana",
     "Činnosť": "kaderníctvo",
     "Ulica": "Oslobodenia",
@@ -12944,6 +12960,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Kominár Pub",
+    "Činnosť": "pohostinstvo",
+    "Ulica": "Jána Reka",
+    "Súp._č.": " 1040 ",
+    "Or._č.": "  13      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "KOMINÁR PUB",
     "Činnosť": "pohostinstvo",
     "Ulica": "Jána Reka",
@@ -15440,6 +15464,14 @@
     "Obec": ""
   },
   {
+    "Prevádzka": "MANIA PIZZERIA",
+    "Činnosť": "Reštaurácia s donáškovou službou",
+    "Ulica": "Lenčova",
+    "Súp._č.": " 8992 ",
+    "Or._č.": "   1      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Manikúra - Pedikúra, Kozmetika",
     "Činnosť": "Manikúra, pedikúra, kozmetika",
     "Ulica": "P. O. Hviezdoslava",
@@ -16064,6 +16096,22 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Mäsiarstvo u Býka",
+    "Činnosť": "mäsiarstvo",
+    "Ulica": "1. mája",
+    "Súp._č.": " 1016 ",
+    "Or._č.": "   4      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Mäsiarstvo u BÝKA",
+    "Činnosť": "mäsiarstvo",
+    "Ulica": "Obvodová",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
     "Prevádzka": "MASLEN s.r.o.",
     "Činnosť": "predajňa strešných kritín",
     "Ulica": "Dlhá",
@@ -16390,14 +16438,6 @@
     "Súp._č.": "",
     "Or._č.": "",
     "Obec": ""
-  },
-  {
-    "Prevádzka": "MERKUR SPIELO",
-    "Činnosť": "kasíno a herňa",
-    "Ulica": "Prielohy",
-    "Súp._č.": "  979 ",
-    "Or._č.": "  10      ",
-    "Obec": "Žilina"
   },
   {
     "Prevádzka": "MERKURY MARKET",
@@ -17213,6 +17253,14 @@
     "Ulica": "Mariánske námestie",
     "Súp._č.": "  193 ",
     "Or._č.": "  12      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "MONACOBET - ŽILINA",
+    "Činnosť": "kasíno a herňa",
+    "Ulica": "Prielohy",
+    "Súp._č.": "  979 ",
+    "Or._č.": "  10      ",
     "Obec": "Žilina"
   },
   {
@@ -18584,6 +18632,22 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "Novinový stánok (M.R.Štefánika)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "M. R. Štefánika",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
+    "Prevádzka": "Novinový stánok (Na bráne)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Na bráne",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
+  },
+  {
     "Prevádzka": "Novinový stánok (pred vstupom do NsP)",
     "Činnosť": "novinový stánok, doplnkový tovar",
     "Ulica": "Vojtecha Spanyola",
@@ -18606,6 +18670,14 @@
     "Súp._č.": " 1740 ",
     "Or._č.": "  43      ",
     "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Novinový stánok (Sládkovičova)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Sládkovičova",
+    "Súp._č.": "",
+    "Or._č.": "",
+    "Obec": ""
   },
   {
     "Prevádzka": "Novinový stánok (Slovanská)",
@@ -22006,14 +22078,6 @@
     "Súp._č.": " 8520 ",
     "Or._č.": "   1      ",
     "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Predajňa mäsa a mäsových výrobkov v NC Tesco Žilina",
-    "Činnosť": "maloobchodný predaj  mäsa a mäsových výrobkov",
-    "Ulica": "Obvodová",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
   },
   {
     "Prevádzka": "Predajňa Melody",
@@ -26441,14 +26505,6 @@
   },
   {
     "Prevádzka": "SUPER ZOO",
-    "Činnosť": "chovateľské potreby",
-    "Ulica": "Veľká okružná",
-    "Súp._č.": " 8618 ",
-    "Or._č.": "  59A     ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "SUPER ZOO",
     "Činnosť": "obchod s chovateľskými potrebami a drobnými spoločenskými zvieratami",
     "Ulica": "Košická",
     "Súp._č.": " 8843 ",
@@ -27157,14 +27213,6 @@
     "Ulica": "Smreková",
     "Súp._č.": " 3342 ",
     "Or._č.": "  32      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "TAURIS Cassovia, s.r.o. - Mäsiarstvo u Býka",
-    "Činnosť": "mäsiarstvo, výroba a predaj mäsových výrobkov",
-    "Ulica": "1. mája",
-    "Súp._č.": " 1016 ",
-    "Or._č.": "   4      ",
     "Obec": "Žilina"
   },
   {
@@ -28064,6 +28112,14 @@
     "Obec": ""
   },
   {
+    "Prevádzka": "Trafika (Kamenná)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Kamenná cesta",
+    "Súp._č.": "",
+    "Or._č.": "   3      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Trafika (Košická3)",
     "Činnosť": "novinový stánok, doplnkový tovar",
     "Ulica": "Košická",
@@ -28094,6 +28150,14 @@
     "Súp._č.": "",
     "Or._č.": "",
     "Obec": ""
+  },
+  {
+    "Prevádzka": "Trafika (Vysokoškolákov)",
+    "Činnosť": "novinový stánok, doplnkový tovar",
+    "Ulica": "Vysokoškolákov",
+    "Súp._č.": " 8083 ",
+    "Or._č.": "  37      ",
+    "Obec": "Žilina"
   },
   {
     "Prevádzka": "TRAM NAIL",

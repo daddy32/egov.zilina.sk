@@ -1,33 +1,3902 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Agátová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Alexandra Rudnaya",
+    "Počet_psov": "25"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Alexyho",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Ambra Pietra",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Ametystová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Andreja Kmeťa",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Andreja Lemeša",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Andreja Žarnova",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Antona Bernoláka",
+    "Počet_psov": "32"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Antona Bernoláka",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Antona Bernoláka",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Antona Bielka",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Antona Petrovského",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Astrová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Azúrová",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "B. Němcovej",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "B. Němcovej",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "B. S. Timravy",
+    "Počet_psov": "18"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Bagarova",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Bajzova",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Banícka",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Baničova",
+    "Počet_psov": "25"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Bánovská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Belajov dvor",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Belicová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Benjamína Martinského",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Berlínska",
+    "Počet_psov": "16"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Berylová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Bezručova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Béžová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Biela",
+    "Počet_psov": "14"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Bitarovská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Bitarovská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Bitarovská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Bitarovská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Bláhova",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Blankytná",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Bočná",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Boncova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Bordová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Borová",
+    "Počet_psov": "37"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Bottova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Bôrická cesta",
+    "Počet_psov": "33"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Bratislavská",
+    "Počet_psov": "23"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Brezová",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Brezová",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Brodňanov dvor",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Brodňanská",
+    "Počet_psov": "38"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Brodno",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Budatínska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Budatínsky Park",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Bukovinská",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Bulharská",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Burianova medzierka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Bystrická",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Bytčianska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Bytčianska",
+    "Počet_psov": "39"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Bytčická",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Centrálna",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Cesta k Paľovej búde",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Cesta k vodojemu",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Cesta na štadión",
+    "Počet_psov": "20"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Cesta na záhumnie",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Cestárska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Cezpoľná",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Cintorínska",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Czambelova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Čajakova",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Čepiel",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Čerešňová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Černovská",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Červená",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Čulenova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Dadanova",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Daniela Dlabača",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Daniela Krmana",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Ďatlia",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Daxnerova",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Daxnerova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Daxnerova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Daxnerova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Dedinská",
+    "Počet_psov": "35"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Dlhá",
+    "Počet_psov": "18"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Do Brezičia",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Do Brezníka",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Do Magúr",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Do Mažiarca",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Do Medzilužia",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Do parku",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Do Rosiny",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Do Rovní",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Do Stávku",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Do Stošky",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Do toboliny",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Dobšinského",
+    "Počet_psov": "28"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Dobšinského sad",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Dolná",
+    "Počet_psov": "15"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Dolná Trnovská",
+    "Počet_psov": "56"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Dolné Rudiny",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Dolný val",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Dolová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Drieňová",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Drozdia",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Druhá",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Družstevná",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Dubová",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Dúbravy",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Dunajská",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Ďurka Langsfelda",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Eduarda Nécseya",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Egrešová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Emanuela Fila",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Energetikov",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Essenská ulica",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Estakáda",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Farská ulička",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Farské schody",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Fatranská",
+    "Počet_psov": "24"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Fedora Ruppeldta",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Ferka Urbánka",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Festivalová",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Fialková",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Fialová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Figurova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Framborská",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Fraňa Mráza",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Františkánske námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Františkánske Schody",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Frátrikovo Námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Furmanská Cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Gabajova",
+    "Počet_psov": "22"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Gabčíkova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Gabriela Povalu",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Gaštanová",
+    "Počet_psov": "62"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Gavlovičova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Gazdova",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Gemerská",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Georgesa de Lannuriena",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Gerlachovská",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Gogoľova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Granátová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Halašova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Hálkova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Hallonova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Hanušákova",
+    "Počet_psov": "14"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Hattalova",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Hečkova",
+    "Počet_psov": "28"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Hečkova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Hečkova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Hlavátková",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Hlavná",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Hlavná cesta",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Hlboká cesta",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Hlboká cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Hlboká cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Hlinská",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Hlinská",
+    "Počet_psov": "26"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Hlinský Park",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Hnedá",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Hodžova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Hollého",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Holubia",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Hore humnami",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Hore vŕškom",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Horná",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Horná Trnovská",
+    "Počet_psov": "45"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Hornádska",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Horný val",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Horská",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Hôrecká cesta",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Hôrecká cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Hričovská",
+    "Počet_psov": "22"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Hronská",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Hroznová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Hruštiny",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Hyrovská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Chalupkova",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Chlmecké námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Chotárna",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Ipeľská",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "J. M. Geromettu",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "J. M. Hurbana",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "J. Tombora",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Jabloňová",
+    "Počet_psov": "31"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Jalcová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Jána Čajdu",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jána Kalinčiaka",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Jána Kovalíka",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Jána Mičicu",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jána Milca",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jána Reka",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Jána Vojtaššáka",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Janka Kráľa",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Janka Silana",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jánošíkova",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Jantárová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Jarná",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Jaseňová",
+    "Počet_psov": "44"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Jaseňová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Jastrabia",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Jašíkova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Jaššov dvor",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Javorová",
+    "Počet_psov": "14"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Jazmínová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Jedlíkova",
+    "Počet_psov": "20"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Jedľová",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jesenského",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jezuitská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Jozefa Cígera Hronského",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Jozefa Vuruma",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Jura Hronca",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Jura Hronca",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Juraja Fándlyho",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Juraja Fándlyho",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Juraja Papánka",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Juraja Sklenára",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Juraja Slottu",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Juraja Závodského",
+    "Počet_psov": "33"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "K cintorínu",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "K múzeu",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "K Rochovici",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Kálov",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Kamenná",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Kapria",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Kapustná",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Karasová",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Karmínová",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Karola Kmeťku",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Karpatská",
+    "Počet_psov": "16"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Katedrálne námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Kempelenova",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Klemensova",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Klimovské",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Koceľova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Kollárova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Kolmá",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Komenského",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Komenského",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Komenského",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Kopanice",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Kortinská",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Korzo",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Korzo",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Kostolná",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Košická",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Košická",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Kožov dvor",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Kragujevská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Kraskova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Kraskova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Kraskova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Krátka",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Krížna",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Ku krížu",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Ku studienke",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Ku škôlke",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Ku zvonici",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Kubelíkova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Kubínska",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Kubov dvor",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Kukučínova",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Kultúrna",
+    "Počet_psov": "16"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Kuzmányho",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Kvačalova",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Kvačalova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Kvetná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Kysucká",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Laborecká",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Labutia",
+    "Počet_psov": "20"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Ladiverova",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Lannurienovo Námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Ľavobrežná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Legionárska",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Lenčova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Lesná",
+    "Počet_psov": "14"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Lesopark Chrasť",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Letná",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Levanduľová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Levočská",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Lieňová",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Liesková",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Lichardova",
+    "Počet_psov": "29"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Limbová",
+    "Počet_psov": "19"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Lipňová",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Lipová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Lipovecká",
+    "Počet_psov": "15"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Lombardiniho",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Ľubľanská",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Lúčna",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "M. R. Štefánika",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "M. Šinského",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Magočovská",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Majerská",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Majochova",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Majochova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Makovického",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Malá",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Malinová",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Mariánske námestie",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Martina Benku",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Martina Rázusa",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Martinská",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Masarykovo námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Mateja Bela",
+    "Počet_psov": "37"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Mateja Bela",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Matice slovenskej",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Matúša Kavca",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Matuškova",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Medzi plotmi",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Medzierka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Mesačná",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Mikovíniho",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Mikuláša Dohnányho",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Mikuláša Nigriniho",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Mila Urbana",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Minčolská",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Mládeže",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Mládežnícka",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Mlynská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Modrá",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Mojmírova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Mojšová Lúčka",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Mojšová Lúčka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Morušová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Mostná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Mostová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Moyzesova",
+    "Počet_psov": "15"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Murgašova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Mydlárska",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Mýtna",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Na Bárek",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na bráne",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Na cintorín",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Na dolinu",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na Horevaží",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Na Hôrke",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Na chotári",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Na kopci",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Na lány",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Na Majerisku",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Na Malý Diel",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na priekope",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Na Rovniach",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na Sihoti",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Na skotni",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Na Slini",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Na stanicu",
+    "Počet_psov": "15"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Na starej hradskej",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na stave",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Na Stráni",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Na Straník",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na strelnici",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na Šefranici",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Na Tobolky",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Na Veľký Diel",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Na vráta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Na Záchrastí",
+    "Počet_psov": "39"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Na Zápletí",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Na Závaží",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Nábrežie Rajčianky",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Nábrežná",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Nadskaličná",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Nám. gen. M. R. Štefánika",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Námestie Andreja Hlinku",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Námestie hrdinov",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Námestie J. Borodáča",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Námestie Jána Pavla II.",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Námestie Ľudovíta Fullu",
+    "Počet_psov": "20"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Námestie mladosti",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Námestie obetí komunizmu",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Námestie požiarnikov",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Námestie Richarda Marsinu",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Námestie sv. Jána Bosca",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Námestie Žilinskej synody",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Nanterská",
+    "Počet_psov": "16"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Národná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Nemocničná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Nešporova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Nešporova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Nešporova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Nezvalova",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Nitrianska",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Nižedvorská",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Nová",
+    "Počet_psov": "24"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Nový Domov",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Obežná",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Obchodná",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Oblúková",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Obvodová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Oceliarska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Ohradská",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Okrajová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Okrová",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Ondavská",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Ondráškov dvor",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Oranžová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Oravská",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Orčiešová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Orgovánová",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Orlík",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Orolská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Osiková",
+    "Počet_psov": "18"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Oslobodenia",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Osloboditeľov",
+    "Počet_psov": "18"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Ostriežová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Osvety",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Oškerdská cesta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Ovocinárska",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Ovsená",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "P. O. Hviezdoslava",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Palárikova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Andreja Barčíka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Park Carla Gustava Swenssona",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Carla Gustava Swenssona",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Františka Hanovca",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Park Jozefa Červinku",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Park Ľudovíta Štúra",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "Park Ľudovíta Štúra",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Park svätého Juraja",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Park 17. novembra",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pavla Mudroňa",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Pažite",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pekná",
+    "Počet_psov": "18"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pernikárska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Petzvalova",
+    "Počet_psov": "39"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Petzvalova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Piata",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Piešťanská",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pietna",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Pittsburgská",
+    "Počet_psov": "21"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pivovarská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Platanová",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Platanová",
+    "Počet_psov": "28"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pltnícka",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Pod Adamovcom",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Pod Bukovinou",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Pod cintorínom",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Pod Dielce",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Pod Dúbravou",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Pod Grendel",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Pod hájom",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Pod hliniskom",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pod Hôrkou",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pod Hradiskom",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pod jarkom",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Pod Laščeky",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Pod majerom",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pod sadom",
+    "Počet_psov": "33"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pod sadom",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Pod Skalkou",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Pod univerzitou",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Pod vinicou",
+    "Počet_psov": "19"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Pod záhradkou",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Poddielna",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Podskaličná",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Poľná",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Poľná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Polomská",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Pomocná",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Popradská",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Poštová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Potočná",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Potoky",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Požiarnická",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Pražská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Predmestská",
+    "Počet_psov": "32"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Prešovská",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pri Celulózke",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Pri Celulózke",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Pri ihrisku",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Pri Kysuci",
+    "Počet_psov": "15"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Pri Rajčianke",
+    "Počet_psov": "19"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Pri Rajčianke",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Pri rieke",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Pribinova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Priehradná",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Prielohy",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Prieložná",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Priemyselná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Prúty",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Prvá",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Pstruhová",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Purpurová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Pustá",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Puškinova",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Radlinského",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Radničná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Radová",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Strážov",
+    "Ulica": "Rajčianska",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Rajecká",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Rajecká Cesta",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Rakové",
+    "Počet_psov": "16"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Rastislavova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Republiky",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Révaiovská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Revolučná",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Riečna",
+    "Počet_psov": "31"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Richtárska",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Roľnícka",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Romualda Zaymusa",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Rondel",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Rosinská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Rosinská",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Rovniankova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Rubínová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Rudolfa Dilonga",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Ružová",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Rybné námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Rybníky",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Sad na Studničkách",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Sad SNP",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Sadová",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Saleziánska",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Samova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Samuela Timona",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Sasinkova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Segnerova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Severná",
+    "Počet_psov": "19"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Sirotárska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Sivá",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Skotňa",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Skotňová",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Sládkovičova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Slavomírova",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Slnečná",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Slnečné námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Slnečné schody",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Slnečnicová",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Slovanská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Slovenských dobrovoľníkov",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Smaragdová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Smreková",
+    "Počet_psov": "30"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Snežnická cesta",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Spojná",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Stará dedina",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Stará Mojšova Lúčka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Stárkova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Stavbárska",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Stehličia",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Stodolova",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Stodolova",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Stračia",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Strážovská",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Strieborná",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Sumčia",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Suvorovova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Suvorovova",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Sv. Bystríka",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Sv. Cyrila a Metoda",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Sv. Gorazda",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Sv. Svorada a Benedikta",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Svätoplukova",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Šenkárovská",
+    "Počet_psov": "20"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Šibeničná",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Šiesta",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Školská",
+    "Počet_psov": "35"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Školský dvor",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Škorvánkov dvor",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Škultétyho",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Šoltésovej",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Športová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Štaffenovský dvor",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Štefana Furdeka",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Štôlňa",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Štrková",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Študentská",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Šťuková",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Štúrova",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Štvrtá",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "T. Vansovej",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Tajovského",
+    "Počet_psov": "26"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Tatranská",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Tehelná",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hájik",
+    "Ulica": "Terasy",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Tichá",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Tolstého",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Tomáša Ružičku",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Topoľová",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Trenčianska",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Tretia",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Trnavská",
+    "Počet_psov": "35"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Trnovská medzierka",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Tulipánová",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Tulská",
+    "Počet_psov": "25"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Tyrkysová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Údolná",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Uhoľná",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Mojšová Lúčka",
+    "Ulica": "Úhoria",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Univerzitná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Univerzitná",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Univerzitné Námestie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Ústecká",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Vajanského",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Varšavská",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Vavrinca Ottmayera",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Vavrinca Ottmayera",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Rosinky",
+    "Ulica": "Vážska",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Veľká okružná",
+    "Počet_psov": "24"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Veľkomoravská",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Vendelína Javorku",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Vendelína Javorku",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilina",
+    "Ulica": "Vendelína Javorku",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Višňová",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Vojtecha Spanyola",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Vojtecha Tvrdého",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Vrania",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vranie",
+    "Ulica": "Vranie",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Vysoká",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Vysokoškolákov",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Vysokoškolákov",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Za cintorínom",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Za kaštieľom",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Za kostolom",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bôrik",
+    "Ulica": "Za plavárňou",
+    "Počet_psov": "8"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "Za potokom",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Záborského",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Zábrehy",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Zábrežná",
+    "Počet_psov": "33"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Solinky",
+    "Ulica": "Zadný dielec",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Zádubanská",
+    "Počet_psov": "39"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Zádubnie",
+    "Počet_psov": "12"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Záhradná",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Záhradnícka",
+    "Počet_psov": "13"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Záhrbie",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Záhumenská",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bytčica",
+    "Ulica": "Záchrastie",
+    "Počet_psov": "10"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Zámocká",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "Západná",
+    "Počet_psov": "14"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Zaroháčovská",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Zástranie",
+    "Počet_psov": "9"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Zástranská",
+    "Počet_psov": "7"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "Závodská cesta",
+    "Počet_psov": "17"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Závoz",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Závozská",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Zelená",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "Zúbekova",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Zvolenská",
+    "Počet_psov": "30"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Železničná",
+    "Počet_psov": "27"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Žilinská Lehota",
+    "Počet_psov": "11"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Hliny",
+    "Ulica": "Žitná",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "Žltá",
+    "Počet_psov": "4"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Staré mesto",
+    "Ulica": "1. mája",
+    "Počet_psov": "5"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Závodie",
+    "Ulica": "9. mája",
+    "Počet_psov": "3"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Budatín",
+    "Ulica": "",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Považský Chlmec",
+    "Ulica": "",
+    "Počet_psov": "2"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Trnové",
+    "Ulica": "",
+    "Počet_psov": "6"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "",
+    "Ulica": "",
+    "Počet_psov": "2"
+  }
+]

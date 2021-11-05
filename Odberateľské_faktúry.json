@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "53001508   ",
+    "Číslo_faktúry": "20210147",
+    "Odberateľ": "Útvar hlavného architekta mesta Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 583,2 EUR, spolu: 583,2 EUR",
+    "Celková_cena_(bez_DPH)": "   583,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.11.2021",
+    "Dátum_zverejnenia": "04.11.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021053",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.11.2021",
+    "Dátum_zverejnenia": "04.11.2021"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2021054",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 59, jedn. cena: 1 EUR, spolu: 59 EUR,\rprevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 59, jedn. cena: 4 EUR, spolu: 236 EUR",
+    "Celková_cena_(bez_DPH)": "   295,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.11.2021",
+    "Dátum_zverejnenia": "04.11.2021"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021055",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.11.2021",
+    "Dátum_zverejnenia": "04.11.2021"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2021056",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 10/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 10/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.11.2021",
+    "Dátum_zverejnenia": "04.11.2021"
+  },
+  {
     "IČO": "00648965   ",
     "Číslo_faktúry": "21002",
     "Odberateľ": "Obec Ovčiarsko",
@@ -33,8 +83,8 @@
     "IČO": "37814508   ",
     "Číslo_faktúry": "21004",
     "Odberateľ": "Základná škola s materskou školou, Ul. Hlavná 200/15, Hôrky",
-    "Text_odb._faktúry": "Náklady na potraviny, množ.: 3, jedn. cena: ,15 EUR, spolu: ,45 EUR,\rNáklady na potraviny, množ.: 28, jedn. cena: 1,45 EUR, spolu: 40,6 EUR,\rNáklady na potraviny, množ.: 45, jedn. cena: ,15 EUR, spolu: 6,75 EUR,\rNáklady na potraviny, množ.: 85, jedn. cena: 1,45 EUR, spolu: 123,25 EUR",
-    "Celková_cena_(bez_DPH)": "   171,05",
+    "Text_odb._faktúry": "Stravné, množ.: 3, jedn. cena: ,15 EUR, spolu: ,45 EUR,\rStravné, množ.: 28, jedn. cena: 1,45 EUR, spolu: 40,6 EUR,\rStravné, množ.: 45, jedn. cena: ,15 EUR, spolu: 6,75 EUR,\rStravné, množ.: 85, jedn. cena: 1,45 EUR, spolu: 123,25 EUR,\rRežijné náklady, množ.: 130, jedn. cena: 1,5 EUR, spolu: 195 EUR",
+    "Celková_cena_(bez_DPH)": "   366,05",
     "Mena": "EUR",
     "Dátum_vystavenia": "29.10.2021",
     "Dátum_zverejnenia": "03.11.2021"
@@ -43,8 +93,8 @@
     "IČO": "37814508   ",
     "Číslo_faktúry": "21005",
     "Odberateľ": "Základná škola s materskou školou, Ul. Hlavná 200/15, Hôrky",
-    "Text_odb._faktúry": "Režijné náklady, množ.: 130, jedn. cena: 1,5 EUR, spolu: 195 EUR",
-    "Celková_cena_(bez_DPH)": "   195,00",
+    "Text_odb._faktúry": "Obedy z dotácie - predškoláci, množ.: 45, jedn. cena: 1,3 EUR, spolu: 58,5 EUR",
+    "Celková_cena_(bez_DPH)": "   58,50",
     "Mena": "EUR",
     "Dátum_vystavenia": "29.10.2021",
     "Dátum_zverejnenia": "03.11.2021"
