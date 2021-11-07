@@ -1,33 +1,37 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Mena": "EUR",
+    "Druh_príjmov": "Podiel daňových príjmov na celkových príjmoch",
+    "Výška_príjmov_": " 51 337 477,00",
+    "Celkové_príjmy": " 88 215 623,00",
+    "Podiel_na_celk._príjm._[%]": "58,2"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_príjmov": "Podiel nedaňových príjmov na celkových príjmoch",
+    "Výška_príjmov_": " 6 578 070,00",
+    "Celkové_príjmy": " 88 215 623,00",
+    "Podiel_na_celk._príjm._[%]": "7,46"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_príjmov": "Podiel grantov a transferov na celkových príjmoch",
+    "Výška_príjmov_": " 19 626 065,00",
+    "Celkové_príjmy": " 88 215 623,00",
+    "Podiel_na_celk._príjm._[%]": "22,25"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_príjmov": "Podiel príjmov z finančných transakcií na celkových príjmoch",
+    "Výška_príjmov_": " 7 964 874,00",
+    "Celkové_príjmy": " 88 215 623,00",
+    "Podiel_na_celk._príjm._[%]": "9,03"
+  },
+  {
+    "Mena": "EUR",
+    "Druh_príjmov": "Podiel prijatých úverov na celkových príjmoch",
+    "Výška_príjmov_": " 2 709 137,00",
+    "Celkové_príjmy": " 88 215 623,00",
+    "Podiel_na_celk._príjm._[%]": "3,07"
+  }
+]

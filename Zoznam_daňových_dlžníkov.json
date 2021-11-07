@@ -892,7 +892,7 @@
     "Dlžník": "Obchodník, s.r.o.",
     "Adresa_dlžníka": "Dlhá 74/85",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  1 786,10",
+    "Suma_daňových_nedoplatkov": "  1 766,31",
     "Mena": "EUR"
   },
   {
@@ -7000,13 +7000,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   305,53",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dana Boleslavská",
     "Adresa_dlžníka": "Karpatská 3500/10",
     "Mesto": "Žilina",
@@ -8596,6 +8589,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   288,90",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Elena Brezániová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -10017,13 +10017,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Katrenec",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   259,95",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Galovič",
     "Adresa_dlžníka": "Republiky 1006/29",
     "Mesto": "Žilina",
@@ -10567,6 +10560,13 @@
     "Adresa_dlžníka": "Zemné súp. č. 750",
     "Mesto": "Zemné",
     "Suma_daňových_nedoplatkov": "   252,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michal Katrenec",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   251,98",
     "Mena": "EUR"
   },
   {

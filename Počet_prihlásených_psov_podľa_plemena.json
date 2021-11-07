@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1020"
+    "Počet": "1019"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -12,12 +12,12 @@
     "Počet": "260"
   },
   {
-    "Plemeno": "Labradorský retriever",
+    "Plemeno": "Maltézsky psík",
     "Počet": "205"
   },
   {
-    "Plemeno": "Maltézsky psík",
-    "Počet": "205"
+    "Plemeno": "Labradorský retriever",
+    "Počet": "204"
   },
   {
     "Plemeno": "Čivava",
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "111"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "88"
+    "Počet": "89"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "32"
+    "Počet": "33"
   },
   {
     "Plemeno": "Mops",
@@ -176,6 +176,10 @@
     "Počet": "13"
   },
   {
+    "Plemeno": "Anglický buldog",
+    "Počet": "13"
+  },
+  {
     "Plemeno": "Škótsky ovčiak dlhosrstý",
     "Počet": "13"
   },
@@ -186,10 +190,6 @@
   {
     "Plemeno": "Pomeranian",
     "Počet": "13"
-  },
-  {
-    "Plemeno": "Anglický buldog",
-    "Počet": "12"
   },
   {
     "Plemeno": "Bulteriér",
@@ -316,6 +316,10 @@
     "Počet": "5"
   },
   {
+    "Plemeno": "Entlebuchský salašnícky pes",
+    "Počet": "5"
+  },
+  {
     "Plemeno": "Lakelandský teriér",
     "Počet": "5"
   },
@@ -349,10 +353,6 @@
   },
   {
     "Plemeno": "Austrálsky teriér",
-    "Počet": "4"
-  },
-  {
-    "Plemeno": "Entlebuchský salašnícky pes",
     "Počet": "4"
   },
   {
