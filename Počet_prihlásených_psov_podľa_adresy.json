@@ -58622,7 +58622,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Predmestská",
     "Orient._č.": "  19      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -65581,6 +65581,13 @@
     "Ulica": "Stará dedina",
     "Orient._č.": "  12      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zástranie",
+    "Ulica": "Stará dedina",
+    "Orient._č.": "  14      ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -76024,13 +76031,6 @@
     "Časť_obce": "Zástranie",
     "Ulica": "Zástranie",
     "Orient._č.": "  12      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Zástranie",
-    "Ulica": "Zástranie",
-    "Orient._č.": "  17      ",
     "Počet_psov": "0"
   },
   {
