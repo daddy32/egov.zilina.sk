@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1019"
+    "Počet": "1017"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -9,7 +9,7 @@
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "260"
+    "Počet": "259"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -21,7 +21,7 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "132"
+    "Počet": "130"
   },
   {
     "Plemeno": "Jazvečík",
@@ -80,11 +80,11 @@
     "Počet": "46"
   },
   {
-    "Plemeno": "Bradáč",
-    "Počet": "41"
+    "Plemeno": "Americký staffordshirský teriér",
+    "Počet": "40"
   },
   {
-    "Plemeno": "Americký staffordshirský teriér",
+    "Plemeno": "Bradáč",
     "Počet": "40"
   },
   {
@@ -364,10 +364,6 @@
     "Počet": "4"
   },
   {
-    "Plemeno": "Malý kontinentálny španiel",
-    "Počet": "4"
-  },
-  {
     "Plemeno": "Pekingský palácový psík",
     "Počet": "4"
   },
@@ -400,10 +396,6 @@
     "Počet": "4"
   },
   {
-    "Plemeno": "Baset",
-    "Počet": "3"
-  },
-  {
     "Plemeno": "Bordeauxská doga",
     "Počet": "3"
   },
@@ -417,6 +409,10 @@
   },
   {
     "Plemeno": "Landseer",
+    "Počet": "3"
+  },
+  {
+    "Plemeno": "Malý kontinentálny španiel",
     "Počet": "3"
   },
   {
@@ -465,6 +461,10 @@
   },
   {
     "Plemeno": "Austrálsky dobytkársky pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Baset",
     "Počet": "2"
   },
   {
