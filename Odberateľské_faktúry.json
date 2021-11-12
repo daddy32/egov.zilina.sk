@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "31924654   ",
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "Cirkevný zbor Evanjelickej cirkvi a. v. na Slovensku Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady 05-09/2021, množ.: 1, jedn. cena: 903,92 EUR, spolu: 903,92 EUR",
+    "Celková_cena_(bez_DPH)": "   903,92",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.11.2021",
+    "Dátum_zverejnenia": "11.11.2021"
+  },
+  {
+    "IČO": "50431277   ",
+    "Číslo_faktúry": "2021004",
+    "Odberateľ": "AKAZA o.z.",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 225 EUR, spolu: 225 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 675 EUR, spolu: 675 EUR",
+    "Celková_cena_(bez_DPH)": "   900,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "30.09.2021",
+    "Dátum_zverejnenia": "11.11.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210149",
+    "Odberateľ": "Daniel Fulka",
+    "Text_odb._faktúry": "množ.: 73, jedn. cena: 1,21 EUR, spolu: 88,33 EUR",
+    "Celková_cena_(bez_DPH)": "   88,33",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.11.2021",
+    "Dátum_zverejnenia": "11.11.2021"
+  },
+  {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2021014",
     "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
