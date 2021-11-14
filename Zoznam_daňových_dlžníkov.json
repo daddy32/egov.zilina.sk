@@ -8547,13 +8547,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radoslav Martinček",
-    "Adresa_dlžníka": "súp. č. 508",
-    "Mesto": "Horný Vadičov",
-    "Suma_daňových_nedoplatkov": "   288,90",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Zdenko Lacko",
     "Adresa_dlžníka": "Bratislavská 517/46",
     "Mesto": "Žilina",
@@ -8901,6 +8894,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   283,56",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Radoslav Martinček",
+    "Adresa_dlžníka": "súp. č. 508",
+    "Mesto": "Horný Vadičov",
+    "Suma_daňových_nedoplatkov": "   283,24",
     "Mena": "EUR"
   },
   {
