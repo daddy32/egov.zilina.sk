@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "31795421   ",
+    "Číslo_faktúry": "21045",
+    "Odberateľ": "Slovenský zväz florbalu",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 13.11.2021, množ.: 9, jedn. cena: 6,4 EUR, spolu: 57,6 EUR",
+    "Celková_cena_(bez_DPH)": "   57,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.11.2021",
+    "Dátum_zverejnenia": "15.11.2021"
+  },
+  {
+    "IČO": "31795421   ",
+    "Číslo_faktúry": "21046",
+    "Odberateľ": "Slovenský zväz florbalu",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 13.11.2021, množ.: 9, jedn. cena: 15,6 EUR, spolu: 140,4 EUR",
+    "Celková_cena_(bez_DPH)": "   140,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.11.2021",
+    "Dátum_zverejnenia": "15.11.2021"
+  },
+  {
     "IČO": "31924654   ",
     "Číslo_faktúry": "2021004",
     "Odberateľ": "Cirkevný zbor Evanjelickej cirkvi a. v. na Slovensku Žilina",
