@@ -812,13 +812,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "AWS Car service s.r.o.",
-    "Adresa_dlžníka": "Predmestská 1608/90",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 107,76",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Prokion, s.r.o.",
     "Adresa_dlžníka": "Potočná 308/22",
     "Mesto": "Žilina",
@@ -844,6 +837,13 @@
     "Adresa_dlžníka": "Gabajova 2593/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 022,88",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "AWS Car service s.r.o.",
+    "Adresa_dlžníka": "Predmestská 1608/90",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 020,46",
     "Mena": "EUR"
   },
   {
@@ -8967,13 +8967,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miroslav Filo",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   279,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucián Rác",
     "Adresa_dlžníka": "Jura Hronca 3409/11",
     "Mesto": "Žilina",
@@ -11285,8 +11278,8 @@
   },
   {
     "Dlžník": "Ján Chodelka",
-    "Adresa_dlžníka": "Nanterská 1682/7",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "súp. č. 74",
+    "Mesto": "Podhorie",
     "Suma_daňových_nedoplatkov": "   232,75",
     "Mena": "EUR"
   },
@@ -15043,13 +15036,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Hlaváč",
-    "Adresa_dlžníka": "Zádubanská 92/83",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   176,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Veronika Nwodo",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16086,6 +16072,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Miroslav Filo",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   138,00",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Gabriela Brozová",
     "Adresa_dlžníka": "Horná Trnovská 450/66",
     "Mesto": "Žilina",
@@ -16153,13 +16146,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   118,90",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Oľga Hlaváčová",
-    "Adresa_dlžníka": "Zádubanská 92/83",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   118,84",
     "Mena": "EUR"
   },
   {
