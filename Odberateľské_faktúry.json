@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210150",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 296,24 EUR, spolu: 296,24 EUR",
+    "Celková_cena_(bez_DPH)": "   296,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.11.2021",
+    "Dátum_zverejnenia": "18.11.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210151",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 991,76 EUR, spolu: 991,76 EUR",
+    "Celková_cena_(bez_DPH)": "   991,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.11.2021",
+    "Dátum_zverejnenia": "18.11.2021"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20210152",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 89,24 EUR, spolu: 89,24 EUR",
+    "Celková_cena_(bez_DPH)": "   89,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.11.2021",
+    "Dátum_zverejnenia": "18.11.2021"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210153",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 381,76 EUR, spolu: 381,76 EUR",
+    "Celková_cena_(bez_DPH)": "   381,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.11.2021",
+    "Dátum_zverejnenia": "18.11.2021"
+  },
+  {
     "IČO": "31795421   ",
     "Číslo_faktúry": "21045",
     "Odberateľ": "Slovenský zväz florbalu",
@@ -45282,7 +45322,7 @@
   {
     "IČO": "36406252   ",
     "Číslo_faktúry": "20120008",
-    "Odberateľ": "VUMAT SK s.r.o.",
+    "Odberateľ": "VUMAT SK s.r.o. v likvidácii",
     "Text_odb._faktúry": "množ.: 0, jedn. cena: 0 EUR, spolu: 66,39 EUR",
     "Celková_cena_(bez_DPH)": "   66,39",
     "Mena": "EUR",
