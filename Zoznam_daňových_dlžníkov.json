@@ -217,13 +217,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "OLAS, s.r.o.",
-    "Adresa_dlžníka": "Bytčianska 804/132",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  12 625,41",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Stanislav Franek",
     "Adresa_dlžníka": "Cintorínska 12/10",
     "Mesto": "Gbeľany",
@@ -287,7 +280,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "VUMAT SK s.r.o.",
+    "Dlžník": "VUMAT SK s.r.o. v likvidácii",
     "Adresa_dlžníka": "Peterská 15199/20",
     "Mesto": "Bratislava-Ružinov",
     "Suma_daňových_nedoplatkov": "  10 700,39",
@@ -816,13 +809,6 @@
     "Adresa_dlžníka": "Potočná 308/22",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 105,68",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "ASKY s.r.o.",
-    "Adresa_dlžníka": "Hlinská 3337/27",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 079,78",
     "Mena": "EUR"
   },
   {

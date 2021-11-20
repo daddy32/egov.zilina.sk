@@ -1,5 +1,15 @@
 [
   {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210154",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -26,86 EUR, spolu: -26,86 EUR",
+    "Celková_cena_(bez_DPH)": "-   26,86",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.11.2021",
+    "Dátum_zverejnenia": "19.11.2021"
+  },
+  {
     "IČO": "37911961   ",
     "Číslo_faktúry": "20210150",
     "Odberateľ": "Materská škola",
@@ -253,8 +263,8 @@
     "IČO": "00648965   ",
     "Číslo_faktúry": "21003",
     "Odberateľ": "Obec Ovčiarsko",
-    "Text_odb._faktúry": "Režijné náklady na prípravu obeda, množ.: 31, jedn. cena: 1,5 EUR, spolu: 46,5 EUR",
-    "Celková_cena_(bez_DPH)": "   46,50",
+    "Text_odb._faktúry": "Režijné náklady na prípravu obeda, množ.: 31, jedn. cena: 2,14 EUR, spolu: 66,34 EUR",
+    "Celková_cena_(bez_DPH)": "   66,34",
     "Mena": "EUR",
     "Dátum_vystavenia": "29.10.2021",
     "Dátum_zverejnenia": "03.11.2021"
@@ -263,8 +273,8 @@
     "IČO": "37814508   ",
     "Číslo_faktúry": "21004",
     "Odberateľ": "Základná škola s materskou školou, Ul. Hlavná 200/15, Hôrky",
-    "Text_odb._faktúry": "Stravné, množ.: 3, jedn. cena: ,15 EUR, spolu: ,45 EUR,\rStravné, množ.: 28, jedn. cena: 1,45 EUR, spolu: 40,6 EUR,\rStravné, množ.: 45, jedn. cena: ,15 EUR, spolu: 6,75 EUR,\rStravné, množ.: 85, jedn. cena: 1,45 EUR, spolu: 123,25 EUR,\rRežijné náklady, množ.: 130, jedn. cena: 1,5 EUR, spolu: 195 EUR",
-    "Celková_cena_(bez_DPH)": "   366,05",
+    "Text_odb._faktúry": "Stravné, množ.: 3, jedn. cena: ,15 EUR, spolu: ,45 EUR,\rStravné, množ.: 28, jedn. cena: 1,45 EUR, spolu: 40,6 EUR,\rStravné, množ.: 45, jedn. cena: ,15 EUR, spolu: 6,75 EUR,\rStravné, množ.: 85, jedn. cena: 1,45 EUR, spolu: 123,25 EUR,\rRežijné náklady, množ.: 130, jedn. cena: 2,14 EUR, spolu: 278,2 EUR",
+    "Celková_cena_(bez_DPH)": "   449,25",
     "Mena": "EUR",
     "Dátum_vystavenia": "29.10.2021",
     "Dátum_zverejnenia": "03.11.2021"
