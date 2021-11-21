@@ -15926,7 +15926,7 @@
   },
   {
     "Dlžník": "Miroslav Boľo",
-    "Adresa_dlžníka": "Cintorínska 275/3",
+    "Adresa_dlžníka": "Jedlíkova 3423/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   161,24",
     "Mena": "EUR"
@@ -16055,13 +16055,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   142,26",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Filo",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   138,00",
     "Mena": "EUR"
   },
   {
@@ -16244,6 +16237,13 @@
     "Adresa_dlžníka": "Janka Silana 1875/27",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   87,10",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslav Filo",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   81,60",
     "Mena": "EUR"
   },
   {
