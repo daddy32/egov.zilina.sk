@@ -182,11 +182,11 @@
   {
     "Ulica": "Bajzova",
     "Na_trvalom_pobyte": "  1 491",
-    "Na_prechodnom_pobyte": "   17",
+    "Na_prechodnom_pobyte": "   16",
     "Ženy": "   810",
-    "Muži": "   698",
+    "Muži": "   697",
     "V_predproduktívnom_veku": "   200",
-    "V_produktívnom_veku": "   860",
+    "V_produktívnom_veku": "   859",
     "V_poproduktívnom_veku": "   448"
   },
   {
@@ -1092,11 +1092,11 @@
   {
     "Ulica": "Gerlachovská",
     "Na_trvalom_pobyte": "   389",
-    "Na_prechodnom_pobyte": "   6",
-    "Ženy": "   195",
+    "Na_prechodnom_pobyte": "   4",
+    "Ženy": "   193",
     "Muži": "   200",
-    "V_predproduktívnom_veku": "   64",
-    "V_produktívnom_veku": "   202",
+    "V_predproduktívnom_veku": "   63",
+    "V_produktívnom_veku": "   201",
     "V_poproduktívnom_veku": "   129"
   },
   {
@@ -1186,8 +1186,8 @@
     "Ženy": "   21",
     "Muži": "   24",
     "V_predproduktívnom_veku": "   9",
-    "V_produktívnom_veku": "   26",
-    "V_poproduktívnom_veku": "   10"
+    "V_produktívnom_veku": "   25",
+    "V_poproduktívnom_veku": "   11"
   },
   {
     "Ulica": "Hlavná cesta",
@@ -3025,8 +3025,8 @@
     "Na_prechodnom_pobyte": "   0",
     "Ženy": "   45",
     "Muži": "   43",
-    "V_predproduktívnom_veku": "   10",
-    "V_produktívnom_veku": "   61",
+    "V_predproduktívnom_veku": "   9",
+    "V_produktívnom_veku": "   62",
     "V_poproduktívnom_veku": "   17"
   },
   {

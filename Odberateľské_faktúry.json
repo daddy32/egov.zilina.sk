@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2021008",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 4,35 EUR, spolu: 4,35 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 78 EUR, spolu: 78 EUR",
+    "Celková_cena_(bez_DPH)": "   82,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.11.2021",
+    "Dátum_zverejnenia": "22.11.2021"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2021009",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 18,8 EUR, spolu: 18,8 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 315 EUR, spolu: 315 EUR",
+    "Celková_cena_(bez_DPH)": "   333,80",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.11.2021",
+    "Dátum_zverejnenia": "22.11.2021"
+  },
+  {
+    "IČO": "42221749   ",
+    "Číslo_faktúry": "2021017",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
+    "Text_odb._faktúry": "prevádzkové náklady za prenájom tried, kabinetov a telocvične obdobie od 13.9-31.12.2021, množ.: 1, jedn. cena: 689,07 EUR, spolu: 689,07 EUR",
+    "Celková_cena_(bez_DPH)": "   689,07",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.11.2021",
+    "Dátum_zverejnenia": "22.11.2021"
+  },
+  {
+    "IČO": "42221749   ",
+    "Číslo_faktúry": "2021018",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
+    "Text_odb._faktúry": "nájomné za prenájom tried, kabientov a telocvične 13.9-31.12.2021, množ.: 1, jedn. cena: 1035 EUR, spolu: 1035 EUR",
+    "Celková_cena_(bez_DPH)": "  1 035,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.11.2021",
+    "Dátum_zverejnenia": "22.11.2021"
+  },
+  {
     "IČO": "00163121   ",
     "Číslo_faktúry": "20210154",
     "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
@@ -3982,7 +4022,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "52020",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "Prenájom, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
     "Celková_cena_(bez_DPH)": "   300,00",
     "Mena": "EUR",
@@ -6592,7 +6632,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "022020",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "Prenájom, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
     "Celková_cena_(bez_DPH)": "   300,00",
     "Mena": "EUR",
@@ -13182,7 +13222,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "0405012019",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "Prenájom priestorov, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
     "Celková_cena_(bez_DPH)": "   300,00",
     "Mena": "EUR",
@@ -14272,7 +14312,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "2019005",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "nájomné za triedy, telocvičňu a kabinety, 207 m2/6 mesiacov/1,25€ za mesiac,  za obdobie od 8.1.-28.6.2019, množ.: 1, jedn. cena: 1552,5 EUR, spolu: 1552,5 EUR",
     "Celková_cena_(bez_DPH)": "  1 552,50",
     "Mena": "EUR",
@@ -14282,7 +14322,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "2019006",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "prevádzkové náklady na prenájom tried, telocvične a kabinetov za obdobie od 8.1-28.6.2019, podľa prílohy k FA 2019006, množ.: 1, jedn. cena: 1050,89 EUR, spolu: 1050,89 EUR",
     "Celková_cena_(bez_DPH)": "  1 050,89",
     "Mena": "EUR",
@@ -16552,7 +16592,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "2211012018",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "Prenájom priestorov, množ.: 1, jedn. cena: 200 EUR, spolu: 200 EUR",
     "Celková_cena_(bez_DPH)": "   200,00",
     "Mena": "EUR",
@@ -26782,7 +26822,7 @@
   {
     "IČO": "42221749   ",
     "Číslo_faktúry": "1103012017",
-    "Odberateľ": "Súkromná základná umelecká škola",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
     "Text_odb._faktúry": "Prenájom priestorov, množ.: 6, jedn. cena: 50 EUR, spolu: 300 EUR",
     "Celková_cena_(bez_DPH)": "   300,00",
     "Mena": "EUR",
