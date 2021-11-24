@@ -9968,13 +9968,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Zuzana Andrášeková Mazúrová",
-    "Adresa_dlžníka": "Pod vinicou 262/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   259,68",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Richard Ponechal",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -10637,13 +10630,6 @@
     "Adresa_dlžníka": "Bratislavská 8367/42A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   248,80",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Drahomíra Balážová",
-    "Adresa_dlžníka": "Bratislavská 8535/36A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   248,46",
     "Mena": "EUR"
   },
   {
@@ -16426,6 +16412,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   17,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Zuzana Andrášeková Mazúrová",
+    "Adresa_dlžníka": "Pod vinicou 262/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   5,00",
     "Mena": "EUR"
   },
   {
