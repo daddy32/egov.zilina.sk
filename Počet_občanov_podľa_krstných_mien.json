@@ -32,7 +32,7 @@
   {
     "Krstné_meno": "Katarína",
     "Pohlavie": "žena",
-    "Počet": "1640"
+    "Počet": "1641"
   },
   {
     "Krstné_meno": "Zuzana",
@@ -142,7 +142,7 @@
   {
     "Krstné_meno": "Ivan",
     "Pohlavie": "muž",
-    "Počet": "666"
+    "Počet": "665"
   },
   {
     "Krstné_meno": "Janka",
@@ -207,7 +207,7 @@
   {
     "Krstné_meno": "Emília",
     "Pohlavie": "žena",
-    "Počet": "534"
+    "Počet": "533"
   },
   {
     "Krstné_meno": "Helena",
@@ -267,7 +267,7 @@
   {
     "Krstné_meno": "Natália",
     "Pohlavie": "žena",
-    "Počet": "447"
+    "Počet": "448"
   },
   {
     "Krstné_meno": "Petra",
@@ -327,7 +327,7 @@
   {
     "Krstné_meno": "Ľubica",
     "Pohlavie": "žena",
-    "Počet": "356"
+    "Počet": "355"
   },
   {
     "Krstné_meno": "Simona",
@@ -552,7 +552,7 @@
   {
     "Krstné_meno": "Miriam",
     "Pohlavie": "žena",
-    "Počet": "173"
+    "Počet": "174"
   },
   {
     "Krstné_meno": "Zdenka",
@@ -602,7 +602,7 @@
   {
     "Krstné_meno": "Sára",
     "Pohlavie": "žena",
-    "Počet": "146"
+    "Počet": "145"
   },
   {
     "Krstné_meno": "Alica",
@@ -652,7 +652,7 @@
   {
     "Krstné_meno": "Marian",
     "Pohlavie": "muž",
-    "Počet": "128"
+    "Počet": "127"
   },
   {
     "Krstné_meno": "Maroš",
@@ -835,11 +835,6 @@
     "Počet": "86"
   },
   {
-    "Krstné_meno": "Aneta",
-    "Pohlavie": "žena",
-    "Počet": "85"
-  },
-  {
     "Krstné_meno": "Timea",
     "Pohlavie": "žena",
     "Počet": "85"
@@ -848,6 +843,11 @@
     "Krstné_meno": "Timotej",
     "Pohlavie": "muž",
     "Počet": "85"
+  },
+  {
+    "Krstné_meno": "Aneta",
+    "Pohlavie": "žena",
+    "Počet": "84"
   },
   {
     "Krstné_meno": "Kamila",
@@ -2045,11 +2045,6 @@
     "Počet": "10"
   },
   {
-    "Krstné_meno": "Vendelín",
-    "Pohlavie": "muž",
-    "Počet": "10"
-  },
-  {
     "Krstné_meno": "Zdeňka",
     "Pohlavie": "žena",
     "Počet": "10"
@@ -2136,6 +2131,11 @@
   },
   {
     "Krstné_meno": "Otto",
+    "Pohlavie": "muž",
+    "Počet": "9"
+  },
+  {
+    "Krstné_meno": "Vendelín",
     "Pohlavie": "muž",
     "Počet": "9"
   },

@@ -2044,13 +2044,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anna Džúdžiová",
-    "Adresa_dlžníka": "Bytčianska 107/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   462,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Katarína Jamborová",
     "Adresa_dlžníka": "Požiarnická 42/8",
     "Mesto": "Žilina",
@@ -2762,6 +2755,13 @@
     "Adresa_dlžníka": "Holubia 37/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   333,74",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Anna Džúdžiová",
+    "Adresa_dlžníka": "Bytčianska 107/9",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   333,14",
     "Mena": "EUR"
   },
   {
@@ -15848,13 +15848,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "René Matyas",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   163,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Róbert Garlík",
     "Adresa_dlžníka": "Karpatská 3106/3",
     "Mesto": "Žilina",
@@ -16048,6 +16041,13 @@
     "Adresa_dlžníka": "Antona Bernoláka 2180/56",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   130,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "René Matyas",
+    "Adresa_dlžníka": "Obchodná 8555/3A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   129,19",
     "Mena": "EUR"
   },
   {
