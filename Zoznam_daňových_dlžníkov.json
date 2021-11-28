@@ -238,13 +238,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "3E, s.r.o.",
-    "Adresa_dlžníka": "Kuzmányho 24",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  11 378,47",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "ProfiCar service, s.r.o.",
     "Adresa_dlžníka": "M. R. Štefánika 421/43",
     "Mesto": "Varín",
@@ -13104,13 +13097,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jana Martinická",
-    "Adresa_dlžníka": "Gabajova 2595/28",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   205,02",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucia Danišová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13556,13 +13542,6 @@
     "Adresa_dlžníka": "Závodská cesta 2959/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   202,32",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ľubica Kramarová",
-    "Adresa_dlžníka": "Mojšová Lúčka 72/72",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   202,04",
     "Mena": "EUR"
   },
   {
@@ -16121,6 +16100,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jana Martinická",
+    "Adresa_dlžníka": "Gabajova 2595/28",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   107,50",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Věra Trpišová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16321,6 +16307,13 @@
     "Adresa_dlžníka": "Budapešťanská súp. č. 2124",
     "Mesto": "Kladno",
     "Suma_daňových_nedoplatkov": "   43,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubica Kramarová",
+    "Adresa_dlžníka": "Mojšová Lúčka 72/72",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   42,80",
     "Mena": "EUR"
   },
   {
