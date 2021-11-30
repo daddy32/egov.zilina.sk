@@ -1,10 +1,30 @@
 [
   {
+    "IČO": "37813358   ",
+    "Číslo_faktúry": "2021005",
+    "Odberateľ": "Základná umelecká škola L. Árvaya, elokované pracovisko",
+    "Text_odb._faktúry": "nájom+prevádzkové náklady učebňa, množ.: 1, jedn. cena: 299,5 EUR, spolu: 299,5 EUR,\rprevádzkové náklady učebňa, množ.: 1, jedn. cena: 1048,5 EUR, spolu: 1048,5 EUR",
+    "Celková_cena_(bez_DPH)": "  1 348,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "30.09.2021",
+    "Dátum_zverejnenia": "29.11.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021006",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "nájom Tv, množ.: 1, jedn. cena: 41,25 EUR, spolu: 41,25 EUR",
+    "Celková_cena_(bez_DPH)": "   41,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.11.2021",
+    "Dátum_zverejnenia": "29.11.2021"
+  },
+  {
     "IČO": "37911074   ",
     "Číslo_faktúry": "21047",
     "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
-    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 3.11., 4.11., 10.11., 11.11., 17.11., 18.11., 24.11.2021, množ.: 10,5, jedn. cena: 1,5 EUR, spolu: 15,75 EUR",
-    "Celková_cena_(bez_DPH)": "   15,75",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 3.11., 4.11., 10.11., 11.11., 18.11., 24.11.2021, množ.: 9, jedn. cena: 1,5 EUR, spolu: 13,5 EUR",
+    "Celková_cena_(bez_DPH)": "   13,50",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"
@@ -13,8 +33,8 @@
     "IČO": "37911074   ",
     "Číslo_faktúry": "21048",
     "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
-    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 3.11., 4.11., 10.11., 11.11., 17.11., 18.11., 24.11. 2021, množ.: 10,5, jedn. cena: 14,5 EUR, spolu: 152,25 EUR",
-    "Celková_cena_(bez_DPH)": "   152,25",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 3.11., 4.11., 10.11., 11.11., 18.11., 24.11. 2021, množ.: 9, jedn. cena: 14,5 EUR, spolu: 130,5 EUR",
+    "Celková_cena_(bez_DPH)": "   130,50",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"
@@ -83,8 +103,8 @@
     "IČO": "42060036   ",
     "Číslo_faktúry": "21055",
     "Odberateľ": "AC UNIZA Žilina",
-    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 3.11., 8.11., 10.11., 15.11., 17.11., 22.11., 24.11. 2021, množ.: 14, jedn. cena: 9,5 EUR, spolu: 133 EUR",
-    "Celková_cena_(bez_DPH)": "   133,00",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 3.11., 8.11., 10.11., 15.11., 22.11., 24.11. 2021, množ.: 12, jedn. cena: 9,5 EUR, spolu: 114 EUR",
+    "Celková_cena_(bez_DPH)": "   114,00",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"
@@ -93,8 +113,8 @@
     "IČO": "42060036   ",
     "Číslo_faktúry": "21056",
     "Odberateľ": "AC UNIZA Žilina",
-    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 3.11., 8.11., 10.11. 15.11., 17.11., 22.11., 24.11.2021, množ.: 14, jedn. cena: 14,5 EUR, spolu: 203 EUR",
-    "Celková_cena_(bez_DPH)": "   203,00",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 3.11., 8.11., 10.11. 15.11., 22.11., 24.11.2021, množ.: 12, jedn. cena: 14,5 EUR, spolu: 174 EUR",
+    "Celková_cena_(bez_DPH)": "   174,00",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"
@@ -103,8 +123,8 @@
     "IČO": "37812050   ",
     "Číslo_faktúry": "21057",
     "Odberateľ": "Športový klub MAKROTEAM",
-    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 17.11., 24.11. 2021, množ.: 3, jedn. cena: 4,5 EUR, spolu: 13,5 EUR",
-    "Celková_cena_(bez_DPH)": "   13,50",
+    "Text_odb._faktúry": "Prenájom priestorov - športové využitie v termíne 24.11. 2021, množ.: 1,5, jedn. cena: 4,5 EUR, spolu: 6,75 EUR",
+    "Celková_cena_(bez_DPH)": "   6,75",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"
@@ -113,8 +133,8 @@
     "IČO": "37812050   ",
     "Číslo_faktúry": "21058",
     "Odberateľ": "Športový klub MAKROTEAM",
-    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 17.11., 24.11. 2021, množ.: 3, jedn. cena: 14,5 EUR, spolu: 43,5 EUR",
-    "Celková_cena_(bez_DPH)": "   43,50",
+    "Text_odb._faktúry": "Prevádzkové náklady - športové využitie v termíne 24.11. 2021, množ.: 1,5, jedn. cena: 14,5 EUR, spolu: 21,75 EUR",
+    "Celková_cena_(bez_DPH)": "   21,75",
     "Mena": "EUR",
     "Dátum_vystavenia": "26.11.2021",
     "Dátum_zverejnenia": "26.11.2021"

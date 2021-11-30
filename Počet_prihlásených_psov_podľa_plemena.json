@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1014"
+    "Počet": "1015"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -9,14 +9,14 @@
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "259"
-  },
-  {
-    "Plemeno": "Maltézsky psík",
-    "Počet": "206"
+    "Počet": "260"
   },
   {
     "Plemeno": "Labradorský retriever",
+    "Počet": "205"
+  },
+  {
+    "Plemeno": "Maltézsky psík",
     "Počet": "205"
   },
   {
@@ -45,7 +45,7 @@
   },
   {
     "Plemeno": "Miešanec",
-    "Počet": "64"
+    "Počet": "65"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -69,7 +69,7 @@
   },
   {
     "Plemeno": "Bígl",
-    "Počet": "47"
+    "Počet": "46"
   },
   {
     "Plemeno": "Anglický kokeršpaniel",
@@ -100,12 +100,12 @@
     "Počet": "30"
   },
   {
-    "Plemeno": "Stredoázijský ovčiak",
+    "Plemeno": "Rotvajler",
     "Počet": "27"
   },
   {
-    "Plemeno": "Rotvajler",
-    "Počet": "26"
+    "Plemeno": "Stredoázijský ovčiak",
+    "Počet": "27"
   },
   {
     "Plemeno": "Cane Corso",
@@ -141,7 +141,7 @@
   },
   {
     "Plemeno": "Slovenský čuvač",
-    "Počet": "19"
+    "Počet": "18"
   },
   {
     "Plemeno": "Pražský krysařík",
@@ -176,6 +176,14 @@
     "Počet": "13"
   },
   {
+    "Plemeno": "Bulteriér",
+    "Počet": "13"
+  },
+  {
+    "Plemeno": "Nemecká doga",
+    "Počet": "13"
+  },
+  {
     "Plemeno": "Škótsky ovčiak dlhosrstý",
     "Počet": "13"
   },
@@ -188,15 +196,7 @@
     "Počet": "13"
   },
   {
-    "Plemeno": "Bulteriér",
-    "Počet": "12"
-  },
-  {
     "Plemeno": "Doberman",
-    "Počet": "12"
-  },
-  {
-    "Plemeno": "Nemecká doga",
     "Počet": "12"
   },
   {
@@ -300,10 +300,6 @@
     "Počet": "6"
   },
   {
-    "Plemeno": "Tibetská doga",
-    "Počet": "6"
-  },
-  {
     "Plemeno": "Papilon",
     "Počet": "6"
   },
@@ -337,6 +333,10 @@
   },
   {
     "Plemeno": "Westhighland white teriér",
+    "Počet": "5"
+  },
+  {
+    "Plemeno": "Tibetská doga",
     "Počet": "5"
   },
   {
