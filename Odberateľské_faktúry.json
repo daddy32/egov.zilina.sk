@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "37809911   ",
+    "Číslo_faktúry": "2021019",
+    "Odberateľ": "Telovýchovná jednota Hviezda Zádubnie",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 14/2021  8 h x 555 m2 x 0,013 €, množ.: 57,72, jedn. cena: 1 EUR, spolu: 57,72 EUR",
+    "Celková_cena_(bez_DPH)": "   57,72",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "01.12.2021"
+  },
+  {
+    "IČO": "37809911   ",
+    "Číslo_faktúry": "2021020",
+    "Odberateľ": "Telovýchovná jednota Hviezda Zádubnie",
+    "Text_odb._faktúry": "nájomné telocvičňa a šatňa   8 h x 4,45 €, množ.: 1, jedn. cena: 35,6 EUR, spolu: 35,6 EUR",
+    "Celková_cena_(bez_DPH)": "   35,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "01.12.2021"
+  },
+  {
     "IČO": "00151866   ",
     "Číslo_faktúry": "21061",
     "Odberateľ": "Ministerstvo vnútra Slovenskej republiky",
