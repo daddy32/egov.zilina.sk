@@ -1,5 +1,155 @@
 [
   {
+    "IČO": "53384245   ",
+    "Číslo_faktúry": "2021023",
+    "Odberateľ": "Norbert Július Janíček",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 10/2021 19,5 h x 555m2 x 0,013€/h, množ.: 1, jedn. cena: 140,69 EUR, spolu: 140,69 EUR",
+    "Celková_cena_(bez_DPH)": "   140,69",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "53384245   ",
+    "Číslo_faktúry": "2021024",
+    "Odberateľ": "Norbert Július Janíček",
+    "Text_odb._faktúry": "nájomné NZ 10/2021 19,5 h x 555 m2 x 0,013€/h, množ.: 1, jedn. cena: 86,78 EUR, spolu: 86,78 EUR",
+    "Celková_cena_(bez_DPH)": "   86,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "00176958   ",
+    "Číslo_faktúry": "20210156",
+    "Odberateľ": "Ľudové bytové družstvo v Žiline",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 60,5 EUR, spolu: 60,5 EUR",
+    "Celková_cena_(bez_DPH)": "   60,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210157",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20210158",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2021021",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 9/2021, 43,5 h x 555m2 x 0,013€/h, množ.: 1, jedn. cena: 313,85 EUR, spolu: 313,85 EUR",
+    "Celková_cena_(bez_DPH)": "   313,85",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2021022",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "nájomné NZ 9/2021 43,5 h x 4,45 €/h, množ.: 1, jedn. cena: 193,58 EUR, spolu: 193,58 EUR",
+    "Celková_cena_(bez_DPH)": "   193,58",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021039",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 21/2021 zo dňa 6.9.2021 za obdobie november 2021, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
+    "Celková_cena_(bez_DPH)": "   32,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021040",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 21/2021 zo dňa 6.9.2021 za obdobie november 2021, množ.: 1, jedn. cena: 60 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   60,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021041",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie november 2021, množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021042",
+    "Odberateľ": "Mgr. Rastislav Staňo",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 za obdobie november 2021, množ.: 1, jedn. cena: 67,5 EUR, spolu: 67,5 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021043",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac november 2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021044",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac november 2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021045",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za november 2021, množ.: 1, jedn. cena: 6 EUR, spolu: 6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2021046",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 21/2021 zo dňa 21.9.2021, množ.: 1, jedn. cena: 11,25 EUR, spolu: 11,25 EUR",
+    "Celková_cena_(bez_DPH)": "   11,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "02.12.2021"
+  },
+  {
     "IČO": "37809911   ",
     "Číslo_faktúry": "2021019",
     "Odberateľ": "Telovýchovná jednota Hviezda Zádubnie",

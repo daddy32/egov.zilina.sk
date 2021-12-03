@@ -98,13 +98,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Doprastav, a.s.",
-    "Adresa_dlžníka": "Drieňová 27",
-    "Mesto": "Bratislava",
-    "Suma_daňových_nedoplatkov": "  35 313,75",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SLOVPAP a.s., obch.zav.",
     "Adresa_dlžníka": "Kamenná 6",
     "Mesto": "Žilina",
@@ -231,13 +224,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "BCI, a.s.",
-    "Adresa_dlžníka": "Mydlárska 8718/7A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  11 388,37",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "ProfiCar service, s.r.o.",
     "Adresa_dlžníka": "M. R. Štefánika 421/43",
     "Mesto": "Varín",
@@ -256,13 +242,6 @@
     "Adresa_dlžníka": "Žilinská 8",
     "Mesto": "Bratislava",
     "Suma_daňových_nedoplatkov": "  10 977,45",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Trifex Group a.s.",
-    "Adresa_dlžníka": "Jozefská 17/19",
-    "Mesto": "Bratislava",
-    "Suma_daňových_nedoplatkov": "  10 940,01",
     "Mena": "EUR"
   },
   {
@@ -315,13 +294,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MSM LAND SYSTEMS s.r.o.",
-    "Adresa_dlžníka": "Kasárenská 8",
-    "Mesto": "Trenčín",
-    "Suma_daňových_nedoplatkov": "  9 883,35",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "MARS PUBS, s.r.o.",
     "Adresa_dlžníka": "Smreková 3502/33",
     "Mesto": "Žilina",
@@ -333,13 +305,6 @@
     "Adresa_dlžníka": "Antona Bernoláka 2137/21",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  9 214,06",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Poľnohospodárske družstvo AGROSPOL",
-    "Adresa_dlžníka": "",
-    "Mesto": "Strečno",
-    "Suma_daňových_nedoplatkov": "  8 466,93",
     "Mena": "EUR"
   },
   {
@@ -651,6 +616,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Doprastav, a.s.",
+    "Adresa_dlžníka": "Drieňová 27",
+    "Mesto": "Bratislava",
+    "Suma_daňových_nedoplatkov": "  2 828,94",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "ABC KLÍMA s.r.o.",
     "Adresa_dlžníka": "Tomášikova 19",
     "Mesto": "Bratislava",
@@ -704,6 +676,13 @@
     "Adresa_dlžníka": "M. R. Štefánika 3560/109",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 494,86",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "BCI, a.s.",
+    "Adresa_dlžníka": "Mydlárska 8718/7A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 463,60",
     "Mena": "EUR"
   },
   {
@@ -16191,13 +16170,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ľubica Trnková",
-    "Adresa_dlžníka": "Bláhova 462/14",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   84,89",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Filo",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16265,6 +16237,13 @@
     "Adresa_dlžníka": "Gaštanová 3080/14",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   63,68",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ľubica Trnková",
+    "Adresa_dlžníka": "Bláhova 462/14",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   61,53",
     "Mena": "EUR"
   },
   {
