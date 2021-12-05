@@ -88804,6 +88804,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Stará dedina",
+    "Orient._č.": "  24A     ",
+    "Číslo_okrsku": "76",
+    "Názov_okrsku": "Kultúrny dom Zástranie",
+    "Volebná_miestnosť": "Kultúrny dom",
+    "Adresa_volebnej_miestnosti": "Kultúrna 60/24"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Škorvánkov dvor",
     "Orient._č.": "   1      ",
     "Číslo_okrsku": "76",
@@ -88869,15 +88878,6 @@
     "Mesto": "Žilina",
     "Ulica": "Zástranie",
     "Orient._č.": "  20      ",
-    "Číslo_okrsku": "76",
-    "Názov_okrsku": "Kultúrny dom Zástranie",
-    "Volebná_miestnosť": "Kultúrny dom",
-    "Adresa_volebnej_miestnosti": "Kultúrna 60/24"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Zástranie",
-    "Orient._č.": "  22      ",
     "Číslo_okrsku": "76",
     "Názov_okrsku": "Kultúrny dom Zástranie",
     "Volebná_miestnosť": "Kultúrny dom",
@@ -98012,6 +98012,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Skotňová",
+    "Orient._č.": "   9      ",
+    "Číslo_okrsku": "79",
+    "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
+    "Volebná_miestnosť": "Kultúrny dom",
+    "Adresa_volebnej_miestnosti": "Žilinská Lehota 76/76"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Skotňová",
     "Orient._č.": "  12      ",
     "Číslo_okrsku": "79",
     "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
@@ -98166,15 +98175,6 @@
     "Mesto": "Žilina",
     "Ulica": "Žilinská Lehota",
     "Orient._č.": "  29      ",
-    "Číslo_okrsku": "79",
-    "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
-    "Volebná_miestnosť": "Kultúrny dom",
-    "Adresa_volebnej_miestnosti": "Žilinská Lehota 76/76"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Žilinská Lehota",
-    "Orient._č.": "  30      ",
     "Číslo_okrsku": "79",
     "Názov_okrsku": "Kultúrny dom Žilinská Lehota",
     "Volebná_miestnosť": "Kultúrny dom",
