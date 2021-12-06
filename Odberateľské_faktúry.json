@@ -1,5 +1,75 @@
 [
   {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021060",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2021061",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 44,5, jedn. cena: 1 EUR, spolu: 44,5 EUR,\rprevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 44,5, jedn. cena: 4 EUR, spolu: 178 EUR",
+    "Celková_cena_(bez_DPH)": "   222,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021062",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 64,5, jedn. cena: 4,5 EUR, spolu: 290,25 EUR,\rprenájom kabinetu za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 64,5, jedn. cena: 7,5 EUR, spolu: 483,75 EUR",
+    "Celková_cena_(bez_DPH)": "   814,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "31925430   ",
+    "Číslo_faktúry": "2021063",
+    "Odberateľ": "Mládežnícky basketbalový klub Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 4,5 EUR, spolu: 20,25 EUR,\rprevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 7,5 EUR, spolu: 33,75 EUR",
+    "Celková_cena_(bez_DPH)": "   54,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021064",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2021065",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2021066",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.12.2021",
+    "Dátum_zverejnenia": "05.12.2021"
+  },
+  {
     "IČO": "53384245   ",
     "Číslo_faktúry": "2021023",
     "Odberateľ": "Norbert Július Janíček",
