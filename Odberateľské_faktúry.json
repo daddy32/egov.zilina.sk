@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2021067",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prenájom malej telocvične za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 5, jedn. cena: 1 EUR, spolu: 5 EUR,\rprevádzkové náklady malej telocvične za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 5, jedn. cena: 4 EUR, spolu: 20 EUR,\rprenájom veľkej telocvične za 11/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 2, jedn. cena: 4,5 EUR, spolu: 9 EUR,\rprevádzkové náklady veľkej telocvične za 11/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 2, jedn. cena: 7,5 EUR, spolu: 15 EUR",
+    "Celková_cena_(bez_DPH)": "   49,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "06.12.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2021068",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 12/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "06.12.2021"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2021069",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 12/2021 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 12/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "06.12.2021"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2021070",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 12/2021 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "06.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "20210159",
+    "Odberateľ": "Anton Kultan",
+    "Text_odb._faktúry": "množ.: 56, jedn. cena: 1,21 EUR, spolu: 67,76 EUR",
+    "Celková_cena_(bez_DPH)": "   67,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "06.12.2021"
+  },
+  {
     "IČO": "37905384   ",
     "Číslo_faktúry": "2021060",
     "Odberateľ": "Materská škola",
