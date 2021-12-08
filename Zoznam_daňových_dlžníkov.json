@@ -7014,6 +7014,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Lucián Rác",
+    "Adresa_dlžníka": "Jura Hronca 3409/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   299,80",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Eva Kostrošová",
     "Adresa_dlžníka": "Stred 87",
     "Mesto": "Zázrivá",
@@ -8894,13 +8901,6 @@
     "Adresa_dlžníka": "Hore vŕškom 300/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   280,15",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Lucián Rác",
-    "Adresa_dlžníka": "Jura Hronca 3409/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   279,80",
     "Mena": "EUR"
   },
   {
@@ -15519,13 +15519,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Anton Králik",
-    "Adresa_dlžníka": "ČSA 1306/13",
-    "Mesto": "Kysucké Nové Mesto",
-    "Suma_daňových_nedoplatkov": "   165,62",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Boris Šolc",
     "Adresa_dlžníka": "Prielohy 1013/8A",
     "Mesto": "Žilina",
@@ -15691,13 +15684,6 @@
     "Adresa_dlžníka": "Bratislavská 517/46",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,47",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Katarína Lehotská",
-    "Adresa_dlžníka": "Platanová 3228/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   165,10",
     "Mena": "EUR"
   },
   {
@@ -15946,6 +15932,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Anton Králik",
+    "Adresa_dlžníka": "ČSA 1306/13",
+    "Mesto": "Kysucké Nové Mesto",
+    "Suma_daňových_nedoplatkov": "   146,39",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Patrik Majerčík",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -15971,6 +15964,13 @@
     "Adresa_dlžníka": "Antona Bernoláka 2180/56",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   130,48",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Katarína Lehotská",
+    "Adresa_dlžníka": "Platanová 3228/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   130,10",
     "Mena": "EUR"
   },
   {
