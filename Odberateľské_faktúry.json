@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021028",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné k NZ 11/2021, basketbal, november, množ.: 7,5, jedn. cena: 4,45 EUR, spolu: 33,38 EUR",
+    "Celková_cena_(bez_DPH)": "   33,38",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "08.12.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021025",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 12/2021 karate, november, množ.: 2, jedn. cena: 7,21 EUR, spolu: 14,42 EUR",
+    "Celková_cena_(bez_DPH)": "   14,42",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "08.12.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021026",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné k NZ 12/2021, karate, november 2021, množ.: 2, jedn. cena: 4,45 EUR, spolu: 8,9 EUR",
+    "Celková_cena_(bez_DPH)": "   8,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "08.12.2021"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2021027",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady k NZ 11/2021, basketbal, november, množ.: 7,5, jedn. cena: 7,21 EUR, spolu: 54,08 EUR",
+    "Celková_cena_(bez_DPH)": "   54,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "08.12.2021"
+  },
+  {
     "IČO": "46691731   ",
     "Číslo_faktúry": "20210160",
     "Odberateľ": "BIOFOREST,s.r.o.",
