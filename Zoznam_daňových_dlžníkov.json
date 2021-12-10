@@ -1120,13 +1120,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ivanka Vaupotičová",
-    "Adresa_dlžníka": "súp. č. 95",
-    "Mesto": "Povina",
-    "Suma_daňových_nedoplatkov": "   947,68",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lesya Hurtová",
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
@@ -1138,6 +1131,13 @@
     "Adresa_dlžníka": "Antona Bielka 545/26",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   900,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ivanka Vaupotičová",
+    "Adresa_dlžníka": "súp. č. 95",
+    "Mesto": "Povina",
+    "Suma_daňových_nedoplatkov": "   899,48",
     "Mena": "EUR"
   },
   {
@@ -3416,7 +3416,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Marián Ragula",
+    "Dlžník": "Ing. Marian Ragula",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   320,10",
