@@ -8883,13 +8883,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Drlička",
-    "Adresa_dlžníka": "Hore vŕškom 300/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   280,15",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Janka Kalmanová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16258,6 +16251,13 @@
     "Adresa_dlžníka": "Osiková 3213/18",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   37,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Drlička",
+    "Adresa_dlžníka": "Hore vŕškom 300/11",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   31,85",
     "Mena": "EUR"
   },
   {
