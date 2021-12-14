@@ -1,5 +1,75 @@
 [
   {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2021010",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 4,35 EUR, spolu: 4,35 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 54 EUR, spolu: 54 EUR",
+    "Celková_cena_(bez_DPH)": "   58,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021011",
+    "Odberateľ": "Jaroslav Žiačik",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 28,2 EUR, spolu: 28,2 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 112 EUR, spolu: 112 EUR",
+    "Celková_cena_(bez_DPH)": "   140,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2021012",
+    "Odberateľ": "Ing. Helena Žilová",
+    "Text_odb._faktúry": "Prevádzkové náklady, množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2021013",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 9,4 EUR, spolu: 9,4 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 126 EUR, spolu: 126 EUR",
+    "Celková_cena_(bez_DPH)": "   135,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021047",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac december 2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2021048",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac december 2021, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "2021049",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "odmenu za úhradu rozborov v zmysle uzatvorenej Zmluvy o spolupráci evidenčné číslo z-44/2020, zo dňa 5.10.2020 za zimný semester 2021/2022 - odmena á 10,- €/hod., množ.: 15, jedn. cena: 10 EUR, spolu: 150 EUR,\rrežijné náklady v zmysle Zmluvy o spolupráci á 0,63€/hod., množ.: 15, jedn. cena: ,63 EUR, spolu: 9,45 EUR",
+    "Celková_cena_(bez_DPH)": "   159,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.12.2021",
+    "Dátum_zverejnenia": "13.12.2021"
+  },
+  {
     "IČO": "50015427   ",
     "Číslo_faktúry": "2021071",
     "Odberateľ": "ROSLY klub, o.z.",
