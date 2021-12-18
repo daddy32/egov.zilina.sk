@@ -1,5 +1,85 @@
 [
   {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2021018",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 66 EUR, spolu: 66 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 264 EUR, spolu: 264 EUR",
+    "Celková_cena_(bez_DPH)": "   330,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2021019",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 44 EUR, spolu: 44 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 176 EUR, spolu: 176 EUR",
+    "Celková_cena_(bez_DPH)": "   220,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2021020",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 162 EUR, spolu: 162 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 648 EUR, spolu: 648 EUR",
+    "Celková_cena_(bez_DPH)": "   810,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "50646079   ",
+    "Číslo_faktúry": "2021021",
+    "Odberateľ": "Občianske združenie SKIPY",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 38 EUR, spolu: 38 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 152 EUR, spolu: 152 EUR",
+    "Celková_cena_(bez_DPH)": "   190,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2021022",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 164 EUR, spolu: 164 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 656 EUR, spolu: 656 EUR",
+    "Celková_cena_(bez_DPH)": "   820,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2021023",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 9 EUR, spolu: 9 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "37813412   ",
+    "Číslo_faktúry": "2021024",
+    "Odberateľ": "Základná umelecká škola Ferka Špániho",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 202 EUR, spolu: 202 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 800 EUR, spolu: 800 EUR",
+    "Celková_cena_(bez_DPH)": "  1 002,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "2021025",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "Organizačná a metodická podpora počas pedagogickej praxe študentov, množ.: 1, jedn. cena: 318,9 EUR, spolu: 318,9 EUR",
+    "Celková_cena_(bez_DPH)": "   318,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.12.2021",
+    "Dátum_zverejnenia": "17.12.2021"
+  },
+  {
     "IČO": "36672297   ",
     "Číslo_faktúry": "20210165",
     "Odberateľ": "Severoslovenské vodárne a kanalizácie, a. s.",

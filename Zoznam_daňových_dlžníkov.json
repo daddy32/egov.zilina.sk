@@ -10522,7 +10522,7 @@
   },
   {
     "Dlžník": "Zuzana Kotvasová",
-    "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 894/13",
+    "Adresa_dlžníka": "Hornádska 1419/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   247,14",
     "Mena": "EUR"
@@ -15904,13 +15904,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Nora Bartová",
-    "Adresa_dlžníka": "1. mája 1011/13",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   127,14",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Dagmar Dukátová",
     "Adresa_dlžníka": "Smreková 3091/4",
     "Mesto": "Žilina",
@@ -15978,6 +15971,13 @@
     "Adresa_dlžníka": "Antona Bernoláka súp. č. 3231",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   104,67",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Nora Bartová",
+    "Adresa_dlžníka": "1. mája 1011/13",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   103,94",
     "Mena": "EUR"
   },
   {
