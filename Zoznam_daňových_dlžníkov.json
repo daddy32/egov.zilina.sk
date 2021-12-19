@@ -1820,13 +1820,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Naďa Šolcová",
-    "Adresa_dlžníka": "Prielohy 1013/8A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   517,24",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "František Vanoch",
     "Adresa_dlžníka": "Matuškova 430/43",
     "Mesto": "Žilina",
@@ -1964,6 +1957,13 @@
     "Adresa_dlžníka": "Borová 3179/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   473,96",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Naďa Šolcová",
+    "Adresa_dlžníka": "Prielohy 1013/8A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   465,94",
     "Mena": "EUR"
   },
   {
@@ -13825,13 +13825,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Adem Biljalovič",
-    "Adresa_dlžníka": "súp. č. 825",
-    "Mesto": "Nesluša",
-    "Suma_daňových_nedoplatkov": "   190,41",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Kvaček",
     "Adresa_dlžníka": "Karpatské námestie 7770/10A",
     "Mesto": "Bratislava-Rača",
@@ -16167,6 +16160,13 @@
     "Adresa_dlžníka": "Na Tobolky 273/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   48,27",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Adem Biljalovič",
+    "Adresa_dlžníka": "súp. č. 825",
+    "Mesto": "Nesluša",
+    "Suma_daňových_nedoplatkov": "   46,72",
     "Mena": "EUR"
   },
   {
