@@ -47,7 +47,7 @@
   {
     "Krstné_meno": "Jana",
     "Pohlavie": "žena",
-    "Počet": "1504"
+    "Počet": "1503"
   },
   {
     "Krstné_meno": "Miroslav",
@@ -2160,11 +2160,6 @@
     "Počet": "9"
   },
   {
-    "Krstné_meno": "Alfonz",
-    "Pohlavie": "muž",
-    "Počet": "8"
-  },
-  {
     "Krstné_meno": "Beatrix",
     "Pohlavie": "žena",
     "Počet": "8"
@@ -2268,6 +2263,11 @@
     "Krstné_meno": "Tímea",
     "Pohlavie": "žena",
     "Počet": "8"
+  },
+  {
+    "Krstné_meno": "Alfonz",
+    "Pohlavie": "muž",
+    "Počet": "7"
   },
   {
     "Krstné_meno": "Berta",
