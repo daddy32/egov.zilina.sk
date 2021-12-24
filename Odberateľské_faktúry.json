@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2021007",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prevádzkové náklady október-december, množ.: 12, jedn. cena: 7,5 EUR, spolu: 90 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "23.12.2021"
+  },
+  {
+    "IČO": "36434744   ",
+    "Číslo_faktúry": "2021008",
+    "Odberateľ": "IPV vzdelávanie s.r.o.",
+    "Text_odb._faktúry": "nájom 25.9.-22.12.2021, množ.: 15,5, jedn. cena: 2,5 EUR, spolu: 38,75 EUR,\rprevádzkové náklady 25.9.-22.12.2021, množ.: 15,5, jedn. cena: 7,5 EUR, spolu: 116,25 EUR",
+    "Celková_cena_(bez_DPH)": "   155,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "23.12.2021"
+  },
+  {
+    "IČO": "36434744   ",
+    "Číslo_faktúry": "2021009",
+    "Odberateľ": "IPV vzdelávanie s.r.o.",
+    "Text_odb._faktúry": "nájom-bazén 16.9.-21.12.2021, množ.: 8, jedn. cena: 1,5 EUR, spolu: 12 EUR,\rprevádzkové náklady-bazén 16.9.-21.12.2021, množ.: 8, jedn. cena: 17 EUR, spolu: 136 EUR",
+    "Celková_cena_(bez_DPH)": "   148,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "23.12.2021"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2021010",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady-telocvičňa 16.11.-21.12.2021, množ.: 4,5, jedn. cena: 7,5 EUR, spolu: 33,75 EUR",
+    "Celková_cena_(bez_DPH)": "   33,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.12.2021",
+    "Dátum_zverejnenia": "23.12.2021"
+  },
+  {
     "IČO": "36407470   ",
     "Číslo_faktúry": "20210167",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
