@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210168",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 153,5 EUR, spolu: 153,5 EUR",
+    "Celková_cena_(bez_DPH)": "   153,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.12.2021",
+    "Dátum_zverejnenia": "27.12.2021"
+  },
+  {
+    "IČO": "37905147   ",
+    "Číslo_faktúry": "20210169",
+    "Odberateľ": "Materská škola Andreja Kmeťa Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 27,66 EUR, spolu: 27,66 EUR",
+    "Celková_cena_(bez_DPH)": "   27,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.12.2021",
+    "Dátum_zverejnenia": "27.12.2021"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "20210170",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 26,4 EUR, spolu: 26,4 EUR",
+    "Celková_cena_(bez_DPH)": "   26,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.12.2021",
+    "Dátum_zverejnenia": "27.12.2021"
+  },
+  {
+    "IČO": "37904981   ",
+    "Číslo_faktúry": "20210171",
+    "Odberateľ": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 26,4 EUR, spolu: 26,4 EUR",
+    "Celková_cena_(bez_DPH)": "   26,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.12.2021",
+    "Dátum_zverejnenia": "27.12.2021"
+  },
+  {
     "IČO": "37810961   ",
     "Číslo_faktúry": "2021007",
     "Odberateľ": "Centrum voľného času",
