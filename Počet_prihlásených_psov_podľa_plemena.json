@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1008"
+    "Počet": "1007"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -9,7 +9,7 @@
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "259"
+    "Počet": "258"
   },
   {
     "Plemeno": "Maltézsky psík",
@@ -29,7 +29,7 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "97"
+    "Počet": "96"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -73,11 +73,11 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "46"
+    "Počet": "45"
   },
   {
     "Plemeno": "Bígl",
-    "Počet": "45"
+    "Počet": "44"
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
@@ -140,16 +140,16 @@
     "Počet": "19"
   },
   {
-    "Plemeno": "Slovenský čuvač",
-    "Počet": "18"
-  },
-  {
     "Plemeno": "Pražský krysařík",
     "Počet": "18"
   },
   {
     "Plemeno": "Teriér",
     "Počet": "18"
+  },
+  {
+    "Plemeno": "Slovenský čuvač",
+    "Počet": "17"
   },
   {
     "Plemeno": "Boloňský psík",
@@ -324,10 +324,6 @@
     "Počet": "5"
   },
   {
-    "Plemeno": "Stavač",
-    "Počet": "5"
-  },
-  {
     "Plemeno": "Šetlandský ovčiak",
     "Počet": "5"
   },
@@ -368,11 +364,11 @@
     "Počet": "4"
   },
   {
-    "Plemeno": "Pekingský palácový psík",
+    "Plemeno": "Nemecký pinč",
     "Počet": "4"
   },
   {
-    "Plemeno": "Nemecký pinč",
+    "Plemeno": "Stavač",
     "Počet": "4"
   },
   {
@@ -428,6 +424,10 @@
     "Počet": "3"
   },
   {
+    "Plemeno": "Pekingský palácový psík",
+    "Počet": "3"
+  },
+  {
     "Plemeno": "Španielsky mastin",
     "Počet": "3"
   },
@@ -450,10 +450,6 @@
   {
     "Plemeno": "Flat Coated Retriever",
     "Počet": "3"
-  },
-  {
-    "Plemeno": "Anglický špringeršpaniel",
-    "Počet": "2"
   },
   {
     "Plemeno": "Staroanglický ovčiarsky pes",
