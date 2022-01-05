@@ -6798,7 +6798,7 @@
   },
   {
     "Dlžník": "Ľubomír Čermák",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Ipeľská 1483/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   339,72",
     "Mena": "EUR"
@@ -8787,13 +8787,6 @@
   {
     "Dlžník": "Peter Pihík",
     "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   311,72",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Šárka Bouzková",
-    "Adresa_dlžníka": "Veľká okružná 1309/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   311,72",
     "Mena": "EUR"
@@ -12635,13 +12628,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Eva Pecková",
-    "Adresa_dlžníka": "Jarná 2604/10",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   242,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Štefan Rišo",
     "Adresa_dlžníka": "Petzvalova 3384/18",
     "Mesto": "Žilina",
@@ -13031,6 +13017,13 @@
     "Adresa_dlžníka": "Veľká okružná 1309/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   233,64",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Šárka Bouzková",
+    "Adresa_dlžníka": "Veľká okružná 1309/17",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   233,25",
     "Mena": "EUR"
   },
   {
@@ -14193,6 +14186,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   215,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Eva Pecková",
+    "Adresa_dlžníka": "Jarná 2604/10",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   214,52",
     "Mena": "EUR"
   },
   {

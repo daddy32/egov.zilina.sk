@@ -1,23 +1,23 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1005"
+    "Počet": "1008"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "337"
+    "Počet": "336"
   },
   {
     "Plemeno": "Nemecký ovčiak",
     "Počet": "258"
   },
   {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "203"
+    "Plemeno": "Maltézsky psík",
+    "Počet": "204"
   },
   {
-    "Plemeno": "Maltézsky psík",
-    "Počet": "203"
+    "Plemeno": "Labradorský retriever",
+    "Počet": "202"
   },
   {
     "Plemeno": "Čivava",
@@ -33,7 +33,7 @@
   },
   {
     "Plemeno": "Zlatý retriever",
-    "Počet": "89"
+    "Počet": "88"
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
@@ -45,7 +45,7 @@
   },
   {
     "Plemeno": "Miešanec",
-    "Počet": "64"
+    "Počet": "65"
   },
   {
     "Plemeno": "Shih - tzu",
@@ -89,11 +89,11 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "34"
+    "Počet": "33"
   },
   {
     "Plemeno": "Mops",
-    "Počet": "31"
+    "Počet": "30"
   },
   {
     "Plemeno": "Weimarský stavač",
@@ -176,10 +176,6 @@
     "Počet": "13"
   },
   {
-    "Plemeno": "Bulteriér",
-    "Počet": "13"
-  },
-  {
     "Plemeno": "Nemecká doga",
     "Počet": "13"
   },
@@ -194,6 +190,10 @@
   {
     "Plemeno": "Pomeranian",
     "Počet": "13"
+  },
+  {
+    "Plemeno": "Bulteriér",
+    "Počet": "12"
   },
   {
     "Plemeno": "Doberman",
@@ -244,6 +244,10 @@
     "Počet": "8"
   },
   {
+    "Plemeno": "Biely švajčiarsky ovčiak",
+    "Počet": "8"
+  },
+  {
     "Plemeno": "Boxer",
     "Počet": "8"
   },
@@ -265,10 +269,6 @@
   },
   {
     "Plemeno": "Tibetský teriér",
-    "Počet": "7"
-  },
-  {
-    "Plemeno": "Biely švajčiarsky ovčiak",
     "Počet": "7"
   },
   {
@@ -436,10 +436,6 @@
     "Počet": "3"
   },
   {
-    "Plemeno": "Hladkosrstý retriever",
-    "Počet": "3"
-  },
-  {
     "Plemeno": "Parson Russel Teriér",
     "Počet": "3"
   },
@@ -537,6 +533,10 @@
   },
   {
     "Plemeno": "Veľký švajčiarsky salašnícky pes",
+    "Počet": "2"
+  },
+  {
+    "Plemeno": "Hladkosrstý retriever",
     "Počet": "2"
   },
   {
