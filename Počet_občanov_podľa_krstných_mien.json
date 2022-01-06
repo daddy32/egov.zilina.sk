@@ -7,7 +7,7 @@
   {
     "Krstné_meno": "Mária",
     "Pohlavie": "žena",
-    "Počet": "2276"
+    "Počet": "2274"
   },
   {
     "Krstné_meno": "Anna",
@@ -17,7 +17,7 @@
   {
     "Krstné_meno": "Jozef",
     "Pohlavie": "muž",
-    "Počet": "1803"
+    "Počet": "1802"
   },
   {
     "Krstné_meno": "Ján",
@@ -57,12 +57,12 @@
   {
     "Krstné_meno": "Eva",
     "Pohlavie": "žena",
-    "Počet": "1288"
+    "Počet": "1289"
   },
   {
     "Krstné_meno": "Tomáš",
     "Pohlavie": "muž",
-    "Počet": "1223"
+    "Počet": "1224"
   },
   {
     "Krstné_meno": "Milan",
@@ -72,15 +72,15 @@
   {
     "Krstné_meno": "Juraj",
     "Pohlavie": "muž",
-    "Počet": "1026"
-  },
-  {
-    "Krstné_meno": "Vladimír",
-    "Pohlavie": "muž",
-    "Počet": "1017"
+    "Počet": "1025"
   },
   {
     "Krstné_meno": "Pavol",
+    "Pohlavie": "muž",
+    "Počet": "1015"
+  },
+  {
+    "Krstné_meno": "Vladimír",
     "Pohlavie": "muž",
     "Počet": "1015"
   },
@@ -157,12 +157,12 @@
   {
     "Krstné_meno": "Jaroslav",
     "Pohlavie": "muž",
-    "Počet": "618"
+    "Počet": "617"
   },
   {
     "Krstné_meno": "Dušan",
     "Pohlavie": "muž",
-    "Počet": "601"
+    "Počet": "600"
   },
   {
     "Krstné_meno": "Marta",
@@ -242,7 +242,7 @@
   {
     "Krstné_meno": "Kristína",
     "Pohlavie": "žena",
-    "Počet": "467"
+    "Počet": "466"
   },
   {
     "Krstné_meno": "Samuel",
@@ -382,7 +382,7 @@
   {
     "Krstné_meno": "Margita",
     "Pohlavie": "žena",
-    "Počet": "291"
+    "Počet": "292"
   },
   {
     "Krstné_meno": "Dominika",
@@ -437,7 +437,7 @@
   {
     "Krstné_meno": "Miloš",
     "Pohlavie": "muž",
-    "Počet": "247"
+    "Počet": "246"
   },
   {
     "Krstné_meno": "Terézia",
@@ -1655,11 +1655,6 @@
     "Počet": "18"
   },
   {
-    "Krstné_meno": "Zlata",
-    "Pohlavie": "žena",
-    "Počet": "18"
-  },
-  {
     "Krstné_meno": "Beata",
     "Pohlavie": "žena",
     "Počet": "17"
@@ -1701,6 +1696,11 @@
   },
   {
     "Krstné_meno": "Viktoria",
+    "Pohlavie": "žena",
+    "Počet": "17"
+  },
+  {
+    "Krstné_meno": "Zlata",
     "Pohlavie": "žena",
     "Počet": "17"
   },
