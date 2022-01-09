@@ -5817,13 +5817,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Mário Gallia",
-    "Adresa_dlžníka": "Kempelenova 3402/31",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   359,70",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Tomáš Frťala",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -17672,6 +17665,13 @@
     "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 894/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   160,36",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Mário Gallia",
+    "Adresa_dlžníka": "Kempelenova 3402/31",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   14,00",
     "Mena": "EUR"
   }
 ]
