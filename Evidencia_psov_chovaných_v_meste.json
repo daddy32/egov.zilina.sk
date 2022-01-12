@@ -5150,15 +5150,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Na Tobolky",
-    "Orient._č.": "   9      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "",
-    "Farba": "hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na Tobolky",
     "Orient._č.": "  10      ",
     "Č._poschodia": "",
     "Plemeno": "Samojed",
@@ -13583,15 +13574,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Kamenná",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "3351",
-    "Farba": "čierno-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Kamenná",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
     "Plemeno": "Rotvajler",
@@ -13705,15 +13687,6 @@
     "Plemeno": "Pudel",
     "Č._známky": "5864",
     "Farba": "béžová"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Komenského",
-    "Orient._č.": "  63      ",
-    "Č._poschodia": "",
-    "Plemeno": "Rotvajler",
-    "Č._známky": "9156",
-    "Farba": "čierno-bielo-béžová"
   },
   {
     "Mesto": "Žilina",
@@ -17479,6 +17452,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Jazmínová",
+    "Orient._č.": "  10      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "102",
+    "Farba": ""
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Majerská",
     "Orient._č.": "  11      ",
     "Č._poschodia": "",
@@ -17717,7 +17699,7 @@
     "Orient._č.": "  25      ",
     "Č._poschodia": "",
     "Plemeno": "Dalmatínsky pes",
-    "Č._známky": "8345",
+    "Č._známky": "9668",
     "Farba": "bielo-hnedý"
   },
   {
@@ -22114,6 +22096,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Makovického",
+    "Orient._č.": "  10      ",
+    "Č._poschodia": "",
+    "Plemeno": "Nemecký ovčiak",
+    "Č._známky": "",
+    "Farba": ""
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Mariánske námestie",
     "Orient._č.": "  26      ",
     "Č._poschodia": "",
@@ -26368,15 +26359,6 @@
     "Plemeno": "Briard",
     "Č._známky": "9242",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na kopci",
-    "Orient._č.": "  23      ",
-    "Č._poschodia": "",
-    "Plemeno": "Francúzsky buldoček",
-    "Č._známky": "198",
-    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -35485,15 +35467,6 @@
     "Plemeno": "Aziat",
     "Č._známky": "482",
     "Farba": "béžovo-čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Pod sadom",
-    "Orient._č.": "   5      ",
-    "Č._poschodia": "",
-    "Plemeno": "Pekingský palácový psík",
-    "Č._známky": "471",
-    "Farba": "hnedá"
   },
   {
     "Mesto": "Žilina",
