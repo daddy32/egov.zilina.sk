@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "31584705   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "na základe Dohody o fakturácií el. energie zo dňa 29.12.2004 Vám fakturujeme spotrebu podľa odpočtu stavu elektromera č. 1951425 za obdobie roku 2021. PS 29 043 - KS 30 901, množ.: 1, jedn. cena: 501,66 EUR, spolu: 501,66 EUR",
+    "Celková_cena_(bez_DPH)": "   501,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.01.2022",
+    "Dátum_zverejnenia": "13.01.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220001",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.01.2022",
+    "Dátum_zverejnenia": "13.01.2022"
+  },
+  {
+    "IČO": "30229839   ",
+    "Číslo_faktúry": "20220002",
+    "Odberateľ": "Mestské divadlo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 163,57 EUR, spolu: 163,57 EUR",
+    "Celková_cena_(bez_DPH)": "   163,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.01.2022",
+    "Dátum_zverejnenia": "13.01.2022"
+  },
+  {
+    "IČO": "46850961   ",
+    "Číslo_faktúry": "20220003",
+    "Odberateľ": "Rail Cargo Operator - CSKD s.r.o. organizačná zložka",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1575,88 EUR, spolu: 1575,88 EUR",
+    "Celková_cena_(bez_DPH)": "  1 575,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.01.2022",
+    "Dátum_zverejnenia": "13.01.2022"
+  },
+  {
+    "IČO": "36403032   ",
+    "Číslo_faktúry": "20220004",
+    "Odberateľ": "Žilinská teplárenská, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: ,04 EUR, spolu: ,04 EUR",
+    "Celková_cena_(bez_DPH)": "   0,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.01.2022",
+    "Dátum_zverejnenia": "13.01.2022"
+  },
+  {
     "IČO": "46691731   ",
     "Číslo_faktúry": "20210172",
     "Odberateľ": "BIOFOREST,s.r.o.",
