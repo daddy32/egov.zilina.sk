@@ -127,7 +127,7 @@
   {
     "Krstné_meno": "Matej",
     "Pohlavie": "muž",
-    "Počet": "684"
+    "Počet": "683"
   },
   {
     "Krstné_meno": "Veronika",
@@ -487,7 +487,7 @@
   {
     "Krstné_meno": "Viktória",
     "Pohlavie": "žena",
-    "Počet": "226"
+    "Počet": "227"
   },
   {
     "Krstné_meno": "Ondrej",
@@ -572,7 +572,7 @@
   {
     "Krstné_meno": "Karolína",
     "Pohlavie": "žena",
-    "Počet": "165"
+    "Počet": "166"
   },
   {
     "Krstné_meno": "Mário",
@@ -777,7 +777,7 @@
   {
     "Krstné_meno": "Marianna",
     "Pohlavie": "žena",
-    "Počet": "101"
+    "Počet": "100"
   },
   {
     "Krstné_meno": "Emma",
@@ -927,7 +927,7 @@
   {
     "Krstné_meno": "Nikolas",
     "Pohlavie": "muž",
-    "Počet": "62"
+    "Počet": "61"
   },
   {
     "Krstné_meno": "Agáta",
@@ -2110,6 +2110,11 @@
     "Počet": "9"
   },
   {
+    "Krstné_meno": "Kiara",
+    "Pohlavie": "žena",
+    "Počet": "9"
+  },
+  {
     "Krstné_meno": "Lídia",
     "Pohlavie": "žena",
     "Počet": "9"
@@ -2217,11 +2222,6 @@
   {
     "Krstné_meno": "Julius",
     "Pohlavie": "muž",
-    "Počet": "8"
-  },
-  {
-    "Krstné_meno": "Kiara",
-    "Pohlavie": "žena",
     "Počet": "8"
   },
   {
@@ -2500,6 +2500,11 @@
     "Počet": "6"
   },
   {
+    "Krstné_meno": "Tamia",
+    "Pohlavie": "žena",
+    "Počet": "6"
+  },
+  {
     "Krstné_meno": "Thomas",
     "Pohlavie": "muž",
     "Počet": "6"
@@ -2657,11 +2662,6 @@
   {
     "Krstné_meno": "Svatopluk",
     "Pohlavie": "muž",
-    "Počet": "5"
-  },
-  {
-    "Krstné_meno": "Tamia",
-    "Pohlavie": "žena",
     "Počet": "5"
   },
   {
@@ -3226,11 +3226,6 @@
   },
   {
     "Krstné_meno": "Valentina",
-    "Pohlavie": "žena",
-    "Počet": "3"
-  },
-  {
-    "Krstné_meno": "Vivienne",
     "Pohlavie": "žena",
     "Počet": "3"
   },
@@ -4075,6 +4070,11 @@
     "Počet": "2"
   },
   {
+    "Krstné_meno": "Vivienne",
+    "Pohlavie": "žena",
+    "Počet": "2"
+  },
+  {
     "Krstné_meno": "Vlastimila",
     "Pohlavie": "žena",
     "Počet": "2"
@@ -4667,11 +4667,6 @@
   {
     "Krstné_meno": "Anatol",
     "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
-    "Krstné_meno": "Anděla",
-    "Pohlavie": "žena",
     "Počet": "1"
   },
   {
@@ -10656,11 +10651,6 @@
   },
   {
     "Krstné_meno": "Tomáš Samuel",
-    "Pohlavie": "muž",
-    "Počet": "1"
-  },
-  {
-    "Krstné_meno": "Tomáš Štefan",
     "Pohlavie": "muž",
     "Počet": "1"
   },
