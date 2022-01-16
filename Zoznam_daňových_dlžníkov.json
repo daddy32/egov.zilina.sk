@@ -63,7 +63,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "COWEL, s.r.o.",
+    "Dlžník": "COWEL, s.r.o. \"v konkurze\"",
     "Adresa_dlžníka": "Zelená 2C/X3",
     "Mesto": "Banská Bystrica",
     "Suma_daňových_nedoplatkov": "  14 290,63",
@@ -8435,13 +8435,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Róbert Dolník",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   317,82",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Roman Šeller",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -8509,6 +8502,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   317,46",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Róbert Dolník",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   317,32",
     "Mena": "EUR"
   },
   {
@@ -8712,13 +8712,6 @@
     "Adresa_dlžníka": "Limbová 3057/13",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   312,26",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Emil Gašperák",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   311,77",
     "Mena": "EUR"
   },
   {
@@ -9965,6 +9958,13 @@
     "Adresa_dlžníka": "1. mája 1014/10",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   288,20",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Emil Gašperák",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   287,77",
     "Mena": "EUR"
   },
   {
@@ -12761,13 +12761,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Senková",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   235,97",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Branislav Lašš",
     "Adresa_dlžníka": "M. R. Štefánika 829/29",
     "Mesto": "Žilina",
@@ -12926,13 +12919,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   235,14",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Marek Bukovec",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   234,50",
     "Mena": "EUR"
   },
   {
@@ -13164,6 +13150,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   226,02",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Gabriela Senková",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   225,78",
     "Mena": "EUR"
   },
   {
@@ -14599,6 +14592,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   199,63",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Marek Bukovec",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   199,54",
     "Mena": "EUR"
   },
   {
