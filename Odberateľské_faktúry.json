@@ -1,5 +1,75 @@
 [
   {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210173",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210174",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 38,57 EUR, spolu: 38,57 EUR",
+    "Celková_cena_(bez_DPH)": "   38,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "37905147   ",
+    "Číslo_faktúry": "20210175",
+    "Odberateľ": "Materská škola Andreja Kmeťa Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 6,6 EUR, spolu: 6,6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "20210176",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 6,6 EUR, spolu: 6,6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "37904981   ",
+    "Číslo_faktúry": "20210177",
+    "Odberateľ": "Materská škola, Nám. Janka Borodáča 6, Žilina",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 6,6 EUR, spolu: 6,6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "44355891   ",
+    "Číslo_faktúry": "20210178",
+    "Odberateľ": "WHITE ONION s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 55,63 EUR, spolu: 55,63 EUR",
+    "Celková_cena_(bez_DPH)": "   55,63",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220005",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 80 EUR, spolu: 80 EUR",
+    "Celková_cena_(bez_DPH)": "   80,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.01.2022",
+    "Dátum_zverejnenia": "18.01.2022"
+  },
+  {
     "IČO": "31584705   ",
     "Číslo_faktúry": "2022001",
     "Odberateľ": "BYTTERM, a.s.",
