@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "42070333   ",
+    "Číslo_faktúry": "20210180",
+    "Odberateľ": "Občianske združenie Kasava",
+    "Text_odb._faktúry": "Refakturujeme Vám  na základe zmluvy o nájme nebytových priestorov č. 723/2014 čl.4 ods. 3 za spotrebu elektrickej energie za obdobie od 1.1.2021 do 31.12.2021, množ.: 1, jedn. cena: 1,33 EUR, spolu: 1,33 EUR",
+    "Celková_cena_(bez_DPH)": "   1,33",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.01.2022",
+    "Dátum_zverejnenia": "19.01.2022"
+  },
+  {
+    "IČO": "42221561   ",
+    "Číslo_faktúry": "20210181",
+    "Odberateľ": "Rímskokatolícka cirkev Farnosť Stráňavy",
+    "Text_odb._faktúry": "Refakturujeme Vám v zmysle Zmluvy o nájme č. 153/2014 spotrebu elektrickej energie za obdobie od 1.1.2021 do 31.12.2021, množ.: 1, jedn. cena: 138,41 EUR, spolu: 138,41 EUR",
+    "Celková_cena_(bez_DPH)": "   138,41",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.01.2022",
+    "Dátum_zverejnenia": "19.01.2022"
+  },
+  {
+    "IČO": "37977440   ",
+    "Číslo_faktúry": "062021",
+    "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
+    "Text_odb._faktúry": "Prenájom priestorov, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
+    "Celková_cena_(bez_DPH)": "   300,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.11.2021",
+    "Dátum_zverejnenia": "19.01.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20210179",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.01.2022",
+    "Dátum_zverejnenia": "19.01.2022"
+  },
+  {
     "IČO": "00647713   ",
     "Číslo_faktúry": "20210173",
     "Odberateľ": "ÚSMEV - zariadenie pre seniorov",

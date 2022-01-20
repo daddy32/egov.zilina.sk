@@ -14588,13 +14588,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marek Bukovec",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   199,54",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Karol Baránek",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16496,6 +16489,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   174,58",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Marek Bukovec",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   174,54",
     "Mena": "EUR"
   },
   {
