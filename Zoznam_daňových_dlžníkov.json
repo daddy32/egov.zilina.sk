@@ -1358,13 +1358,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Marta Šedivá - ŠEDO",
-    "Adresa_dlžníka": "Hlavná 182/12",
-    "Mesto": "Gbeľany",
-    "Suma_daňových_nedoplatkov": "   658,94",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Bartošová",
     "Adresa_dlžníka": "Sasinkova 605/29",
     "Mesto": "Žilina",
@@ -9346,7 +9339,7 @@
   },
   {
     "Dlžník": "Simona Štefundová",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Borová 3295/36",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   299,67",
     "Mena": "EUR"
@@ -10994,13 +10987,6 @@
     "Adresa_dlžníka": "Tulská 2980/28",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   260,82",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Zlatica Fikejzová",
-    "Adresa_dlžníka": "Segnerova 3397/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   259,37",
     "Mena": "EUR"
   },
   {
@@ -15701,13 +15687,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Fikejz",
-    "Adresa_dlžníka": "Segnerova 3397/7",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,14",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Tomašec",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -16583,6 +16562,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Zlatica Fikejzová",
+    "Adresa_dlžníka": "Segnerova 3397/7",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   171,76",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Mária Mičicová",
     "Adresa_dlžníka": "Belajov dvor 74/4",
     "Mesto": "Žilina",
@@ -16851,6 +16837,13 @@
   {
     "Dlžník": "Erik Dubeň",
     "Adresa_dlžníka": "Segnerova 3400/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   165,62",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Peter Fikejz",
+    "Adresa_dlžníka": "Segnerova 3397/7",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   165,62",
     "Mena": "EUR"
