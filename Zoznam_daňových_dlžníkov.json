@@ -329,17 +329,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "MCC, s.r.o.",
-    "Adresa_dlžníka": "Hlboká cesta 1697/22",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 754,80",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "eXtremePark services, s.r.o.",
     "Adresa_dlžníka": "Karpatské námestie 10/A",
     "Mesto": "Bratislava-Rača",
     "Suma_daňových_nedoplatkov": "  2 745,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "MCC, s.r.o.",
+    "Adresa_dlžníka": "Hlboká cesta 1697/22",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 736,65",
     "Mena": "EUR"
   },
   {
@@ -5448,13 +5448,6 @@
   {
     "Dlžník": "Štefan Juhás",
     "Adresa_dlžníka": "Gerlachovská 3105/11",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   361,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Štefan Kašper",
-    "Adresa_dlžníka": "Smreková 3095/20",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   361,62",
     "Mena": "EUR"
@@ -14182,13 +14175,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Pavol Kanis CLEAN SERVIS",
-    "Adresa_dlžníka": "Cesta k vodojemu 209/9",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   212,42",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martin Matis",
     "Adresa_dlžníka": "Železničná 406/20",
     "Mesto": "Varín",
@@ -14242,13 +14228,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   211,39",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Feng Jiang",
-    "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 834/8",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   211,30",
     "Mena": "EUR"
   },
   {
@@ -15990,6 +15969,13 @@
   {
     "Dlžník": "Daniel Hlad",
     "Adresa_dlžníka": "Oravská 2352/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   183,78",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Feng Jiang",
+    "Adresa_dlžníka": "Nám. gen. M. R. Štefánika 834/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   183,78",
     "Mena": "EUR"

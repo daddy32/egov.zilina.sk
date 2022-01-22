@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20210183",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -13,33 EUR, spolu: -13,33 EUR",
+    "Celková_cena_(bez_DPH)": "-   13,33",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2022",
+    "Dátum_zverejnenia": "21.01.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20210184",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 25856,72 EUR, spolu: 25856,72 EUR",
+    "Celková_cena_(bez_DPH)": "  25 856,72",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.01.2022",
+    "Dátum_zverejnenia": "21.01.2022"
+  },
+  {
     "IČO": "42070333   ",
     "Číslo_faktúry": "20210180",
     "Odberateľ": "Občianske združenie Kasava",
