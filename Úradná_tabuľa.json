@@ -1,33 +1,1118 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>Chybov� str�nka</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
-		<style>
-			BODY
-			{
-			    PADDING: 20px 0px 0px 120px;
-			    MARGIN: 0px;
-			    FONT-SIZE: 14px;
-			    FONT-FAMILY: verdana;
-			    /*background-image:url(images/Warning_smaller.jpg);*/
-			    background-position: top left;
-			    background-repeat: no-repeat;	
-			
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Vn�torn� chyba servera.
-            </h1>
-            <div  style="width: 550px">
-            <img src="images/Warning_smaller.jpg" align="right" 
-                    hspace="10" />
-            <p>Na serveri do�lo k vn�tornej chybe alebo nespr�vnej 
-            konfigur�cii a z toho d�vodu nemohla by� vybaven� Va�a po�iadavka. Pros�me, 
-            kontaktujte spr�vcu servera, <b>info@zilina.sk</b> a informujte ho o �ase, kedy do�lo k 
-            chybe a pr�padne aj o �al��ch skuto�nostiach alebo postupe, ktor� mohli 
-            sp�sobi� t�to chybu. �akujeme za Va�u pomoc.</p>
-            </div>
-	</body>
-</html>
+[
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Ján Beňo (1983), Martin Beňo (1983)",
+    "Anotácia_dokumentu": "(270)  Oznámenie o zrušení TP - Ján Beňo (1983), Martin Beňo (1983)\r\n",
+    "Zverejnené_od": "21.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CCTbUW7EaXVR2NyHEuYFjTuNa9xZehYdyaaXbKt7LDRWVvqOqYYEtM4v2yHgVpVJJXIgm5g0Mv%2bhuXVkbuubj4Nvwn3MpLeraA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o uložení písomností občanom s trvalým pobytom Mesta Žilina zo dňa 21.01.2022",
+    "Anotácia_dokumentu": "Oznámenie o uložení písomností občanom s trvalým pobytom Mesta Žilina zo dňa 21.01.2022",
+    "Zverejnené_od": "21.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJeZoQSId0UHLDUbDbeTz0vstxFzLtcg26SpMZXFJSVvtWLk%2fCCf6EnhfKKFkSCH3NadYOA%2b5WuIw%2fnBoi3KvFXHrBlfhLhSCQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejná vyhláška č. ORPZ-ZA-OPP1-9/2022-P o oznámení miesta uloženia písomnosti (Ing. JUDr. Lujza P)",
+    "Anotácia_dokumentu": "(268)  Verejná vyhláška č. ORPZ-ZA-OPP1-9/2022-P o oznámení miesta uloženia písomnosti (Ing. JUDr. Lujza Pekaríková)\r\n",
+    "Zverejnené_od": "21.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Ministerstvo vnútra SR",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CP1CBfRuY9%2b5cLoBJhpmmceN2h7hLLcOp5yURC6731uNKzl5uwCmwNlosJtRvk7yCsrYi5KC47IrdDPafAfJQmbHwaEPfsQ6Nw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. OU-ZA-OSZP3-2022/007017-003 o začatí kolaudačného konania a nariadenie ústneho pojednám",
+    "Anotácia_dokumentu": "(269)  Oznámenie č. OU-ZA-OSZP3-2022/007017-003 o začatí kolaudačného konania a nariadenie ústneho pojednávania s miestnym zisťovaním\r\n",
+    "Zverejnené_od": "21.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Okresný úrad Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CH%2fKJpofJYTlijdpjOA0aUSvNdxqiOczFca6T7WpR4gaCksXTyJof7wxdI9qDN7XYypaJeLhWOL1TUQZtleI6zwOTQz9g4QWIQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejná vyhláška č. 100103095/2022 o oznámení miesta uloženia písomnosti (Ľubomír Čermák)",
+    "Anotácia_dokumentu": "(267)  Verejná vyhláška č. 100103095/2022 o oznámení miesta uloženia písomnosti (Ľubomír Čermák)\r\n",
+    "Zverejnené_od": "21.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Daňový úrad Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDW8XuyiPxHV0zz%2bpgKgp4B5Spj9iv1Qm%2fk2NqgjW5%2bb%2fU2l2Mb%2fCjkYhiVxYXf%2fnPe3RS0lZOv1orodHZozBNgXpO3oKm8VJw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (FELIX Ž)",
+    "Anotácia_dokumentu": "(251)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (FELIX Žilina)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CF72JMgWegEeNHYfibeRoJnbpEPcTO53OUcplubIm82hdiGQaFciGyi4%2fAYpLLbw6eq52ugiGxpc5Kz9qpI6i3viB%2bdrqDDO0A%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o uložení písomností občanom s trvalým p",
+    "Anotácia_dokumentu": "Oznámenie o uložení písomností občanom s trvalým pobytom Mesta Žilina zo dňa 20.01.2022",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CKFjt3S%2fHBLzQiSFJUJMQ6GhHsDLn6yiVAJ%2bxTx8QVM4dQeFb%2b0RD2%2fTw9P%2bTFrXYd1WuKof9m7t2LrPwKCc4lF5RWbr%2fyfIwg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (O.Z. Ob)",
+    "Anotácia_dokumentu": "(250)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (O.Z. Obláčik)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNl5d2Qe6ovj6%2fu07pt7v8paSBEKkKQfy4XZ77fq3KBxo%2b0iSJw%2fzml%2fta10nnDAVD1%2b0SsQdNuJh6MfbE0XcVYGZtr%2fywTqGg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Centrum)",
+    "Anotácia_dokumentu": "(248)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Centrum včasnej intervencie Žilina, n.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPKX9Tn3gUgYmXWMOVtgC%2bJh%2fjSskNZm6GbCDc6ZStcjLMn6VnjMBbpZPO3FTb88sf64oxo2lsAPVeuep0Sdca7hz2gNN5YNZg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Pre Žil)",
+    "Anotácia_dokumentu": "(249)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Pre Žilina, n.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJU%2bagY93Z1dCVlpIzbjY7Haa5QGKqAOaZasI9sdYVwql68LfM92eIzz4badFg8ZC0%2f8eUJXmt2yowY5Q6nhqJtRRIskqq9ULA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Občians)",
+    "Anotácia_dokumentu": "(246)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Občianske združenie BRIOSO)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLUa%2bqcAvFxQedA2nyar7BDlxGjQ0KRsgRW3fW0mkLyzw%2ffGmOMrBcTH5510FVcRKXhMtxhG5qL2zqSAyPSn92kivVMW5IB0TA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Mgr. Já)",
+    "Anotácia_dokumentu": "(247)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Mgr. Ján Sirotka)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFN%2fNy6PYB2rJr34qEF3SrsIec%2fBGhGMLMuuWmX7lCG988xUXVvDt91hVFc35%2fvlTxx8Q70SEoOPWE9DxbrK5OiiwevUTMj7MQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (PaeDr. )",
+    "Anotácia_dokumentu": "(245)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (PaeDr. Beáta Matušáková)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPj3AiQdBlYlmFUMwRxbtTriDBz7htEtsghuNsJ7TtQNTrrWY0irpsmXMC1G7hWL7OTnWog0srgb7oIhfP%2bM19I4qj0BxiuB4g%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (EduGo s)",
+    "Anotácia_dokumentu": "(244)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (EduGo s.r.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJu1M4OKF2doE9sEKq2bkBnysnfo1W23DOBBaE2fiG0qMPfF1pA3ma2C4NCs8Ivyp7DhK4n6%2bUOZc2fFRB37F%2fYizknR%2bOYn%2bg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (ENPORA,)",
+    "Anotácia_dokumentu": "(243)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (ENPORA, s.r.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CC78BQqzHmHrmKmns5yzrMHcZpRZVf%2b9GaDsW%2fcDZ4X2gjEe8Nux21mE%2bAs6vxmoqy2ggUZ%2f2SwiCAMoPO9YX%2fnmr2WaAZUqaQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (JUVENTA)",
+    "Anotácia_dokumentu": "(242)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (JUVENTAS Žilina, n.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CC9%2baFQ6%2fpfzaKubp0m63Z1pR%2bRv2f6VkouiJ8F2Z5DHrVpi414YL7xXRE%2fMjd8WI14oVT2iFdUPbKEHWSL9iAkg0FXgkWwb5A%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (HALAČ s)",
+    "Anotácia_dokumentu": "(241)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (HALAČ s.r.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CD3XqUik38h0nNy1QmwpwME5VxpG9NJc0EFND36iMZ%2fqiPXgWSHY3frtzEbRbRFM3wuZCpf1bzvMCYfUDKAdQr7We%2bhCi5Hg0Q%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (DAPEMI )",
+    "Anotácia_dokumentu": "(239)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (DAPEMI s.r.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEgxR3%2f76qcz6Jz%2bJDC%2bhH%2fbD6YmVSUFTPp4u3He8Cgfdroby%2bON3jUVW2Y8J97nVGpGE1WJhVTrxlBFwLqxDJiZty6MZCaudw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (DAPEMI )",
+    "Anotácia_dokumentu": "(240)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (DAPEMI s.r.o.)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CB3fzd%2fohtAQrRLy2%2bvpRAgOw8aj5NCEO98L7n6Um%2fZZX3IqDLymVJ8kJduOmeAgDeKA2xsFBIK6AymjgfmarSGskczuOfnX7Q%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Cirkevn)",
+    "Anotácia_dokumentu": "(238)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Cirkevný zbor ECAV na Slovensku Žilina)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBzIlRobao9CqEeUkul7plVhuxRtCHRTNHJ8PrLSIcowKaPoMxW608rtsv3aWjQY96p7OYTLgagvptwgscyXoifkkEHNYvLrsg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskok)",
+    "Anotácia_dokumentu": "(236)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskokatolícka cirkev, Farnosť Dobrého pastiera)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDJ0FqP10toc%2f9bVIy8exV2ScgVe32nMczxn3yGD8UObQwRDNc4oh1K4tqE3xrU2IazvMWrRrlceIGHIvXI2vHqqwncuN1HH%2bw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Kongreg)",
+    "Anotácia_dokumentu": "(237)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Kongregácia školských sestier sv. Františka)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CO1JIoKULakpP2A4rJXzXJfPPReOVODA63pB81GPGMb3Tu0%2fTLWdcHzumPg28lUPLnn9WnwySCNtVgMgwxEFqA2dTFdlgEoq5g%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskok)",
+    "Anotácia_dokumentu": "(234)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskokatolícka cirkev Žilinská diecéza)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNHT0o0MVGQtutAzND%2bq0Y51qdPVIWsXbofbqvenu1%2bw23uirjFVjr6fiYivMAickDF0Bvm49PBLIm6TzBhUIeFkf%2bZ1%2bqY7ZQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskok)",
+    "Anotácia_dokumentu": "(235)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskokatolícka cirkev, Farnosť Dobrého pastiera)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CF54eIjN78w5%2fRvca4JobqnMR6kLtTt319hbRfZF8OYWjgdk5tjhQ3XyofBFeCLQZowdLIdrygjXK7Bg2ZgZvBL7VyUf%2bI%2fiXg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskok)",
+    "Anotácia_dokumentu": "(233)  Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku škôl a školských zariadení (Rimskokatolícka cirkev Žilinská diecéza)\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor školstva a mládeže",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBrPEjrSFvYW%2fiEV9BHQV6sTSTVv6hieO%2fiCqKXezpLhxyiXN%2b%2b1mekgQ%2bgJqU9LXDXEDU4R9pvNFtq6k8Ykkwf0%2br9niUmWYw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 673/2022-2204/2022-SÚ-PA o začatí územného konania ( Radové rodinné domy Budatín), Žilá",
+    "Anotácia_dokumentu": "(232)  Oznámenie č. 673/2022-2204/2022-SÚ-PA o začatí územného konania ( Radové rodinné domy Budatín), Žilina - Budatín, ul. Dolná\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=COsa1A%2bk%2beCXZxsPslhhp68egfNoIn2h5UM08%2bPb0E%2b6VNGR%2fyqbAsvDhzaAVxSMHf%2fZvyxxyadhxaoQV3OITigqAJe0rfwzRA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elktriny - 04.02.2022 - Hliny, Staré mesto",
+    "Anotácia_dokumentu": "(231)  Oznámenie o prerušení distribúcie elktriny - 04.02.2022 - Hliny, Staré mesto\r\n",
+    "Zverejnené_od": "20.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGvG%2boM%2bqTMq4BzgwE2xlxXemDWBuh193hzHe%2fS2JZnZuBMbIKhSLgFnQmQuk%2bCrLtc6%2b%2fLlCQVMiim7azDff3rFpK9bCKhvvQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 347/2022-1885/2022-SÚ-VVA o začatí stavebného konania (Stavebné úpravy bytu č. 22 s vy)",
+    "Anotácia_dokumentu": "(218)  Oznámenie č. 347/2022-1885/2022-SÚ-VVA o začatí stavebného konania (Stavebné úpravy bytu č. 22 s vytvorením otvoru v nosnej stene v bytovom dome č. 2179, ZA)\r\n",
+    "Zverejnené_od": "19.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBYAUxwtwbwyiSbyKtXYo1R8bJPZCE0g8bfJBgPRrJ3sXYXR8%2bwc644fb3gGaqa90dlw2iUyeQmYyGueNq6cCoqrkYV5%2fDLmiQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Územné rozhodnutie č. 16135/2021-204/2022-SÚ-OKU o umiestnení stavby (Revitalizácia verejného pries)",
+    "Anotácia_dokumentu": "(219)  Územné rozhodnutie č. 16135/2021-204/2022-SÚ-OKU o umiestnení stavby (Revitalizácia verejného priestranstva vnútrobloku na ul. Jarná, Žilina-Hliny VII.)\r\n",
+    "Zverejnené_od": "19.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CL7%2b8v8ySZ07aZwbAvUbAb83iDI0yjQkp3b064e14IiZDPrbt0oy8Up0bxpiEtwxE0K8FI63SkRmmSAhOcxndnhgtGME2628UQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 350/2022-1422/2022-SÚ-VVA o začatí stavebného konania (Elektroinštalácia, el.prívod pr)",
+    "Anotácia_dokumentu": "(217)  Oznámenie č. 350/2022-1422/2022-SÚ-VVA o začatí stavebného konania (Elektroinštalácia, el.prívod pre nabíjanie elektromobilu pre garážové miesto polyfunkčný komplex Rudiny II)\r\n",
+    "Zverejnené_od": "19.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CH7x1sYXWhUSXwuZBg%2bbT%2ft1pVeCG6rzDanaus3mMBTWl1sbwD1KqNpJWYPjm5uF9RzgxjkkRe3NluddUdlS4CKFahYwSxPZmA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Martin Šeliga, 2002",
+    "Anotácia_dokumentu": "(215)  Oznámenie o zrušení TP - Martin Šeliga, 2002\r\n",
+    "Zverejnené_od": "19.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CAr4YLYHUPqsz3FIl0%2btfElwZuZRx%2bGP5T1VCEgx53KY13yGECfcWWpDat9K2hCFg6URmReulVKl42HuRzFoC8x%2bApK%2f2rUqDA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny - 03.02.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(216)  Oznámenie o prerušení distribúcie elektriny - 03.02.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "19.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMTztVtvjSHnbDeUNZ%2b8%2f0dWibwUc3dm%2fsz0u7ol3%2bC%2b%2bIB9wO5WPcF5Vjc%2f6XAKioUpyadjT9HlpomHNkyLBWTVVJhTcOY2kA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam o voľnom pracovnom mieste - Kancelária primátora a prednostu  - Vedúci oddelenia krízového ri",
+    "Anotácia_dokumentu": "(186) Oznam o voľnom pracovnom mieste - Kancelária primátora a prednostu  - Vedúci oddelenia krízového riadenia, CO, OPP a BOZP",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIsbvlR3qN21OEDD73DAYpvhorP%2fX1ngkF%2b7Xpw2%2fpOhwgJ1jHkr9cegCQZ3sNhEHxcHNeTd8ZuUmCl0aiQpFHiR9W6JkaW3Kg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Odstúpenie spis. materiálu k II. stupňovému konaniu, č.s.: 21055/2021-197894/2021/SÚ-ŠSÚ-doprava/Moe",
+    "Anotácia_dokumentu": "(196) Odstúpenie spis. materiálu k II. stupňovému konaniu, č.s.: 21055/2021-197894/2021/SÚ-ŠSÚ-doprava/Mo-odvol., Bytový dom  - 36 b.j., Žilina - Hájik, k.ú. Závodie",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CHz4asGrWhYyCbK7KZobALXYXtgKLq6kw09wZ3I2TvJx6XtbkoTPF2t3KAfzMSxtKQrDeB1%2b71PDErCwprX2Fa9LIdUwz53aFw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č.: 06150/2021/OD-10, EUROTERRACE Žilina, Polyfunkčný objekt vyššej občianskej va",
+    "Anotácia_dokumentu": "(185) Stavebné povolenie č.: 06150/2021/OD-10, EUROTERRACE Žilina, Polyfunkčný objekt vyššej občianskej vybavenosti a bývania, k.ú. Žilina",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Žilinský samosprávny kraj",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDDRJp%2bWoavxRAEUJTFQ6N%2b4QQAWiji4SzKeKBDDUUaoX7%2fZ4SSb5spMRlOhaKXGGVMAdDTCwnBV3IS6xTLL0b8kFyOhudp2Iw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Vyhláška o opätovnej dražbe nehnuteľnosti dňa 31.03.2022 o 8,00 hod., č.: 141EX 13/21",
+    "Anotácia_dokumentu": "(184) Vyhláška o opätovnej dražbe nehnuteľnosti dňa 31.03.2022 o 8,00 hod., č.: 141EX 13/21\r\n",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "JUDr. Margita Rojčeková, súdny exekútor",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJMK3HFKBwF7SFxMILdqRgs2PiVNPeHE3wTyUuMNa52XH8wcXnUSWIJE3AczG3N72UDrrPiKx7dC%2bMwlZiLCSbCcPzPpi1HU8g%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie - Predĺženie platnosti územného rozhodnutia - IBV Hájik - BRADOVÁ I. etapa, č.s.: 494/2e",
+    "Anotácia_dokumentu": "(183) Rozhodnutie - Predĺženie platnosti územného rozhodnutia - IBV Hájik - BRADOVÁ I. etapa, č.s.: 494/2022-950/2022-SU-TAA, k.ú. Závodie",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=COZs02LxRYEZkUzxHeKiNdmUUEitzpWzbP1s0PB67htvs0ZSHOy0LfC4BjFzzhhbmkdFZJ%2fBvWCNia4NQWlfwk%2fH4UdVrKvljw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o začatí územného konania - IBV Žilinská Lehota - Pod záhradkou - I. Etapa, č.s.: 146/202a",
+    "Anotácia_dokumentu": "(182) Oznámenie o začatí územného konania - IBV Žilinská Lehota - Pod záhradkou - I. Etapa, č.s.: 146/2022-945/2022-SÚ-PKA, k.ú. Žilinská Lehota",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CAjLkbbAulDXMfGZy2LXixzeDrI%2fgR1TIDC2jcAntzhPwiNJj2taWo3cV%2fcEBuK6%2btDiFXHSNk4WgtXJySqigdNgjyy8Qr3cxQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č.s.: 539/2022-1059/2022-SÚ-KLM, Stavebné Úpravy bytu č. 312. poschodie, vchod ča",
+    "Anotácia_dokumentu": "(181) Stavebné povolenie č.s.: 539/2022-1059/2022-SÚ-KLM, Stavebné Úpravy bytu č. 312. poschodie, vchod č. 2 v bytovom dome súp. č. 2809, Žilina, ul. Severná, k.ú. Žilina",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIQOQCivOkWi2rJkWQVrWhx4kDZmy1TxRZMwqHWQEg9D52nf6UFVJeEWGHMcTStPqKMmCSImbc79uP0W07hzCZuxpcfZBRlirg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o podanom odvolaní - Cyklotrasa V1 (Centrum - Hájik) od ul. Veľká Okružná po schody pod He",
+    "Anotácia_dokumentu": "(180) Oznámenie o podanom odvolaní - Cyklotrasa V1 (Centrum - Hájik) od ul. Veľká Okružná po schody pod Hájikom, Žilina, č.s.: 4336/2021-1126/2022-SÚ-ŠI, k.ú. Žilina, Závodie",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=COHTYFfGEABxTzfDNDYcBX%2bTgIcJBddlvgahbWYNyIZvTqfN1G05zGpUddybOJbd%2be547fpwTvtr6mqa5A7%2foE6fMZ%2bc5jK5eA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o začatí stavebného konania - uzavretie 2 ks parkovacích miest v podzemných garážach v oba",
+    "Anotácia_dokumentu": "(179) Oznámenie o začatí stavebného konania - uzavretie 2 ks parkovacích miest v podzemných garážach v objekte Arboreum č. 8563/2, Žilina, ul. Obežná, č.s.: 12545/2021-186515/2021-SÚ-ŠI, k.ú. Žilina",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CKrit24jY6S7QKexs7sBdOQXJGfgl5UYceOitPApkC9sg9S0Q5721sugod6EbB9Mr3DeYaupVzqHyExnt5ytsdbcmBDjsUDX8w%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení trvalého pobytu - Ivan Fatura",
+    "Anotácia_dokumentu": "(178) Oznámenie o zrušení trvalého pobytu - Ivan Fatura\r\n",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPu39qMy9YfrlUCMLPmsXJIIcOR5lSE%2bmoiFDpMQvNor8URHddXWy7P9cE7XIxbLIkWLu5%2fG1dMZin6%2bENe5mBzLmukVmQ5XHQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny dňa 02.02.2022 (Vlčince)",
+    "Anotácia_dokumentu": "(177) Oznámenie o prerušení distribúcie elektriny dňa 02.02.2022 (Vlčince)\r\n",
+    "Zverejnené_od": "18.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLjXMXl0Ynr4tqRMhOtnA1YxbvOx8M2kll5WnBOZ5HROBFN4cgRFddPBiDmOMiPSZvmGiRFDfZIKVbPcQFs10zZn7PSdhrBsww%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny  - 01.02.2022 - Bôrik",
+    "Anotácia_dokumentu": "(155)  Oznámenie o prerušení distribúcie elektriny  - 01.02.2022 - Bôrik\r\n",
+    "Zverejnené_od": "17.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGuhzGM%2blKP1xbR4TyTzXMW2Eu7v9qKFxn7ZkX0vhV7diASp6xGH9IkqAy%2fH%2bQwg2S8X8QqiMKkH7V%2fmSZAS6ESGzGKhHN71gQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Územné rozhodnutie č. 523/2021-174844/2021-SÚ-BAB",
+    "Anotácia_dokumentu": "(154)  Územné rozhodnutie č. 523/2021-174844/2021-SÚ-BAB\r\n",
+    "Zverejnené_od": "17.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNzTCArCHlDQYmJfZ4DbI%2fumf9aHzCt0ock08BuO31Kcf2zQtbGFwoTHR4sGwmGyL4VsFsgCgyUOqGn5VFAuBYf1DlRcHfnCzQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení trvalého pobytu - Beáta Hurínková",
+    "Anotácia_dokumentu": "(135)  Oznámenie o zrušení trvalého pobytu - Beáta Hurínková\r\n",
+    "Zverejnené_od": "17.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CKop0ama%2bifaROFfn6OY%2bL487ziVPuhePjrYDYs20pKEOa3aF1bgYpzJejszrU79hdOJFYOh00wguprfe%2bufvKGrZFOsbClSSw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie - Program hospodárskeho a sociálneho rozvoja obce Radoľa",
+    "Anotácia_dokumentu": "(136)  Oznámenie - Program hospodárskeho a sociálneho rozvoja obce Radoľa\r\n",
+    "Zverejnené_od": "17.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJiXeLkAI7n2ev1ZKl%2bXNjQ2BJAFNvzaZlCjAJkpofPvB8MHZS1Mh00%2fo43eZsXSz28BHjOi25Ydcwip%2b3TKLPwfQzwFud%2fhLw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie zn. 139EX 270/18 - 205 o termíne dražby hnuteľných vecí",
+    "Anotácia_dokumentu": "(130)  Oznámenie zn. 139EX 270/18 - 205 o termíne dražby hnuteľných vecí\r\n",
+    "Zverejnené_od": "14.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "ExÚ Žilina, JUDr. Jozef Rišian",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJUZ22TVRwWELivcq2ZQ3%2bA2usG69Xi%2fdX2IoEnqriSnsJRmEA2djnbovzpjzJPMxYeQgwbBdGzQBi7dzD%2bnhDCe0utIOKjILw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 679/2021/SÚ-ŠSÚ-doprava/Mo o začatí stavebného konania a upustenie od ústneho pojednáv)",
+    "Anotácia_dokumentu": "(129)  Oznámenie č. 679/2021/SÚ-ŠSÚ-doprava/Mo o začatí stavebného konania a upustenie od ústneho pojednávania (Budatín - Zádubnie, chodník popri ceste III/2070)\r\n",
+    "Zverejnené_od": "14.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor dopravy",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CK0Q0dInuTOfjA25VuCN8yB0bZwAolarP5lLir%2bgEJKyT9DoHaS5IxNhU7UZo%2fWL5UEVFHg61N2nPzRtfvklGhilc48tihF2oQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Miroslav Dzúrik (1964), Stanislava Kadlečíková (1990), Andrea Trnovcová (1)",
+    "Anotácia_dokumentu": "(127)  Oznámenie o zrušení TP - Miroslav Dzúrik (1964), Stanislava Kadlečíková (1990), Andrea Trnovcová (1992), Alexandra Kadlečíková (2013), Nela Trnovcová (2015), Šimon Kadlečík (2017), Liliana Trnovcová (2019), Karin Trnovcová (2021)\r\n",
+    "Zverejnené_od": "14.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CASTFFLksR6MI1mst%2fo1kQ%2f33qa8lV98COgK1oogM2dGDVKelVXLhEmrfuexk1AEmW1QFVHLKZkULSGdE3bZSY0mSEKaZVTcig%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kópia žiadosti č. 197391-149201/2021/SÚ-ŠSÚ-D/Mo-zverej. O vydanie stavebného povolenia stavby (ŽSR)",
+    "Anotácia_dokumentu": "(128)  Kópia žiadosti č. 197391-149201/2021/SÚ-ŠSÚ-D/Mo-zverej. O vydanie stavebného povolenia stavby (ŽSR, Dostavba zriaďovacej stanice Žilina - Teplička a nadväzujúcej infraštruktúry v uzle Žilina)\r\n",
+    "Zverejnené_od": "14.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor dopravy",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIeji6VjKsUUN3fyc6E7G0iBY2v1OKG4%2bIAUY9cCtez%2fvFNO7eM50EebhyJC6%2bKncjgCieShg%2bdGlnjs26dr%2bR4dEykfxI2iyA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Prerušenie distribúcie elektriny dňa 31.01.2022 (Bôrik + Hliny)",
+    "Anotácia_dokumentu": "(125) Prerušenie distribúcie elektriny dňa 31.01.2022 (Bôrik + Hliny)",
+    "Zverejnené_od": "14.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMFzQ0M%2bZ%2fCQBwXD7ac13eG7yK8M7ucjceN9atCr%2fEU1EqasS2FdsUr%2fCftpl%2fleTJg0TgG9EX1sxdxhTNjYo1Zuk3A%2bg79tuw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny - 28.01.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(124)  Oznámenie o prerušení distribúcie elektriny - 28.01.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "13.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGJwxAqSINBVi%2bAqmY58OnFUv6hMctIxUbPCmNZvkF3IrvKYXPoouyEQ5nYB5M5%2bTwbOGfO8OuwaylJjZI85SY35hEVJZj6ZIA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam o voľnom prac.mieste - odbor sociálny a bytový - kuchár/ka s miestom výkonu práce zariadenie a",
+    "Anotácia_dokumentu": "(121)  Oznam o voľnom prac.mieste - odbor sociálny a bytový - kuchár/ka s miestom výkonu práce zariadenie Jedáleň - Nám. J. Borodáča 1, 010 08 Žilina\r\n",
+    "Zverejnené_od": "13.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDz32XyJ5IxL4V0gW2gBNqIEQt%2bhTKcJxn3kGh4qDMLAiqOam3Ir1yQBb%2bbQpwLLkxh02t65bHupK4vr7W3b5RPSuRwc3MXong%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Branislav Kišš, 1992",
+    "Anotácia_dokumentu": "(122)  Oznámenie o zrušení TP - Branislav Kišš, 1992\r\n",
+    "Zverejnené_od": "13.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJW66%2bPup7jRDEyuxpdtpQS93jCuI5BC%2bvqxCQSG99E7S4%2fkuPrPXprrMZsE2RTrLro7dkeqRLCwPg0wkWtpnG684MKHuyMvjg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Mgr. Marián Baláž, 1972",
+    "Anotácia_dokumentu": "(123)  Oznámenie o zrušení TP - Mgr. Marián Baláž, 1972\r\n",
+    "Zverejnené_od": "13.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CC3N%2fdJPBt52WsnYvw4XdKmnUxBL5aQscQVHz5iXqA6rQXL69n5mvFn8A%2fi3M5Ec1V8IasbfvaPPJwpfFMSU75rsUzzcXg79dQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č. 17408/2021-196572/2021-SÚ-TRK (Rekonštrukcia plynovodov Žilina, ul. Murgašova)",
+    "Anotácia_dokumentu": "(115)  Stavebné povolenie č. 17408/2021-196572/2021-SÚ-TRK (Rekonštrukcia plynovodov Žilina, ul. Murgašova, Žilina)\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGfFKyQLZFnT3pg4am%2bqm%2feQrXP8B1DlC3NNJsacPJllQEZwzoXcM8ZZkEsE6tiGcf%2fHcEnXQqoa%2bQC5sjzX3QICbY1z67uDrQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 464/2022-879/2022-SÚ-ŠI o začatí stav. konania (Novostavba rodinného domu, prípojky in)",
+    "Anotácia_dokumentu": "(114)  Oznámenie č. 464/2022-879/2022-SÚ-ŠI o začatí stav. konania (Novostavba rodinného domu, prípojky inžinierskych sietí, žumpa, Žilina-Zádubnie)\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNHtMjYQF8xwnLKK3QLOmI45HPreWDulTvvvPoX68Jzr6UZWrvmoI%2bZRarCKXeR2WuhcS5qBWsAI4zww6vZmNgy5XH4n2aZNHQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 286/2022-193194/2021-SÚ-KLM o začatí  územného konania (SKK Žilina - odstránenie havar)",
+    "Anotácia_dokumentu": "(113)  Oznámenie č. 286/2022-193194/2021-SÚ-KLM o začatí  územného konania (SKK Žilina - odstránenie havarijného stavu na kanalizácii A. Petrovského)\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPPcrrOd7uDt7BHWorzgsH%2fll960ntFoUPhYBNURwx%2fRldd34Xi1WYxbvQjWyDXMBDYX1LHth9IZjC9G1YE2Co%2bLNnhDcKqMYg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. 19049/2021-192300/2021/SÚ-ŠSÚ/Mo-zmena SP",
+    "Anotácia_dokumentu": "(112)  Rozhodnutie č. 19049/2021-192300/2021/SÚ-ŠSÚ/Mo-zmena SP\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor dopravy",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPUpb1e9xtxE2sobwQTHGQrrHgmAQvGJrXSaIPnVPSVZLd9%2bvNtU9q1Ys8%2bC95J9Jc%2fYpTMJ8VJ7pgnb764h%2baxEngp0tRFmGA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. 19048/2021-192299/2021/SÚ-ŠSÚ/Mo-zmena SP (Stavebné úpravy cyklotrás na vybraných ko)",
+    "Anotácia_dokumentu": "(111)  Rozhodnutie č. 19048/2021-192299/2021/SÚ-ŠSÚ/Mo-zmena SP (Stavebné úpravy cyklotrás na vybraných komunikáciách - ul. M.R. Štefánika, Úprava nároží, Vydláždenie plochy so stromami)\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor dopravy",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFivjCEHqKJpsNMFPpHZdpMxo7JGfutp8cqdiFshBy3L0xrNezVLdpQEJmp8v1uyfO2cT6pLXf6otf%2fY%2fU1dixSYwyBcRrRpHA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Ľubomír Karásek, 1986  , Jozef Karásek, 1973",
+    "Anotácia_dokumentu": "(108)  Oznámenie o zrušení TP - Ľubomír Karásek, 1986  , Jozef Karásek, 1973\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMsEkmmjXs9vvsHdZo%2bPn%2fswQAU%2f1ClbHwMzxBf22S%2bAzB7XDfoagS8jWAK%2b9iCqqcsYWxkmP83uOtIKtjtIQT8AK26X7c4yeg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Michaela Špircová, 1994",
+    "Anotácia_dokumentu": "(109)  Oznámenie o zrušení TP - Michaela Špircová, 1994\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLJJIo6seGLRlXJW9mu%2byR8UHRGwHXt2UUjk3FkD%2fqo0vOAZfowTGBSkCdjDvh1quueQQCo0PxNuV4CtAKcVQE6O0PQ%2bL8cA0g%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny - 27.01.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(110)  Oznámenie o prerušení distribúcie elektriny - 27.01.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJueVtSmb6ut%2bNRl5vVJ0bZue5klYuwL7lm4jwVp4lnbSBjhzY6TCDGngdbG%2fT8%2f2Igkto%2fwul%2fxMqbcojecyOz6pgbiyitueQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Tomáš Mičica, 1998",
+    "Anotácia_dokumentu": "(107)  Oznámenie o zrušení TP - Tomáš Mičica, 1998\r\n",
+    "Zverejnené_od": "12.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLcNvCoIIWDpWPzaNPqjoRUZWTE%2bkEgwiIke2N8lLYBme7nAOVyI2qkud8B9Y7EPBSplQKz7c4rUA0fDAAeDQZaHCfKNXjZkMQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. OU-ZA-OSZP3-2021/027836-005/Grf  - Povolenie na osobitné užívanie vôd (ODEKO ZA a.s.)",
+    "Anotácia_dokumentu": "(81)  Rozhodnutie č. OU-ZA-OSZP3-2021/027836-005/Grf  - Povolenie na osobitné užívanie vôd (ODEKO ZA a.s., so sídlom M.R. Štefánika 887/40, ZA)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Okresný úrad Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMTZDO63fUNwmKRhYw814iN8PNneYg9KG00%2fuYgkql%2bXpFDvsRqjoJqi4%2b4yJFJ8aeCrC1lwq4EutZXPi7EWtiX0a0f6adECdA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. 14211/2021-195101/2021-SÚ-ŠI o umiestnení stavby (Dočasná obchádzková trasa, ul. Vys)",
+    "Anotácia_dokumentu": "(80)  Rozhodnutie č. 14211/2021-195101/2021-SÚ-ŠI o umiestnení stavby (Dočasná obchádzková trasa, ul. Vysokoškolákov a Obchodná, Žilina)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLdbv6l2hJoexxZQJne6jC6%2bItON9qLE4JKtoMv1G28%2fET%2fxdBpsZHsWsQj7YrVw8UZM24It4SGZ4qkgEhdFmL6Lu8%2bgP5yTIw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. 14211/2021-195101/2021-SÚ-ŠI o umiestnení stavby (Dočasná obchádzková trasa, ul. Vys)",
+    "Anotácia_dokumentu": "(79)  Rozhodnutie č. 14211/2021-195101/2021-SÚ-ŠI o umiestnení stavby (Dočasná obchádzková trasa, ul. Vysokoškolákov a Obchodná, Žilina)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIE7aRka9Qh6GqXO6TAeSTXBUBKqmycK5yj579WG2f00W7LmE2dFxh%2fI00%2f4oDWL4G7Da1MBdILkZEUtFhNooZrE%2b6t3ZyNFbw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Územné rozhodnutie č. 1508/2021-197119/2021-SÚ-ŠI o umiestnení stavby (Inžinierske siete, cestná ko)",
+    "Anotácia_dokumentu": "(78)  Územné rozhodnutie č. 1508/2021-197119/2021-SÚ-ŠI o umiestnení stavby (Inžinierske siete, cestná komunikácia Žilina, Budatín)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDzjpdWO9a%2fjvquDfIGZWjtLoymHSkbmAr9QwbmaLv%2b5qITqWi5kcfWF63pMl0zyGhj9job1olj3ONRr3sOc7SviKPnh0%2bkIVQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny - 26.01.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(77)  Oznámenie o prerušení distribúcie elektriny - 26.01.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CM1UIQXa8mUYwLkvYVUPj9XYFImN9vRXI9amirrkbikB8jsBBjD4RUjg5bKgWZkr%2fXOSxVXDmfUP26a%2f370fnwYegyvzJmcWVQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie - Prevádzka na nakladanie s odpadmi - rozšírenie druhu odpadov a spôsobu nakladania s odp)",
+    "Anotácia_dokumentu": "(75)  Oznámenie - Prevádzka na nakladanie s odpadmi - rozšírenie druhu odpadov a spôsobu nakladania s odpadom (KOVOMAT SLOVAKIA, s.r.o.)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor životného prostredia",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CJPgsHRTQuSVeB2rRBNpCwohwVarZCUm755qy36ccWgqyNhXX%2fedAdxQQdZZXoRvJUB830t%2btE4e4b3iKQcRUB%2bFi3%2fIfbNp1A%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie č. 197391/2021/SÚ-ŠSÚ-doprava/Mo-pokr. O doplnení podkladov pre vydanie povlenia stavby a)",
+    "Anotácia_dokumentu": "(76)  Oznámenie č. 197391/2021/SÚ-ŠSÚ-doprava/Mo-pokr. O doplnení podkladov pre vydanie povlenia stavby a pokračovanie konania o povolení stavby (ŽSR, Dostavba zriaďovacej stanice Žilina - Teplička)\r\n",
+    "Zverejnené_od": "11.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor dopravy",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMl6IQiwtieDGlSQTg1p%2bPJKxBlhSyIEjqaMit6Pkgu%2bLwtzJ1xwhmFjWoffnOLHAueu%2f8Mq4DVgVXCFASUevnhCRV8yWFvh0w%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Územné rozhodnutie č. 6204/2021-196915/2021-SÚ-KLM o umiestnení stavby (Žilina Suvorovova 30, Pripo)",
+    "Anotácia_dokumentu": "(64)  Územné rozhodnutie č. 6204/2021-196915/2021-SÚ-KLM o umiestnení stavby (Žilina Suvorovova 30, Pripojenie OLT ST, Žilina, ul. Komenského)\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CC3nwyPDLQv0pSsggLO0rZKTRjngI7x%2fuF1EQjmgBLgYkfKcPbDZEPUHNbQkwccjmVR%2bGRAaUICwSGAwFPYxFWv9dilnL2wfLQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č. 14430/2021-196814/2021-SÚ-PKA (Stavebné úpravy bytu č. 77 - vytvorenie bytu v)",
+    "Anotácia_dokumentu": "(63)  Stavebné povolenie č. 14430/2021-196814/2021-SÚ-PKA (Stavebné úpravy bytu č. 77 - vytvorenie bytu v nosnej stene Žilina, Vlčince, Pittsburgská 2970/7)\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CAdZgYW1MW9xTtdVHtYyxPE2W36u6YlOqHYirs7h54cTC3EriOr1Thefbh1VcfUXKkccaEJZIKlQKKXf90KbKIZUuPoS%2f179eg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie č. 17712/2021-196584/2021-SÚ-AD (Výmena vonkajších sekundárnych rozvodov ÚK )",
+    "Anotácia_dokumentu": "(62)  Kolaudačné rozhodnutie č. 17712/2021-196584/2021-SÚ-AD (Výmena vonkajších sekundárnych rozvodov ÚK a TÚV v tepelnom okruhu PK Jesenského Žilina)\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEoRkCYswPdCqOLt7sKvnfo5J5S%2f4c52IW0Hn7792%2bUHU2cwMaDQVT6aw2DZZ0oc37Hezt2d%2bo5h67PXv9ZEWZFAhro%2flA0MTw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elektriny - 25.01.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(61)  Oznámenie o prerušení distribúcie elektriny - 25.01.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CPnXw%2bi7TE7D%2f6zzxbZ9SOq9evKNdfzvx%2bsqYtX0LrcaQaxcg8L9g0xiUK7Ouc8NwoQHQrltaqsGfKf%2bRbgrs518eIh9qFUjtg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam o voľnom pracovnom mieste - Odb. vnútornej organizácie a správy MsÚ - referent personalistikya",
+    "Anotácia_dokumentu": "(60)  Oznam o voľnom pracovnom mieste - Odb. vnútornej organizácie a správy MsÚ - referent personalistiky a mzdového účtovníctva pre školy a školské zariadenia\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CAr5Yn4aaTT3pKGwPJakWd6yZnvSQHI7SlNmfdFjhz60FJQSOMO%2f2S5y8DsBC7isrQAHEHl9PuY5nBgbdzkePeq8p8RNPY6aTA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Alexandra Milec  Peštová,1981",
+    "Anotácia_dokumentu": "(56)  Oznámenie o zrušení TP - Alexandra Milec  Peštová,1981\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBwph3lS2apq86FhNHpwmYzwQyLQinRFQ3ggUr%2bFDekOgQr%2fNj182BjyW9XbdJQ041bQ41V8sBHp3WVKlDN0rfKj5cLxJy2gew%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Martin Sedliaček, 1979",
+    "Anotácia_dokumentu": "(57)  Oznámenie o zrušení TP - Martin Sedliaček, 1979\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBKhukS28%2bEW%2bia7yR9mayMc4q1sQJuKeHvMTtr7tFCDMlhiSKZ1hgBznNiDIQY6NfQI0%2bA%2b9toWJqfZPe9u0d7ExjHz8AJbtQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam o voľnom pracovnom mieste - riaditeľka Materskej školy, Kultúrna 284, 010 03  Žilina",
+    "Anotácia_dokumentu": "(58)  Oznam o voľnom pracovnom mieste - riaditeľka Materskej školy, Kultúrna 284, 010 03  Žilina\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CHoaFlHfjsROsLW%2fl1UTRFPSiXaNrcRG9xg1aVY9J%2fSCVPOJMy3cRnvGEK2UGv5wB2PnlFlX%2bd5yMai42ROaQGXPNhzGLb41CA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam o voľnom pracovnom mieste - riaditeľka Materskej školy, Ku školke 196/11, 010 03  Žilina",
+    "Anotácia_dokumentu": "(59)  Oznam o voľnom pracovnom mieste - riaditeľka Materskej školy, Ku školke 196/11, 010 03  Žilina\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEeQjFoyrFqc01N0mOKIZXPWmjrm4IqBwqaVXJj%2b8PFVGlvzxHlMo8WHNOPEFuFrcL2vFq7Ac3m8%2bD5BBuwgcCd06lCquxXD%2bg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Adriána Kerešová, 1990",
+    "Anotácia_dokumentu": "(54)  Oznámenie o zrušení TP - Adriána Kerešová, 1990\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CHhDQSGw6BO8qRgxgEGhueYsuWMs5VbgINakG4XeaE4kaznHVDP3axYahuoMhTiw5sj54X8fZVBjmucjHWrFtrgYn0Wcxa41gg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zrušení TP - Tereza Muzikářová,1991",
+    "Anotácia_dokumentu": "(55)  Oznámenie o zrušení TP - Tereza Muzikářová,1991\r\n",
+    "Zverejnené_od": "10.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CHWTvk791ANeiMbO%2bgw%2btg9%2bO2gBwHq9TSlQcJY5mEreev3aqu9IMEi8FZWphFFsmqJWwHCL5JTRXNI%2bO9EHQEzVedSCTaPXxw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Harmonogram zasadnutí Mestského zastupiteľstva v Žiline na rok 2022",
+    "Anotácia_dokumentu": "(33)  Harmonogram zasadnutí Mestského zastupiteľstva v Žiline na rok 2022 \r\n",
+    "Zverejnené_od": "05.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBYrv3qCrG8d54nos8%2fmnPP7rZG2LgRVuYYJ7G85%2fV%2bX0sh8gFli4rllOZ%2fnfjvMc5gXOxx%2bPOLMJ2kqPHWxx%2fpTYadgn54obQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o prerušení distribúcie elktriny - 24.01.2022 - Staré mesto",
+    "Anotácia_dokumentu": "(34)  Oznámenie o prerušení distribúcie elktriny - 24.01.2022 - Staré mesto\r\n",
+    "Zverejnené_od": "05.01.2022",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "SSD, a.s.",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFJF5li6%2bz466xXB%2biO0Z1Mr6nxjK3QXEHazPb3IFRXeDffc8Pl95PIv%2flJiWsAnzZ0BtwF3BPlwdNCFRSZoXYySuKLgvsNujQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam - Zisťovanie o domácom a výjazdovom cestovnom ruchu",
+    "Anotácia_dokumentu": "(4987) Oznam Štatistického úradu SR - Zisťovanie o domácom a výjazdovom cestovnom ruchu\r\n",
+    "Zverejnené_od": "31.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Štatistický úrad SR",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGlooDGJODETfOV22qoVCoTFaEhXh0LP%2b%2bgkRtLiLdqfW2%2f35jTWUu6Kqdmmfm3o62u6e%2fheJZi0Fjo88wbDXaJN%2f9cujeGQsA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Výzva na odstránenie motorového vozidla - Modrá Škoda Felicia Combi, adresa umiestnenia ulica Martie",
+    "Anotácia_dokumentu": "(4969) Výzva na odstránenie motorového vozidla - Modrá Škoda Felicia Combi, adresa umiestnenia ulica Martinská, Žilina-Vlčince, určená držiteľovi motorového vozidla, č.: 20854/2021-197400/2021-OSVPŽP-LTA, foto vozidla v prílohe",
+    "Zverejnené_od": "29.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor správy verejného priestranstva a živ. prostredia",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CI53ce48aM9ACHCeTDXrTWEFdMCPWjLt81p3vxGuLrYt%2ft5%2fXEb4mcDcbuFQgJD2y7TJXHdyU8awGIBy2pcW9DZkE1e188hLbQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Výzva na odstránenie motorového vozidla Peugeot, tmavozelenej farby, určená držiteľovi motorového ve",
+    "Anotácia_dokumentu": "(4968) Výzva na odstránenie motorového vozidla Peugeot, tmavozelenej farby, určená držiteľovi motorového vozidla, č.: 16112/2021-197133/2021-OSVPŽP-LTA, foto vozidla v prílohe",
+    "Zverejnené_od": "29.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor správy verejného priestranstva a živ. prostredia",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBNWn1sHd%2f1HYK1C%2bft5TbzxXx7ZCxFC2Koq9XvtlB5V7WIJKK114P%2b7zxompXg%2fnZbiAWEvVApiE5dcShlIybU2qtTR7m3o1g%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č. 13074/2021-175009/2021-SÚ-ŠI (Urnový háj-Mojšová Lúčka-Žilina)",
+    "Anotácia_dokumentu": "(4802)  Stavebné povolenie č. 13074/2021-175009/2021-SÚ-ŠI (Urnový háj-Mojšová Lúčka-Žilina)\r\n",
+    "Zverejnené_od": "17.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFaMFkqjZVZ3ES7CPAWjzqwK0aL7OYzZQyGf6oj4NOOF5GIEuDAkOyapqwgqo4dISRhL%2fVA2nYXpIZm%2b6VGAkQhARJFsI19EUw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Rozhodnutie č. 8808/2021-191101/2021-SÚ-OKU predĺženie platnosti územného rozhodnutia (Materská ško)",
+    "Anotácia_dokumentu": "(4638)  Rozhodnutie č. 8808/2021-191101/2021-SÚ-OKU predĺženie platnosti územného rozhodnutia (Materská škola, ul. Cintorínska, Žilina - Trnové)\r\n",
+    "Zverejnené_od": "13.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGnlbw2Z037FeAKn4sPfOXZRFrAGJ8dA1GGyXYvJ%2bLt2qXob1qf%2fSYKuyW9MAxG5oSRTp%2bWJSx1v06cb%2biBAUw7XimvUGXzl%2bA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam - Zisťovanie údajov pre štatistiku rodinných účtov od 07.12.2021 do 12.01.2023",
+    "Anotácia_dokumentu": "(4561)  Oznam - Zisťovanie údajov pre štatistiku rodinných účtov od 07.12.2021 do 12.01.2023\r\n",
+    "Zverejnené_od": "09.12.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Štatistický úrad SR",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CHaEnR6%2f0Ea2aka5zcWdR6noG38ZHN2f%2f6URG%2bNbaKBqEEQ3QtUy%2b%2buH6SYvbMcbBoQ75U%2f%2b0XsWaruv1JpOhm%2fGjZu6xZvfEg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o vydanie zmeny územného rozhodnutia č. 14211/2021-173600/2021-SÚ-ŠI (Ob)",
+    "Anotácia_dokumentu": "(3821)  Zverejnenie kópie žiadosti o vydanie zmeny územného rozhodnutia č. 14211/2021-173600/2021-SÚ-ŠI (Obchodný dom KIKA)\r\n",
+    "Zverejnené_od": "20.10.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CLtyHrWlecWD%2fm4EX08ZwJ4NXXfth5bJAXTneLYLhpUDw7wsG4TNbPYLxdhbcA74exim3CyWo2rm11jXxbR%2fCK0xeejf0mCAiw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie návrhu na vydanie územného rozhodnutia a stav.povolenia č. 13074/2021-168781/2021",
+    "Anotácia_dokumentu": "(3310)  Zverejnenie kópie návrhu na vydanie územného rozhodnutia a stav.povolenia č. 13074/2021-168781/2021\r\n",
+    "Zverejnené_od": "22.09.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CA9ibT3DB9B%2biCqW1bPfFrX0mNwkn7CO53M4FeSM5PERTPCdNGQtjMv%2fzIMdGeWc4S%2bwSPgR5yAZ8LZQI%2bZIl01lqT8qpofsSQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Žiadosť č. 8808/2021-163438/2021-SÚ-OKU o predĺženie platnosti územného rozhodnutia (Materská škola)",
+    "Anotácia_dokumentu": "(3131)  Žiadosť č. 8808/2021-163438/2021-SÚ-OKU o predĺženie platnosti územného rozhodnutia (Materská škola, Žilina - Trnové)\r\n",
+    "Zverejnené_od": "08.09.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMsl2n5iIVvvfc21PLijIXA8rlVueEKjSw1WT9UDMle3vK8SclzgRgx7J2wdsBEAKvFS9nHWa67jvDC5Sw2XPH4EawRzOsV3Pg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejný opis veci - fotoaparát zn. Canon SX620 HS",
+    "Anotácia_dokumentu": "(2766)  Verejný opis veci - fotoaparát zn. Canon SX620 HS\r\n",
+    "Zverejnené_od": "13.08.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mestská polícia Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBfNMRjlD7zrpKcC9kKHqXYJQmqTKVpg4Vl3q1N6lPJ9l%2bAmJgSy2x%2b%2fUsPEv2dmU2dChp2nKMwNm0FkLvzup6sZ7PizrZKIVQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejný opis veci - fotoaparát zn. Canon SX620 HS",
+    "Anotácia_dokumentu": "(2766)  Verejný opis veci - fotoaparát zn. Canon SX620 HS\r\n",
+    "Zverejnené_od": "13.08.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Okresné riaditeľstvo Policajného zboru Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CBfNMRjlD7zrpKcC9kKHqXYJQmqTKVpg4Vl3q1N6lPJ9l%2bAmJgSy2x%2b%2fUsPEv2dmU2dChp2nKMwNm0FkLvzup6sZ7PizrZKIVQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie - viacúčelová bloková zástavba (Elektrárne Žilina) č. 1130/2021-155621/2021-SÚ-BB",
+    "Anotácia_dokumentu": "(2395)  Stavebné povolenie - viacúčelová bloková zástavba (Elektrárne Žilina) č. 1130/2021-155621/2021-SÚ-BAB\r\n",
+    "Zverejnené_od": "22.07.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CISudaF0tDVuNILhbZ%2bB3KGX%2fv4UmQtVa3VmOV96S4wO%2b3YHMol5zmsfqEOzZFhme8YIG0L8anehfRxCpYSRD2v6XB8P2DYMpQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie č. 9315/2021-154824/2021-SÚ-KLM",
+    "Anotácia_dokumentu": "(2308)  Kolaudačné rozhodnutie č. 9315/2021-154824/2021-SÚ-KLM\r\n",
+    "Zverejnené_od": "19.07.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNLE2DJRwy%2f6XucROLcWhZvjUtYQkBbPQLXm4OY2X67m8UsYfJQQIKdrzpVHHljAe%2fBDYbDEjH%2bMQ6R1nQX4uq6CyrfQK%2bVmsg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Vyhlásenie času so zvýšeným nebezpečenstvom vzniku požiaru od 10.06.2021 od 6,00 hod. do odvolania",
+    "Anotácia_dokumentu": "(1804) Vyhlásenie času so zvýšeným nebezpečenstvom vzniku požiaru od 10.06.2021 od 6,00 hod. do odvolania\r\n",
+    "Zverejnené_od": "09.06.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Okresné riaditeľstvo Hasičského a záchranného zboru v Žiline",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEDJaZ5Fx4udTV9kB0cj9DpxE9zXl5ncs3RcO%2bJmogU933bdwn2WFN4om39QTEPx0yCe%2bYRZ5hV0ojYArF5wHiqZsIGfyAXJaw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam - Pomoc obetiam trestných činov",
+    "Anotácia_dokumentu": "(1752)  Oznam - Pomoc obetiam trestných činov\r\n",
+    "Zverejnené_od": "04.06.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Ministerstvo vnútra SR",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFE2mvTGIgOllhvLOdGrK2FrDyMjoTKIoZCUqBqV6J9O3q5XeY%2bSaY%2f64vxF%2fu8Wmvlt5HjKuz5BKxlEdP4h78WZT%2fjoxZL2LQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o povolenie zmeny stavby pred jej dokončením - Novostavba rodinného domun",
+    "Anotácia_dokumentu": "(1482) Zverejnenie kópie žiadosti o povolenie zmeny stavby pred jej dokončením - Novostavba rodinného domu Žilina - Budatín, ul. Tyrkysová, č.s.: 922/2021-144355/2021-SÚ-PA, k.ú. Budatín.\r\nZverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "14.05.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMMp7YERWbEqJMFq4JWFyfryr1fc5cNnJ7y8zcfu6EtofreezCYDR0lLZNIEA99kKE8Em5p%2fFv07JjDPM3VWdovykqEyKT98cw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o vydanie stav. povolenia - VV - Viacúčelová bloková zástavba - Elektrára",
+    "Anotácia_dokumentu": "(1441) Zverejnenie kópie žiadosti o vydanie stav. povolenia - VV - Viacúčelová bloková zástavba - Elektrárne Žilina, č.s.: 1130/2021-143561/2021-SÚ-BAB, k.ú. Žilina.\r\nZverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "12.05.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNYbu%2bSJK65PbVELrBUM6jMZwSdgjSnGXnSkL4bIzSrMOaP1Z%2bIJojGa4ESmvL0O8SSYDap56%2bYXu6f8Mypv9gbOi9%2fAsvcfdQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie - Novostavba rod. domu, prípojky inž. sietí, Žilina - Budatín, ul. Tyrkysová, č.n",
+    "Anotácia_dokumentu": "(1332) Stavebné povolenie - Novostavba rod. domu, prípojky inž. sietí, Žilina - Budatín, ul. Tyrkysová, č.s.:874/2021-102657/2021-SÚ-PA, k.ú. Budatín. Zverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "03.05.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CCMpjVBXZgw3CnxcjDQ9kh1RsedOdT0ykoHmrchttCMuhw90onOKpWUualXZVfXGv9pdhTxWESEPHjrC%2fy1USDJsne%2b2l9pMXQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejný opis veci - horský bicykel zn. BTWIN Rockrider 520",
+    "Anotácia_dokumentu": "(1178)  Verejný opis veci - horský bicykel zn. BTWIN Rockrider 520\r\n",
+    "Zverejnené_od": "22.04.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Okresné riaditeľstvo Policajného zboru Žilina",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEmB%2fr5361fbWsduvOCcGA2fBAfgKzmhFGAKmeI39tNqKmRA6yRcXj%2fhpTz0bvwbhob4OPBe1%2fiPItsiqz6qLUi9KB04cizlBw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o povolenie zmeny stavby pred jej dokončením - VV - č.s.: 930/2021-10154n",
+    "Anotácia_dokumentu": "(911) Zverejnenie kópie žiadosti o povolenie zmeny stavby pred jej dokončením - VV - č.s.: 930/2021-101541/2021-SÚ-PA, k.ú. Budatín. Zverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "01.04.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDi22lA31jKkhV5R3SI418rp1sgNgb9hyCuu3PgkjXBuW22pIPUzII8z0sosDPjYj8BwCbHYcI%2b131futNl6Q905chhYz3rg7Q%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejná vyhláška - Zverejnenie kópie žiadosti o predĺženie platnosti stav. povolenia, č.s.: 918/202n",
+    "Anotácia_dokumentu": "(697) Verejná vyhláška - Zverejnenie kópie žiadosti o predĺženie platnosti stav. povolenia, č.s.: 918/2021-23910/2021-SÚ-PA, k.ú. Budatín. Zverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "16.03.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDEWRri7fBR3gVjvw89mX8y1O42oBfswGZ2hMu5gF8cK0VYnusNk9XkFwmSHdeEdROaAXVpwjcQepactJXp8iNkRoYLCJ82rRA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie o zámere predať sortimenty surového dreva",
+    "Anotácia_dokumentu": "(554) Oznámenie o zámere predať sortimenty surového dreva\r\n",
+    "Zverejnené_od": "01.03.2021",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor správy verejného priestranstva a živ. prostredia",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFk23hm9H09DzelfJDZ5RhKtaYislqdoOcpnEI2NjNuWNTd8KwnqKT%2b6j1FmbAZjovol0aeILm62BBb3pL4zwgPU08lbS4YUKA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie - Novostavba rodinného domu, prípojky IS, oplotenie, Žilina - Budatín, ul. Tn",
+    "Anotácia_dokumentu": "(3532) Kolaudačné rozhodnutie - Novostavba rodinného domu, prípojky IS, oplotenie, Žilina - Budatín, ul. Tyrkysová, č.s.: 11137/2020-187177/2020-SÚ-PA, k.ú. Budatín. Zverejnené odo dňa jeho vydania až do nadobudnutia jeho právoplatnosti.",
+    "Zverejnené_od": "01.12.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CEJpnTp5o9M9A4AumRuf%2b6NzUpauKo%2f3arNiF82G9T9XOZAgBW5nIpyVYLKTwO8EYAcKnjzmzf%2fRg%2fOrAZ%2fPDRBOJ39NmbRmjA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznámenie - Výstavba a modernizácia údržbovej základne trolejbusov v Žiline - Rozhodnutie",
+    "Anotácia_dokumentu": "(3178) Oznámenie - Výstavba a modernizácia údržbovej základne trolejbusov v Žiline - Rozhodnutie. Zverejnené do odvolania.\r\n",
+    "Zverejnené_od": "30.10.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGebq%2fMNSOB62qyfRNwB6IlLOFnx6EzXCwR3y%2bbpX%2f397xCzEB0GK8qNBN%2ff31pnhlPUg9wV08Yq5NsqARN%2bW96y4H56tqExiA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Územné rozhodnutie - Rozhodnutie o umiestnení stavby - Obytný súbor Bôrik, č.s.: 2836/2020-164585/2a",
+    "Anotácia_dokumentu": "(2456) Územné rozhodnutie - Rozhodnutie o umiestnení stavby - Obytný súbor Bôrik, č.s.: 2836/2020-164585/2020-SU-AD, k.ú. Žilina. Zverejnené do nadobudnutia právoplatnosti.",
+    "Zverejnené_od": "02.09.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CKANZa7bY4Q64Qtx3Qj10tQS%2bVzOjrPIvURt4cQB%2bkjjKpb1wsReBIMAeboWLfSuKc6gXn9xSp7s1%2bdA1Qk5pStqoKBg2KRZ0Q%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie - Polyfunkčný komplex Rudiny II. - Žilina - časť Bytový komplex, Blok A, č.sa",
+    "Anotácia_dokumentu": "(2338) Kolaudačné rozhodnutie - Polyfunkčný komplex Rudiny II. - Žilina - časť Bytový komplex, Blok A, č.s.: 8211/2020-164972/2020-SU-TRK, k.ú. Žilina",
+    "Zverejnené_od": "19.08.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CGvMXid3aesVP%2fGs58UBkXx2Kmz%2fwo4koliA51%2f3XK%2fGw1OsmqpqPvFZ5MQUIePYlXdOvkvKjIjxeGd7C5zsubjivJLX5b6ybQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie č. 11389/2020-159719/2020-SU-TRK (k. ú. Žilina)",
+    "Anotácia_dokumentu": "(2050) Kolaudačné rozhodnutie č. 11389/2020-159719/2020-SU-TRK (k. ú. Žilina)\r\n",
+    "Zverejnené_od": "22.07.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CF4Ea4u7kuRp1EoBGqUk0ePqVzufymy2x%2fCDPx0QNmWWSwtc6lL3toeTJxPa7yWjZ0eojuTeETjVFIxJNz%2fTo0fleFPxaX6DSQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o predĺženie platnosti stavebného povolenia č.s.:6563/2018-39199/2018-OS",
+    "Anotácia_dokumentu": "(1934) Zverejnenie kópie žiadosti o predĺženie platnosti stavebného povolenia č.s.:6563/2018-39199/2018-OSP-DRA zo dňa 19.07.2018 v zmysle § 58a ods. 3 stavebného zákona - VV, č.s.: 12342/2020-158124/2020-SU-ZI, k.ú. Žilina. Toto oznámenie sa zverejňuje odo dňa začatia stavebného konania až do jeho právoplatného ukončenia.",
+    "Zverejnené_od": "10.07.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CO3GKGXpG1I%2fuwz7JD5GcYA0LlRByB%2b7aBaEq30eZW8cLU3SuhMtAl4hceiUPVVrhUdBa0kXVlr1VWZ63btoAduXwT4HffAXZg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "VV č. 3529/2020-155091/2020-SU-PA (k. ú. Budatín)",
+    "Anotácia_dokumentu": "(1694) VV č. 3529/2020-155091/2020-SU-PA (k. ú. Budatín)\r\n",
+    "Zverejnené_od": "19.06.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútornej organizácie a správy MsÚ",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CP316%2bDV2u7dwZ6ATAUgEYdbN0t2jYYerswQPEw%2bPZe4HcEG3YBHf%2fWdfnQ%2bEnWl%2fzQC486pNPZu8uS62mcosYSaN31C0TuQsw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Stavebné povolenie č. 6502/2020-153763/2020-SU-PA (k. ú. Budatín)",
+    "Anotácia_dokumentu": "(1686) Stavebné povolenie č. 6502/2020-153763/2020-SU-PA (k. ú. Budatín)\r\n",
+    "Zverejnené_od": "18.06.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=COFNBzuh0EaIABBoNryOIB2y%2fATJKxtIJ4C8585bV%2b1P7%2fx%2fa539mG1iHDVtjdVBH8cH2n7AS1xiargaMZ5Mgq0OwmOYcaXTCQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Zverejnenie kópie žiadosti o vydanie rozhodnutia o umiestnení stavby v zmysle § 35 ods. 2 stavebnéha",
+    "Anotácia_dokumentu": "(1121) Zverejnenie kópie žiadosti o vydanie rozhodnutia o umiestnení stavby v zmysle § 35 ods. 2 stavebného zákona - Obytný súbor Bôrik, zn.: 2836/2020-74799/2020-SU-AD, k.ú. Žilina.\r\nZverejnené do doby právoplatného rozhodnutia o umiestnení stavby.",
+    "Zverejnené_od": "20.04.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CMhnhEqVeJmIgZE5uOyn%2fIDajDbvKHqHfH5%2bquLCNHGV7B8CEMFeknmQb%2bvKMepMc4Kj28w4ydhRmaSSGk4g%2bXXBVUZ%2b8WA2sw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "VV č. 6502/2020-29164/2020-SU-PA (k. ú. Budatín)",
+    "Anotácia_dokumentu": "(1026) VV č. 6502/2020-29164/2020-SU-PA (k. ú. Budatín)\r\n",
+    "Zverejnené_od": "30.03.2020",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - Stavebný úrad",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CFxnJ7jMlWg9fiog0bC3s8lVVegTNtJITmNrKFbh1DBpekJcpcy2l0z7dyajpPlxKyX9HOhu%2fGoktEnWX8UEwGnFqpJ3rt20mw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Kolaudačné rozhodnutie č. 14630/2019-58571/2019-OSP-PA (k. ú. Považský Chlmec)",
+    "Anotácia_dokumentu": "(4565) Kolaudačné rozhodnutie č. 14630/2019-58571/2019-OSP-PA (k. ú. Považský Chlmec)\r\n",
+    "Zverejnené_od": "18.11.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor stavebný",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CNmAhMxY68l2WHHEbj%2fQkDuZR0cj2cCYr1MSVJ6EXvBbEDzYWWh13qTzKiN8Z3js9DSwP315vENHYaD84I8hUWMpO9xxNI%2bPhg%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Verejná vyhláška - zn. 15264/2019-46412/2019-OSP-PA",
+    "Anotácia_dokumentu": "(4126) Verejná vyhláška - zn. 15264/2019-46412/2019-OSP-PA, toto oznámenie sa zverejňuje od začatia spojeného územného a stav. konania až do jeho právoplatného ukončenia\r\n",
+    "Zverejnené_od": "21.10.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor stavebný",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=COHppAc3fg0jiAhKdjbEJoZxHHoXxLeaNwpzJYRb1xCeluK7tur53S0X9rE%2bSCaxWoK2LRhYsyk8G2lvZK9o7rJVLa7xHRKUug%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "VV č. 2967/2019-38929/2019-OSP-BO (k. ú. Mojšova Lúčka)",
+    "Anotácia_dokumentu": "(3262) VV č. 2967/2019-38929/2019-OSP-BO (k. ú. Mojšova Lúčka)\r\n",
+    "Zverejnené_od": "28.08.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor stavebný",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CO3wxIrbbFNcnLqW4uQieZ6ShxD6kA2ln2z2wiPCxkx6tRQFFLOzfHGbQIYSqEUOwM%2fAtk%2f%2ffMgH6X0HQ1EU%2fRaXSY%2bR5Rg6kw%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Oznam ku Všeobecným záväzným nariadeniam mesta Žilina",
+    "Anotácia_dokumentu": "(3210) Oznam ku Všeobecným záväzným nariadeniam mesta Žilina, Informácia je zverejnená na neobmedzenú dobu",
+    "Zverejnené_od": "23.08.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - odbor vnútorných vecí",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIKFaJqVqUFRts9dse59nyeLDfWJ3BLbSwJJhpwwkNmXrMVeIYSdRmRlbeW9%2bCwDg2ow4j9hmPMX1B9RhVjznSQDXTjSd31luA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Odporúčanie pre obyvateľov mesta a zamestnancov MSÚ - doručovanie zásielok s podozrivým obsahom",
+    "Anotácia_dokumentu": "(749) Odporúčanie pre obyvateľov mesta a zamestnancov MSÚ - doručovanie zásielok s podozrivým obsahom\r\n",
+    "Zverejnené_od": "22.02.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - referát krízového riadenia, CO, OPP a BOZP",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CDshUY5rf5OjsDRaGGAXDmNBFT3eIdj6nLHqNRVH17xLzQiUk28zHTuIGe6rIOz6KlQe1GGAuwwgPg%2bsZRF7DOe1xTAUPsVUjA%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Jednotné európske číslo tiesňového volania",
+    "Anotácia_dokumentu": "Jednotné európske číslo tiesňového volania",
+    "Zverejnené_od": "28.01.2019",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Ministerstvo vnútra SR",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CAmpGyCGHSmWILP8rBGkga114AtQE4H%2f4R9AmWemm48IvKxyf5LwJLJQzy6Qd1wLbNx824N3EQo49VFMprtr8QPt0wLMn%2b4XPQ%3d%3d"
+  },
+  {
+    "Názov_dokumentu": "Informácia o spracovaní osobných údajov - Mesto Žilina",
+    "Anotácia_dokumentu": "(4084) - Informácia o spracovaní osobných údajov - Mesto Žilina",
+    "Zverejnené_od": "23.10.2018",
+    "Pripomienkovať_od": "",
+    "Pripomienkovať_do": "",
+    "Kategória_dokumentu": "Mesto Žilina - úsek prednostu",
+    "Dokumenty": "https://egov.zilina.sk/FileOutputHttpHandler.ashx?arguments=CIHmJziprG2nu9nLvcxT1gR%2b6J3TfGN75%2f%2bxanJ0FU3vJ7LS58bRJ43E%2fmvSmaTTPhNnp%2baNCQR7jZ7Zlkh%2fgwunEmh2tiffSQ%3d%3d"
+  }
+]
