@@ -2310,13 +2310,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miroslav Majtán",
-    "Adresa_dlžníka": "Sad SNP 662/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   600,71",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jozefína Rácová",
     "Adresa_dlžníka": "Bratislavská 516/48",
     "Mesto": "Žilina",
@@ -2552,6 +2545,13 @@
     "Adresa_dlžníka": "Severná 2811/47",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   534,03",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslav Majtán",
+    "Adresa_dlžníka": "Sad SNP 662/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   532,50",
     "Mena": "EUR"
   },
   {
@@ -4083,13 +4083,6 @@
   {
     "Dlžník": "Eva Kováčová",
     "Adresa_dlžníka": "Antona Bernoláka 2137/21",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   361,62",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Eva Pitnerová",
-    "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   361,62",
     "Mena": "EUR"
@@ -10808,13 +10801,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kyu-ho Kyeong",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   295,92",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubica Majstríková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -11389,6 +11375,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kyu-ho Kyeong",
+    "Adresa_dlžníka": "Obchodná 8555/3A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   281,92",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Lucia Trnavská",
     "Adresa_dlžníka": "",
     "Mesto": "Martin",
@@ -11491,13 +11484,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   280,36",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Púček",
-    "Adresa_dlžníka": "K Rochovici 163/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   279,32",
     "Mena": "EUR"
   },
   {
@@ -12706,7 +12692,7 @@
   },
   {
     "Dlžník": "Juraj Hreus",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Veľká okružná 1309/17",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   258,50",
     "Mena": "EUR"
