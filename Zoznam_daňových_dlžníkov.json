@@ -1009,7 +1009,7 @@
   },
   {
     "Dlžník": "EL TORO, s.r.o.",
-    "Adresa_dlžníka": "Alexandra Rudnaya 2246/21",
+    "Adresa_dlžníka": "Kamenná 8898/3A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 130,34",
     "Mena": "EUR"
@@ -11375,13 +11375,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Kyu-ho Kyeong",
-    "Adresa_dlžníka": "Obchodná 8555/3A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   281,92",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lucia Trnavská",
     "Adresa_dlžníka": "",
     "Mesto": "Martin",
@@ -13965,6 +13958,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Kyu-ho Kyeong",
+    "Adresa_dlžníka": "Obchodná 8555/3A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   239,92",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Ing. Roman Péchy",
     "Adresa_dlžníka": "Saleziánska 2618/3",
     "Mesto": "Žilina",
@@ -15621,13 +15621,6 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   211,39",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Monika Krištofová",
-    "Adresa_dlžníka": "Jarná 2596/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   210,81",
     "Mena": "EUR"
   },
   {
@@ -19261,6 +19254,13 @@
     "Adresa_dlžníka": "Mojmírova 3195/28",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   151,75",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Krištofová",
+    "Adresa_dlžníka": "Jarná 2596/38",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   139,81",
     "Mena": "EUR"
   },
   {
