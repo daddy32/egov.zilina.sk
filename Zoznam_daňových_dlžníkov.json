@@ -150,7 +150,7 @@
     "Dlžník": "OLAS, s.r.o.",
     "Adresa_dlžníka": "Bytčianska 804/132",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  23 165,83",
+    "Suma_daňových_nedoplatkov": "  23 092,53",
     "Mena": "EUR"
   },
   {
@@ -2527,13 +2527,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Danica Pavlíková",
-    "Adresa_dlžníka": "A Moyzesa 207/30",
-    "Mesto": "Kláštor pod Znievom",
-    "Suma_daňových_nedoplatkov": "   544,76",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Jana Štrkáčová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -2671,6 +2664,13 @@
     "Adresa_dlžníka": "Bratislavská 8593/50A",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   505,76",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Danica Pavlíková",
+    "Adresa_dlžníka": "A Moyzesa 207/30",
+    "Mesto": "Kláštor pod Znievom",
+    "Suma_daňových_nedoplatkov": "   504,76",
     "Mena": "EUR"
   },
   {
@@ -7406,13 +7406,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Gabriela Findríková",
-    "Adresa_dlžníka": "Za kostolom 953/18",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   346,40",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Lenka Juhásová - POTRAVINY LENKA",
     "Adresa_dlžníka": "Kultúrna 47/19",
     "Mesto": "Žilina",
@@ -7487,13 +7480,6 @@
     "Adresa_dlžníka": "Bratislavská 517/46",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   344,24",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jin Hwa Kim",
-    "Adresa_dlžníka": "Hlboká cesta 1634/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   344,00",
     "Mena": "EUR"
   },
   {
@@ -10164,6 +10150,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Gabriela Findríková",
+    "Adresa_dlžníka": "Za kostolom 953/18",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   305,15",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Helena Hrušková",
     "Adresa_dlžníka": "Košická 8392/2A",
     "Mesto": "Žilina",
@@ -10203,6 +10196,13 @@
     "Adresa_dlžníka": "Ku studienke 146/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   304,06",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jin Hwa Kim",
+    "Adresa_dlžníka": "Hlboká cesta 1634/5",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   304,00",
     "Mena": "EUR"
   },
   {
@@ -14365,7 +14365,7 @@
   },
   {
     "Dlžník": "Lívia Královičová",
-    "Adresa_dlžníka": "Tatranská 3110/12",
+    "Adresa_dlžníka": "Bulharská 8526/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   228,90",
     "Mena": "EUR"
@@ -15127,13 +15127,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Peter Minarik",
-    "Adresa_dlžníka": "Ústecká 1674/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   221,14",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Peter Samec",
     "Adresa_dlžníka": "Dubová 3275/4",
     "Mesto": "Žilina",
@@ -15880,13 +15873,6 @@
     "Adresa_dlžníka": "B. S. Timravy 950/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   203,39",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Róbert Garlík",
-    "Adresa_dlžníka": "Karpatská 3106/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   203,01",
     "Mena": "EUR"
   },
   {
@@ -18704,6 +18690,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Róbert Garlík",
+    "Adresa_dlžníka": "Karpatská 3106/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   163,01",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Richard Tenzer",
     "Adresa_dlžníka": "Moyzesova 856/65",
     "Mesto": "Žilina",
@@ -19257,17 +19250,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Monika Krištofová",
-    "Adresa_dlžníka": "Jarná 2596/38",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   139,81",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ľubomír Líška",
     "Adresa_dlžníka": "Juraja Fándlyho 2193/25",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   131,59",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Monika Krištofová",
+    "Adresa_dlžníka": "Jarná 2596/38",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   99,81",
     "Mena": "EUR"
   },
   {
