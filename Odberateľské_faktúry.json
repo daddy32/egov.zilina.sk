@@ -1,5 +1,125 @@
 [
   {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "Nájomné v zmysle Nájomnej zmnluvy č. 26/2021 zo dňa 24.9.2021 za obdobie január 2022, množ.: 1, jedn. cena: 6 EUR, spolu: 6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prenájom priestorov za 01-12/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   351,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie január 2022, množ.: 1, jedn. cena: 11,25 EUR, spolu: 11,25 EUR",
+    "Celková_cena_(bez_DPH)": "   11,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie január 2022, množ.: 1, jedn. cena: 6 EUR, spolu: 6 EUR",
+    "Celková_cena_(bez_DPH)": "   6,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.09.2021 za obdobie január 2022, množ.: 1, jedn. cena: 11,25 EUR, spolu: 11,25 EUR",
+    "Celková_cena_(bez_DPH)": "   11,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 1-12/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   351,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za obdobie január 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 91,5, jedn. cena: 4,5 EUR, spolu: 411,75 EUR,\rprenájom kabinetu za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 91,5, jedn. cena: 7,5 EUR, spolu: 686,25 EUR",
+    "Celková_cena_(bez_DPH)": "  1 138,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmnluvy č. 3/2021 zo dňa 3.5.2021 za obdobie január 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 45, jedn. cena: 1 EUR, spolu: 45 EUR,\rprenájom skladu uč.pom. za 1/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady za 1/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 45, jedn. cena: 4 EUR, spolu: 180 EUR",
+    "Celková_cena_(bez_DPH)": "   245,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.02.2022",
+    "Dátum_zverejnenia": "02.02.2022"
+  },
+  {
     "IČO": "36631124   ",
     "Číslo_faktúry": "20210182",
     "Odberateľ": "Slovenská pošta, a.s.",

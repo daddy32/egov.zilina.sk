@@ -2625,13 +2625,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Vladimír Hanus",
-    "Adresa_dlžníka": "Nová ulica 353/64",
-    "Mesto": "Konská",
-    "Suma_daňových_nedoplatkov": "   515,35",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Magdaléna Kollerová",
     "Adresa_dlžníka": "Na dolinu 81/1",
     "Mesto": "Žilina",
@@ -2951,6 +2944,13 @@
     "Adresa_dlžníka": "súp. č. 202",
     "Mesto": "Trenčianske Jastrabie",
     "Suma_daňových_nedoplatkov": "   451,64",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Vladimír Hanus",
+    "Adresa_dlžníka": "Nová ulica 353/64",
+    "Mesto": "Konská",
+    "Suma_daňových_nedoplatkov": "   450,02",
     "Mena": "EUR"
   },
   {
