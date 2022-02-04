@@ -16793,13 +16793,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Richard Zicho",
-    "Adresa_dlžníka": "Na piesku 18760/3",
-    "Mesto": "Bratislava-Ružinov",
-    "Suma_daňových_nedoplatkov": "   197,78",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Roland Hrabčák",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -19141,6 +19134,13 @@
     "Dlžník": "Richard Hrabina",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   160,42",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Richard Zicho",
+    "Adresa_dlžníka": "Na piesku 18760/3",
+    "Mesto": "Bratislava-Ružinov",
     "Suma_daňových_nedoplatkov": "   160,42",
     "Mena": "EUR"
   },

@@ -2360,6 +2360,22 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "ČS ENI Žilina",
+    "Činnosť": "čerpacia stanica",
+    "Ulica": "Kysucká",
+    "Súp._č.": " 8115 ",
+    "Or._č.": "  19      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "ČS ENI Žilina",
+    "Činnosť": "PHM, občerstvenie",
+    "Ulica": "Kysucká",
+    "Súp._č.": " 8115 ",
+    "Or._č.": "  19      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "ČS Shell",
     "Činnosť": "čerpacia stanica",
     "Ulica": "Hričovská",
@@ -4562,6 +4578,14 @@
   {
     "Prevádzka": "Impresso café bar",
     "Činnosť": "kaviareň, cukráreň, bar",
+    "Ulica": "Štúrova",
+    "Súp._č.": "   62 ",
+    "Or._č.": "   9      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Impresso café&bar",
+    "Činnosť": "cafe - bar",
     "Ulica": "Štúrova",
     "Súp._č.": "   62 ",
     "Or._č.": "   9      ",
