@@ -12,7 +12,7 @@
   {
     "Krstné_meno": "Anna",
     "Pohlavie": "žena",
-    "Počet": "2079"
+    "Počet": "2078"
   },
   {
     "Krstné_meno": "Jozef",
@@ -22,7 +22,7 @@
   {
     "Krstné_meno": "Ján",
     "Pohlavie": "muž",
-    "Počet": "1753"
+    "Počet": "1752"
   },
   {
     "Krstné_meno": "Michal",
@@ -42,7 +42,7 @@
   {
     "Krstné_meno": "Martin",
     "Pohlavie": "muž",
-    "Počet": "1565"
+    "Počet": "1566"
   },
   {
     "Krstné_meno": "Jana",
@@ -62,7 +62,7 @@
   {
     "Krstné_meno": "Tomáš",
     "Pohlavie": "muž",
-    "Počet": "1224"
+    "Počet": "1223"
   },
   {
     "Krstné_meno": "Milan",
@@ -207,7 +207,7 @@
   {
     "Krstné_meno": "Emília",
     "Pohlavie": "žena",
-    "Počet": "528"
+    "Počet": "527"
   },
   {
     "Krstné_meno": "Helena",
@@ -217,7 +217,7 @@
   {
     "Krstné_meno": "Iveta",
     "Pohlavie": "žena",
-    "Počet": "503"
+    "Počet": "502"
   },
   {
     "Krstné_meno": "Miroslava",
@@ -470,17 +470,17 @@
     "Počet": "228"
   },
   {
+    "Krstné_meno": "Viktória",
+    "Pohlavie": "žena",
+    "Počet": "228"
+  },
+  {
     "Krstné_meno": "Dominik",
     "Pohlavie": "muž",
     "Počet": "227"
   },
   {
     "Krstné_meno": "Ema",
-    "Pohlavie": "žena",
-    "Počet": "227"
-  },
-  {
-    "Krstné_meno": "Viktória",
     "Pohlavie": "žena",
     "Počet": "227"
   },
@@ -685,11 +685,6 @@
     "Počet": "119"
   },
   {
-    "Krstné_meno": "Viktor",
-    "Pohlavie": "muž",
-    "Počet": "119"
-  },
-  {
     "Krstné_meno": "Alex",
     "Pohlavie": "muž",
     "Počet": "118"
@@ -697,6 +692,11 @@
   {
     "Krstné_meno": "Danka",
     "Pohlavie": "žena",
+    "Počet": "118"
+  },
+  {
+    "Krstné_meno": "Viktor",
+    "Pohlavie": "muž",
     "Počet": "118"
   },
   {
@@ -1330,6 +1330,11 @@
     "Počet": "30"
   },
   {
+    "Krstné_meno": "Tobiáš",
+    "Pohlavie": "muž",
+    "Počet": "30"
+  },
+  {
     "Krstné_meno": "Hugo",
     "Pohlavie": "muž",
     "Počet": "29"
@@ -1347,11 +1352,6 @@
   {
     "Krstné_meno": "Sarah",
     "Pohlavie": "žena",
-    "Počet": "29"
-  },
-  {
-    "Krstné_meno": "Tobiáš",
-    "Pohlavie": "muž",
     "Počet": "29"
   },
   {

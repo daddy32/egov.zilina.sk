@@ -2933,13 +2933,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Michal Zuzic",
-    "Adresa_dlžníka": "Dedinská 233/187",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   452,03",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mária Majáková",
     "Adresa_dlžníka": "súp. č. 202",
     "Mesto": "Trenčianske Jastrabie",
@@ -11669,6 +11662,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Michal Zuzic",
+    "Adresa_dlžníka": "Dedinská 233/187",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   273,37",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Rudolf Kubany",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13629,13 +13629,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Dušan Greguš",
-    "Adresa_dlžníka": "T. Vansovej 1600/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   249,44",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Trpiš",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -13885,13 +13878,6 @@
     "Adresa_dlžníka": "Lichardova 2804/23",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   241,50",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dušan Šutý",
-    "Adresa_dlžníka": "Na Tobolky 273/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   241,09",
     "Mena": "EUR"
   },
   {
@@ -15729,6 +15715,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Dušan Greguš",
+    "Adresa_dlžníka": "T. Vansovej 1600/3",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   207,44",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Lukáš Martinček",
     "Adresa_dlžníka": "Berlínska 1679/8",
     "Mesto": "Žilina",
@@ -17091,13 +17084,6 @@
     "Adresa_dlžníka": "Jura Hronca 3409/11",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   194,02",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Jozef Zvarik",
-    "Adresa_dlžníka": "Na Zápletí 681/16",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   193,72",
     "Mena": "EUR"
   },
   {
@@ -19261,6 +19247,13 @@
     "Adresa_dlžníka": "Jarná 2596/38",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   99,81",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Zvarik",
+    "Adresa_dlžníka": "Na Zápletí 681/16",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   64,27",
     "Mena": "EUR"
   },
   {
