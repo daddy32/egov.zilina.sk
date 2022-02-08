@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie január 2022, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.02.2022",
+    "Dátum_zverejnenia": "07.02.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie január 2022, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.02.2022",
+    "Dátum_zverejnenia": "07.02.2022"
+  },
+  {
     "IČO": "35697270   ",
     "Číslo_faktúry": "2022001",
     "Odberateľ": "Orange Slovensko, a.s.",
