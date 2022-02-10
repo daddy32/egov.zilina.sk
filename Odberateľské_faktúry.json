@@ -1,5 +1,75 @@
 [
   {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220008",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220009",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220010",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 408,48 EUR, spolu: 408,48 EUR",
+    "Celková_cena_(bez_DPH)": "   408,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220011",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1514,46 EUR, spolu: 1514,46 EUR",
+    "Celková_cena_(bez_DPH)": "  1 514,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220012",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -197,11 EUR, spolu: -197,11 EUR",
+    "Celková_cena_(bez_DPH)": "-   197,11",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220013",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220014",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.02.2022",
+    "Dátum_zverejnenia": "09.02.2022"
+  },
+  {
     "IČO": "00397563   ",
     "Číslo_faktúry": "2022001",
     "Odberateľ": "Žilinská univerzita v Žiline",
