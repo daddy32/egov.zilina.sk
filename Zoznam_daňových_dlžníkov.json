@@ -231,17 +231,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Fines a.s.",
-    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  16 587,50",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "EJ BTS, s.r.o.",
     "Adresa_dlžníka": "Kamenná 2822/5",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  15 649,80",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Fines a.s.",
+    "Adresa_dlžníka": "Dolné Rudiny 2954/1",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  15 587,50",
     "Mena": "EUR"
   },
   {
@@ -686,13 +686,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Trade rental, s.r.o.",
-    "Adresa_dlžníka": "Štrková 510/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  3 245,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ing. Ľuboš Ďuračka",
     "Adresa_dlžníka": "Stolečné súp. č. 900",
     "Mesto": "Dlhé Pole",
@@ -704,6 +697,13 @@
     "Adresa_dlžníka": "Vysokoškolákov 8421/41",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 130,50",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Trade rental, s.r.o.",
+    "Adresa_dlžníka": "Štrková 510/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  3 095,04",
     "Mena": "EUR"
   },
   {
@@ -732,13 +732,6 @@
     "Adresa_dlžníka": "Tulská 2972/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  3 049,01",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Michal Košecký",
-    "Adresa_dlžníka": "V Kapslovně 2770/1",
-    "Mesto": "Praha 3",
-    "Suma_daňových_nedoplatkov": "  2 958,75",
     "Mena": "EUR"
   },
   {
@@ -809,6 +802,13 @@
     "Adresa_dlžníka": "Hlboká cesta 1697/22",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 736,65",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Michal Košecký",
+    "Adresa_dlžníka": "V Kapslovně 2770/1",
+    "Mesto": "Praha 3",
+    "Suma_daňových_nedoplatkov": "  2 696,05",
     "Mena": "EUR"
   },
   {
@@ -942,13 +942,6 @@
     "Adresa_dlžníka": "Mojšová Lúčka 113/113",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 308,88",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "VEKAM, s.r.o.",
-    "Adresa_dlžníka": "Chotárna 1434/19",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 303,98",
     "Mena": "EUR"
   },
   {
@@ -18574,13 +18567,6 @@
     "Dlžník": "Dominika Novosadová - Kadernícky salón Dominika",
     "Adresa_dlžníka": "súp. č. 129",
     "Mesto": "Lalinok",
-    "Suma_daňových_nedoplatkov": "   164,73",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Peter Dudík - TIME IN",
-    "Adresa_dlžníka": "Mariánske námestie 1470/32",
-    "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   164,73",
     "Mena": "EUR"
   },
