@@ -1,15 +1,15 @@
 [
   {
     "Vek": "0",
-    "Počet_občanov_v_danom_veku": "   795",
-    "Počet_mužov": "   387",
-    "Počet_žien": "   408"
+    "Počet_občanov_v_danom_veku": "   797",
+    "Počet_mužov": "   390",
+    "Počet_žien": "   407"
   },
   {
     "Vek": "1",
-    "Počet_občanov_v_danom_veku": "   840",
+    "Počet_občanov_v_danom_veku": "   844",
     "Počet_mužov": "   455",
-    "Počet_žien": "   385"
+    "Počet_žien": "   389"
   },
   {
     "Vek": "2",
@@ -19,15 +19,15 @@
   },
   {
     "Vek": "3",
-    "Počet_občanov_v_danom_veku": "   882",
+    "Počet_občanov_v_danom_veku": "   881",
     "Počet_mužov": "   465",
-    "Počet_žien": "   417"
+    "Počet_žien": "   416"
   },
   {
     "Vek": "4",
-    "Počet_občanov_v_danom_veku": "   866",
+    "Počet_občanov_v_danom_veku": "   865",
     "Počet_mužov": "   442",
-    "Počet_žien": "   424"
+    "Počet_žien": "   423"
   },
   {
     "Vek": "5",
@@ -43,129 +43,129 @@
   },
   {
     "Vek": "7",
-    "Počet_občanov_v_danom_veku": "   810",
-    "Počet_mužov": "   428",
-    "Počet_žien": "   382"
+    "Počet_občanov_v_danom_veku": "   808",
+    "Počet_mužov": "   424",
+    "Počet_žien": "   384"
   },
   {
     "Vek": "8",
-    "Počet_občanov_v_danom_veku": "   747",
-    "Počet_mužov": "   391",
+    "Počet_občanov_v_danom_veku": "   749",
+    "Počet_mužov": "   393",
     "Počet_žien": "   356"
   },
   {
     "Vek": "9",
-    "Počet_občanov_v_danom_veku": "   833",
+    "Počet_občanov_v_danom_veku": "   832",
     "Počet_mužov": "   442",
-    "Počet_žien": "   391"
+    "Počet_žien": "   390"
   },
   {
     "Vek": "10",
     "Počet_občanov_v_danom_veku": "   825",
-    "Počet_mužov": "   444",
-    "Počet_žien": "   381"
+    "Počet_mužov": "   446",
+    "Počet_žien": "   379"
   },
   {
     "Vek": "11",
-    "Počet_občanov_v_danom_veku": "   816",
-    "Počet_mužov": "   438",
-    "Počet_žien": "   378"
+    "Počet_občanov_v_danom_veku": "   815",
+    "Počet_mužov": "   435",
+    "Počet_žien": "   380"
   },
   {
     "Vek": "12",
-    "Počet_občanov_v_danom_veku": "   818",
-    "Počet_mužov": "   401",
-    "Počet_žien": "   417"
+    "Počet_občanov_v_danom_veku": "   819",
+    "Počet_mužov": "   403",
+    "Počet_žien": "   416"
   },
   {
     "Vek": "13",
-    "Počet_občanov_v_danom_veku": "   749",
-    "Počet_mužov": "   374",
-    "Počet_žien": "   375"
+    "Počet_občanov_v_danom_veku": "   748",
+    "Počet_mužov": "   372",
+    "Počet_žien": "   376"
   },
   {
     "Vek": "14",
-    "Počet_občanov_v_danom_veku": "   750",
-    "Počet_mužov": "   399",
+    "Počet_občanov_v_danom_veku": "   752",
+    "Počet_mužov": "   401",
     "Počet_žien": "   351"
   },
   {
     "Vek": "15",
-    "Počet_občanov_v_danom_veku": "   675",
-    "Počet_mužov": "   366",
+    "Počet_občanov_v_danom_veku": "   676",
+    "Počet_mužov": "   367",
     "Počet_žien": "   309"
   },
   {
     "Vek": "16",
-    "Počet_občanov_v_danom_veku": "   719",
-    "Počet_mužov": "   373",
-    "Počet_žien": "   346"
+    "Počet_občanov_v_danom_veku": "   714",
+    "Počet_mužov": "   372",
+    "Počet_žien": "   342"
   },
   {
     "Vek": "17",
-    "Počet_občanov_v_danom_veku": "   708",
-    "Počet_mužov": "   362",
-    "Počet_žien": "   346"
+    "Počet_občanov_v_danom_veku": "   713",
+    "Počet_mužov": "   363",
+    "Počet_žien": "   350"
   },
   {
     "Vek": "18",
-    "Počet_občanov_v_danom_veku": "   652",
-    "Počet_mužov": "   323",
-    "Počet_žien": "   329"
+    "Počet_občanov_v_danom_veku": "   650",
+    "Počet_mužov": "   322",
+    "Počet_žien": "   328"
   },
   {
     "Vek": "19",
-    "Počet_občanov_v_danom_veku": "   620",
+    "Počet_občanov_v_danom_veku": "   621",
     "Počet_mužov": "   316",
-    "Počet_žien": "   304"
+    "Počet_žien": "   305"
   },
   {
     "Vek": "20",
-    "Počet_občanov_v_danom_veku": "   629",
-    "Počet_mužov": "   327",
+    "Počet_občanov_v_danom_veku": "   630",
+    "Počet_mužov": "   328",
     "Počet_žien": "   302"
   },
   {
     "Vek": "21",
-    "Počet_občanov_v_danom_veku": "   691",
-    "Počet_mužov": "   349",
-    "Počet_žien": "   342"
+    "Počet_občanov_v_danom_veku": "   688",
+    "Počet_mužov": "   347",
+    "Počet_žien": "   341"
   },
   {
     "Vek": "22",
-    "Počet_občanov_v_danom_veku": "   708",
-    "Počet_mužov": "   370",
-    "Počet_žien": "   338"
+    "Počet_občanov_v_danom_veku": "   712",
+    "Počet_mužov": "   372",
+    "Počet_žien": "   340"
   },
   {
     "Vek": "23",
-    "Počet_občanov_v_danom_veku": "   748",
-    "Počet_mužov": "   393",
-    "Počet_žien": "   355"
+    "Počet_občanov_v_danom_veku": "   744",
+    "Počet_mužov": "   390",
+    "Počet_žien": "   354"
   },
   {
     "Vek": "24",
-    "Počet_občanov_v_danom_veku": "   751",
-    "Počet_mužov": "   384",
+    "Počet_občanov_v_danom_veku": "   754",
+    "Počet_mužov": "   387",
     "Počet_žien": "   367"
   },
   {
     "Vek": "25",
-    "Počet_občanov_v_danom_veku": "   740",
-    "Počet_mužov": "   400",
+    "Počet_občanov_v_danom_veku": "   736",
+    "Počet_mužov": "   396",
     "Počet_žien": "   340"
   },
   {
     "Vek": "26",
-    "Počet_občanov_v_danom_veku": "   826",
-    "Počet_mužov": "   419",
-    "Počet_žien": "   407"
+    "Počet_občanov_v_danom_veku": "   830",
+    "Počet_mužov": "   422",
+    "Počet_žien": "   408"
   },
   {
     "Vek": "27",
-    "Počet_občanov_v_danom_veku": "   845",
-    "Počet_mužov": "   454",
-    "Počet_žien": "   391"
+    "Počet_občanov_v_danom_veku": "   842",
+    "Počet_mužov": "   453",
+    "Počet_žien": "   389"
   },
   {
     "Vek": "28",
@@ -175,92 +175,92 @@
   },
   {
     "Vek": "29",
-    "Počet_občanov_v_danom_veku": "  1 040",
-    "Počet_mužov": "   507",
-    "Počet_žien": "   533"
+    "Počet_občanov_v_danom_veku": "  1 042",
+    "Počet_mužov": "   508",
+    "Počet_žien": "   534"
   },
   {
     "Vek": "30",
-    "Počet_občanov_v_danom_veku": "  1 086",
-    "Počet_mužov": "   559",
+    "Počet_občanov_v_danom_veku": "  1 087",
+    "Počet_mužov": "   560",
     "Počet_žien": "   527"
   },
   {
     "Vek": "31",
-    "Počet_občanov_v_danom_veku": "  1 211",
+    "Počet_občanov_v_danom_veku": "  1 210",
     "Počet_mužov": "   615",
-    "Počet_žien": "   596"
+    "Počet_žien": "   595"
   },
   {
     "Vek": "32",
-    "Počet_občanov_v_danom_veku": "  1 218",
-    "Počet_mužov": "   590",
-    "Počet_žien": "   628"
+    "Počet_občanov_v_danom_veku": "  1 220",
+    "Počet_mužov": "   589",
+    "Počet_žien": "   631"
   },
   {
     "Vek": "33",
-    "Počet_občanov_v_danom_veku": "  1 327",
-    "Počet_mužov": "   686",
+    "Počet_občanov_v_danom_veku": "  1 328",
+    "Počet_mužov": "   687",
     "Počet_žien": "   641"
   },
   {
     "Vek": "34",
-    "Počet_občanov_v_danom_veku": "  1 309",
-    "Počet_mužov": "   666",
-    "Počet_žien": "   643"
+    "Počet_občanov_v_danom_veku": "  1 306",
+    "Počet_mužov": "   664",
+    "Počet_žien": "   642"
   },
   {
     "Vek": "35",
-    "Počet_občanov_v_danom_veku": "  1 348",
+    "Počet_občanov_v_danom_veku": "  1 344",
     "Počet_mužov": "   690",
-    "Počet_žien": "   658"
+    "Počet_žien": "   654"
   },
   {
     "Vek": "36",
-    "Počet_občanov_v_danom_veku": "  1 414",
+    "Počet_občanov_v_danom_veku": "  1 418",
     "Počet_mužov": "   716",
-    "Počet_žien": "   698"
+    "Počet_žien": "   702"
   },
   {
     "Vek": "37",
-    "Počet_občanov_v_danom_veku": "  1 368",
-    "Počet_mužov": "   720",
-    "Počet_žien": "   648"
+    "Počet_občanov_v_danom_veku": "  1 369",
+    "Počet_mužov": "   722",
+    "Počet_žien": "   647"
   },
   {
     "Vek": "38",
-    "Počet_občanov_v_danom_veku": "  1 442",
-    "Počet_mužov": "   763",
-    "Počet_žien": "   679"
+    "Počet_občanov_v_danom_veku": "  1 435",
+    "Počet_mužov": "   760",
+    "Počet_žien": "   675"
   },
   {
     "Vek": "39",
-    "Počet_občanov_v_danom_veku": "  1 334",
-    "Počet_mužov": "   694",
-    "Počet_žien": "   640"
+    "Počet_občanov_v_danom_veku": "  1 338",
+    "Počet_mužov": "   695",
+    "Počet_žien": "   643"
   },
   {
     "Vek": "40",
-    "Počet_občanov_v_danom_veku": "  1 383",
+    "Počet_občanov_v_danom_veku": "  1 382",
     "Počet_mužov": "   702",
-    "Počet_žien": "   681"
+    "Počet_žien": "   680"
   },
   {
     "Vek": "41",
-    "Počet_občanov_v_danom_veku": "  1 376",
-    "Počet_mužov": "   719",
-    "Počet_žien": "   657"
+    "Počet_občanov_v_danom_veku": "  1 379",
+    "Počet_mužov": "   718",
+    "Počet_žien": "   661"
   },
   {
     "Vek": "42",
-    "Počet_občanov_v_danom_veku": "  1 502",
-    "Počet_mužov": "   761",
-    "Počet_žien": "   741"
+    "Počet_občanov_v_danom_veku": "  1 503",
+    "Počet_mužov": "   764",
+    "Počet_žien": "   739"
   },
   {
     "Vek": "43",
-    "Počet_občanov_v_danom_veku": "  1 469",
-    "Počet_mužov": "   749",
+    "Počet_občanov_v_danom_veku": "  1 468",
+    "Počet_mužov": "   748",
     "Počet_žien": "   720"
   },
   {
@@ -271,171 +271,171 @@
   },
   {
     "Vek": "45",
-    "Počet_občanov_v_danom_veku": "  1 414",
+    "Počet_občanov_v_danom_veku": "  1 415",
     "Počet_mužov": "   738",
-    "Počet_žien": "   676"
+    "Počet_žien": "   677"
   },
   {
     "Vek": "46",
-    "Počet_občanov_v_danom_veku": "  1 318",
-    "Počet_mužov": "   678",
+    "Počet_občanov_v_danom_veku": "  1 316",
+    "Počet_mužov": "   676",
     "Počet_žien": "   640"
   },
   {
     "Vek": "47",
-    "Počet_občanov_v_danom_veku": "  1 214",
-    "Počet_mužov": "   615",
+    "Počet_občanov_v_danom_veku": "  1 216",
+    "Počet_mužov": "   617",
     "Počet_žien": "   599"
   },
   {
     "Vek": "48",
-    "Počet_občanov_v_danom_veku": "  1 133",
-    "Počet_mužov": "   569",
+    "Počet_občanov_v_danom_veku": "  1 134",
+    "Počet_mužov": "   570",
     "Počet_žien": "   564"
   },
   {
     "Vek": "49",
     "Počet_občanov_v_danom_veku": "  1 141",
-    "Počet_mužov": "   565",
-    "Počet_žien": "   576"
+    "Počet_mužov": "   564",
+    "Počet_žien": "   577"
   },
   {
     "Vek": "50",
-    "Počet_občanov_v_danom_veku": "  1 052",
-    "Počet_mužov": "   511",
-    "Počet_žien": "   541"
+    "Počet_občanov_v_danom_veku": "  1 050",
+    "Počet_mužov": "   508",
+    "Počet_žien": "   542"
   },
   {
     "Vek": "51",
-    "Počet_občanov_v_danom_veku": "  1 005",
-    "Počet_mužov": "   485",
+    "Počet_občanov_v_danom_veku": "  1 008",
+    "Počet_mužov": "   488",
     "Počet_žien": "   520"
   },
   {
     "Vek": "52",
-    "Počet_občanov_v_danom_veku": "   981",
+    "Počet_občanov_v_danom_veku": "   980",
     "Počet_mužov": "   437",
-    "Počet_žien": "   544"
+    "Počet_žien": "   543"
   },
   {
     "Vek": "53",
-    "Počet_občanov_v_danom_veku": "   940",
+    "Počet_občanov_v_danom_veku": "   941",
     "Počet_mužov": "   461",
-    "Počet_žien": "   479"
+    "Počet_žien": "   480"
   },
   {
     "Vek": "54",
-    "Počet_občanov_v_danom_veku": "   889",
-    "Počet_mužov": "   403",
-    "Počet_žien": "   486"
+    "Počet_občanov_v_danom_veku": "   887",
+    "Počet_mužov": "   402",
+    "Počet_žien": "   485"
   },
   {
     "Vek": "55",
-    "Počet_občanov_v_danom_veku": "   964",
-    "Počet_mužov": "   429",
-    "Počet_žien": "   535"
+    "Počet_občanov_v_danom_veku": "   965",
+    "Počet_mužov": "   431",
+    "Počet_žien": "   534"
   },
   {
     "Vek": "56",
     "Počet_občanov_v_danom_veku": "  1 066",
-    "Počet_mužov": "   506",
-    "Počet_žien": "   560"
+    "Počet_mužov": "   505",
+    "Počet_žien": "   561"
   },
   {
     "Vek": "57",
-    "Počet_občanov_v_danom_veku": "  1 128",
+    "Počet_občanov_v_danom_veku": "  1 127",
     "Počet_mužov": "   530",
-    "Počet_žien": "   598"
+    "Počet_žien": "   597"
   },
   {
     "Vek": "58",
-    "Počet_občanov_v_danom_veku": "  1 148",
-    "Počet_mužov": "   532",
-    "Počet_žien": "   616"
+    "Počet_občanov_v_danom_veku": "  1 151",
+    "Počet_mužov": "   533",
+    "Počet_žien": "   618"
   },
   {
     "Vek": "59",
-    "Počet_občanov_v_danom_veku": "  1 047",
-    "Počet_mužov": "   489",
-    "Počet_žien": "   558"
+    "Počet_občanov_v_danom_veku": "  1 045",
+    "Počet_mužov": "   488",
+    "Počet_žien": "   557"
   },
   {
     "Vek": "60",
-    "Počet_občanov_v_danom_veku": "  1 152",
-    "Počet_mužov": "   516",
-    "Počet_žien": "   636"
+    "Počet_občanov_v_danom_veku": "  1 149",
+    "Počet_mužov": "   514",
+    "Počet_žien": "   635"
   },
   {
     "Vek": "61",
-    "Počet_občanov_v_danom_veku": "  1 114",
-    "Počet_mužov": "   502",
-    "Počet_žien": "   612"
+    "Počet_občanov_v_danom_veku": "  1 115",
+    "Počet_mužov": "   505",
+    "Počet_žien": "   610"
   },
   {
     "Vek": "62",
-    "Počet_občanov_v_danom_veku": "  1 072",
+    "Počet_občanov_v_danom_veku": "  1 076",
     "Počet_mužov": "   505",
-    "Počet_žien": "   567"
+    "Počet_žien": "   571"
   },
   {
     "Vek": "63",
-    "Počet_občanov_v_danom_veku": "  1 142",
-    "Počet_mužov": "   509",
+    "Počet_občanov_v_danom_veku": "  1 141",
+    "Počet_mužov": "   508",
     "Počet_žien": "   633"
   },
   {
     "Vek": "64",
     "Počet_občanov_v_danom_veku": "  1 149",
-    "Počet_mužov": "   539",
-    "Počet_žien": "   610"
+    "Počet_mužov": "   540",
+    "Počet_žien": "   609"
   },
   {
     "Vek": "65",
-    "Počet_občanov_v_danom_veku": "  1 268",
-    "Počet_mužov": "   568",
-    "Počet_žien": "   700"
+    "Počet_občanov_v_danom_veku": "  1 266",
+    "Počet_mužov": "   567",
+    "Počet_žien": "   699"
   },
   {
     "Vek": "66",
-    "Počet_občanov_v_danom_veku": "  1 193",
+    "Počet_občanov_v_danom_veku": "  1 192",
     "Počet_mužov": "   545",
-    "Počet_žien": "   648"
+    "Počet_žien": "   647"
   },
   {
     "Vek": "67",
-    "Počet_občanov_v_danom_veku": "  1 092",
+    "Počet_občanov_v_danom_veku": "  1 095",
     "Počet_mužov": "   466",
-    "Počet_žien": "   626"
+    "Počet_žien": "   629"
   },
   {
     "Vek": "68",
-    "Počet_občanov_v_danom_veku": "  1 100",
-    "Počet_mužov": "   458",
-    "Počet_žien": "   642"
+    "Počet_občanov_v_danom_veku": "  1 098",
+    "Počet_mužov": "   459",
+    "Počet_žien": "   639"
   },
   {
     "Vek": "69",
-    "Počet_občanov_v_danom_veku": "  1 017",
-    "Počet_mužov": "   462",
-    "Počet_žien": "   555"
+    "Počet_občanov_v_danom_veku": "  1 019",
+    "Počet_mužov": "   461",
+    "Počet_žien": "   558"
   },
   {
     "Vek": "70",
-    "Počet_občanov_v_danom_veku": "  1 019",
+    "Počet_občanov_v_danom_veku": "  1 016",
     "Počet_mužov": "   452",
-    "Počet_žien": "   567"
+    "Počet_žien": "   564"
   },
   {
     "Vek": "71",
-    "Počet_občanov_v_danom_veku": "   914",
-    "Počet_mužov": "   394",
+    "Počet_občanov_v_danom_veku": "   912",
+    "Počet_mužov": "   392",
     "Počet_žien": "   520"
   },
   {
     "Vek": "72",
-    "Počet_občanov_v_danom_veku": "   853",
-    "Počet_mužov": "   365",
-    "Počet_žien": "   488"
+    "Počet_občanov_v_danom_veku": "   858",
+    "Počet_mužov": "   367",
+    "Počet_žien": "   491"
   },
   {
     "Vek": "73",
@@ -445,21 +445,21 @@
   },
   {
     "Vek": "74",
-    "Počet_občanov_v_danom_veku": "   774",
+    "Počet_občanov_v_danom_veku": "   771",
     "Počet_mužov": "   302",
-    "Počet_žien": "   472"
+    "Počet_žien": "   469"
   },
   {
     "Vek": "75",
-    "Počet_občanov_v_danom_veku": "   672",
+    "Počet_občanov_v_danom_veku": "   673",
     "Počet_mužov": "   277",
-    "Počet_žien": "   395"
+    "Počet_žien": "   396"
   },
   {
     "Vek": "76",
-    "Počet_občanov_v_danom_veku": "   560",
-    "Počet_mužov": "   213",
-    "Počet_žien": "   347"
+    "Počet_občanov_v_danom_veku": "   563",
+    "Počet_mužov": "   214",
+    "Počet_žien": "   349"
   },
   {
     "Vek": "77",
@@ -469,26 +469,26 @@
   },
   {
     "Vek": "78",
-    "Počet_občanov_v_danom_veku": "   481",
+    "Počet_občanov_v_danom_veku": "   480",
     "Počet_mužov": "   180",
-    "Počet_žien": "   301"
+    "Počet_žien": "   300"
   },
   {
     "Vek": "79",
-    "Počet_občanov_v_danom_veku": "   445",
+    "Počet_občanov_v_danom_veku": "   446",
     "Počet_mužov": "   167",
-    "Počet_žien": "   278"
+    "Počet_žien": "   279"
   },
   {
     "Vek": "80",
-    "Počet_občanov_v_danom_veku": "   420",
-    "Počet_mužov": "   147",
-    "Počet_žien": "   273"
+    "Počet_občanov_v_danom_veku": "   418",
+    "Počet_mužov": "   146",
+    "Počet_žien": "   272"
   },
   {
     "Vek": "81",
-    "Počet_občanov_v_danom_veku": "   382",
-    "Počet_mužov": "   136",
+    "Počet_občanov_v_danom_veku": "   383",
+    "Počet_mužov": "   137",
     "Počet_žien": "   246"
   },
   {
@@ -506,32 +506,32 @@
   {
     "Vek": "84",
     "Počet_občanov_v_danom_veku": "   241",
-    "Počet_mužov": "   61",
-    "Počet_žien": "   180"
+    "Počet_mužov": "   60",
+    "Počet_žien": "   181"
   },
   {
     "Vek": "85",
-    "Počet_občanov_v_danom_veku": "   171",
-    "Počet_mužov": "   58",
+    "Počet_občanov_v_danom_veku": "   172",
+    "Počet_mužov": "   59",
     "Počet_žien": "   113"
   },
   {
     "Vek": "86",
-    "Počet_občanov_v_danom_veku": "   225",
+    "Počet_občanov_v_danom_veku": "   224",
     "Počet_mužov": "   62",
-    "Počet_žien": "   163"
+    "Počet_žien": "   162"
   },
   {
     "Vek": "87",
-    "Počet_občanov_v_danom_veku": "   200",
+    "Počet_občanov_v_danom_veku": "   201",
     "Počet_mužov": "   53",
-    "Počet_žien": "   147"
+    "Počet_žien": "   148"
   },
   {
     "Vek": "88",
-    "Počet_občanov_v_danom_veku": "   134",
+    "Počet_občanov_v_danom_veku": "   133",
     "Počet_mužov": "   36",
-    "Počet_žien": "   98"
+    "Počet_žien": "   97"
   },
   {
     "Vek": "89",

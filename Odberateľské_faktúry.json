@@ -1,5 +1,35 @@
 [
   {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Mestský úrad Žilina",
+    "Text_odb._faktúry": "- vodné, množ.: 678, jedn. cena: 1,22 EUR, spolu: 827,16 EUR,\r- stočné, množ.: 678, jedn. cena: 1,33 EUR, spolu: 901,74 EUR",
+    "Celková_cena_(bez_DPH)": "  1 728,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.02.2022",
+    "Dátum_zverejnenia": "11.02.2022"
+  },
+  {
+    "IČO": "40975649   ",
+    "Číslo_faktúry": "20220015",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 158, jedn. cena: ,5 EUR, spolu: 79 EUR",
+    "Celková_cena_(bez_DPH)": "   79,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.02.2022",
+    "Dátum_zverejnenia": "11.02.2022"
+  },
+  {
+    "IČO": "35079886   ",
+    "Číslo_faktúry": "20220016",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 181, jedn. cena: ,5 EUR, spolu: 90,5 EUR",
+    "Celková_cena_(bez_DPH)": "   90,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.02.2022",
+    "Dátum_zverejnenia": "11.02.2022"
+  },
+  {
     "IČO": "47204346   ",
     "Číslo_faktúry": "20220008",
     "Odberateľ": "COMWOY REAL, s.r.o.",
@@ -45112,7 +45142,7 @@
   {
     "IČO": "36038351   ",
     "Číslo_faktúry": "20120171",
-    "Odberateľ": "LESY Slovenskej republiky, š.p. - OZ Žilina",
+    "Odberateľ": "LESY Slovenskej republiky, štátny podnik, organizačná zložka OZ Sever",
     "Text_odb._faktúry": "množ.: 0, jedn. cena: 0 EUR, spolu: 200 EUR",
     "Celková_cena_(bez_DPH)": "   200,00",
     "Mena": "EUR",
