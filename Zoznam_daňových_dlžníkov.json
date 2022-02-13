@@ -91,13 +91,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "BIOELEKTRO ENERGY 3 s.r.o.",
-    "Adresa_dlžníka": "Hviezdoslavova 168/168",
-    "Mesto": "Ladce",
-    "Suma_daňových_nedoplatkov": "  41 654,56",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "PROVAN, s.r.o.",
     "Adresa_dlžníka": "Kollárova 73",
     "Mesto": "Martin",
@@ -809,13 +802,6 @@
     "Adresa_dlžníka": "V Kapslovně 2770/1",
     "Mesto": "Praha 3",
     "Suma_daňových_nedoplatkov": "  2 696,05",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dagmar Kocúrková",
-    "Adresa_dlžníka": "súp. č. 1442",
-    "Mesto": "Oščadnica",
-    "Suma_daňových_nedoplatkov": "  2 695,81",
     "Mena": "EUR"
   },
   {
@@ -2993,13 +2979,6 @@
     "Adresa_dlžníka": "Gaštanová 3083/44",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   441,56",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Branislav Sališ",
-    "Adresa_dlžníka": "Dolná Trnovská 1394/135A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   440,86",
     "Mena": "EUR"
   },
   {
@@ -19226,6 +19205,13 @@
     "Adresa_dlžníka": "Veľká okružná 2130/86",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   57,42",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Ing. Branislav Sališ",
+    "Adresa_dlžníka": "Dolná Trnovská 1394/135A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   42,52",
     "Mena": "EUR"
   },
   {
