@@ -105,17 +105,17 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Energoteam s.r.o.",
-    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  32 790,03",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "STOMIL SANOK, spol. s r.o.",
     "Adresa_dlžníka": "Matičné námestie 1",
     "Mesto": "Čadca",
     "Suma_daňových_nedoplatkov": "  29 311,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Energoteam s.r.o.",
+    "Adresa_dlžníka": "M. R. Štefánika 3560/109",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  28 998,41",
     "Mena": "EUR"
   },
   {
@@ -269,7 +269,7 @@
     "Dlžník": "Anton Šmehyl",
     "Adresa_dlžníka": "Republiky 999/11",
     "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  13 547,69",
+    "Suma_daňových_nedoplatkov": "  13 498,93",
     "Mena": "EUR"
   },
   {
@@ -924,13 +924,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Štefan Richter",
-    "Adresa_dlžníka": "Mojšová Lúčka 113/113",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 308,88",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Agrona, spol. s r.o.",
     "Adresa_dlžníka": "Žitná 3877/17",
     "Mesto": "Žilina",
@@ -942,6 +935,13 @@
     "Adresa_dlžníka": "Železničná 811/16",
     "Mesto": "Varín",
     "Suma_daňových_nedoplatkov": "  2 290,00",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Štefan Richter",
+    "Adresa_dlžníka": "Mojšová Lúčka 113/113",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 281,36",
     "Mena": "EUR"
   },
   {
@@ -15701,13 +15701,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Ing. Štefan Kulla",
-    "Adresa_dlžníka": "Tajovského 8568/3",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   204,80",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Miroslav Zuzík",
     "Adresa_dlžníka": "Zádubanská 94/24",
     "Mesto": "Žilina",
@@ -17210,13 +17203,6 @@
     "Adresa_dlžníka": "Eduarda Nécseya 3167/2",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   188,82",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Miroslav Ďuran",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   188,73",
     "Mena": "EUR"
   },
   {
