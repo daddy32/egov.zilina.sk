@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "997"
+    "Počet": "1001"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -9,19 +9,19 @@
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "256"
+    "Počet": "255"
+  },
+  {
+    "Plemeno": "Labradorský retriever",
+    "Počet": "203"
   },
   {
     "Plemeno": "Maltézsky psík",
     "Počet": "202"
   },
   {
-    "Plemeno": "Labradorský retriever",
-    "Počet": "201"
-  },
-  {
     "Plemeno": "Čivava",
-    "Počet": "128"
+    "Počet": "130"
   },
   {
     "Plemeno": "Jazvečík",
@@ -29,7 +29,7 @@
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "96"
+    "Počet": "97"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -68,12 +68,12 @@
     "Počet": "48"
   },
   {
-    "Plemeno": "Anglický kokeršpaniel",
+    "Plemeno": "Bígl",
     "Počet": "45"
   },
   {
-    "Plemeno": "Bígl",
-    "Počet": "44"
+    "Plemeno": "Anglický kokeršpaniel",
+    "Počet": "45"
   },
   {
     "Plemeno": "Nemecký špic",
@@ -133,7 +133,7 @@
   },
   {
     "Plemeno": "Hovawart",
-    "Počet": "22"
+    "Počet": "21"
   },
   {
     "Plemeno": "Westhighlandský biely teriér",
@@ -280,6 +280,10 @@
     "Počet": "7"
   },
   {
+    "Plemeno": "Retriever",
+    "Počet": "7"
+  },
+  {
     "Plemeno": "Aljašský malamut",
     "Počet": "6"
   },
@@ -297,10 +301,6 @@
   },
   {
     "Plemeno": "Papilon",
-    "Počet": "6"
-  },
-  {
-    "Plemeno": "Retriever",
     "Počet": "6"
   },
   {

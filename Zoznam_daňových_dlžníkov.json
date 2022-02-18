@@ -2513,13 +2513,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Miroslav Majtán",
-    "Adresa_dlžníka": "Sad SNP 662/20",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   532,50",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Nikola Mišíková",
     "Adresa_dlžníka": "Zábrežná 72/43",
     "Mesto": "Žilina",
@@ -2674,7 +2667,7 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Radka Radolcová",
+    "Dlžník": "Radka Cabanová",
     "Adresa_dlžníka": "Petzvalova 3374/41",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   497,05",
@@ -2881,13 +2874,6 @@
     "Adresa_dlžníka": "Pod Hôrkou 1704/8",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   462,46",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Tomáš Kyška",
-    "Adresa_dlžníka": "Žilinská Lehota 49/49",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   460,49",
     "Mena": "EUR"
   },
   {
@@ -3252,13 +3238,6 @@
     "Adresa_dlžníka": "Komenského 2195/43",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   402,20",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Janka Lobová",
-    "Adresa_dlžníka": "Jána Čajdu 827/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   400,00",
     "Mena": "EUR"
   },
   {
@@ -10472,6 +10451,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Janka Lobová",
+    "Adresa_dlžníka": "Jána Čajdu 827/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   300,00",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Peter Mezey - PERFEKTO",
     "Adresa_dlžníka": "Košická 79/18",
     "Mesto": "Komárno",
@@ -13909,13 +13895,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Líška",
-    "Adresa_dlžníka": "Drozdia 13/22",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   237,50",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Elena Štrkáčová",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14564,13 +14543,6 @@
     "Adresa_dlžníka": "Zvolenská 1778/15",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   224,35",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Dušan Lapoš",
-    "Adresa_dlžníka": "Pri Celulózke 1385/25",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   224,33",
     "Mena": "EUR"
   },
   {
@@ -15327,6 +15299,13 @@
     "Adresa_dlžníka": "Štúrova 1270/3",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   216,18",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Miroslav Majtán",
+    "Adresa_dlžníka": "Sad SNP 662/20",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   215,55",
     "Mena": "EUR"
   },
   {
@@ -16738,7 +16717,7 @@
   },
   {
     "Dlžník": "Tomáš Krchňavý",
-    "Adresa_dlžníka": "",
+    "Adresa_dlžníka": "Petzvalova 3378/65",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   197,78",
     "Mena": "EUR"
@@ -18201,8 +18180,8 @@
   },
   {
     "Dlžník": "Dalibor Tichý",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
+    "Adresa_dlžníka": "Mládeže 1394/9",
+    "Mesto": "Zlaté Moravce",
     "Suma_daňových_nedoplatkov": "   169,01",
     "Mena": "EUR"
   },
@@ -19177,6 +19156,20 @@
     "Adresa_dlžníka": "Veľká okružná 2130/86",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   57,42",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Jozef Líška",
+    "Adresa_dlžníka": "Drozdia 13/22",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   27,52",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Tomáš Kyška",
+    "Adresa_dlžníka": "Žilinská Lehota 49/49",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   27,52",
     "Mena": "EUR"
   },
   {
