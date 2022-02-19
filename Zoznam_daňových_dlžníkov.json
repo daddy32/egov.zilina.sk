@@ -2422,13 +2422,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Naďa Šolcová",
-    "Adresa_dlžníka": "Prielohy 1013/8A",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   569,26",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Mgr. Andrea Kresáková",
     "Adresa_dlžníka": "Rosinská 8543/34A",
     "Mesto": "Žilina",
@@ -2727,6 +2720,13 @@
     "Adresa_dlžníka": "Sadová 304/4",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   483,60",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Naďa Šolcová",
+    "Adresa_dlžníka": "Prielohy 1013/8A",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   483,12",
     "Mena": "EUR"
   },
   {
@@ -12041,7 +12041,7 @@
   },
   {
     "Dlžník": "Andrea Martincová",
-    "Adresa_dlžníka": "Zakamenica 151/4",
+    "Adresa_dlžníka": "Kamenica súp. č. 488",
     "Mesto": "Rajec",
     "Suma_daňových_nedoplatkov": "   266,00",
     "Mena": "EUR"

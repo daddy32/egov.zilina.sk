@@ -1,5 +1,125 @@
 [
   {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 2/2022 január, množ.: 21, jedn. cena: 10,54 EUR, spolu: 221,34 EUR",
+    "Celková_cena_(bez_DPH)": "   221,34",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné NZ 2/2022 január 2022, množ.: 21, jedn. cena: 4,45 EUR, spolu: 93,45 EUR",
+    "Celková_cena_(bez_DPH)": "   93,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 8/2022 karate, január 2022, množ.: 7, jedn. cena: 10,54 EUR, spolu: 73,78 EUR",
+    "Celková_cena_(bez_DPH)": "   73,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné NZ 8/2022 karate, január 2022, množ.: 7, jedn. cena: 4,45 EUR, spolu: 31,15 EUR",
+    "Celková_cena_(bez_DPH)": "   31,15",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "42070384   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Robotnícka Telovýchovná Jednota Brodno",
+    "Text_odb._faktúry": "Rufundácia prevádzkových nákladov, množ.: 1, jedn. cena: 8 EUR, spolu: 8 EUR",
+    "Celková_cena_(bez_DPH)": "   8,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "42070384   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Robotnícka Telovýchovná Jednota Brodno",
+    "Text_odb._faktúry": "Prenájom priestoru telocvične, množ.: 7,5, jedn. cena: 12 EUR, spolu: 90 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "00316792   ",
+    "Číslo_faktúry": "20220019",
+    "Odberateľ": "Mesto Martin",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2120 EUR, spolu: 2120 EUR",
+    "Celková_cena_(bez_DPH)": "  2 120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "00326518   ",
+    "Číslo_faktúry": "20220020",
+    "Odberateľ": "Mesto Spišská Belá",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1060 EUR, spolu: 1060 EUR",
+    "Celková_cena_(bez_DPH)": "  1 060,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "17061229   ",
+    "Číslo_faktúry": "20220021",
+    "Odberateľ": "Obec Liptovská Porúbka",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1060 EUR, spolu: 1060 EUR",
+    "Celková_cena_(bez_DPH)": "  1 060,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "00317331   ",
+    "Číslo_faktúry": "20220022",
+    "Odberateľ": "Mesto Ilava",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1060 EUR, spolu: 1060 EUR",
+    "Celková_cena_(bez_DPH)": "  1 060,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "00323021   ",
+    "Číslo_faktúry": "20220023",
+    "Odberateľ": "Mesto Humenné",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1590 EUR, spolu: 1590 EUR",
+    "Celková_cena_(bez_DPH)": "  1 590,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Nájom Slávia ŽU, množ.: 1, jedn. cena: 4,35 EUR, spolu: 4,35 EUR,\rPrev. náklady Slávia ŽU, množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   40,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.02.2022",
+    "Dátum_zverejnenia": "18.02.2022"
+  },
+  {
     "IČO": "36690104   ",
     "Číslo_faktúry": "20220018",
     "Odberateľ": "RK-FIN, s.r.o.",

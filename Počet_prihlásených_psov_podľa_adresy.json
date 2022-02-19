@@ -19667,7 +19667,7 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Gerlachovská",
     "Orient._č.": "  10      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -50564,6 +50564,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Zádubnie",
     "Ulica": "Oblúková",
+    "Orient._č.": "   7A     ",
+    "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Zádubnie",
+    "Ulica": "Oblúková",
     "Orient._č.": "   9      ",
     "Počet_psov": "1"
   },
@@ -75212,13 +75219,6 @@
     "Časť_obce": "Zádubnie",
     "Ulica": "Zádubnie",
     "Orient._č.": " 293      ",
-    "Počet_psov": "1"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Zádubnie",
-    "Ulica": "Zádubnie",
-    "Orient._č.": " 332      ",
     "Počet_psov": "1"
   },
   {

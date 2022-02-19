@@ -8960,6 +8960,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "HAPPY PETS - maloobchodná predajňa chovateľských potrieb",
+    "Činnosť": "chovateľské potreby",
+    "Ulica": "Prielohy",
+    "Súp._č.": "  979 ",
+    "Or._č.": "  10      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Happy wok",
     "Činnosť": "ázijské potraviny",
     "Ulica": "Mariánske námestie",
@@ -18256,11 +18264,11 @@
     "Obec": "Žilina"
   },
   {
-    "Prevádzka": "NII MII",
+    "Prevádzka": "NIIMII",
     "Činnosť": "manikúra\r\n",
-    "Ulica": "Hodžova",
-    "Súp._č.": "  183 ",
-    "Or._č.": "  13      ",
+    "Ulica": "Národná",
+    "Súp._č.": "  804 ",
+    "Or._č.": "  20      ",
     "Obec": "Žilina"
   },
   {
@@ -22653,6 +22661,14 @@
     "Ulica": "Kamenná",
     "Súp._č.": " 3607 ",
     "Or._č.": "  29      ",
+    "Obec": "Žilina"
+  },
+  {
+    "Prevádzka": "Progress Gym",
+    "Činnosť": "telovýchovno - športové zariadenie",
+    "Ulica": "Makovického",
+    "Súp._č.": "   59 ",
+    "Or._č.": "   2      ",
     "Obec": "Žilina"
   },
   {
@@ -28272,6 +28288,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "TRIFIT-ZA, s.r.o.",
+    "Činnosť": "výdajné miesto E-shop, kancelárska technika",
+    "Ulica": "Republiky",
+    "Súp._č.": " 1049 ",
+    "Or._č.": "  16      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "TRIUMPH",
     "Činnosť": "spodné prádlo, galantéria",
     "Ulica": "Veľká okružná",
@@ -30592,6 +30616,14 @@
     "Obec": "Žilina"
   },
   {
+    "Prevádzka": "VILLIZ BARBERSHOP",
+    "Činnosť": "pánske kaderníctvo",
+    "Ulica": "Alexandra Rudnaya",
+    "Súp._č.": " 2305 ",
+    "Or._č.": "  45      ",
+    "Obec": "Žilina"
+  },
+  {
     "Prevádzka": "Vináreň",
     "Činnosť": "predaj vína\r\n",
     "Ulica": "P. O. Hviezdoslava",
@@ -31062,30 +31094,6 @@
     "Súp._č.": "  175 ",
     "Or._č.": "   8      ",
     "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Výdajné miesto (Kaufland)",
-    "Činnosť": "zábavná pyrotechnika, dezinfekčné gély",
-    "Ulica": "Vysokoškolákov",
-    "Súp._č.": " 8083 ",
-    "Or._č.": "  37      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Výdajné miesto (Tesco Košická)",
-    "Činnosť": "Predaj pyrotechniky, výdaj tovaru z e-shopu",
-    "Ulica": "Košická",
-    "Súp._č.": " 1367 ",
-    "Or._č.": "   3      ",
-    "Obec": "Žilina"
-  },
-  {
-    "Prevádzka": "Výdajné miesto (Tesco Obvodová)",
-    "Činnosť": "Predaj pyrotechniky, výdaj tovaru z e-shopu",
-    "Ulica": "Obvodová",
-    "Súp._č.": "",
-    "Or._č.": "",
-    "Obec": ""
   },
   {
     "Prevádzka": "Výkup papiera",
