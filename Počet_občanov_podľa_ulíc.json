@@ -55,8 +55,8 @@
     "Na_prechodnom_pobyte": "   0",
     "Ženy": "   11",
     "Muži": "   12",
-    "V_predproduktívnom_veku": "   4",
-    "V_produktívnom_veku": "   13",
+    "V_predproduktívnom_veku": "   3",
+    "V_produktívnom_veku": "   14",
     "V_poproduktívnom_veku": "   6"
   },
   {
@@ -1826,8 +1826,8 @@
     "Ženy": "   372",
     "Muži": "   283",
     "V_predproduktívnom_veku": "   99",
-    "V_produktívnom_veku": "   339",
-    "V_poproduktívnom_veku": "   217"
+    "V_produktívnom_veku": "   338",
+    "V_poproduktívnom_veku": "   218"
   },
   {
     "Ulica": "Kempelenova",
@@ -2882,12 +2882,12 @@
   {
     "Ulica": "Na Záchrastí",
     "Na_trvalom_pobyte": "   283",
-    "Na_prechodnom_pobyte": "   4",
-    "Ženy": "   149",
+    "Na_prechodnom_pobyte": "   3",
+    "Ženy": "   148",
     "Muži": "   138",
     "V_predproduktívnom_veku": "   37",
     "V_produktívnom_veku": "   185",
-    "V_poproduktívnom_veku": "   65"
+    "V_poproduktívnom_veku": "   64"
   },
   {
     "Ulica": "Na Zápletí",
@@ -3335,8 +3335,8 @@
     "Na_prechodnom_pobyte": "   14",
     "Ženy": "   857",
     "Muži": "   802",
-    "V_predproduktívnom_veku": "   252",
-    "V_produktívnom_veku": "  1 258",
+    "V_predproduktívnom_veku": "   251",
+    "V_produktívnom_veku": "  1 259",
     "V_poproduktívnom_veku": "   149"
   },
   {
@@ -4656,8 +4656,8 @@
     "Ženy": "   522",
     "Muži": "   449",
     "V_predproduktívnom_veku": "   111",
-    "V_produktívnom_veku": "   511",
-    "V_poproduktívnom_veku": "   349"
+    "V_produktívnom_veku": "   510",
+    "V_poproduktívnom_veku": "   350"
   },
   {
     "Ulica": "Tyrkysová",
