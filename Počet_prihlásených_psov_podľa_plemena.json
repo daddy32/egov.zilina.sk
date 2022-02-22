@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "1000"
+    "Počet": "998"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -21,15 +21,15 @@
   },
   {
     "Plemeno": "Čivava",
-    "Počet": "130"
+    "Počet": "131"
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "111"
+    "Počet": "112"
   },
   {
     "Plemeno": "Jack russel teriér",
-    "Počet": "97"
+    "Počet": "98"
   },
   {
     "Plemeno": "Zlatý retriever",
@@ -77,7 +77,7 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "42"
+    "Počet": "43"
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
@@ -156,16 +156,16 @@
     "Počet": "16"
   },
   {
-    "Plemeno": "Bavorský farbiar",
-    "Počet": "15"
-  },
-  {
     "Plemeno": "Lhasa apso",
     "Počet": "15"
   },
   {
     "Plemeno": "Nemecký boxer",
     "Počet": "15"
+  },
+  {
+    "Plemeno": "Bavorský farbiar",
+    "Počet": "14"
   },
   {
     "Plemeno": "Belgický ovčiak",
@@ -424,6 +424,10 @@
     "Počet": "3"
   },
   {
+    "Plemeno": "Barzoj",
+    "Počet": "3"
+  },
+  {
     "Plemeno": "Španielsky mastin",
     "Počet": "3"
   },
@@ -513,10 +517,6 @@
   },
   {
     "Plemeno": "Pyrenejský horský pes",
-    "Počet": "2"
-  },
-  {
-    "Plemeno": "Barzoj",
     "Počet": "2"
   },
   {
@@ -617,6 +617,10 @@
   },
   {
     "Plemeno": "Pudel toy",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Hrubosrstý foxteriér",
     "Počet": "1"
   },
   {
