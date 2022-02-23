@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "46723994   ",
+    "Číslo_faktúry": "22001",
+    "Odberateľ": "ŽILBYT, s.r.o.",
+    "Text_odb._faktúry": "Prenájom na rok 2022, množ.: 1, jedn. cena: 1 EUR, spolu: 1 EUR",
+    "Celková_cena_(bez_DPH)": "   1,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2022",
+    "Dátum_zverejnenia": "22.02.2022"
+  },
+  {
+    "IČO": "46723994   ",
+    "Číslo_faktúry": "22002",
+    "Odberateľ": "ŽILBYT, s.r.o.",
+    "Text_odb._faktúry": "Prevádzkové náklady - el. energia, množ.: 1, jedn. cena: 1124,57 EUR, spolu: 1124,57 EUR",
+    "Celková_cena_(bez_DPH)": "  1 124,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.01.2022",
+    "Dátum_zverejnenia": "22.02.2022"
+  },
+  {
     "IČO": "42059992   ",
     "Číslo_faktúry": "2022001",
     "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",

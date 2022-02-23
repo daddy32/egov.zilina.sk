@@ -210,6 +210,11 @@
     "Počet": "60"
   },
   {
+    "Priezvisko": "Frátriková",
+    "Pohlavie": "žena",
+    "Počet": "60"
+  },
+  {
     "Priezvisko": "Oravec",
     "Pohlavie": "muž",
     "Počet": "60"
@@ -232,11 +237,6 @@
   {
     "Priezvisko": "Brezáni",
     "Pohlavie": "muž",
-    "Počet": "59"
-  },
-  {
-    "Priezvisko": "Frátriková",
-    "Pohlavie": "žena",
     "Počet": "59"
   },
   {
@@ -1890,11 +1890,6 @@
     "Počet": "26"
   },
   {
-    "Priezvisko": "Neslušan",
-    "Pohlavie": "muž",
-    "Počet": "26"
-  },
-  {
     "Priezvisko": "Pekarová",
     "Pohlavie": "žena",
     "Počet": "26"
@@ -2197,6 +2192,11 @@
   {
     "Priezvisko": "Mikulíková",
     "Pohlavie": "žena",
+    "Počet": "24"
+  },
+  {
+    "Priezvisko": "Neslušan",
+    "Pohlavie": "muž",
     "Počet": "24"
   },
   {
@@ -2535,6 +2535,11 @@
     "Počet": "22"
   },
   {
+    "Priezvisko": "Fatáková",
+    "Pohlavie": "žena",
+    "Počet": "22"
+  },
+  {
     "Priezvisko": "Funtík",
     "Pohlavie": "muž",
     "Počet": "22"
@@ -2780,11 +2785,6 @@
     "Počet": "21"
   },
   {
-    "Priezvisko": "Fatáková",
-    "Pohlavie": "žena",
-    "Počet": "21"
-  },
-  {
     "Priezvisko": "Gajdoš",
     "Pohlavie": "muž",
     "Počet": "21"
@@ -2876,11 +2876,6 @@
   },
   {
     "Priezvisko": "Matejková",
-    "Pohlavie": "žena",
-    "Počet": "21"
-  },
-  {
-    "Priezvisko": "Neslušanová",
     "Pohlavie": "žena",
     "Počet": "21"
   },
@@ -3045,11 +3040,6 @@
     "Počet": "20"
   },
   {
-    "Priezvisko": "Kostolná",
-    "Pohlavie": "žena",
-    "Počet": "20"
-  },
-  {
     "Priezvisko": "Košťálová",
     "Pohlavie": "žena",
     "Počet": "20"
@@ -3131,6 +3121,11 @@
   },
   {
     "Priezvisko": "Nemcová",
+    "Pohlavie": "žena",
+    "Počet": "20"
+  },
+  {
+    "Priezvisko": "Neslušanová",
     "Pohlavie": "žena",
     "Počet": "20"
   },
@@ -3306,6 +3301,11 @@
   },
   {
     "Priezvisko": "Kmeťová",
+    "Pohlavie": "žena",
+    "Počet": "19"
+  },
+  {
+    "Priezvisko": "Kostolná",
     "Pohlavie": "žena",
     "Počet": "19"
   },
@@ -5035,6 +5035,11 @@
     "Počet": "14"
   },
   {
+    "Priezvisko": "Ďungel",
+    "Pohlavie": "muž",
+    "Počet": "14"
+  },
+  {
     "Priezvisko": "Ďurkovská",
     "Pohlavie": "žena",
     "Počet": "14"
@@ -5542,11 +5547,6 @@
   {
     "Priezvisko": "Dudíková",
     "Pohlavie": "žena",
-    "Počet": "13"
-  },
-  {
-    "Priezvisko": "Ďungel",
-    "Pohlavie": "muž",
     "Počet": "13"
   },
   {
@@ -7900,11 +7900,6 @@
     "Počet": "10"
   },
   {
-    "Priezvisko": "Badurová",
-    "Pohlavie": "žena",
-    "Počet": "10"
-  },
-  {
     "Priezvisko": "Bajánek",
     "Pohlavie": "muž",
     "Počet": "10"
@@ -9010,6 +9005,11 @@
     "Počet": "10"
   },
   {
+    "Priezvisko": "Václavková",
+    "Pohlavie": "žena",
+    "Počet": "10"
+  },
+  {
     "Priezvisko": "Valíček",
     "Pohlavie": "muž",
     "Počet": "10"
@@ -9142,6 +9142,11 @@
   {
     "Priezvisko": "Baďura",
     "Pohlavie": "muž",
+    "Počet": "9"
+  },
+  {
+    "Priezvisko": "Badurová",
+    "Pohlavie": "žena",
     "Počet": "9"
   },
   {
@@ -10462,11 +10467,6 @@
   {
     "Priezvisko": "Václavek",
     "Pohlavie": "muž",
-    "Počet": "9"
-  },
-  {
-    "Priezvisko": "Václavková",
-    "Pohlavie": "žena",
     "Počet": "9"
   },
   {
@@ -16920,6 +16920,11 @@
     "Počet": "6"
   },
   {
+    "Priezvisko": "Rakovan",
+    "Pohlavie": "muž",
+    "Počet": "6"
+  },
+  {
     "Priezvisko": "Rakovanová",
     "Pohlavie": "žena",
     "Počet": "6"
@@ -20927,11 +20932,6 @@
   {
     "Priezvisko": "Rajčanová",
     "Pohlavie": "žena",
-    "Počet": "5"
-  },
-  {
-    "Priezvisko": "Rakovan",
-    "Pohlavie": "muž",
     "Počet": "5"
   },
   {
@@ -35316,11 +35316,6 @@
   },
   {
     "Priezvisko": "Ledajová",
-    "Pohlavie": "žena",
-    "Počet": "3"
-  },
-  {
-    "Priezvisko": "Legátová",
     "Pohlavie": "žena",
     "Počet": "3"
   },
@@ -86797,11 +86792,6 @@
   {
     "Priezvisko": "Scarabotto",
     "Pohlavie": "žena",
-    "Počet": "1"
-  },
-  {
-    "Priezvisko": "Scumaci",
-    "Pohlavie": "muž",
     "Počet": "1"
   },
   {

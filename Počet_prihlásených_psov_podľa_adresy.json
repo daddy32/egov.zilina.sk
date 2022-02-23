@@ -4771,7 +4771,7 @@
     "Časť_obce": "Solinky",
     "Ulica": "Borová",
     "Orient._č.": "   3      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -11428,7 +11428,7 @@
     "Časť_obce": "Staré mesto",
     "Ulica": "Daniela Dlabača",
     "Orient._č.": "  31      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
@@ -14410,7 +14410,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Dolná",
     "Orient._č.": "  24      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -16749,6 +16749,13 @@
     "Ulica": "Družstevná",
     "Orient._č.": "   3      ",
     "Počet_psov": "1"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Družstevná",
+    "Orient._č.": "   3A     ",
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -46218,7 +46225,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Na starej hradskej",
     "Orient._č.": "   5      ",
-    "Počet_psov": "2"
+    "Počet_psov": "1"
   },
   {
     "Mesto": "Žilina",
