@@ -1,5 +1,25 @@
 [
   {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220024",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 25503,22 EUR, spolu: 25503,22 EUR",
+    "Celková_cena_(bez_DPH)": "  25 503,22",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.02.2022",
+    "Dátum_zverejnenia": "23.02.2022"
+  },
+  {
+    "IČO": "36416312   ",
+    "Číslo_faktúry": "20220025",
+    "Odberateľ": "PRE LES, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 6570,72 EUR, spolu: 6570,72 EUR",
+    "Celková_cena_(bez_DPH)": "  6 570,72",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.02.2022",
+    "Dátum_zverejnenia": "23.02.2022"
+  },
+  {
     "IČO": "46723994   ",
     "Číslo_faktúry": "22001",
     "Odberateľ": "ŽILBYT, s.r.o.",

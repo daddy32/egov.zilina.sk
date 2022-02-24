@@ -1,13 +1,13 @@
 [
   {
     "Ulica": "* mesto ŽILINA",
-    "Na_trvalom_pobyte": "  2 286",
+    "Na_trvalom_pobyte": "  2 284",
     "Na_prechodnom_pobyte": "   0",
-    "Ženy": "   868",
+    "Ženy": "   866",
     "Muži": "  1 418",
     "V_predproduktívnom_veku": "   259",
-    "V_produktívnom_veku": "  1 737",
-    "V_poproduktívnom_veku": "   290"
+    "V_produktívnom_veku": "  1 736",
+    "V_poproduktívnom_veku": "   289"
   },
   {
     "Ulica": "**adresy bez ulice",
@@ -21,11 +21,11 @@
   },
   {
     "Ulica": "Agátová",
-    "Na_trvalom_pobyte": "   63",
+    "Na_trvalom_pobyte": "   64",
     "Na_prechodnom_pobyte": "   1",
-    "Ženy": "   33",
+    "Ženy": "   34",
     "Muži": "   31",
-    "V_predproduktívnom_veku": "   2",
+    "V_predproduktívnom_veku": "   3",
     "V_produktívnom_veku": "   37",
     "V_poproduktívnom_veku": "   25"
   },
@@ -241,13 +241,13 @@
   },
   {
     "Ulica": "Berlínska",
-    "Na_trvalom_pobyte": "   542",
+    "Na_trvalom_pobyte": "   541",
     "Na_prechodnom_pobyte": "   12",
     "Ženy": "   306",
-    "Muži": "   248",
+    "Muži": "   247",
     "V_predproduktívnom_veku": "   65",
     "V_produktívnom_veku": "   309",
-    "V_poproduktívnom_veku": "   180"
+    "V_poproduktívnom_veku": "   179"
   },
   {
     "Ulica": "Berylová",
@@ -285,8 +285,8 @@
     "Na_prechodnom_pobyte": "   1",
     "Ženy": "   44",
     "Muži": "   44",
-    "V_predproduktívnom_veku": "   7",
-    "V_produktívnom_veku": "   60",
+    "V_predproduktívnom_veku": "   6",
+    "V_produktívnom_veku": "   61",
     "V_poproduktívnom_veku": "   21"
   },
   {
@@ -621,12 +621,12 @@
   },
   {
     "Ulica": "Daxnerova",
-    "Na_trvalom_pobyte": "   127",
+    "Na_trvalom_pobyte": "   124",
     "Na_prechodnom_pobyte": "   3",
-    "Ženy": "   72",
+    "Ženy": "   69",
     "Muži": "   58",
-    "V_predproduktívnom_veku": "   20",
-    "V_produktívnom_veku": "   61",
+    "V_predproduktívnom_veku": "   18",
+    "V_produktívnom_veku": "   60",
     "V_poproduktívnom_veku": "   49"
   },
   {
@@ -1021,12 +1021,12 @@
   },
   {
     "Ulica": "Gabajova",
-    "Na_trvalom_pobyte": "   796",
+    "Na_trvalom_pobyte": "   793",
     "Na_prechodnom_pobyte": "   9",
-    "Ženy": "   435",
-    "Muži": "   369",
-    "V_predproduktívnom_veku": "   99",
-    "V_produktívnom_veku": "   463",
+    "Ženy": "   433",
+    "Muži": "   368",
+    "V_predproduktívnom_veku": "   97",
+    "V_produktívnom_veku": "   462",
     "V_poproduktívnom_veku": "   242"
   },
   {
@@ -1125,8 +1125,8 @@
     "Na_prechodnom_pobyte": "   0",
     "Ženy": "   29",
     "Muži": "   33",
-    "V_predproduktívnom_veku": "   11",
-    "V_produktívnom_veku": "   32",
+    "V_predproduktívnom_veku": "   10",
+    "V_produktívnom_veku": "   33",
     "V_poproduktívnom_veku": "   19"
   },
   {
@@ -1245,8 +1245,8 @@
     "Na_prechodnom_pobyte": "   16",
     "Ženy": "   330",
     "Muži": "   273",
-    "V_predproduktívnom_veku": "   81",
-    "V_produktívnom_veku": "   377",
+    "V_predproduktívnom_veku": "   80",
+    "V_produktívnom_veku": "   378",
     "V_poproduktívnom_veku": "   145"
   },
   {
@@ -1526,8 +1526,8 @@
     "Ženy": "   40",
     "Muži": "   35",
     "V_predproduktívnom_veku": "   3",
-    "V_produktívnom_veku": "   47",
-    "V_poproduktívnom_veku": "   25"
+    "V_produktívnom_veku": "   46",
+    "V_poproduktívnom_veku": "   26"
   },
   {
     "Ulica": "Jánošíkova",
@@ -1561,12 +1561,12 @@
   },
   {
     "Ulica": "Jaseňová",
-    "Na_trvalom_pobyte": "  1 605",
+    "Na_trvalom_pobyte": "  1 606",
     "Na_prechodnom_pobyte": "   9",
     "Ženy": "   834",
-    "Muži": "   780",
+    "Muži": "   781",
     "V_predproduktívnom_veku": "   259",
-    "V_produktívnom_veku": "  1 065",
+    "V_produktívnom_veku": "  1 066",
     "V_poproduktívnom_veku": "   290"
   },
   {
@@ -1605,8 +1605,8 @@
     "Na_prechodnom_pobyte": "   6",
     "Ženy": "   324",
     "Muži": "   286",
-    "V_predproduktívnom_veku": "   96",
-    "V_produktívnom_veku": "   362",
+    "V_predproduktívnom_veku": "   95",
+    "V_produktívnom_veku": "   363",
     "V_poproduktívnom_veku": "   152"
   },
   {
@@ -1811,13 +1811,13 @@
   },
   {
     "Ulica": "Karola Kmeťku",
-    "Na_trvalom_pobyte": "   407",
+    "Na_trvalom_pobyte": "   406",
     "Na_prechodnom_pobyte": "   0",
     "Ženy": "   197",
-    "Muži": "   210",
+    "Muži": "   209",
     "V_predproduktívnom_veku": "   49",
     "V_produktívnom_veku": "   219",
-    "V_poproduktívnom_veku": "   139"
+    "V_poproduktívnom_veku": "   138"
   },
   {
     "Ulica": "Karpatská",
@@ -2246,8 +2246,8 @@
     "Ženy": "   548",
     "Muži": "   489",
     "V_predproduktívnom_veku": "   174",
-    "V_produktívnom_veku": "   618",
-    "V_poproduktívnom_veku": "   245"
+    "V_produktívnom_veku": "   617",
+    "V_poproduktívnom_veku": "   246"
   },
   {
     "Ulica": "Lipňová",
@@ -2311,12 +2311,12 @@
   },
   {
     "Ulica": "M. R. Štefánika",
-    "Na_trvalom_pobyte": "   398",
+    "Na_trvalom_pobyte": "   397",
     "Na_prechodnom_pobyte": "   5",
     "Ženy": "   206",
-    "Muži": "   197",
+    "Muži": "   196",
     "V_predproduktívnom_veku": "   62",
-    "V_produktívnom_veku": "   242",
+    "V_produktívnom_veku": "   241",
     "V_poproduktívnom_veku": "   99"
   },
   {
@@ -2431,12 +2431,12 @@
   },
   {
     "Ulica": "Mateja Bela",
-    "Na_trvalom_pobyte": "  1 109",
+    "Na_trvalom_pobyte": "  1 105",
     "Na_prechodnom_pobyte": "   21",
-    "Ženy": "   590",
+    "Ženy": "   586",
     "Muži": "   540",
-    "V_predproduktívnom_veku": "   209",
-    "V_produktívnom_veku": "   842",
+    "V_predproduktívnom_veku": "   207",
+    "V_produktívnom_veku": "   840",
     "V_poproduktívnom_veku": "   79"
   },
   {
@@ -2521,12 +2521,12 @@
   },
   {
     "Ulica": "Mila Urbana",
-    "Na_trvalom_pobyte": "   47",
+    "Na_trvalom_pobyte": "   50",
     "Na_prechodnom_pobyte": "   13",
-    "Ženy": "   32",
+    "Ženy": "   35",
     "Muži": "   28",
-    "V_predproduktívnom_veku": "   2",
-    "V_produktívnom_veku": "   40",
+    "V_predproduktívnom_veku": "   4",
+    "V_produktívnom_veku": "   41",
     "V_poproduktívnom_veku": "   18"
   },
   {
@@ -2611,12 +2611,12 @@
   },
   {
     "Ulica": "Moyzesova",
-    "Na_trvalom_pobyte": "   405",
+    "Na_trvalom_pobyte": "   406",
     "Na_prechodnom_pobyte": "   12",
     "Ženy": "   224",
-    "Muži": "   193",
+    "Muži": "   194",
     "V_predproduktívnom_veku": "   72",
-    "V_produktívnom_veku": "   262",
+    "V_produktívnom_veku": "   263",
     "V_poproduktívnom_veku": "   83"
   },
   {
@@ -2721,13 +2721,13 @@
   },
   {
     "Ulica": "Na lány",
-    "Na_trvalom_pobyte": "   143",
+    "Na_trvalom_pobyte": "   142",
     "Na_prechodnom_pobyte": "   3",
-    "Ženy": "   74",
+    "Ženy": "   73",
     "Muži": "   72",
     "V_predproduktívnom_veku": "   19",
     "V_produktívnom_veku": "   93",
-    "V_poproduktívnom_veku": "   34"
+    "V_poproduktívnom_veku": "   33"
   },
   {
     "Ulica": "Na Majerisku",
@@ -3071,12 +3071,12 @@
   },
   {
     "Ulica": "Nový Domov",
-    "Na_trvalom_pobyte": "   99",
+    "Na_trvalom_pobyte": "   97",
     "Na_prechodnom_pobyte": "   0",
-    "Ženy": "   54",
-    "Muži": "   45",
-    "V_predproduktívnom_veku": "   12",
-    "V_produktívnom_veku": "   52",
+    "Ženy": "   53",
+    "Muži": "   44",
+    "V_predproduktívnom_veku": "   11",
+    "V_produktívnom_veku": "   51",
     "V_poproduktívnom_veku": "   35"
   },
   {
@@ -3091,12 +3091,12 @@
   },
   {
     "Ulica": "Obchodná",
-    "Na_trvalom_pobyte": "   167",
+    "Na_trvalom_pobyte": "   168",
     "Na_prechodnom_pobyte": "   6",
     "Ženy": "   90",
-    "Muži": "   83",
+    "Muži": "   84",
     "V_predproduktívnom_veku": "   46",
-    "V_produktívnom_veku": "   111",
+    "V_produktívnom_veku": "   112",
     "V_poproduktívnom_veku": "   16"
   },
   {
@@ -3211,13 +3211,13 @@
   },
   {
     "Ulica": "Osiková",
-    "Na_trvalom_pobyte": "   811",
+    "Na_trvalom_pobyte": "   810",
     "Na_prechodnom_pobyte": "   2",
-    "Ženy": "   414",
+    "Ženy": "   413",
     "Muži": "   399",
     "V_predproduktívnom_veku": "   117",
     "V_produktívnom_veku": "   484",
-    "V_poproduktívnom_veku": "   212"
+    "V_poproduktívnom_veku": "   211"
   },
   {
     "Ulica": "Oslobodenia",
@@ -3331,12 +3331,12 @@
   },
   {
     "Ulica": "Petzvalova",
-    "Na_trvalom_pobyte": "  1 643",
+    "Na_trvalom_pobyte": "  1 644",
     "Na_prechodnom_pobyte": "   14",
-    "Ženy": "   856",
+    "Ženy": "   857",
     "Muži": "   801",
     "V_predproduktívnom_veku": "   250",
-    "V_produktívnom_veku": "  1 258",
+    "V_produktívnom_veku": "  1 259",
     "V_poproduktívnom_veku": "   149"
   },
   {
@@ -3721,13 +3721,13 @@
   },
   {
     "Ulica": "Pri Rajčianke",
-    "Na_trvalom_pobyte": "   227",
+    "Na_trvalom_pobyte": "   226",
     "Na_prechodnom_pobyte": "   6",
     "Ženy": "   118",
-    "Muži": "   115",
+    "Muži": "   114",
     "V_predproduktívnom_veku": "   42",
     "V_produktívnom_veku": "   139",
-    "V_poproduktívnom_veku": "   52"
+    "V_poproduktívnom_veku": "   51"
   },
   {
     "Ulica": "Pri rieke",
@@ -3821,12 +3821,12 @@
   },
   {
     "Ulica": "Pustá",
-    "Na_trvalom_pobyte": "   3",
+    "Na_trvalom_pobyte": "   6",
     "Na_prechodnom_pobyte": "   0",
-    "Ženy": "   1",
-    "Muži": "   2",
-    "V_predproduktívnom_veku": "   2",
-    "V_produktívnom_veku": "   1",
+    "Ženy": "   2",
+    "Muži": "   4",
+    "V_predproduktívnom_veku": "   3",
+    "V_produktívnom_veku": "   3",
     "V_poproduktívnom_veku": "   0"
   },
   {
@@ -4011,12 +4011,12 @@
   },
   {
     "Ulica": "Ružová",
-    "Na_trvalom_pobyte": "   341",
+    "Na_trvalom_pobyte": "   339",
     "Na_prechodnom_pobyte": "   3",
-    "Ženy": "   186",
-    "Muži": "   158",
+    "Ženy": "   185",
+    "Muži": "   157",
     "V_predproduktívnom_veku": "   40",
-    "V_produktívnom_veku": "   196",
+    "V_produktívnom_veku": "   194",
     "V_poproduktívnom_veku": "   108"
   },
   {
@@ -4031,13 +4031,13 @@
   },
   {
     "Ulica": "Sad na Studničkách",
-    "Na_trvalom_pobyte": "   48",
+    "Na_trvalom_pobyte": "   47",
     "Na_prechodnom_pobyte": "   5",
-    "Ženy": "   33",
+    "Ženy": "   32",
     "Muži": "   20",
     "V_predproduktívnom_veku": "   10",
     "V_produktívnom_veku": "   32",
-    "V_poproduktívnom_veku": "   11"
+    "V_poproduktívnom_veku": "   10"
   },
   {
     "Ulica": "Sad SNP",
@@ -4541,12 +4541,12 @@
   },
   {
     "Ulica": "Tatranská",
-    "Na_trvalom_pobyte": "   482",
+    "Na_trvalom_pobyte": "   481",
     "Na_prechodnom_pobyte": "   7",
     "Ženy": "   261",
-    "Muži": "   228",
+    "Muži": "   227",
     "V_predproduktívnom_veku": "   79",
-    "V_produktívnom_veku": "   267",
+    "V_produktívnom_veku": "   266",
     "V_poproduktívnom_veku": "   143"
   },
   {
@@ -4741,12 +4741,12 @@
   },
   {
     "Ulica": "Veľká okružná",
-    "Na_trvalom_pobyte": "   641",
+    "Na_trvalom_pobyte": "   644",
     "Na_prechodnom_pobyte": "   10",
-    "Ženy": "   340",
-    "Muži": "   311",
+    "Ženy": "   342",
+    "Muži": "   312",
     "V_predproduktívnom_veku": "   98",
-    "V_produktívnom_veku": "   408",
+    "V_produktívnom_veku": "   411",
     "V_poproduktívnom_veku": "   145"
   },
   {
@@ -5036,8 +5036,8 @@
     "Ženy": "   188",
     "Muži": "   175",
     "V_predproduktívnom_veku": "   47",
-    "V_produktívnom_veku": "   270",
-    "V_poproduktívnom_veku": "   46"
+    "V_produktívnom_veku": "   269",
+    "V_poproduktívnom_veku": "   47"
   },
   {
     "Ulica": "Závozská",

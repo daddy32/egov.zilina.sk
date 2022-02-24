@@ -299,6 +299,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Družstevná",
+    "Orient._č.": "  67      ",
+    "Č._poschodia": "",
+    "Plemeno": "Cavalier King Charles španiel",
+    "Č._známky": "9684",
+    "Farba": "blenheim"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Družstevná",
     "Orient._č.": "  81      ",
     "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
@@ -2063,15 +2072,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Záhradnícka",
-    "Orient._č.": "  10      ",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "9039",
-    "Farba": "tmavohnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Záhradnícka",
     "Orient._č.": "  12      ",
     "Č._poschodia": "",
     "Plemeno": "Americký staffordshirský teriér",
@@ -3247,6 +3247,15 @@
     "Plemeno": "Jack russel teriér",
     "Č._známky": "3433",
     "Farba": "trikolóra"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Hečkova",
+    "Orient._č.": "  36      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9680",
+    "Farba": "piesková"
   },
   {
     "Mesto": "Žilina",
@@ -5644,6 +5653,15 @@
   },
   {
     "Mesto": "Žilina",
+    "Ulica": "Záhumenská",
+    "Orient._č.": "   6      ",
+    "Č._poschodia": "",
+    "Plemeno": "Labradorský retriever",
+    "Č._známky": "9704",
+    "Farba": "čokoladová"
+  },
+  {
+    "Mesto": "Žilina",
     "Ulica": "Zaroháčovská",
     "Orient._č.": "   2      ",
     "Č._poschodia": "",
@@ -7024,27 +7042,18 @@
     "Ulica": "Na starej hradskej",
     "Orient._č.": "   3      ",
     "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "8582",
-    "Farba": "bielo-kapučínova"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na starej hradskej",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jazvečík",
-    "Č._známky": "8583",
-    "Farba": "hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na starej hradskej",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
     "Plemeno": "Jazvečík",
     "Č._známky": "8583",
     "Farba": "hnedo-čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Na starej hradskej",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "8582",
+    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -7090,15 +7099,6 @@
     "Plemeno": "Nemecká doga",
     "Č._známky": "993",
     "Farba": "bielo-čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Na starej hradskej",
-    "Orient._č.": "  21      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "348",
-    "Farba": "čierno-zlatá"
   },
   {
     "Mesto": "Žilina",
@@ -7369,6 +7369,15 @@
     "Plemeno": "Rotvajler",
     "Č._známky": "172",
     "Farba": "čierno-hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Slovenských dobrovoľníkov",
+    "Orient._č.": "  11      ",
+    "Č._poschodia": "",
+    "Plemeno": "Boxer",
+    "Č._známky": "9681",
+    "Farba": "zlatá"
   },
   {
     "Mesto": "Žilina",
@@ -8341,15 +8350,6 @@
     "Plemeno": "Nemecký ovčiak",
     "Č._známky": "7699",
     "Farba": "čierno-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Hattalova",
-    "Orient._č.": "  12      ",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký špic",
-    "Č._známky": "286",
-    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",
@@ -9664,6 +9664,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "7716",
     "Farba": "čierno-sivá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Za kostolom",
+    "Orient._č.": "  11      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9672",
+    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",
@@ -11461,15 +11470,6 @@
     "Ulica": "Petzvalova",
     "Orient._č.": "  43C     ",
     "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "7522",
-    "Farba": "bielo-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Petzvalova",
-    "Orient._č.": "  43C     ",
-    "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "7515",
     "Farba": "biela káva"
@@ -11702,15 +11702,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Stodolova",
-    "Orient._č.": "   6      ",
-    "Č._poschodia": "",
-    "Plemeno": "Nemecký ovčiak",
-    "Č._známky": "8076",
-    "Farba": "šedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Stodolova",
     "Orient._č.": "   7      ",
     "Č._poschodia": "",
     "Plemeno": "Nemecký ovčiak",
@@ -11806,15 +11797,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "9137",
     "Farba": "čierno-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Antona Bernoláka",
-    "Orient._č.": "   9      ",
-    "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "4977",
-    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -12638,6 +12620,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Gabajova",
+    "Orient._č.": "   4      ",
+    "Č._poschodia": "",
+    "Plemeno": "Saluki",
+    "Č._známky": "9702",
+    "Farba": "béžová"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gabajova",
     "Orient._č.": "   5      ",
     "Č._poschodia": "",
     "Plemeno": "Maltézsky psík",
@@ -12669,6 +12660,15 @@
     "Č._poschodia": "",
     "Plemeno": "Kríženec",
     "Č._známky": "8999",
+    "Farba": "čierno-biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gabajova",
+    "Orient._č.": "   9      ",
+    "Č._poschodia": "",
+    "Plemeno": "Teriér",
+    "Č._známky": "9674",
     "Farba": "čierno-biela"
   },
   {
@@ -13502,6 +13502,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Kollárova",
+    "Orient._č.": "   8      ",
+    "Č._poschodia": "",
+    "Plemeno": "Bostonský teriér",
+    "Č._známky": "9678",
+    "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Kollárova",
     "Orient._č.": "  16      ",
     "Č._poschodia": "",
     "Plemeno": "Francúzsky buldoček",
@@ -13849,6 +13858,15 @@
     "Plemeno": "Kríženec",
     "Č._známky": "9291",
     "Farba": "zlatá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Lichardova",
+    "Orient._č.": "  46      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9683",
+    "Farba": "hnedá"
   },
   {
     "Mesto": "Žilina",
@@ -16139,20 +16157,11 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Nižedvorská",
-    "Orient._č.": "  20      ",
+    "Orient._č.": "  18      ",
     "Č._poschodia": "",
-    "Plemeno": "Bloodhound",
-    "Č._známky": "6527",
-    "Farba": "bicolor"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Nižedvorská",
-    "Orient._č.": "  20      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "6528",
-    "Farba": "tricolor"
+    "Plemeno": "Staffordshirský bulteriér",
+    "Č._známky": "9703",
+    "Farba": "hnedá"
   },
   {
     "Mesto": "Žilina",
@@ -16441,15 +16450,6 @@
     "Plemeno": "Maltézsky psík",
     "Č._známky": "8389",
     "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Pod Laščeky",
-    "Orient._č.": "  27      ",
-    "Č._poschodia": "",
-    "Plemeno": "Pražský krysařík",
-    "Č._známky": "8416",
-    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",
@@ -18353,6 +18353,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Gaštanová",
+    "Orient._č.": "   3      ",
+    "Č._poschodia": "",
+    "Plemeno": "Retriever",
+    "Č._známky": "9675",
+    "Farba": "čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Gaštanová",
     "Orient._č.": "   4      ",
     "Č._poschodia": "",
     "Plemeno": "Borderská kólia",
@@ -19964,6 +19973,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Platanová",
+    "Orient._č.": "  10      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
+    "Č._známky": "9673",
+    "Farba": "sivo-čierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Platanová",
     "Orient._č.": "  12      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -20275,6 +20293,15 @@
     "Plemeno": "Lhasa apso",
     "Č._známky": "3155",
     "Farba": "hnedočierna"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Smreková",
+    "Orient._č.": "   5      ",
+    "Č._poschodia": "",
+    "Plemeno": "Pudel",
+    "Č._známky": "9679",
+    "Farba": "čierna"
   },
   {
     "Mesto": "Žilina",
@@ -22858,15 +22885,6 @@
     "Plemeno": "Kríženec",
     "Č._známky": "6633",
     "Farba": "krémová"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Pri Celulózke",
-    "Orient._č.": "  64      ",
-    "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "9136",
-    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -26905,9 +26923,9 @@
     "Ulica": "Šenkárovská",
     "Orient._č.": "  19      ",
     "Č._poschodia": "",
-    "Plemeno": "Anglický buldog",
-    "Č._známky": "7820",
-    "Farba": "hnedá"
+    "Plemeno": "Kríženec",
+    "Č._známky": "9682",
+    "Farba": "ryšavá"
   },
   {
     "Mesto": "Žilina",
@@ -27832,15 +27850,6 @@
     "Ulica": "Dobšinského",
     "Orient._č.": "  21      ",
     "Č._poschodia": "",
-    "Plemeno": "Jazvečík",
-    "Č._známky": "7895",
-    "Farba": "hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Dobšinského",
-    "Orient._č.": "  21      ",
-    "Č._poschodia": "",
     "Plemeno": "Bernský salašnícky pes",
     "Č._známky": "8029",
     "Farba": "hnedo-bielo-čierna"
@@ -28378,30 +28387,12 @@
   },
   {
     "Mesto": "Žilina",
-    "Ulica": "Karola Kmeťku",
-    "Orient._č.": "   8      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "6367",
-    "Farba": "šedo-čierno-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
     "Ulica": "Karpatská",
     "Orient._č.": "   2      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "8346",
     "Farba": "čierno-hnedá"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Karpatská",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Cavalier King Charles španiel",
-    "Č._známky": "7477",
-    "Farba": "hnedo-biela"
   },
   {
     "Mesto": "Žilina",
@@ -28838,6 +28829,15 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Martinská",
+    "Orient._č.": "   5      ",
+    "Č._poschodia": "",
+    "Plemeno": "Miešanec",
+    "Č._známky": "9687",
+    "Farba": "šedo-biela"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Martinská",
     "Orient._č.": "   7      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -28852,6 +28852,15 @@
     "Plemeno": "Jorkšírsky teriér",
     "Č._známky": "7521",
     "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Martinská",
+    "Orient._č.": "   8      ",
+    "Č._poschodia": "",
+    "Plemeno": "Maltézsky psík",
+    "Č._známky": "9136",
+    "Farba": "biela"
   },
   {
     "Mesto": "Žilina",
@@ -28897,15 +28906,6 @@
     "Plemeno": "Labradorský retriever",
     "Č._známky": "6505",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Martinská",
-    "Orient._č.": "  15      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "1466",
-    "Farba": "hnedá"
   },
   {
     "Mesto": "Žilina",
@@ -29891,6 +29891,24 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Prešovská",
+    "Orient._č.": "   1      ",
+    "Č._poschodia": "",
+    "Plemeno": "Jorkšírsky teriér",
+    "Č._známky": "9676",
+    "Farba": "šedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Prešovská",
+    "Orient._č.": "   1      ",
+    "Č._poschodia": "",
+    "Plemeno": "Trpasličí pinč",
+    "Č._známky": "9677",
+    "Farba": "hnedá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Prešovská",
     "Orient._č.": "   3      ",
     "Č._poschodia": "",
     "Plemeno": "Maltézsky psík",
@@ -30372,15 +30390,6 @@
     "Č._poschodia": "",
     "Plemeno": "Jack russel teriér",
     "Č._známky": "7527",
-    "Farba": "biela"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Trnavská",
-    "Orient._č.": "   3      ",
-    "Č._poschodia": "",
-    "Plemeno": "Maltézsky psík",
-    "Č._známky": "7989",
     "Farba": "biela"
   },
   {
@@ -32191,15 +32200,6 @@
     "Plemeno": "Nemecký ovčiak",
     "Č._známky": "8087",
     "Farba": "hnedo-čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Richtárska",
-    "Orient._č.": "  22      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "6530",
-    "Farba": "bielo-zlatá"
   },
   {
     "Mesto": "Žilina",
@@ -35363,15 +35363,6 @@
   {
     "Mesto": "Žilina",
     "Ulica": "Pod sadom",
-    "Orient._č.": "  25      ",
-    "Č._poschodia": "",
-    "Plemeno": "Jorkšírsky teriér",
-    "Č._známky": "492",
-    "Farba": "modrá-trieslová"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Pod sadom",
     "Orient._č.": "  29      ",
     "Č._poschodia": "",
     "Plemeno": "Jorkšírsky teriér",
@@ -35980,15 +35971,6 @@
     "Plemeno": "Novofundlandský pes",
     "Č._známky": "9539",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Školská",
-    "Orient._č.": "   8      ",
-    "Č._poschodia": "",
-    "Plemeno": "Kríženec",
-    "Č._známky": "9540",
-    "Farba": "bledohnedá"
   },
   {
     "Mesto": "Žilina",

@@ -5,19 +5,19 @@
   },
   {
     "Plemeno": "Jorkšírsky teriér",
-    "Počet": "335"
+    "Počet": "333"
   },
   {
     "Plemeno": "Nemecký ovčiak",
-    "Počet": "255"
+    "Počet": "253"
   },
   {
     "Plemeno": "Labradorský retriever",
-    "Počet": "203"
+    "Počet": "204"
   },
   {
     "Plemeno": "Maltézsky psík",
-    "Počet": "202"
+    "Počet": "200"
   },
   {
     "Plemeno": "Čivava",
@@ -25,7 +25,7 @@
   },
   {
     "Plemeno": "Jazvečík",
-    "Počet": "112"
+    "Počet": "110"
   },
   {
     "Plemeno": "Jack russel teriér",
@@ -37,14 +37,14 @@
   },
   {
     "Plemeno": "Staffordshirský bulteriér",
+    "Počet": "67"
+  },
+  {
+    "Plemeno": "Miešanec",
     "Počet": "66"
   },
   {
     "Plemeno": "Borderská kólia",
-    "Počet": "65"
-  },
-  {
-    "Plemeno": "Miešanec",
     "Počet": "65"
   },
   {
@@ -53,7 +53,7 @@
   },
   {
     "Plemeno": "Trpasličí pinč",
-    "Počet": "53"
+    "Počet": "54"
   },
   {
     "Plemeno": "Bišónik",
@@ -77,7 +77,7 @@
   },
   {
     "Plemeno": "Nemecký špic",
-    "Počet": "43"
+    "Počet": "42"
   },
   {
     "Plemeno": "Americký staffordshirský teriér",
@@ -89,7 +89,7 @@
   },
   {
     "Plemeno": "Pudel",
-    "Počet": "33"
+    "Počet": "34"
   },
   {
     "Plemeno": "Mops",
@@ -136,11 +136,11 @@
     "Počet": "21"
   },
   {
-    "Plemeno": "Westhighlandský biely teriér",
-    "Počet": "18"
+    "Plemeno": "Teriér",
+    "Počet": "19"
   },
   {
-    "Plemeno": "Teriér",
+    "Plemeno": "Westhighlandský biely teriér",
     "Počet": "18"
   },
   {
@@ -148,11 +148,11 @@
     "Počet": "17"
   },
   {
-    "Plemeno": "Pražský krysařík",
-    "Počet": "17"
+    "Plemeno": "Boloňský psík",
+    "Počet": "16"
   },
   {
-    "Plemeno": "Boloňský psík",
+    "Plemeno": "Pražský krysařík",
     "Počet": "16"
   },
   {
@@ -172,10 +172,6 @@
     "Počet": "13"
   },
   {
-    "Plemeno": "Anglický buldog",
-    "Počet": "13"
-  },
-  {
     "Plemeno": "Nemecká doga",
     "Počet": "13"
   },
@@ -190,6 +186,10 @@
   {
     "Plemeno": "Pomeranian",
     "Počet": "13"
+  },
+  {
+    "Plemeno": "Anglický buldog",
+    "Počet": "12"
   },
   {
     "Plemeno": "Bulteriér",
@@ -232,12 +232,16 @@
     "Počet": "9"
   },
   {
-    "Plemeno": "Švajčiarsky ovčiarsky pes",
+    "Plemeno": "Bostonský teriér",
     "Počet": "9"
   },
   {
-    "Plemeno": "Bostonský teriér",
-    "Počet": "8"
+    "Plemeno": "Boxer",
+    "Počet": "9"
+  },
+  {
+    "Plemeno": "Švajčiarsky ovčiarsky pes",
+    "Počet": "9"
   },
   {
     "Plemeno": "Kavkazský ovčiak",
@@ -248,7 +252,7 @@
     "Počet": "8"
   },
   {
-    "Plemeno": "Boxer",
+    "Plemeno": "Retriever",
     "Počet": "8"
   },
   {
@@ -277,10 +281,6 @@
   },
   {
     "Plemeno": "Aziat",
-    "Počet": "7"
-  },
-  {
-    "Plemeno": "Retriever",
     "Počet": "7"
   },
   {
@@ -736,10 +736,6 @@
     "Počet": "1"
   },
   {
-    "Plemeno": "Bloodhound",
-    "Počet": "1"
-  },
-  {
     "Plemeno": "Lurcher",
     "Počet": "1"
   },
@@ -797,6 +793,10 @@
   },
   {
     "Plemeno": "Švajčiarsky ovčiak",
+    "Počet": "1"
+  },
+  {
+    "Plemeno": "Saluki",
     "Počet": "1"
   }
 ]
