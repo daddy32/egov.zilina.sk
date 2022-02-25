@@ -1,5 +1,45 @@
 [
   {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 12, jedn. cena: 4 EUR, spolu: 48 EUR,\rPrevádzka, množ.: 12, jedn. cena: 3 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   84,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.02.2022",
+    "Dátum_zverejnenia": "24.02.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "Nájomné, množ.: 7,5, jedn. cena: 4 EUR, spolu: 30 EUR,\rPrevádzka, množ.: 7,5, jedn. cena: 3 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   52,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.02.2022",
+    "Dátum_zverejnenia": "24.02.2022"
+  },
+  {
+    "IČO": "42390109   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "REFLEX Žilina o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 22, jedn. cena: 4 EUR, spolu: 88 EUR,\rPrevádzka - žiaci, množ.: 10,5, jedn. cena: 3 EUR, spolu: 31,5 EUR,\rPrevádzka - dospelí, množ.: 11,5, jedn. cena: 11 EUR, spolu: 126,5 EUR",
+    "Celková_cena_(bez_DPH)": "   246,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.02.2022",
+    "Dátum_zverejnenia": "24.02.2022"
+  },
+  {
+    "IČO": "31924654   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Cirkevný zbor Evanjelickej cirkvi a. v. na Slovensku Žilina",
+    "Text_odb._faktúry": "Prevádzkové náklady, množ.: 1, jedn. cena: 1371,08 EUR, spolu: 1371,08 EUR",
+    "Celková_cena_(bez_DPH)": "  1 371,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.02.2022",
+    "Dátum_zverejnenia": "24.02.2022"
+  },
+  {
     "IČO": "36407470   ",
     "Číslo_faktúry": "20220024",
     "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
