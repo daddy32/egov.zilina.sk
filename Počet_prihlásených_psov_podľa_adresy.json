@@ -12926,7 +12926,7 @@
     "Časť_obce": "Bytčica",
     "Ulica": "Dlhá",
     "Orient._č.": "  49      ",
-    "Počet_psov": "1"
+    "Počet_psov": "0"
   },
   {
     "Mesto": "Žilina",
@@ -23048,7 +23048,7 @@
     "Časť_obce": "Budatín",
     "Ulica": "Horná",
     "Orient._č.": "  36      ",
-    "Počet_psov": "1"
+    "Počet_psov": "2"
   },
   {
     "Mesto": "Žilina",
@@ -45910,6 +45910,13 @@
     "Časť_obce": "Žilinská Lehota",
     "Ulica": "Na Slini",
     "Orient._č.": "   4      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Žilinská Lehota",
+    "Ulica": "Na Slini",
+    "Orient._č.": "   5      ",
     "Počet_psov": "0"
   },
   {
@@ -69168,6 +69175,13 @@
   },
   {
     "Mesto": "Žilina",
+    "Časť_obce": "Bánová",
+    "Ulica": "Študentská",
+    "Orient._č.": "  20A     ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
     "Časť_obce": "Považský Chlmec",
     "Ulica": "Študentská",
     "Orient._č.": "   1      ",
@@ -69255,13 +69269,6 @@
     "Časť_obce": "Považský Chlmec",
     "Ulica": "Študentská",
     "Orient._č.": "  20      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Považský Chlmec",
-    "Ulica": "Študentská",
-    "Orient._č.": "  20A     ",
     "Počet_psov": "0"
   },
   {

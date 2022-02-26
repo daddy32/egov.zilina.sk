@@ -6583,7 +6583,16 @@
     "Ulica": "Horná",
     "Orient._č.": "  36      ",
     "Č._poschodia": "",
-    "Plemeno": "Lexus",
+    "Plemeno": "Kríženec",
+    "Č._známky": "",
+    "Farba": "strieborno-sivá"
+  },
+  {
+    "Mesto": "Žilina",
+    "Ulica": "Horná",
+    "Orient._č.": "  36      ",
+    "Č._poschodia": "",
+    "Plemeno": "Kríženec",
     "Č._známky": "",
     "Farba": "čierna"
   },
@@ -8278,15 +8287,6 @@
     "Plemeno": "Pudel",
     "Č._známky": "8962",
     "Farba": "čierna"
-  },
-  {
-    "Mesto": "Žilina",
-    "Ulica": "Dlhá",
-    "Orient._č.": "  49      ",
-    "Č._poschodia": "",
-    "Plemeno": "Sibírsky husky",
-    "Č._známky": "8562",
-    "Farba": "šedo-biela"
   },
   {
     "Mesto": "Žilina",
@@ -19076,7 +19076,7 @@
     "Orient._č.": "   9      ",
     "Č._poschodia": "",
     "Plemeno": "Jazvečík",
-    "Č._známky": "8736",
+    "Č._známky": "9748",
     "Farba": "hnedá"
   },
   {

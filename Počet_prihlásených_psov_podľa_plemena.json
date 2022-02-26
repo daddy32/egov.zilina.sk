@@ -1,7 +1,7 @@
 [
   {
     "Plemeno": "Kríženec",
-    "Počet": "993"
+    "Počet": "995"
   },
   {
     "Plemeno": "Jorkšírsky teriér",
@@ -120,15 +120,15 @@
     "Počet": "24"
   },
   {
-    "Plemeno": "Sibírsky husky",
-    "Počet": "23"
-  },
-  {
     "Plemeno": "Malý bradáč",
     "Počet": "22"
   },
   {
     "Plemeno": "Rodézsky ridgeback",
+    "Počet": "22"
+  },
+  {
+    "Plemeno": "Sibírsky husky",
     "Počet": "22"
   },
   {
@@ -801,10 +801,6 @@
   },
   {
     "Plemeno": "Saluki",
-    "Počet": "1"
-  },
-  {
-    "Plemeno": "Lexus",
     "Počet": "1"
   }
 ]
