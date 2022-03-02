@@ -1,5 +1,55 @@
 [
   {
+    "IČO": "42168732   ",
+    "Číslo_faktúry": "20220030",
+    "Odberateľ": "ALLEA, n.o.",
+    "Text_odb._faktúry": "prenájom ľadovej plochy 23.01.2022, množ.: 1, jedn. cena: 35 EUR, spolu: 35 EUR",
+    "Celková_cena_(bez_DPH)": "   35,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "01.03.2022"
+  },
+  {
+    "IČO": "46691731   ",
+    "Číslo_faktúry": "20220026",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 3575 EUR, spolu: 3575 EUR",
+    "Celková_cena_(bez_DPH)": "  3 575,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.03.2022",
+    "Dátum_zverejnenia": "01.03.2022"
+  },
+  {
+    "IČO": "00314676   ",
+    "Číslo_faktúry": "20220027",
+    "Odberateľ": "Mesto Námestovo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 530 EUR, spolu: 530 EUR",
+    "Celková_cena_(bez_DPH)": "   530,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.03.2022",
+    "Dátum_zverejnenia": "01.03.2022"
+  },
+  {
+    "IČO": "00329614   ",
+    "Číslo_faktúry": "20220028",
+    "Odberateľ": "Mesto Spišská Nová Ves",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 530 EUR, spolu: 530 EUR",
+    "Celková_cena_(bez_DPH)": "   530,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.03.2022",
+    "Dátum_zverejnenia": "01.03.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220029",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.03.2022",
+    "Dátum_zverejnenia": "01.03.2022"
+  },
+  {
     "IČO": "47463023   ",
     "Číslo_faktúry": "2022009",
     "Odberateľ": "Sunrise Childcare s.r.o.",
