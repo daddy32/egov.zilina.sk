@@ -8375,13 +8375,6 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Brodno",
-    "Orient._č.": " 455      ",
-    "Počet_psov": "0"
-  },
-  {
-    "Mesto": "Žilina",
-    "Časť_obce": "Brodno",
-    "Ulica": "Brodno",
     "Orient._č.": " 457      ",
     "Počet_psov": "0"
   },
@@ -34653,6 +34646,13 @@
     "Mesto": "Žilina",
     "Časť_obce": "Brodno",
     "Ulica": "Ku krížu",
+    "Orient._č.": "  11      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Brodno",
+    "Ulica": "Ku krížu",
     "Orient._č.": "  12      ",
     "Počet_psov": "0"
   },
@@ -57250,6 +57250,13 @@
     "Časť_obce": "Vlčince",
     "Ulica": "Pod univerzitou",
     "Orient._č.": "   8      ",
+    "Počet_psov": "0"
+  },
+  {
+    "Mesto": "Žilina",
+    "Časť_obce": "Vlčince",
+    "Ulica": "Pod univerzitou",
+    "Orient._č.": "   9      ",
     "Počet_psov": "0"
   },
   {

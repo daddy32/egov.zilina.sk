@@ -1,5 +1,95 @@
 [
   {
+    "IČO": "52367541   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Tréningové stredisko mládeže Slávia Žilina, o.z.",
+    "Text_odb._faktúry": "Prenájom -  (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 84 EUR, spolu: 84 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 336 EUR, spolu: 336 EUR",
+    "Celková_cena_(bez_DPH)": "   420,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.02.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 80 EUR, spolu: 80 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.02.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "50431277   ",
+    "Číslo_faktúry": "012022",
+    "Odberateľ": "AKAZA o.z.",
+    "Text_odb._faktúry": "Nájom telocvične 2.splátka od 1.1.-30.6.2022, množ.: 1, jedn. cena: 455 EUR, spolu: 455 EUR",
+    "Celková_cena_(bez_DPH)": "   455,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.02.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie február 2022, množ.: 1, jedn. cena: 48 EUR, spolu: 48 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie február 2022, množ.: 1, jedn. cena: 90 EUR, spolu: 90 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy zo dňa 21.9.2021 za obdobie február 2022, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022014",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy . 24/2021 zo dňa 21.9.2021 za obdobie február 2022, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022015",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za obdobie február 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022016",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za obdobie február 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.03.2022",
+    "Dátum_zverejnenia": "02.03.2022"
+  },
+  {
     "IČO": "42168732   ",
     "Číslo_faktúry": "20220030",
     "Odberateľ": "ALLEA, n.o.",

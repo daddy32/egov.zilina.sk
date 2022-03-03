@@ -1,12 +1,5 @@
 [
   {
-    "Dlžník": "MYMA Invest, s. r. o.",
-    "Adresa_dlžníka": "M. R. Štefánika 3542a/73",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  310 345,85",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "ELTECO, a.s. \"v konkurze\"",
     "Adresa_dlžníka": "Sládkovičova 37/A",
     "Mesto": "Banská Bystrica",
@@ -25,6 +18,13 @@
     "Adresa_dlžníka": "Zelená 2C/X3",
     "Mesto": "Banská Bystrica",
     "Suma_daňových_nedoplatkov": "  116 028,17",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "MYMA Invest, s. r. o.",
+    "Adresa_dlžníka": "M. R. Štefánika 3542a/73",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  110 345,85",
     "Mena": "EUR"
   },
   {
@@ -95,13 +95,6 @@
     "Adresa_dlžníka": "Kollárova 73",
     "Mesto": "Martin",
     "Suma_daňových_nedoplatkov": "  40 454,96",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "SIRS - Project, a.s.",
-    "Adresa_dlžníka": "Framborská 291/12",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  35 583,00",
     "Mena": "EUR"
   },
   {
@@ -840,13 +833,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Trade rental, s.r.o.",
-    "Adresa_dlžníka": "Štrková 510/4",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "  2 495,04",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "SIRS-Akvizície, a.s.",
     "Adresa_dlžníka": "Framborská 291/12",
     "Mesto": "Žilina",
@@ -872,6 +858,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "  2 413,64",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Trade rental, s.r.o.",
+    "Adresa_dlžníka": "Štrková 510/4",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "  2 395,04",
     "Mena": "EUR"
   },
   {
@@ -13363,13 +13356,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Beáta Orbesová",
-    "Adresa_dlžníka": "Rozvodná 3198/13",
-    "Mesto": "Bratislava-Nové Mesto",
-    "Suma_daňových_nedoplatkov": "   249,87",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Martina Valášková",
     "Adresa_dlžníka": "Limbová 3058/20",
     "Mesto": "Žilina",
@@ -13591,6 +13577,13 @@
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   242,31",
+    "Mena": "EUR"
+  },
+  {
+    "Dlžník": "Beáta Orbesová",
+    "Adresa_dlžníka": "Rozvodná 3198/13",
+    "Mesto": "Bratislava-Nové Mesto",
+    "Suma_daňových_nedoplatkov": "   242,17",
     "Mena": "EUR"
   },
   {
@@ -13937,13 +13930,6 @@
     "Mena": "EUR"
   },
   {
-    "Dlžník": "Jozef Šurab",
-    "Adresa_dlžníka": "",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   235,02",
-    "Mena": "EUR"
-  },
-  {
     "Dlžník": "Ivana Kováčová",
     "Adresa_dlžníka": "Platanová 3227/12",
     "Mesto": "Žilina",
@@ -14238,6 +14224,13 @@
     "Mena": "EUR"
   },
   {
+    "Dlžník": "Jozef Šurab",
+    "Adresa_dlžníka": "",
+    "Mesto": "Žilina",
+    "Suma_daňových_nedoplatkov": "   225,78",
+    "Mena": "EUR"
+  },
+  {
     "Dlžník": "Júlia Tomková",
     "Adresa_dlžníka": "",
     "Mesto": "Žilina",
@@ -14389,13 +14382,6 @@
     "Adresa_dlžníka": "Dobšinského 1605/1",
     "Mesto": "Žilina",
     "Suma_daňových_nedoplatkov": "   224,98",
-    "Mena": "EUR"
-  },
-  {
-    "Dlžník": "Ing. Jozef Dúbravka",
-    "Adresa_dlžníka": "Sad SNP 658/5",
-    "Mesto": "Žilina",
-    "Suma_daňových_nedoplatkov": "   224,80",
     "Mena": "EUR"
   },
   {
