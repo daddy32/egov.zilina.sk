@@ -1,0 +1,52 @@
+# Check out this repo
+git pull
+
+# Fetch latest data
+# 1-10
+wget https://egov.zilina.sk/Default.aspx?NavigationState=160:0::plac1280:_144055_5_8 -O Zoznam_ulíc.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=840:0::plac2127:_144119_5_8 -O Zoznam_adries.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=880:0::plac2009:_144107_5_8 -O Počty_občanov_v_jednotlivých_rokoch.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=890:0::plac1400:_144057_5_8 -O Prírastky_a_úbytky_občanov_za_jednotlivé_roky.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=900:0::plac520:_144017_5_8 -O Počet_občanov_podľa_ulíc.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=910:0::plac2136:_144125_5_8 -O Počet_občanov_podľa_VMČ.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=920:0::plac1140:_144053_5_8 -O Počet_občanov_podľa_veku.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=925:0::plac2171:_144151_5_8 -O Počet_občanov_podľa_krstných_mien.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=935:0::plac2172:_144152_5_8 -O Počet_občanov_podľa_priezvisk.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=945:0::plac2174:_144154_5_8 -O Počet_občanov_podľa_dňa_narodenia.json
+
+# 11-20
+wget https://egov.zilina.sk/Default.aspx?NavigationState=162:0::plac2118:_144110_5_8 -O Orgány_samosprávy_mesta.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=802:0::plac2112:_266000_5_8 -O Oznámenie_o_čase_a_mieste_konania_volieb.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac580:_144026_5_8 -O Zoznam_prevádzok_v_meste.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=163:0::plac2113:_144109_5_8 -O Prevádzky_s_ukončenou_činnosťou.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=560:0::plac1541:_144058_5_8 -O Zoznam_podnikateľských_subjektov_v_meste.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=803:0::plac2114:_272000_5_8 -O Evidencia_psov_chovaných_v_meste.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=804:0::plac2115:_272001_5_8 -O Počet_prihlásených_psov_podľa_ulíc.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=805:0::plac2116:_272002_5_8 -O Počet_prihlásených_psov_podľa_adresy.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=812:0::plac2124:_272005_5_8 -O Počet_prihlásených_psov_podľa_plemena.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144101_5_8 -O Zmluvy.json
+
+# 21-30
+wget https://egov.zilina.sk/Default.aspx?NavigationState=779:0::plac1929:_144102_5_8 -O Dodávateľské_faktúry.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=780:0::plac1930:_144103_5_8 -O Odberateľské_faktúry.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=781:0::plac1931:_144104_5_8 -O Objednávky.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=262:0::plac1180:_144054_5_8 -O Uznesenia.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=610:0::plac2150:_144134_5_8 -O Úradná_tabuľa.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=806:0::plac2117:_272003_5_8 -O Zoznam_daňových_dlžníkov.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=440:0::plac1989:_144106_5_8 -O Rozdiel_príjmov_a_výdavkov_rozpočtov_po_rokoch.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=441:0::plac801:_144045_5_8 -O Prehľad_príjmov_rozpočtu.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=442:0::plac820:_144046_5_8 -O Prehľad_výdavkov_rozpočtu.json
+# wget https://egov.zilina.sk/Default.aspx?NavigationState=778:0::plac1889:_144156_5_8 -O Rozpočet.json
+
+# 31-33
+wget https://egov.zilina.sk/Default.aspx?NavigationState=860:0::plac2131:_144120_5_8 -O Školy_a_školské_zariadenia.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=940:0::plac2142:_144130_5_8 -O Hrobové_miesta.json
+wget https://egov.zilina.sk/Default.aspx?NavigationState=835:0::plac2176:_144155_5_8 -O Reklamné_zariadenia.json
+
+# Commit and push if it changed
+git config user.name "Automated"
+git config user.email "actions@users.noreply.github.com"
+git add -A
+timestamp=$(date -u)
+git commit -m "Data update (${timestamp})" || exit 0
+git push

@@ -1,5 +1,3145 @@
 [
   {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220147",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.08.2022",
+    "Dátum_zverejnenia": "18.08.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220148",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.08.2022",
+    "Dátum_zverejnenia": "18.08.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220149",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 334,48 EUR, spolu: 334,48 EUR",
+    "Celková_cena_(bez_DPH)": "   334,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.08.2022",
+    "Dátum_zverejnenia": "18.08.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220150",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.08.2022",
+    "Dátum_zverejnenia": "18.08.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220151",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2,51 EUR, spolu: 2,51 EUR",
+    "Celková_cena_(bez_DPH)": "   2,51",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.08.2022",
+    "Dátum_zverejnenia": "18.08.2022"
+  },
+  {
+    "IČO": "50426117   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "Jana Hulínová",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 150 EUR, spolu: 150 EUR",
+    "Celková_cena_(bez_DPH)": "   250,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.08.2022",
+    "Dátum_zverejnenia": "15.08.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220143",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.08.2022",
+    "Dátum_zverejnenia": "03.08.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022063",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 7/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 7/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.08.2022",
+    "Dátum_zverejnenia": "02.08.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022064",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 7/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.08.2022",
+    "Dátum_zverejnenia": "02.08.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022065",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 7/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 7/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 277,6 EUR, spolu: 277,6 EUR",
+    "Celková_cena_(bez_DPH)": "   347,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.08.2022",
+    "Dátum_zverejnenia": "02.08.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022062",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom skladu za 7/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "   20,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.08.2022",
+    "Dátum_zverejnenia": "02.08.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022061",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom kabinetu za 7/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR",
+    "Celková_cena_(bez_DPH)": "   40,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "02.08.2022"
+  },
+  {
+    "IČO": "36672297   ",
+    "Číslo_faktúry": "20220142",
+    "Odberateľ": "Severoslovenské vodárne a kanalizácie, a. s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 10 EUR, spolu: 10 EUR",
+    "Celková_cena_(bez_DPH)": "   10,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "01.08.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za obdobie 1.7.2022 - 15.7.2022, množ.: 1, jedn. cena: 83 EUR, spolu: 83 EUR",
+    "Celková_cena_(bez_DPH)": "   83,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda za obdobie 1.7.2022 - 15.7.2022, množ.: 1, jedn. cena: 5,16 EUR, spolu: 5,16 EUR,\rBazén - plyn, el. energia za obdobie 1.7.2022 - 15.7.2022, množ.: 1, jedn. cena: 184,81 EUR, spolu: 184,81 EUR",
+    "Celková_cena_(bez_DPH)": "   189,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za obdobie 18.7.2022 - 29.7.2022, množ.: 1, jedn. cena: 83 EUR, spolu: 83 EUR",
+    "Celková_cena_(bez_DPH)": "   83,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda za obdobie 18.7.2022 - 29.7.2022, množ.: 1, jedn. cena: 5,16 EUR, spolu: 5,16 EUR,\rBazén - plyn, el. energia za obdobie 18.7.2022 - 29.7.2022, množ.: 1, jedn. cena: 184,81 EUR, spolu: 184,81 EUR",
+    "Celková_cena_(bez_DPH)": "   189,97",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.08.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022053",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a dodatku č. 10 k tejto zmluvy zo dňa 27.6.2022 za obdobie júl 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.07.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022054",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 a dodatku č. 10 k tejto zmluve zo dňa 27.6.2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.07.2022",
+    "Dátum_zverejnenia": "29.07.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220141",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 31033,58 EUR, spolu: 31033,58 EUR",
+    "Celková_cena_(bez_DPH)": "  31 033,58",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "25.07.2022",
+    "Dátum_zverejnenia": "25.07.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "202200",
+    "Odberateľ": "Samuel Baláž",
+    "Text_odb._faktúry": "",
+    "Celková_cena_(bez_DPH)": "   10,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.07.2022",
+    "Dátum_zverejnenia": "22.07.2022"
+  },
+  {
+    "IČO": "36848751   ",
+    "Číslo_faktúry": "20220137",
+    "Odberateľ": "DAQE Slovakia s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 4588,5 EUR, spolu: 4588,5 EUR",
+    "Celková_cena_(bez_DPH)": "  4 588,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "18.07.2022",
+    "Dátum_zverejnenia": "19.07.2022"
+  },
+  {
+    "IČO": "35079886   ",
+    "Číslo_faktúry": "20220138",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 91,8, jedn. cena: ,5 EUR, spolu: 45,9 EUR",
+    "Celková_cena_(bez_DPH)": "   45,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2022",
+    "Dátum_zverejnenia": "19.07.2022"
+  },
+  {
+    "IČO": "40975649   ",
+    "Číslo_faktúry": "20220139",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 78,2, jedn. cena: ,5 EUR, spolu: 39,1 EUR",
+    "Celková_cena_(bez_DPH)": "   39,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2022",
+    "Dátum_zverejnenia": "19.07.2022"
+  },
+  {
+    "IČO": "44355891   ",
+    "Číslo_faktúry": "20220140",
+    "Odberateľ": "WHITE ONION s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 35,38 EUR, spolu: 35,38 EUR",
+    "Celková_cena_(bez_DPH)": "   35,38",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.07.2022",
+    "Dátum_zverejnenia": "19.07.2022"
+  },
+  {
+    "IČO": "47652420   ",
+    "Číslo_faktúry": "2022027",
+    "Odberateľ": "InHelp s.r.o.",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične do 30.6.2022, NZ 12/2022,, množ.: 22,5, jedn. cena: 4,45 EUR, spolu: 100,13 EUR",
+    "Celková_cena_(bez_DPH)": "   100,13",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "47652420   ",
+    "Číslo_faktúry": "2022028",
+    "Odberateľ": "InHelp s.r.o.",
+    "Text_odb._faktúry": "prevádzkové náklady za prenájom telocvične NZ 12/2022 do 30.6.2022, množ.: 22,5, jedn. cena: 10,55 EUR, spolu: 237,38 EUR",
+    "Celková_cena_(bez_DPH)": "   237,38",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "42069483   ",
+    "Číslo_faktúry": "2022029",
+    "Odberateľ": "Žilinská mestská basketbalová liga",
+    "Text_odb._faktúry": "prevádzkové nákllady za prenájom telocvične do 30.6.2022 NZ 4/2022, množ.: 32, jedn. cena: 10,55 EUR, spolu: 337,6 EUR",
+    "Celková_cena_(bez_DPH)": "   337,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "42069483   ",
+    "Číslo_faktúry": "2022030",
+    "Odberateľ": "Žilinská mestská basketbalová liga",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične do 30.6.2022, NZ 4/2022, množ.: 32, jedn. cena: 4,45 EUR, spolu: 142,4 EUR",
+    "Celková_cena_(bez_DPH)": "   142,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "53384245   ",
+    "Číslo_faktúry": "2022031",
+    "Odberateľ": "Norbert Július Janíček",
+    "Text_odb._faktúry": "prevádzkové náklady za prenájom telocvične do 30.6.2022 NZ 3/2022, množ.: 31,5, jedn. cena: 10,55 EUR, spolu: 332,33 EUR",
+    "Celková_cena_(bez_DPH)": "   332,33",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "53384245   ",
+    "Číslo_faktúry": "2022032",
+    "Odberateľ": "Norbert Július Janíček",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične NZ 3/2022, množ.: 31,5, jedn. cena: 4,45 EUR, spolu: 140,18 EUR",
+    "Celková_cena_(bez_DPH)": "   140,18",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2022033",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične NZ 1/2022 do 30.6.2022, množ.: 111, jedn. cena: 4,45 EUR, spolu: 493,95 EUR",
+    "Celková_cena_(bez_DPH)": "   493,95",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2022034",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "prevádzkové náklady za prenájom telocvične do 30.6.2022 NZ 1/2022, množ.: 111, jedn. cena: 10,55 EUR, spolu: 1171,05 EUR",
+    "Celková_cena_(bez_DPH)": "  1 171,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "52581306   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "Šport pre novú generáciu",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 200 EUR, spolu: 200 EUR",
+    "Celková_cena_(bez_DPH)": "   200,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220136",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 7,92 EUR, spolu: 7,92 EUR",
+    "Celková_cena_(bez_DPH)": "   7,92",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.07.2022",
+    "Dátum_zverejnenia": "15.07.2022"
+  },
+  {
+    "IČO": "36765121   ",
+    "Číslo_faktúry": "20220135",
+    "Odberateľ": "auctio, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 55 EUR, spolu: 55 EUR",
+    "Celková_cena_(bez_DPH)": "   55,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.07.2022",
+    "Dátum_zverejnenia": "14.07.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20220134",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.07.2022",
+    "Dátum_zverejnenia": "13.07.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220126",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.07.2022",
+    "Dátum_zverejnenia": "12.07.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220127",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.07.2022",
+    "Dátum_zverejnenia": "12.07.2022"
+  },
+  {
+    "IČO": "37977440   ",
+    "Číslo_faktúry": "032022",
+    "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
+    "Text_odb._faktúry": "Refundácia vodné stočné, množ.: 1, jedn. cena: 338,44 EUR, spolu: 338,44 EUR",
+    "Celková_cena_(bez_DPH)": "   338,44",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.06.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022014",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 240 EUR, spolu: 240 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 600 EUR, spolu: 600 EUR",
+    "Celková_cena_(bez_DPH)": "   840,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "37813412   ",
+    "Číslo_faktúry": "2022015",
+    "Odberateľ": "Základná umelecká škola Ferka Špániho",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 192,5 EUR, spolu: 192,5 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 770 EUR, spolu: 770 EUR",
+    "Celková_cena_(bez_DPH)": "   962,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2022016",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 66 EUR, spolu: 66 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 264 EUR, spolu: 264 EUR",
+    "Celková_cena_(bez_DPH)": "   330,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2022017",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 46 EUR, spolu: 46 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 184 EUR, spolu: 184 EUR",
+    "Celková_cena_(bez_DPH)": "   230,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022018",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 144 EUR, spolu: 144 EUR",
+    "Celková_cena_(bez_DPH)": "   180,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022019",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 244 EUR, spolu: 244 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 976 EUR, spolu: 976 EUR",
+    "Celková_cena_(bez_DPH)": "  1 220,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2022020",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 176 EUR, spolu: 176 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 704 EUR, spolu: 704 EUR",
+    "Celková_cena_(bez_DPH)": "   880,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "52367541   ",
+    "Číslo_faktúry": "2022021",
+    "Odberateľ": "Tréningové stredisko mládeže Slávia Žilina, o.z.",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 480 EUR, spolu: 480 EUR",
+    "Celková_cena_(bez_DPH)": "   600,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "37911139   ",
+    "Číslo_faktúry": "2022022",
+    "Odberateľ": "Občianske združenie Hájik deťom",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 2 EUR, spolu: 2 EUR",
+    "Celková_cena_(bez_DPH)": "   2,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220123",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220124",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 334,48 EUR, spolu: 334,48 EUR",
+    "Celková_cena_(bez_DPH)": "   334,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "50634518   ",
+    "Číslo_faktúry": "20220125",
+    "Odberateľ": "Zberné suroviny Žilina a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 27 EUR, spolu: 27 EUR",
+    "Celková_cena_(bez_DPH)": "   27,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.07.2022",
+    "Dátum_zverejnenia": "11.07.2022"
+  },
+  {
+    "IČO": "42140251   ",
+    "Číslo_faktúry": "20220119",
+    "Odberateľ": "Slovenská komora medicínsko-technických pracovníkov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 175 EUR, spolu: 175 EUR",
+    "Celková_cena_(bez_DPH)": "   175,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2022",
+    "Dátum_zverejnenia": "08.07.2022"
+  },
+  {
+    "IČO": "45740313   ",
+    "Číslo_faktúry": "20220120",
+    "Odberateľ": "KANTORKA, n.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 200 EUR, spolu: 200 EUR",
+    "Celková_cena_(bez_DPH)": "   200,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2022",
+    "Dátum_zverejnenia": "08.07.2022"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "20220121",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 400 EUR, spolu: 400 EUR",
+    "Celková_cena_(bez_DPH)": "   400,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2022",
+    "Dátum_zverejnenia": "08.07.2022"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "20220122",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 150 EUR, spolu: 150 EUR",
+    "Celková_cena_(bez_DPH)": "   150,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2022",
+    "Dátum_zverejnenia": "08.07.2022"
+  },
+  {
+    "IČO": "00178152   ",
+    "Číslo_faktúry": "20220118",
+    "Odberateľ": "Slovenský zväz záhradkárov, ZO č. 28-85 - Do Stráne",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.07.2022",
+    "Dátum_zverejnenia": "08.07.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022059",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 61, jedn. cena: 1 EUR, spolu: 61 EUR,\rprenájom skladu za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 61, jedn. cena: 4 EUR, spolu: 244 EUR",
+    "Celková_cena_(bez_DPH)": "   325,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022060",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 66, jedn. cena: 4,5 EUR, spolu: 297 EUR,\rprenájom kabinetu za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 66, jedn. cena: 7,5 EUR, spolu: 495 EUR",
+    "Celková_cena_(bez_DPH)": "   832,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022051",
+    "Odberateľ": "Peter Hnát",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022052",
+    "Odberateľ": "Ing. Juraj Hájovský",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 7,5, jedn. cena: 5 EUR, spolu: 37,5 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 7,5, jedn. cena: 10 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   112,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022053",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 277,6 EUR, spolu: 277,6 EUR",
+    "Celková_cena_(bez_DPH)": "   347,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022054",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022055",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022056",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 9, jedn. cena: 1 EUR, spolu: 9 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 9, jedn. cena: 5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   54,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022057",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2022058",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 6/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 4,5 EUR, spolu: 18 EUR,\rprevádzkové náklady za 6/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 7,5 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.07.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "36010057   ",
+    "Číslo_faktúry": "22001",
+    "Odberateľ": "A2B, s.r.o.",
+    "Text_odb._faktúry": "vývoz a likvidácia odpadovej vody zo žumpy 2022, množ.: 1, jedn. cena: 180,76 EUR, spolu: 180,76 EUR",
+    "Celková_cena_(bez_DPH)": "   180,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "20.06.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "31584705   ",
+    "Číslo_faktúry": "22002",
+    "Odberateľ": "BYTTERM, a.s.",
+    "Text_odb._faktúry": "vývoz a likvidácia odpadovej vody zo žumpy 2022, množ.: 1, jedn. cena: 15,39 EUR, spolu: 15,39 EUR",
+    "Celková_cena_(bez_DPH)": "   15,39",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "20.06.2022",
+    "Dátum_zverejnenia": "06.07.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220117",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022023",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične jún 2022, NZ 8/2022, krúžok karate, množ.: 9, jedn. cena: 4,45 EUR, spolu: 40,05 EUR",
+    "Celková_cena_(bez_DPH)": "   40,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022024",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady telocvičňa jún 2022, NZ 8/2022, krúžok karate, množ.: 9, jedn. cena: 10,54 EUR, spolu: 94,86 EUR",
+    "Celková_cena_(bez_DPH)": "   94,86",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022025",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady telocvičňa jún 2022, NZ 2/2022, krúžok basketbal, množ.: 13,5, jedn. cena: 10,54 EUR, spolu: 142,29 EUR",
+    "Celková_cena_(bez_DPH)": "   142,29",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022026",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične jún 2022, NZ 2/2022, krúžok basketbal, množ.: 13,5, jedn. cena: 4,45 EUR, spolu: 60,08 EUR",
+    "Celková_cena_(bez_DPH)": "   60,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za 6/2022, množ.: 1, jedn. cena: 166 EUR, spolu: 166 EUR",
+    "Celková_cena_(bez_DPH)": "   166,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda, množ.: 1, jedn. cena: 37,03 EUR, spolu: 37,03 EUR,\rBazén - plyn, elektrická energia, množ.: 1, jedn. cena: 431,99 EUR, spolu: 431,99 EUR",
+    "Celková_cena_(bez_DPH)": "   469,02",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "nájom telocvične, množ.: 1, jedn. cena: 13,05 EUR, spolu: 13,05 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 144 EUR, spolu: 144 EUR",
+    "Celková_cena_(bez_DPH)": "   157,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "nájom telocvične, množ.: 1, jedn. cena: 28,2 EUR, spolu: 28,2 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 612,5 EUR, spolu: 612,5 EUR",
+    "Celková_cena_(bez_DPH)": "   640,70",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.07.2022",
+    "Dátum_zverejnenia": "04.07.2022"
+  },
+  {
+    "IČO": "37740881   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Veronika Čech-Špirková",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 27,23 EUR, spolu: 27,23 EUR,\rStočné, množ.: 1, jedn. cena: 29,07 EUR, spolu: 29,07 EUR",
+    "Celková_cena_(bez_DPH)": "   56,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2022",
+    "Dátum_zverejnenia": "01.07.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022051",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021zo dňa 3.5.2021 za mesiac jún 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "30.06.2022",
+    "Dátum_zverejnenia": "30.06.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022052",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac jún 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "30.06.2022",
+    "Dátum_zverejnenia": "30.06.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022014",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "Nájomné, množ.: 8,5, jedn. cena: 4 EUR, spolu: 34 EUR,\rPrevádzka, množ.: 8,5, jedn. cena: 3 EUR, spolu: 25,5 EUR",
+    "Celková_cena_(bez_DPH)": "   59,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.06.2022",
+    "Dátum_zverejnenia": "29.06.2022"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022015",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 12, jedn. cena: 4 EUR, spolu: 48 EUR,\rPrevádzka, množ.: 12, jedn. cena: 3 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   84,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.06.2022",
+    "Dátum_zverejnenia": "29.06.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220115",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 27688,46 EUR, spolu: 27688,46 EUR",
+    "Celková_cena_(bez_DPH)": "  27 688,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2022",
+    "Dátum_zverejnenia": "29.06.2022"
+  },
+  {
+    "IČO": "36672297   ",
+    "Číslo_faktúry": "20220116",
+    "Odberateľ": "Severoslovenské vodárne a kanalizácie, a. s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2500 EUR, spolu: 2500 EUR",
+    "Celková_cena_(bez_DPH)": "  2 500,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "29.06.2022",
+    "Dátum_zverejnenia": "29.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022049",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. z-2/2022 a dodatku č. 1  zo dňa 3.6.2022, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
+    "Celková_cena_(bez_DPH)": "   32,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.06.2022",
+    "Dátum_zverejnenia": "28.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022050",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmyle Nájomnej zmluvy č. 2/2022 a prílohy č. 1 zo dňa 3.6.2022, množ.: 1, jedn. cena: 60 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   60,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.06.2022",
+    "Dátum_zverejnenia": "28.06.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022047",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Náíjomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie jún 2022, množ.: 1, jedn. cena: 12 EUR, spolu: 12 EUR",
+    "Celková_cena_(bez_DPH)": "   12,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.06.2022",
+    "Dátum_zverejnenia": "28.06.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022048",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021, množ.: 1, jedn. cena: 22,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   22,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.06.2022",
+    "Dátum_zverejnenia": "28.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "102022",
+    "Odberateľ": "Martin Schmidt",
+    "Text_odb._faktúry": "nájom telocvične od 17.1. do 30.6.2022, množ.: 33, jedn. cena: 2,5 EUR, spolu: 82,5 EUR,\rprevádzkové náklady telocvične od 17.1. do 30.6.2022, množ.: 33, jedn. cena: 7,5 EUR, spolu: 247,5 EUR",
+    "Celková_cena_(bez_DPH)": "   330,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "112022",
+    "Odberateľ": "Mgr. Erika Hubinská",
+    "Text_odb._faktúry": "prevádzkové náklady telocvične od 17.1. do 30.6.2022, množ.: 44, jedn. cena: 7,5 EUR, spolu: 330 EUR",
+    "Celková_cena_(bez_DPH)": "   330,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "122022",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady telocvične  od 18.1. do 30.6.2022, množ.: 33, jedn. cena: 7,5 EUR, spolu: 247,5 EUR",
+    "Celková_cena_(bez_DPH)": "   247,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "132022",
+    "Odberateľ": "Ján Kavecký",
+    "Text_odb._faktúry": "prevádzkové náklady telocvične od 19.1. do 30.6.2022, množ.: 33, jedn. cena: 7,5 EUR, spolu: 247,5 EUR",
+    "Celková_cena_(bez_DPH)": "   247,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "31940803   ",
+    "Číslo_faktúry": "142022",
+    "Odberateľ": "Klub plaveckých športov Nereus",
+    "Text_odb._faktúry": "prevádzkové náklady bazéna od 14.3. do 30.6.2022, množ.: 60, jedn. cena: 17,5 EUR, spolu: 1050 EUR",
+    "Celková_cena_(bez_DPH)": "  1 050,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "42433975   ",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "Súkromná umelecká škola Anima Libera",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 9,4 EUR, spolu: 9,4 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 63 EUR, spolu: 63 EUR",
+    "Celková_cena_(bez_DPH)": "   72,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "42390885   ",
+    "Číslo_faktúry": "152022",
+    "Odberateľ": "Dory",
+    "Text_odb._faktúry": "prevádzkové náklady bazéna od 1.4. do 24.6.2022, množ.: 24, jedn. cena: 17,5 EUR, spolu: 420 EUR",
+    "Celková_cena_(bez_DPH)": "   420,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "47314702   ",
+    "Číslo_faktúry": "162022",
+    "Odberateľ": "Zuzana Šnajderová",
+    "Text_odb._faktúry": "prevádzkové náklady bazéna od 7.4. do 23.6.2022, množ.: 22, jedn. cena: 17,5 EUR, spolu: 385 EUR",
+    "Celková_cena_(bez_DPH)": "   385,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "31648479   ",
+    "Číslo_faktúry": "20220114",
+    "Odberateľ": "Plzeňský Prazdroj Slovensko, a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 5000 EUR, spolu: 5000 EUR",
+    "Celková_cena_(bez_DPH)": "  5 000,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "27.06.2022",
+    "Dátum_zverejnenia": "27.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "Ing. Helena Žilová",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 15,45 EUR, spolu: 15,45 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   135,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.06.2022",
+    "Dátum_zverejnenia": "23.06.2022"
+  },
+  {
+    "IČO": "30229839   ",
+    "Číslo_faktúry": "20220113",
+    "Odberateľ": "Mestské divadlo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 179,04 EUR, spolu: 179,04 EUR",
+    "Celková_cena_(bez_DPH)": "   179,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "17.06.2022",
+    "Dátum_zverejnenia": "17.06.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220112",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -12,05 EUR, spolu: -12,05 EUR",
+    "Celková_cena_(bez_DPH)": "-   12,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "17.06.2022",
+    "Dátum_zverejnenia": "17.06.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220110",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 335,48 EUR, spolu: 335,48 EUR",
+    "Celková_cena_(bez_DPH)": "   335,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "16.06.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220111",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.06.2022",
+    "Dátum_zverejnenia": "16.06.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220108",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.06.2022",
+    "Dátum_zverejnenia": "14.06.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220109",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.06.2022",
+    "Dátum_zverejnenia": "14.06.2022"
+  },
+  {
+    "IČO": "54132975   ",
+    "Číslo_faktúry": "22004",
+    "Odberateľ": "Regionálny úrad školskej správy v Žiline",
+    "Text_odb._faktúry": "Športové olympiády, množ.: 1, jedn. cena: 824,69 EUR, spolu: 824,69 EUR",
+    "Celková_cena_(bez_DPH)": "   824,69",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "54132975   ",
+    "Číslo_faktúry": "22005",
+    "Odberateľ": "Regionálny úrad školskej správy v Žiline",
+    "Text_odb._faktúry": "Predmetové olympiády, množ.: 1, jedn. cena: 2380,56 EUR, spolu: 2380,56 EUR",
+    "Celková_cena_(bez_DPH)": "  2 380,56",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "072022",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "Nájom telocvične 18.1.-30.6.2022, množ.: 38,5, jedn. cena: 2,5 EUR, spolu: 96,25 EUR,\rPrevádzkové náklady telocvične 18.1.-30.6.2022, množ.: 38,5, jedn. cena: 7,5 EUR, spolu: 288,75 EUR",
+    "Celková_cena_(bez_DPH)": "   385,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "36434744   ",
+    "Číslo_faktúry": "082022",
+    "Odberateľ": "IPV vzdelávanie s.r.o.",
+    "Text_odb._faktúry": "prenájom telecvične od 15.2.-30.6., množ.: 25, jedn. cena: 2,5 EUR, spolu: 62,5 EUR,\rprenájom učebne od 15.2.-30.6., množ.: 9, jedn. cena: 1 EUR, spolu: 9 EUR,\rprevádzkové náklady telocvične od 15.2.-30.6., množ.: 25, jedn. cena: 7,5 EUR, spolu: 187,5 EUR,\rprevádzkové náklady učebne od 15.2.-30.6., množ.: 9, jedn. cena: 3,5 EUR, spolu: 31,5 EUR",
+    "Celková_cena_(bez_DPH)": "   290,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "36434744   ",
+    "Číslo_faktúry": "092022",
+    "Odberateľ": "IPV vzdelávanie s.r.o.",
+    "Text_odb._faktúry": "prenájom plavárne od 25.2.-30.6.2022, množ.: 6, jedn. cena: 1,5 EUR, spolu: 9 EUR,\rprevádzkové náklady plavárne od 25.2.-30.6.2022, množ.: 6, jedn. cena: 17 EUR, spolu: 102 EUR",
+    "Celková_cena_(bez_DPH)": "   111,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "Nájomné, množ.: 10, jedn. cena: 4 EUR, spolu: 40 EUR,\rPrevádzka, množ.: 10, jedn. cena: 3 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   70,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 14, jedn. cena: 4 EUR, spolu: 56 EUR,\rPrevádzka, množ.: 14, jedn. cena: 3 EUR, spolu: 42 EUR",
+    "Celková_cena_(bez_DPH)": "   98,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.06.2022",
+    "Dátum_zverejnenia": "13.06.2022"
+  },
+  {
+    "IČO": "42221749   ",
+    "Číslo_faktúry": "22022",
+    "Odberateľ": "Súkromná základná umelecká škola BRIOSO",
+    "Text_odb._faktúry": "Prenájom, množ.: 1, jedn. cena: 300 EUR, spolu: 300 EUR",
+    "Celková_cena_(bez_DPH)": "   300,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "28.04.2022",
+    "Dátum_zverejnenia": "10.06.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022019",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične máj 2022, NZ 8/2022, krúžok karate, množ.: 9, jedn. cena: 4,45 EUR, spolu: 40,05 EUR",
+    "Celková_cena_(bez_DPH)": "   40,05",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.06.2022",
+    "Dátum_zverejnenia": "10.06.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022020",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady prenájom telocvične máj 2022, NZ 8/2022, krúžok karate, množ.: 9, jedn. cena: 10,54 EUR, spolu: 94,86 EUR",
+    "Celková_cena_(bez_DPH)": "   94,86",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.06.2022",
+    "Dátum_zverejnenia": "10.06.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022021",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične máj 2022, NZ 2/2022, krúžok basketbal, množ.: 19,5, jedn. cena: 4,45 EUR, spolu: 86,78 EUR",
+    "Celková_cena_(bez_DPH)": "   86,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.06.2022",
+    "Dátum_zverejnenia": "10.06.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022022",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady prenájom telocvične máj 2022, NZ 2/2022, krúžok basketbal, množ.: 19,5, jedn. cena: 10,54 EUR, spolu: 205,53 EUR",
+    "Celková_cena_(bez_DPH)": "   205,53",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "10.06.2022",
+    "Dátum_zverejnenia": "10.06.2022"
+  },
+  {
+    "IČO": "37813358   ",
+    "Číslo_faktúry": "062022",
+    "Odberateľ": "Základná umelecká škola Ladislava Árvaya",
+    "Text_odb._faktúry": "nájomné 07-08/2022, množ.: 2, jedn. cena: 1 EUR, spolu: 2 EUR",
+    "Celková_cena_(bez_DPH)": "   2,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.06.2022",
+    "Dátum_zverejnenia": "08.06.2022"
+  },
+  {
+    "IČO": "37975480   ",
+    "Číslo_faktúry": "20220107",
+    "Odberateľ": "LETart production, o.z.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR",
+    "Celková_cena_(bez_DPH)": "   100,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.06.2022",
+    "Dátum_zverejnenia": "07.06.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220103",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "44241488   ",
+    "Číslo_faktúry": "20220104",
+    "Odberateľ": "Oxford University Press",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 150 EUR, spolu: 150 EUR",
+    "Celková_cena_(bez_DPH)": "   150,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "51424266   ",
+    "Číslo_faktúry": "20220105",
+    "Odberateľ": "Inštitút celoživotného vzdelávania Košice, n.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 95 EUR, spolu: 95 EUR",
+    "Celková_cena_(bez_DPH)": "   95,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "17815211   ",
+    "Číslo_faktúry": "20220106",
+    "Odberateľ": "Základná organizácia SZZ č. 28-93 Budatín - Záhumnie",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022050",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 79,5, jedn. cena: 4,5 EUR, spolu: 357,75 EUR,\rprenájom kabinetu za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 79,5, jedn. cena: 7,5 EUR, spolu: 596,25 EUR",
+    "Celková_cena_(bez_DPH)": "   994,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2022049",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 3, jedn. cena: 4,5 EUR, spolu: 13,5 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 3, jedn. cena: 7,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.06.2022",
+    "Dátum_zverejnenia": "06.06.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022048",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 73, jedn. cena: 1 EUR, spolu: 73 EUR,\rprenájom skladu za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 73, jedn. cena: 4 EUR, spolu: 292 EUR",
+    "Celková_cena_(bez_DPH)": "   385,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.06.2022",
+    "Dátum_zverejnenia": "03.06.2022"
+  },
+  {
+    "IČO": "37813358   ",
+    "Číslo_faktúry": "052022",
+    "Odberateľ": "Základná umelecká škola Ladislava Árvaya",
+    "Text_odb._faktúry": "nájom od 10.1.-30.6.2022, množ.: 465,75, jedn. cena: 1 EUR, spolu: 465,75 EUR,\rprevádzkové náklady od 10.1.-30.6.2022, množ.: 465,75, jedn. cena: 3,5 EUR, spolu: 1630,13 EUR",
+    "Celková_cena_(bez_DPH)": "  2 095,88",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022041",
+    "Odberateľ": "Peter Hnát",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022042",
+    "Odberateľ": "Ing. Juraj Hájovský",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 5 EUR, spolu: 30 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 10 EUR, spolu: 60 EUR,\rprenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR",
+    "Celková_cena_(bez_DPH)": "   159,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022043",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 277,6 EUR, spolu: 277,6 EUR",
+    "Celková_cena_(bez_DPH)": "   347,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022044",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022045",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022046",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 5/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 9, jedn. cena: 1 EUR, spolu: 9 EUR,\rprevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 9, jedn. cena: 5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   54,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022047",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 5/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022039",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2022 za mesiac máj 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022040",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac máj 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022041",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie máj 2022, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR",
+    "Celková_cena_(bez_DPH)": "   40,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022042",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie máj 2022, množ.: 1, jedn. cena: 75 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022043",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie máj 2022, množ.: 1, jedn. cena: 42 EUR, spolu: 42 EUR",
+    "Celková_cena_(bez_DPH)": "   42,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022044",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2022 za obdobie máj 2022, množ.: 1, jedn. cena: 78,75 EUR, spolu: 78,75 EUR",
+    "Celková_cena_(bez_DPH)": "   78,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022045",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie máj 2022, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022046",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie máj 2022, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.06.2022",
+    "Dátum_zverejnenia": "02.06.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za 5/2022, množ.: 1, jedn. cena: 166 EUR, spolu: 166 EUR",
+    "Celková_cena_(bez_DPH)": "   166,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.06.2022",
+    "Dátum_zverejnenia": "01.06.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda, množ.: 1, jedn. cena: 31,55 EUR, spolu: 31,55 EUR,\rBazén - plyn, elektrická energia, množ.: 1, jedn. cena: 481,47 EUR, spolu: 481,47 EUR",
+    "Celková_cena_(bez_DPH)": "   513,02",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.06.2022",
+    "Dátum_zverejnenia": "01.06.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20220101",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.05.2022",
+    "Dátum_zverejnenia": "26.05.2022"
+  },
+  {
+    "IČO": "50431277   ",
+    "Číslo_faktúry": "042022",
+    "Odberateľ": "AKAZA o.z.",
+    "Text_odb._faktúry": "prevádzkové náklady 1.1.-30.6.2022, množ.: 182, jedn. cena: 7,5 EUR, spolu: 1365 EUR",
+    "Celková_cena_(bez_DPH)": "  1 365,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "26.04.2022",
+    "Dátum_zverejnenia": "24.05.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220097",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 21846,04 EUR, spolu: 21846,04 EUR",
+    "Celková_cena_(bez_DPH)": "  21 846,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.05.2022",
+    "Dátum_zverejnenia": "24.05.2022"
+  },
+  {
+    "IČO": "46691731   ",
+    "Číslo_faktúry": "20220096",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1020,7 EUR, spolu: 1020,7 EUR",
+    "Celková_cena_(bez_DPH)": "  1 020,70",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.05.2022",
+    "Dátum_zverejnenia": "24.05.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Jaroslav Žiačik",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 37,6 EUR, spolu: 37,6 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 168 EUR, spolu: 168 EUR",
+    "Celková_cena_(bez_DPH)": "   205,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.05.2022",
+    "Dátum_zverejnenia": "20.05.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220095",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -17,08 EUR, spolu: -17,08 EUR",
+    "Celková_cena_(bez_DPH)": "-   17,08",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.05.2022",
+    "Dátum_zverejnenia": "19.05.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "Nájomné, množ.: 6,5, jedn. cena: 4 EUR, spolu: 26 EUR,\rPrevádzka, množ.: 6,5, jedn. cena: 3 EUR, spolu: 19,5 EUR",
+    "Celková_cena_(bez_DPH)": "   45,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "17.05.2022",
+    "Dátum_zverejnenia": "17.05.2022"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 10,5, jedn. cena: 4 EUR, spolu: 42 EUR,\rPrevádzka, množ.: 10,5, jedn. cena: 3 EUR, spolu: 31,5 EUR",
+    "Celková_cena_(bez_DPH)": "   73,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "17.05.2022",
+    "Dátum_zverejnenia": "17.05.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2022036",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 8, jedn. cena: 4,5 EUR, spolu: 36 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 8, jedn. cena: 7,5 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   96,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2022037",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 3, jedn. cena: 4,5 EUR, spolu: 13,5 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 3, jedn. cena: 7,5 EUR, spolu: 22,5 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022038",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 277,6 EUR, spolu: 277,6 EUR",
+    "Celková_cena_(bez_DPH)": "   347,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022039",
+    "Odberateľ": "Peter Hnát",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 5 EUR, spolu: 30 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 10 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022040",
+    "Odberateľ": "Ing. Juraj Hájovský",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 5 EUR, spolu: 30 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 10 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022031",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022032",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022033",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 1 EUR, spolu: 6 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 5 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022034",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022035",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 64,5, jedn. cena: 1 EUR, spolu: 64,5 EUR,\rprenájom skladu za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 64,5, jedn. cena: 4 EUR, spolu: 258 EUR",
+    "Celková_cena_(bez_DPH)": "   342,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.05.2022",
+    "Dátum_zverejnenia": "16.05.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022030",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 70,5, jedn. cena: 4,5 EUR, spolu: 317,25 EUR,\rprenájom kabinetu za 4/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 4/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 70,5, jedn. cena: 7,5 EUR, spolu: 528,75 EUR",
+    "Celková_cena_(bez_DPH)": "   886,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.05.2022",
+    "Dátum_zverejnenia": "12.05.2022"
+  },
+  {
+    "IČO": "54132975   ",
+    "Číslo_faktúry": "22002",
+    "Odberateľ": "Regionálny úrad školskej správy v Žiline",
+    "Text_odb._faktúry": "Športové olympiády, množ.: 1, jedn. cena: 781,12 EUR, spolu: 781,12 EUR",
+    "Celková_cena_(bez_DPH)": "   781,12",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.05.2022",
+    "Dátum_zverejnenia": "10.05.2022"
+  },
+  {
+    "IČO": "54132975   ",
+    "Číslo_faktúry": "22003",
+    "Odberateľ": "Regionálny úrad školskej správy v Žiline",
+    "Text_odb._faktúry": "Predmetové olympiády, množ.: 1, jedn. cena: 1083,29 EUR, spolu: 1083,29 EUR",
+    "Celková_cena_(bez_DPH)": "  1 083,29",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.05.2022",
+    "Dátum_zverejnenia": "10.05.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022017",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady apríl 2022, telocvičňa, NZ 2/2022, krúžok basketbal, množ.: 16,5, jedn. cena: 10,54 EUR, spolu: 173,91 EUR",
+    "Celková_cena_(bez_DPH)": "   173,91",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022018",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné telocvičňa apríl 2022,  NZ 2/2022, krúžok basketbal, množ.: 16,5, jedn. cena: 4,45 EUR, spolu: 73,43 EUR",
+    "Celková_cena_(bez_DPH)": "   73,43",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "nájomné, množ.: 6,5, jedn. cena: 4 EUR, spolu: 26 EUR,\rprevádzka, množ.: 6,5, jedn. cena: 3 EUR, spolu: 19,5 EUR",
+    "Celková_cena_(bez_DPH)": "   45,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "nájomné, množ.: 12, jedn. cena: 4 EUR, spolu: 48 EUR,\rprevádzka, množ.: 12, jedn. cena: 3 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   84,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220089",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220090",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 383,48 EUR, spolu: 383,48 EUR",
+    "Celková_cena_(bez_DPH)": "   383,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "17863368   ",
+    "Číslo_faktúry": "20220091",
+    "Odberateľ": "Marta Tichá - MÓDALUX",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 112,57 EUR, spolu: 112,57 EUR",
+    "Celková_cena_(bez_DPH)": "   112,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "41411919   ",
+    "Číslo_faktúry": "20220092",
+    "Odberateľ": "Dáša Repkovská - VITALIS",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 218,98 EUR, spolu: 218,98 EUR",
+    "Celková_cena_(bez_DPH)": "   218,98",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "22001",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 366,98 EUR, spolu: 366,98 EUR,\rStočné, množ.: 1, jedn. cena: 402,79 EUR, spolu: 402,79 EUR",
+    "Celková_cena_(bez_DPH)": "   769,77",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "00178152   ",
+    "Číslo_faktúry": "20220093",
+    "Odberateľ": "Slovenský zväz záhradkárov, ZO č. 28-67 Žilina-Mojšova Lúčka-Za vrchom",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR",
+    "Celková_cena_(bez_DPH)": "   100,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "00178152   ",
+    "Číslo_faktúry": "20220094",
+    "Odberateľ": "Slovenský zväz záhradkárov, ZO č. 28-21 Žilina-Lúčky",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100 EUR, spolu: 100 EUR",
+    "Celková_cena_(bez_DPH)": "   100,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022015",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične apríl 2022, NZ 8/2022, krúžok karate, množ.: 7, jedn. cena: 4,45 EUR, spolu: 31,15 EUR",
+    "Celková_cena_(bez_DPH)": "   31,15",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022016",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady apríl 2022, tellocvičňa, NZ 8/2022, krúžok karate, množ.: 7, jedn. cena: 10,54 EUR, spolu: 73,78 EUR",
+    "Celková_cena_(bez_DPH)": "   73,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.05.2022",
+    "Dátum_zverejnenia": "09.05.2022"
+  },
+  {
+    "IČO": "52367541   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Tréningové stredisko mládeže Slávia Žilina, o.z.",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 52 EUR, spolu: 52 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 208 EUR, spolu: 208 EUR",
+    "Celková_cena_(bez_DPH)": "   260,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "42220971   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Basketbalový klub mládeže Žilina-Závodie",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 60 EUR, spolu: 60 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 240 EUR, spolu: 240 EUR",
+    "Celková_cena_(bez_DPH)": "   300,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 44 EUR, spolu: 44 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 176 EUR, spolu: 176 EUR",
+    "Celková_cena_(bez_DPH)": "   220,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 242 EUR, spolu: 242 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 968 EUR, spolu: 968 EUR",
+    "Celková_cena_(bez_DPH)": "  1 210,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "50646079   ",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "Občianske združenie SKIPY",
+    "Text_odb._faktúry": "Prenájom - poníženie nákladov (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 160 EUR, spolu: 160 EUR",
+    "Celková_cena_(bez_DPH)": "   200,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 228 EUR, spolu: 228 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 912 EUR, spolu: 912 EUR",
+    "Celková_cena_(bez_DPH)": "  1 140,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "52278255   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "Slovan Malá Fatra - Hádzanársky klub Žilina",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 33 EUR, spolu: 33 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 132 EUR, spolu: 132 EUR",
+    "Celková_cena_(bez_DPH)": "   165,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "37813412   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "Základná umelecká škola Ferka Špániho",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 182 EUR, spolu: 182 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 728 EUR, spolu: 728 EUR",
+    "Celková_cena_(bez_DPH)": "   910,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "50646079   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "Občianske združenie SKIPY",
+    "Text_odb._faktúry": "Prenájom - (účet SK82 5600 0000 0003 0454 0006), množ.: 1, jedn. cena: 14 EUR, spolu: 14 EUR,\rPrenájom - poníženie nákladov (účet SK52 5600 0000 0003 0454 2001), množ.: 1, jedn. cena: 56 EUR, spolu: 56 EUR",
+    "Celková_cena_(bez_DPH)": "   70,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "06.05.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220083",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.05.2022",
+    "Dátum_zverejnenia": "05.05.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220084",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.05.2022",
+    "Dátum_zverejnenia": "05.05.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220085",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.05.2022",
+    "Dátum_zverejnenia": "05.05.2022"
+  },
+  {
+    "IČO": "37977105   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Občianske združenie Seishin",
+    "Text_odb._faktúry": "nájom, množ.: 1, jedn. cena: 28,2 EUR, spolu: 28,2 EUR,\rprevádz. N, množ.: 1, jedn. cena: 539 EUR, spolu: 539 EUR",
+    "Celková_cena_(bez_DPH)": "   567,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "03.05.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022037",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie apríl 2022, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022038",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2022 za obdobie apríl 2022, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za 4/2022, množ.: 1, jedn. cena: 166 EUR, spolu: 166 EUR",
+    "Celková_cena_(bez_DPH)": "   166,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda, množ.: 1, jedn. cena: 31,55 EUR, spolu: 31,55 EUR,\rBazén - plyn, elektrická energia, množ.: 1, jedn. cena: 521,56 EUR, spolu: 521,56 EUR",
+    "Celková_cena_(bez_DPH)": "   553,11",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022031",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za mesiac apríl 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022032",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy zo dňa 03.05.2021 za mesiac apríl 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022033",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "Nájomné v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie apríl 2022, množ.: 1, jedn. cena: 24 EUR, spolu: 24 EUR",
+    "Celková_cena_(bez_DPH)": "   24,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022034",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy če. 2/2022 zo dňa 14.1.2022 za obdobie apríl 2022, množ.: 1, jedn. cena: 45 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022035",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie apríl 2022, množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022036",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021zo dňa 24.9.2021 za obdobie apríl 2022, množ.: 1, jedn. cena: 67,5 EUR, spolu: 67,5 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "02.05.2022",
+    "Dátum_zverejnenia": "02.05.2022"
+  },
+  {
+    "IČO": "36141704   ",
+    "Číslo_faktúry": "022022",
+    "Odberateľ": "Žilinský klub vodákov Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady Tv, množ.: 10, jedn. cena: 7,5 EUR, spolu: 75 EUR",
+    "Celková_cena_(bez_DPH)": "   75,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.03.2022",
+    "Dátum_zverejnenia": "27.04.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Ing. Helena Žilová",
+    "Text_odb._faktúry": "prenájom telocvične, množ.: 1, jedn. cena: 15,45 EUR, spolu: 15,45 EUR,\rprevádzkové náklady, množ.: 1, jedn. cena: 110 EUR, spolu: 110 EUR",
+    "Celková_cena_(bez_DPH)": "   125,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "25.04.2022"
+  },
+  {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "2022030",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "- vodné, množ.: 1, jedn. cena: -46,92 EUR, spolu: -46,92 EUR,\r- stočné, množ.: 1, jedn. cena: -51,06 EUR, spolu: -51,06 EUR",
+    "Celková_cena_(bez_DPH)": "-   97,98",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.04.2022",
+    "Dátum_zverejnenia": "22.04.2022"
+  },
+  {
+    "IČO": "37977440   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Súkromná základná škola s materskou školou pre žiakov s autizmom",
+    "Text_odb._faktúry": "Refundácia vodné stočné, množ.: 1, jedn. cena: 187,45 EUR, spolu: 187,45 EUR",
+    "Celková_cena_(bez_DPH)": "   187,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.03.2022",
+    "Dátum_zverejnenia": "21.04.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220081",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 30467,54 EUR, spolu: 30467,54 EUR",
+    "Celková_cena_(bez_DPH)": "  30 467,54",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.04.2022",
+    "Dátum_zverejnenia": "21.04.2022"
+  },
+  {
+    "IČO": "46691731   ",
+    "Číslo_faktúry": "20220080",
+    "Odberateľ": "BIOFOREST,s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 590,76 EUR, spolu: 590,76 EUR",
+    "Celková_cena_(bez_DPH)": "   590,76",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "20.04.2022",
+    "Dátum_zverejnenia": "20.04.2022"
+  },
+  {
+    "IČO": "36416312   ",
+    "Číslo_faktúry": "20220079",
+    "Odberateľ": "PRE LES, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2486,24 EUR, spolu: 2486,24 EUR",
+    "Celková_cena_(bez_DPH)": "  2 486,24",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "20.04.2022",
+    "Dátum_zverejnenia": "20.04.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220077",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: -24,35 EUR, spolu: -24,35 EUR",
+    "Celková_cena_(bez_DPH)": "-   24,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.04.2022",
+    "Dátum_zverejnenia": "19.04.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20220078",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "19.04.2022",
+    "Dátum_zverejnenia": "19.04.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične marec 2022, NZ 8/2022, krúžok karate, množ.: 7, jedn. cena: 4,45 EUR, spolu: 31,15 EUR",
+    "Celková_cena_(bez_DPH)": "   31,15",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady marec 2022, telocvičňa NZ 8/2022, krúžok karate, 7 hod, množ.: 7, jedn. cena: 10,54 EUR, spolu: 73,78 EUR",
+    "Celková_cena_(bez_DPH)": "   73,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady marec, telocvičňa NZ 2/2022, krúžok basketbal, množ.: 16,5, jedn. cena: 10,54 EUR, spolu: 173,91 EUR",
+    "Celková_cena_(bez_DPH)": "   173,91",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022014",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné za prenájom telocvične marec, NZ 2/2022, krúžok basketbal, množ.: 16,5, jedn. cena: 4,45 EUR, spolu: 73,43 EUR",
+    "Celková_cena_(bez_DPH)": "   73,43",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "35079886   ",
+    "Číslo_faktúry": "20220075",
+    "Odberateľ": "Pavol Mandinec",
+    "Text_odb._faktúry": "množ.: 178, jedn. cena: ,5 EUR, spolu: 89 EUR",
+    "Celková_cena_(bez_DPH)": "   89,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "40975649   ",
+    "Číslo_faktúry": "20220076",
+    "Odberateľ": "Elena Kurtulíková",
+    "Text_odb._faktúry": "množ.: 152, jedn. cena: ,5 EUR, spolu: 76 EUR",
+    "Celková_cena_(bez_DPH)": "   76,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "13.04.2022",
+    "Dátum_zverejnenia": "13.04.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220073",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.04.2022",
+    "Dátum_zverejnenia": "12.04.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220074",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 403,48 EUR, spolu: 403,48 EUR",
+    "Celková_cena_(bez_DPH)": "   403,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "12.04.2022",
+    "Dátum_zverejnenia": "12.04.2022"
+  },
+  {
+    "IČO": "42216591   ",
+    "Číslo_faktúry": "20220065",
+    "Odberateľ": "SKATE Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - prenájom ľadovej plochy 3/2022, množ.: 1, jedn. cena: 887,6 EUR, spolu: 887,6 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "   907,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "42055709   ",
+    "Číslo_faktúry": "20220066",
+    "Odberateľ": "Figure Skating Club Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - prenájom ľadovej plochy 3/2022, množ.: 1, jedn. cena: 2600,95 EUR, spolu: 2600,95 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  2 620,95",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "20220067",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 3/2022, množ.: 1, jedn. cena: 2385,35 EUR, spolu: 2385,35 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  2 405,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "50921797   ",
+    "Číslo_faktúry": "20220068",
+    "Odberateľ": "Zelená škôlka n.o.",
+    "Text_odb._faktúry": "prenájom ľadovej plochy - 04.03.2022 / 18.03.2022 / 25.03.2022, množ.: 3, jedn. cena: 35 EUR, spolu: 105 EUR",
+    "Celková_cena_(bez_DPH)": "   105,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "42348897   ",
+    "Číslo_faktúry": "20220069",
+    "Odberateľ": "Materská škola Hurbanova",
+    "Text_odb._faktúry": "prenájom ľadovej plochy 3/2022 (21.3.2022 - 25.3.2022, množ.: 5, jedn. cena: 35 EUR, spolu: 175 EUR",
+    "Celková_cena_(bez_DPH)": "   175,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "36382001   ",
+    "Číslo_faktúry": "20220070",
+    "Odberateľ": "PRES, s.r.o.",
+    "Text_odb._faktúry": "prenájom kancelárskych a skladových priestorov vrátane služieb spojených s užívaním nájmu 3/2022, množ.: 1, jedn. cena: 612,4 EUR, spolu: 612,4 EUR",
+    "Celková_cena_(bez_DPH)": "   612,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "34956212   ",
+    "Číslo_faktúry": "20220071",
+    "Odberateľ": "Vladimír Borko T 613",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním predmetu nájmu (umiestnenie nápojové automaty) 3/2022, množ.: 1, jedn. cena: 470 EUR, spolu: 470 EUR",
+    "Celková_cena_(bez_DPH)": "   470,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "36387193   ",
+    "Číslo_faktúry": "20220072",
+    "Odberateľ": "VLCI ŽILINA, a. s.",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním predmetu nájmu 3/2022, množ.: 1, jedn. cena: 539,66 EUR, spolu: 539,66 EUR",
+    "Celková_cena_(bez_DPH)": "   539,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022028",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 12/2022 zo dňa 8.4.2022 za deň 9.4.2022, množ.: 1, jedn. cena: 36 EUR, spolu: 36 EUR",
+    "Celková_cena_(bez_DPH)": "   36,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022027",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR,\rprevádzkové náklady za 1-2.3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 2, jedn. cena: 6,72 EUR, spolu: 13,44 EUR,\rprevádzkové náklady za 3-31.3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 29, jedn. cena: 8,95 EUR, spolu: 259,55 EUR",
+    "Celková_cena_(bez_DPH)": "   342,39",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022029",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy čš. 12/2022 zo dňa 8.4.2022 za deň 9.4.2022, množ.: 1, jedn. cena: 90 EUR, spolu: 90 EUR",
+    "Celková_cena_(bez_DPH)": "   90,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "11.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Bazén - voda, množ.: 1, jedn. cena: 26,07 EUR, spolu: 26,07 EUR,\rBazén - plyn, elektrická energia, množ.: 1, jedn. cena: 662,87 EUR, spolu: 662,87 EUR",
+    "Celková_cena_(bez_DPH)": "   688,94",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022028",
+    "Odberateľ": "Peter Hnát",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4,5, jedn. cena: 5 EUR, spolu: 22,5 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4,5, jedn. cena: 10 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   67,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022029",
+    "Odberateľ": "Ing. Juraj Hájovský",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 3, jedn. cena: 5 EUR, spolu: 15 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 3, jedn. cena: 10 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   45,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022020",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022021",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 7, jedn. cena: 1 EUR, spolu: 7 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 7, jedn. cena: 5 EUR, spolu: 35 EUR",
+    "Celková_cena_(bez_DPH)": "   42,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022022",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022023",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 115,5, jedn. cena: 4,5 EUR, spolu: 519,75 EUR,\rprenájom kabinetu za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 115,5, jedn. cena: 7,5 EUR, spolu: 866,25 EUR",
+    "Celková_cena_(bez_DPH)": "  1 426,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022024",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov MT za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 83,5, jedn. cena: 1 EUR, spolu: 83,5 EUR,\rprenájom skladu UP za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady MT za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 83,5, jedn. cena: 4 EUR, spolu: 334 EUR,\rprenájom priestorov VT za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 6, jedn. cena: 4,5 EUR, spolu: 27 EUR,\rprevádzkové náklady VT za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 6, jedn. cena: 7,5 EUR, spolu: 45 EUR",
+    "Celková_cena_(bez_DPH)": "   509,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2022025",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 8, jedn. cena: 4,5 EUR, spolu: 36 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 8, jedn. cena: 7,5 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   96,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2022026",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 3/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 4,5 EUR, spolu: 18 EUR,\rprevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 7,5 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "11.04.2022"
+  },
+  {
+    "IČO": "37809911   ",
+    "Číslo_faktúry": "2022009",
+    "Odberateľ": "Telovýchovná jednota Hviezda Zádubnie",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 6/2022, 21 h x 555m2x0,019 €, množ.: 1, jedn. cena: 221,45 EUR, spolu: 221,45 EUR",
+    "Celková_cena_(bez_DPH)": "   221,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "08.04.2022"
+  },
+  {
+    "IČO": "37809911   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Telovýchovná jednota Hviezda Zádubnie",
+    "Text_odb._faktúry": "nájomné za penájom telocvične NZ 6/2022 21 h, množ.: 21, jedn. cena: 4,45 EUR, spolu: 93,45 EUR",
+    "Celková_cena_(bez_DPH)": "   93,45",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "08.04.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022019",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 3/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "08.04.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220063",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "08.04.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220064",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "08.04.2022"
+  },
+  {
+    "IČO": "00321796   ",
+    "Číslo_faktúry": "2022019",
+    "Odberateľ": "Mesto Žilina",
+    "Text_odb._faktúry": "- vodné, množ.: 1, jedn. cena: -304,98 EUR, spolu: -304,98 EUR,\r- stočné, množ.: 1, jedn. cena: -331,89 EUR, spolu: -331,89 EUR",
+    "Celková_cena_(bez_DPH)": "-   636,87",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "36415138   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Nereus, spol. s r.o.",
+    "Text_odb._faktúry": "Prenájom bazéna za 3/2022, množ.: 1, jedn. cena: 166 EUR, spolu: 166 EUR",
+    "Celková_cena_(bez_DPH)": "   166,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022020",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie marec 2022, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
+    "Celková_cena_(bez_DPH)": "   32,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "",
+    "Číslo_faktúry": "2022021",
+    "Odberateľ": "Mgr. Michal Súčan",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 2/2022 zo dňa 14.1.2022 za obdobie marec 2022, množ.: 1, jedn. cena: 60 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   60,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022022",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 42 EUR, spolu: 42 EUR",
+    "Celková_cena_(bez_DPH)": "   42,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "42060036   ",
+    "Číslo_faktúry": "2022023",
+    "Odberateľ": "AC UNIZA Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 26/2021 zo dňa 24.9.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 78,5 EUR, spolu: 78,5 EUR",
+    "Celková_cena_(bez_DPH)": "   78,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "Cvičná škola - letný semester, množ.: 1, jedn. cena: 425,2 EUR, spolu: 425,2 EUR",
+    "Celková_cena_(bez_DPH)": "   425,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "08.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022024",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "50372700   ",
+    "Číslo_faktúry": "2022025",
+    "Odberateľ": "Gymnastika a fitness Žilina, občianske združenie",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 3/2021 zo dňa 3.5.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022026",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 30 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   30,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "2022027",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 24/2021 zo dňa 21.9.2021 za obdobie marec 2022, množ.: 1, jedn. cena: 56,25 EUR, spolu: 56,25 EUR",
+    "Celková_cena_(bez_DPH)": "   56,25",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "07.04.2022"
+  },
+  {
+    "IČO": "47204346   ",
+    "Číslo_faktúry": "20220062",
+    "Odberateľ": "COMWOY REAL, s.r.o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 1427,61 EUR, spolu: 1427,61 EUR",
+    "Celková_cena_(bez_DPH)": "  1 427,61",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "06.04.2022",
+    "Dátum_zverejnenia": "06.04.2022"
+  },
+  {
+    "IČO": "46931317   ",
+    "Číslo_faktúry": "22001",
+    "Odberateľ": "Správa športových zariadení mesta Žilina, s.r.o.",
+    "Text_odb._faktúry": "Refakturácia nákladov za zemný plyn v ŠH, V. Javorku 32 od 01.01.2022 do 16.03.2022., množ.: 1, jedn. cena: 1624,06 EUR, spolu: 1624,06 EUR",
+    "Celková_cena_(bez_DPH)": "  1 624,06",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "05.04.2022",
+    "Dátum_zverejnenia": "05.04.2022"
+  },
+  {
+    "IČO": "51865467   ",
+    "Číslo_faktúry": "22001",
+    "Odberateľ": "Stredoslovenská energetika, a.s.",
+    "Text_odb._faktúry": "El. energia, množ.: 1, jedn. cena: 894,48 EUR, spolu: 894,48 EUR",
+    "Celková_cena_(bez_DPH)": "   894,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.02.2022",
+    "Dátum_zverejnenia": "05.04.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 28,2 EUR, spolu: 28,2 EUR,\rPrevádzkové náklady, množ.: 1, jedn. cena: 56 EUR, spolu: 56 EUR",
+    "Celková_cena_(bez_DPH)": "   84,20",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.04.2022",
+    "Dátum_zverejnenia": "05.04.2022"
+  },
+  {
+    "IČO": "00688363   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Slávia Žilinská univerzita",
+    "Text_odb._faktúry": "Nájom, množ.: 1, jedn. cena: 8,7 EUR, spolu: 8,7 EUR,\rPrev. náklady, množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR",
+    "Celková_cena_(bez_DPH)": "   104,70",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "31.03.2022",
+    "Dátum_zverejnenia": "05.04.2022"
+  },
+  {
+    "IČO": "37740881   ",
+    "Číslo_faktúry": "2022001",
+    "Odberateľ": "Veronika Čech-Špirková",
+    "Text_odb._faktúry": "Vodné, množ.: 1, jedn. cena: 27,23 EUR, spolu: 27,23 EUR,\rStočné, množ.: 1, jedn. cena: 29,07 EUR, spolu: 29,07 EUR",
+    "Celková_cena_(bez_DPH)": "   56,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "01.04.2022",
+    "Dátum_zverejnenia": "05.04.2022"
+  },
+  {
+    "IČO": "00892297   ",
+    "Číslo_faktúry": "2022002",
+    "Odberateľ": "Telovýchovná jednota Považský Chlmec",
+    "Text_odb._faktúry": "TJ nájom, množ.: 1, jedn. cena: 18,8 EUR, spolu: 18,8 EUR,\rTJ prev. náklady, množ.: 1, jedn. cena: 94,5 EUR, spolu: 94,5 EUR",
+    "Celková_cena_(bez_DPH)": "   113,30",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.03.2022",
+    "Dátum_zverejnenia": "31.03.2022"
+  },
+  {
+    "IČO": "50634518   ",
+    "Číslo_faktúry": "20220061",
+    "Odberateľ": "Zberné suroviny Žilina a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 96 EUR, spolu: 96 EUR",
+    "Celková_cena_(bez_DPH)": "   96,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "30.03.2022",
+    "Dátum_zverejnenia": "30.03.2022"
+  },
+  {
+    "IČO": "42390109   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "REFLEX Žilina o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 28, jedn. cena: 4 EUR, spolu: 112 EUR,\rPrevádzka - žiaci, množ.: 15, jedn. cena: 3 EUR, spolu: 45 EUR,\rPrevádzka - dospelí, množ.: 13, jedn. cena: 11 EUR, spolu: 143 EUR",
+    "Celková_cena_(bez_DPH)": "   300,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "23.03.2022",
+    "Dátum_zverejnenia": "28.03.2022"
+  },
+  {
+    "IČO": "50634518   ",
+    "Číslo_faktúry": "20220059",
+    "Odberateľ": "Zberné suroviny Žilina a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 104 EUR, spolu: 104 EUR",
+    "Celková_cena_(bez_DPH)": "   104,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.03.2022",
+    "Dátum_zverejnenia": "24.03.2022"
+  },
+  {
+    "IČO": "36407470   ",
+    "Číslo_faktúry": "20220060",
+    "Odberateľ": "Žilinská parkovacia spoločnosť, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 23435,16 EUR, spolu: 23435,16 EUR",
+    "Celková_cena_(bez_DPH)": "  23 435,16",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "24.03.2022",
+    "Dátum_zverejnenia": "24.03.2022"
+  },
+  {
+    "IČO": "00397563   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Žilinská univerzita v Žiline",
+    "Text_odb._faktúry": "Organizačná a metodická podpora počas pedagogickej praxe študentov, množ.: 1, jedn. cena: 212,6 EUR, spolu: 212,6 EUR",
+    "Celková_cena_(bez_DPH)": "   212,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.03.2022",
+    "Dátum_zverejnenia": "22.03.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220056",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 567,84 EUR, spolu: 567,84 EUR",
+    "Celková_cena_(bez_DPH)": "   567,84",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "22.03.2022",
+    "Dátum_zverejnenia": "22.03.2022"
+  },
+  {
+    "IČO": "42216591   ",
+    "Číslo_faktúry": "20220057",
+    "Odberateľ": "SKATE Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - prenájom ľadovej plochy 2/2022, množ.: 1, jedn. cena: 818,75 EUR, spolu: 818,75 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "   838,75",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.03.2022",
+    "Dátum_zverejnenia": "22.03.2022"
+  },
+  {
+    "IČO": "42055709   ",
+    "Číslo_faktúry": "20220058",
+    "Odberateľ": "Figure Skating Club Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 2/2022, množ.: 1, jedn. cena: 2121,9 EUR, spolu: 2121,9 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  2 141,90",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.03.2022",
+    "Dátum_zverejnenia": "22.03.2022"
+  },
+  {
+    "IČO": "50634518   ",
+    "Číslo_faktúry": "20220053",
+    "Odberateľ": "Zberné suroviny Žilina a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 180 EUR, spolu: 180 EUR",
+    "Celková_cena_(bez_DPH)": "   180,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.03.2022",
+    "Dátum_zverejnenia": "21.03.2022"
+  },
+  {
+    "IČO": "30229839   ",
+    "Číslo_faktúry": "20220054",
+    "Odberateľ": "Mestské divadlo",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 163,57 EUR, spolu: 163,57 EUR",
+    "Celková_cena_(bez_DPH)": "   163,57",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.03.2022",
+    "Dátum_zverejnenia": "21.03.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20220055",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "21.03.2022",
+    "Dátum_zverejnenia": "21.03.2022"
+  },
+  {
+    "IČO": "37911074   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "ŠK JUVENTA Žilina, o.z.",
+    "Text_odb._faktúry": "Nájomné, množ.: 14, jedn. cena: 4 EUR, spolu: 56 EUR,\rPrevádzka, množ.: 14, jedn. cena: 3 EUR, spolu: 42 EUR",
+    "Celková_cena_(bez_DPH)": "   98,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.03.2022",
+    "Dátum_zverejnenia": "17.03.2022"
+  },
+  {
+    "IČO": "42346568   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "SCVČ JUVENTA",
+    "Text_odb._faktúry": "Nájomné, množ.: 6,5, jedn. cena: 4 EUR, spolu: 26 EUR,\rPrevádzka, množ.: 6,5, jedn. cena: 3 EUR, spolu: 19,5 EUR",
+    "Celková_cena_(bez_DPH)": "   45,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "14.03.2022",
+    "Dátum_zverejnenia": "17.03.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022005",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady NZ 2/2022 - basketbal, február, množ.: 18, jedn. cena: 10,54 EUR, spolu: 189,72 EUR",
+    "Celková_cena_(bez_DPH)": "   189,72",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.03.2022",
+    "Dátum_zverejnenia": "16.03.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022006",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné NZ 2/2022 basketbal, február, množ.: 18, jedn. cena: 4,45 EUR, spolu: 80,1 EUR",
+    "Celková_cena_(bez_DPH)": "   80,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.03.2022",
+    "Dátum_zverejnenia": "16.03.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022007",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady karate, NZ 8/2022, február, množ.: 7, jedn. cena: 10,54 EUR, spolu: 73,78 EUR",
+    "Celková_cena_(bez_DPH)": "   73,78",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.03.2022",
+    "Dátum_zverejnenia": "16.03.2022"
+  },
+  {
+    "IČO": "42059992   ",
+    "Číslo_faktúry": "2022008",
+    "Odberateľ": "Súkromné centrum voľného času Žirafa, Pivovarská 3, Žilina",
+    "Text_odb._faktúry": "nájomné NZ 8/2022, karate, február, množ.: 7, jedn. cena: 4,45 EUR, spolu: 31,15 EUR",
+    "Celková_cena_(bez_DPH)": "   31,15",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "16.03.2022",
+    "Dátum_zverejnenia": "16.03.2022"
+  },
+  {
+    "IČO": "50634518   ",
+    "Číslo_faktúry": "20220052",
+    "Odberateľ": "Zberné suroviny Žilina a.s.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 25,6 EUR, spolu: 25,6 EUR",
+    "Celková_cena_(bez_DPH)": "   25,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.03.2022",
+    "Dátum_zverejnenia": "10.03.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220050",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 770,04 EUR, spolu: 770,04 EUR",
+    "Celková_cena_(bez_DPH)": "   770,04",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.03.2022",
+    "Dátum_zverejnenia": "09.03.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220051",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 2577,96 EUR, spolu: 2577,96 EUR",
+    "Celková_cena_(bez_DPH)": "  2 577,96",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.03.2022",
+    "Dátum_zverejnenia": "09.03.2022"
+  },
+  {
+    "IČO": "50206842   ",
+    "Číslo_faktúry": "2022017",
+    "Odberateľ": "Tanečno-športový klub TOP DANCE Žilina",
+    "Text_odb._faktúry": "nájomné v zmysle Nájomnej zmluvy č. 8/2022 zo dňa 3.3.2022, množ.: 1, jedn. cena: 16 EUR, spolu: 16 EUR",
+    "Celková_cena_(bez_DPH)": "   16,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.03.2022",
+    "Dátum_zverejnenia": "09.03.2022"
+  },
+  {
+    "IČO": "50206842   ",
+    "Číslo_faktúry": "2022018",
+    "Odberateľ": "Tanečno-športový klub TOP DANCE Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady v zmysle Nájomnej zmluvy č. 8/2022 zo dňa 3.3.2022, množ.: 1, jedn. cena: 30 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   30,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "09.03.2022",
+    "Dátum_zverejnenia": "09.03.2022"
+  },
+  {
+    "IČO": "42432545   ",
+    "Číslo_faktúry": "20220044",
+    "Odberateľ": "Komunitné vzdelávanie \"Kalimba\"",
+    "Text_odb._faktúry": "prenájom ľadovej plochy - 01.02.2022, 03.02.2022, 11.02.2022, množ.: 3, jedn. cena: 35 EUR, spolu: 105 EUR",
+    "Celková_cena_(bez_DPH)": "   105,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "37815091   ",
+    "Číslo_faktúry": "20220045",
+    "Odberateľ": "Základná škola, Námestie mladosti 1, Žilina",
+    "Text_odb._faktúry": "prenájom ľadovej plochy - tréningová hala 24.2.2022, množ.: 1, jedn. cena: 35 EUR, spolu: 35 EUR",
+    "Celková_cena_(bez_DPH)": "   35,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "20220046",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 2/2022, množ.: 1, jedn. cena: 2363,1 EUR, spolu: 2363,1 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  2 383,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "52565271   ",
+    "Číslo_faktúry": "20220047",
+    "Odberateľ": "O.Z. Obláčik",
+    "Text_odb._faktúry": "prenájom ľadovej plochy - 8.2.,10.2.,15.2.,17.2.,22.2.,24.2.2022, (0,75 hod.), množ.: 4,5, jedn. cena: 35 EUR, spolu: 157,5 EUR",
+    "Celková_cena_(bez_DPH)": "   157,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "50921797   ",
+    "Číslo_faktúry": "20220048",
+    "Odberateľ": "Zelená škôlka n.o.",
+    "Text_odb._faktúry": "prenájom ľadovej plochy - 11.02.2022, 18.02.2022, množ.: 2, jedn. cena: 35 EUR, spolu: 70 EUR",
+    "Celková_cena_(bez_DPH)": "   70,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "46643249   ",
+    "Číslo_faktúry": "20220049",
+    "Odberateľ": "ASSY TECH, s.r.o.",
+    "Text_odb._faktúry": "prenájom ľadovej plochy 05.02.2022 / 16:45 - 17:45, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "36387193   ",
+    "Číslo_faktúry": "20220035",
+    "Odberateľ": "VLCI ŽILINA, a. s.",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním  predmetu nájmu  1/2022, množ.: 1, jedn. cena: 539,66 EUR, spolu: 539,66 EUR",
+    "Celková_cena_(bez_DPH)": "   539,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "34956212   ",
+    "Číslo_faktúry": "20220036",
+    "Odberateľ": "Vladimír Borko T 613",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním predmetu nájmu (umiestnenie nápojové automaty) 1/2022, množ.: 1, jedn. cena: 470 EUR, spolu: 470 EUR",
+    "Celková_cena_(bez_DPH)": "   470,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "36382001   ",
+    "Číslo_faktúry": "20220037",
+    "Odberateľ": "PRES, s.r.o.",
+    "Text_odb._faktúry": "prenájom kancelárskych a skladových priestorov vrátane služieb spojených s užívaním predmetu nájmu 1/2022, množ.: 1, jedn. cena: 612,4 EUR, spolu: 612,4 EUR",
+    "Celková_cena_(bez_DPH)": "   612,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "00693090   ",
+    "Číslo_faktúry": "20220038",
+    "Odberateľ": "Kraso klub Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 1/2022, množ.: 1, jedn. cena: 2009,35 EUR, spolu: 2009,35 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  2 029,35",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "42216591   ",
+    "Číslo_faktúry": "20220039",
+    "Odberateľ": "SKATE Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 1/2022, množ.: 1, jedn. cena: 716,1 EUR, spolu: 716,1 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "   736,10",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "42055709   ",
+    "Číslo_faktúry": "20220040",
+    "Odberateľ": "Figure Skating Club Žilina",
+    "Text_odb._faktúry": "prenájom nebytových priestorov - ľadová plocha 1/2022, množ.: 1, jedn. cena: 1749,55 EUR, spolu: 1749,55 EUR,\rprenájom nebytových priestorov - parkovacie miesto, množ.: 2, jedn. cena: 10 EUR, spolu: 20 EUR",
+    "Celková_cena_(bez_DPH)": "  1 769,55",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "15.02.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "36387193   ",
+    "Číslo_faktúry": "20220041",
+    "Odberateľ": "VLCI ŽILINA, a. s.",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním predmetu nájmu 2/2022, množ.: 1, jedn. cena: 539,66 EUR, spolu: 539,66 EUR",
+    "Celková_cena_(bez_DPH)": "   539,66",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "34956212   ",
+    "Číslo_faktúry": "20220042",
+    "Odberateľ": "Vladimír Borko T 613",
+    "Text_odb._faktúry": "prenájom nebytových priestorov vrátane služieb spojených s užívaním predmetu nájmu (umiestnenie nápojové automaty) 2/2022, množ.: 1, jedn. cena: 470 EUR, spolu: 470 EUR",
+    "Celková_cena_(bez_DPH)": "   470,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "36382001   ",
+    "Číslo_faktúry": "20220043",
+    "Odberateľ": "PRES, s.r.o.",
+    "Text_odb._faktúry": "prenájom kancelárskych a skladových priestorov vrátane služieb spojených s užívaním predmetu nájmu 2/2022, množ.: 1, jedn. cena: 612,4 EUR, spolu: 612,4 EUR",
+    "Celková_cena_(bez_DPH)": "   612,40",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "00647713   ",
+    "Číslo_faktúry": "20220032",
+    "Odberateľ": "ÚSMEV - zariadenie pre seniorov",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 100,46 EUR, spolu: 100,46 EUR",
+    "Celková_cena_(bez_DPH)": "   100,46",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "37911961   ",
+    "Číslo_faktúry": "20220033",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 97,52 EUR, spolu: 97,52 EUR",
+    "Celková_cena_(bez_DPH)": "   97,52",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "00163121   ",
+    "Číslo_faktúry": "20220034",
+    "Odberateľ": "Základná škola internátna pre žiakov s narušenou komunikačnou schopnosťou",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 414,48 EUR, spolu: 414,48 EUR",
+    "Celková_cena_(bez_DPH)": "   414,48",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "37810961   ",
+    "Číslo_faktúry": "2022017",
+    "Odberateľ": "Centrum voľného času",
+    "Text_odb._faktúry": "prenájom veľkej telocvične za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 8, jedn. cena: 4,5 EUR, spolu: 36 EUR,\rprevádzkové náklady veľkej telocvične za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 8, jedn. cena: 7,5 EUR, spolu: 60 EUR",
+    "Celková_cena_(bez_DPH)": "   96,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "50015427   ",
+    "Číslo_faktúry": "2022018",
+    "Odberateľ": "ROSLY klub, o.z.",
+    "Text_odb._faktúry": "prenájom priestorov za 1,2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 4, jedn. cena: 4,5 EUR, spolu: 18 EUR,\rprevádzkové náklady za 1,2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 4, jedn. cena: 7,5 EUR, spolu: 30 EUR",
+    "Celková_cena_(bez_DPH)": "   48,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "07.03.2022",
+    "Dátum_zverejnenia": "07.03.2022"
+  },
+  {
+    "IČO": "42070384   ",
+    "Číslo_faktúry": "2022003",
+    "Odberateľ": "Robotnícka Telovýchovná Jednota Brodno",
+    "Text_odb._faktúry": "Rufundácia prevádzkových nákladov 2/2022, množ.: 1, jedn. cena: 8 EUR, spolu: 8 EUR",
+    "Celková_cena_(bez_DPH)": "   8,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.03.2022",
+    "Dátum_zverejnenia": "04.03.2022"
+  },
+  {
+    "IČO": "42070384   ",
+    "Číslo_faktúry": "2022004",
+    "Odberateľ": "Robotnícka Telovýchovná Jednota Brodno",
+    "Text_odb._faktúry": "Prenájom priestoru telocvične 2/2022, množ.: 12, jedn. cena: 13,5 EUR, spolu: 162 EUR",
+    "Celková_cena_(bez_DPH)": "   162,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.03.2022",
+    "Dátum_zverejnenia": "04.03.2022"
+  },
+  {
+    "IČO": "36677761   ",
+    "Číslo_faktúry": "20220031",
+    "Odberateľ": "Tennis Point, s. r. o.",
+    "Text_odb._faktúry": "množ.: 1, jedn. cena: 31 EUR, spolu: 31 EUR",
+    "Celková_cena_(bez_DPH)": "   31,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "04.03.2022",
+    "Dátum_zverejnenia": "04.03.2022"
+  },
+  {
+    "IČO": "37905384   ",
+    "Číslo_faktúry": "2022010",
+    "Odberateľ": "Materská škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "42433495   ",
+    "Číslo_faktúry": "2022011",
+    "Odberateľ": "Súkromná základná umelecká škola",
+    "Text_odb._faktúry": "prevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 208,2 EUR, spolu: 208,2 EUR,\rprenájom priestorov za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 69,4 EUR, spolu: 69,4 EUR",
+    "Celková_cena_(bez_DPH)": "   277,60",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022012",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 511,67 EUR, spolu: 511,67 EUR,\rprevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 250 EUR, spolu: 250 EUR",
+    "Celková_cena_(bez_DPH)": "   761,67",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "37905082   ",
+    "Číslo_faktúry": "2022013",
+    "Odberateľ": "Materská škola, Bajzova 2983/9, Žilina",
+    "Text_odb._faktúry": "prevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 1, jedn. cena: 350 EUR, spolu: 350 EUR",
+    "Celková_cena_(bez_DPH)": "   350,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "47463023   ",
+    "Číslo_faktúry": "2022014",
+    "Odberateľ": "Sunrise Childcare s.r.o.",
+    "Text_odb._faktúry": "prenájom priestorov za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 7, jedn. cena: 1 EUR, spolu: 7 EUR,\rprevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 7, jedn. cena: 5 EUR, spolu: 35 EUR",
+    "Celková_cena_(bez_DPH)": "   42,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "14222825   ",
+    "Číslo_faktúry": "2022015",
+    "Odberateľ": "TJ Mladosť Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 59,5, jedn. cena: 1 EUR, spolu: 59,5 EUR,\rprenájom skladu UP za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 20 EUR, spolu: 20 EUR,\rprevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 59,5, jedn. cena: 4 EUR, spolu: 238 EUR",
+    "Celková_cena_(bez_DPH)": "   317,50",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
+    "IČO": "42054125   ",
+    "Číslo_faktúry": "2022016",
+    "Odberateľ": "Mládežnícky basketbalový klub Victoria Žilina",
+    "Text_odb._faktúry": "prenájom priestorov za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 73,5, jedn. cena: 4,5 EUR, spolu: 330,75 EUR,\rprenájom kabinetu za 2/2022 uhraďte na IBAN :SK54 5600 0000 0003 0389 4005, množ.: 1, jedn. cena: 40 EUR, spolu: 40 EUR,\rprevádzkové náklady za 2/2022 uhraďte na IBAN:SK72 5600 0000 0003 0389 3002, množ.: 73,5, jedn. cena: 7,5 EUR, spolu: 551,25 EUR",
+    "Celková_cena_(bez_DPH)": "   922,00",
+    "Mena": "EUR",
+    "Dátum_vystavenia": "03.03.2022",
+    "Dátum_zverejnenia": "03.03.2022"
+  },
+  {
     "IČO": "52367541   ",
     "Číslo_faktúry": "2022002",
     "Odberateľ": "Tréningové stredisko mládeže Slávia Žilina, o.z.",
@@ -90,11 +3230,11 @@
     "Dátum_zverejnenia": "02.03.2022"
   },
   {
-    "IČO": "42168732   ",
+    "IČO": "42432545   ",
     "Číslo_faktúry": "20220030",
-    "Odberateľ": "ALLEA, n.o.",
-    "Text_odb._faktúry": "prenájom ľadovej plochy 23.01.2022, množ.: 1, jedn. cena: 35 EUR, spolu: 35 EUR",
-    "Celková_cena_(bez_DPH)": "   35,00",
+    "Odberateľ": "Komunitné vzdelávanie \"Kalimba\"",
+    "Text_odb._faktúry": "prenájom ľadovej plochy 21.1.2022, 25.1.2022, 27.1.2022, množ.: 3, jedn. cena: 35 EUR, spolu: 105 EUR",
+    "Celková_cena_(bez_DPH)": "   105,00",
     "Mena": "EUR",
     "Dátum_vystavenia": "15.02.2022",
     "Dátum_zverejnenia": "01.03.2022"
@@ -350,13 +3490,13 @@
     "Dátum_zverejnenia": "18.02.2022"
   },
   {
-    "IČO": "36690104   ",
+    "IČO": "53756941   ",
     "Číslo_faktúry": "20220018",
-    "Odberateľ": "RK-FIN, s.r.o.",
-    "Text_odb._faktúry": "množ.: 2, jedn. cena: 100 EUR, spolu: 200 EUR",
-    "Celková_cena_(bez_DPH)": "   200,00",
+    "Odberateľ": "Hockey Skills Centre s.r.o.",
+    "Text_odb._faktúry": "prenájom ľadovej plochy 23.01.2022, množ.: 1, jedn. cena: 120 EUR, spolu: 120 EUR",
+    "Celková_cena_(bez_DPH)": "   120,00",
     "Mena": "EUR",
-    "Dátum_vystavenia": "17.02.2022",
+    "Dátum_vystavenia": "15.02.2022",
     "Dátum_zverejnenia": "17.02.2022"
   },
   {
@@ -16302,7 +19442,7 @@
   {
     "IČO": "44241488   ",
     "Číslo_faktúry": "20190056",
-    "Odberateľ": "Oxford University Press, org. zložka",
+    "Odberateľ": "Oxford University Press",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 115 EUR, spolu: 115 EUR",
     "Celková_cena_(bez_DPH)": "   115,00",
     "Mena": "EUR",
@@ -19122,7 +22262,7 @@
   {
     "IČO": "44241488   ",
     "Číslo_faktúry": "20180218",
-    "Odberateľ": "Oxford University Press, org. zložka",
+    "Odberateľ": "Oxford University Press",
     "Text_odb._faktúry": "množ.: 1, jedn. cena: 165 EUR, spolu: 165 EUR",
     "Celková_cena_(bez_DPH)": "   165,00",
     "Mena": "EUR",
@@ -39372,7 +42512,7 @@
   {
     "IČO": "37903161   ",
     "Číslo_faktúry": "34",
-    "Odberateľ": "Materská škola",
+    "Odberateľ": "Materská škola Lietavská Lúčka",
     "Text_odb._faktúry": "Spracovanie účtovníctva, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
     "Celková_cena_(bez_DPH)": "   32,00",
     "Mena": "EUR",
@@ -39382,7 +42522,7 @@
   {
     "IČO": "37903161   ",
     "Číslo_faktúry": "35",
-    "Odberateľ": "Materská škola",
+    "Odberateľ": "Materská škola Lietavská Lúčka",
     "Text_odb._faktúry": "Spracovanie účtovníctva, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
     "Celková_cena_(bez_DPH)": "   32,00",
     "Mena": "EUR",
@@ -39582,7 +42722,7 @@
   {
     "IČO": "37903161   ",
     "Číslo_faktúry": "31",
-    "Odberateľ": "Materská škola",
+    "Odberateľ": "Materská škola Lietavská Lúčka",
     "Text_odb._faktúry": "Za účtovné služby, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
     "Celková_cena_(bez_DPH)": "   32,00",
     "Mena": "EUR",
@@ -39922,7 +43062,7 @@
   {
     "IČO": "37903161   ",
     "Číslo_faktúry": "26",
-    "Odberateľ": "Materská škola",
+    "Odberateľ": "Materská škola Lietavská Lúčka",
     "Text_odb._faktúry": "FA - za spracovanie účt.agendy, množ.: 1, jedn. cena: 32 EUR, spolu: 32 EUR",
     "Celková_cena_(bez_DPH)": "   32,00",
     "Mena": "EUR",
